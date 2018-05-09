@@ -12,9 +12,9 @@ Mapping Between Pathway Databases
 
 A total of 3 mapping files are stored in this package, one for each pairwise comparison:
 
-- KEGG vs Reactome
-- KEGG vs WikiPathways
-- Reactome vs WikiPathways
+- `KEGG - WikiPathways <https://github.com/ComPath/curation/blob/master/mappings/kegg_wikipathways.xlsx>`_
+- `KEGG - Reactome <https://github.com/ComPath/curation/blob/master/mappings/kegg_reactome.xlsx>`_
+- `WikiPathways - Reactome <https://github.com/ComPath/curation/blob/master/mappings/wikipathways_reactome.xlsx>`_
 
 Inter-curator agreement
 -----------------------
