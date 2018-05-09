@@ -20,6 +20,7 @@ Inter-curator agreement
 -----------------------
 
 The curation team was formed by:
+
 - Carlos Bobis-Álvarez
 - Josep Marín-Llaó
 - `Daniel Domingo-Fernández <https://github.com/ddomingof>`_
