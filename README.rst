@@ -16,6 +16,14 @@ A total of 3 mapping files are stored in this package, one for each pairwise com
 - KEGG vs WikiPathways
 - Reactome vs WikiPathways
 
+Inter-curator agreement
+-----------------------
+
+The curation team was formed by:
+- Carlos Bobis-Álvarez
+- Josep Marín-Llaó
+- `Daniel Domingo-Fernández <https://github.com/ddomingof>`_
+
 Mapping types
 -------------
 We have distinguished between two types of mappings: equivalentTo and isPartOf:
