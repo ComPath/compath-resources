@@ -16,6 +16,8 @@ A total of 3 mapping files are stored in this package, one for each pairwise com
 - `KEGG - Reactome <https://github.com/ComPath/curation/blob/master/mappings/kegg_reactome.xlsx>`_
 - `WikiPathways - Reactome <https://github.com/ComPath/curation/blob/master/mappings/wikipathways_reactome.xlsx>`_
 
+*It is important to mention that even more mappings are stored in the database thanks to the ComPath inference system. For example, when a KEGG/WikiPathways pathway is assigned as equivalent to a Reactome pathway, ComPath uses the Reactome hierarchy to infer new hierarchical mappings and map the super/sub pathways of the Reactome pathway to its corresponding KEGG/WikiPathways pathway.*
+
 Inter-curator agreement
 -----------------------
 
