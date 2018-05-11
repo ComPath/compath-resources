@@ -20,10 +20,10 @@ A total of 3 mapping files are stored in this package, one for each pairwise com
 
 *It is important to mention that even more mappings are stored in the database thanks to the ComPath inference system. For example, when a KEGG/WikiPathways pathway is assigned as equivalent to a Reactome pathway, ComPath uses the Reactome hierarchy to infer new hierarchical mappings and map the super/sub pathways of the Reactome pathway to its corresponding KEGG/WikiPathways pathway.*
 
-Inter-curator agreement
------------------------
+Curation team
+-------------
 
-The curation team was formed by:
+The curation exercise was conducted under inter-curator agreement in a team formed by:
 
 - Carlos Bobis-Álvarez
 - Josep Marín-Llaó
