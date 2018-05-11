@@ -7,6 +7,8 @@ relationships between similar pathways in three of the major pathway databases:
 - `Reactome <http://reactome.org/>`_
 - `WikiPathways <https://www.wikipathways.org/index.php/WikiPathways>`_
 
+*We recommend to download the mappings directly from the ComPath website since WikiPathways names are not stable and might have been changed. However, the mapping file that can be retrieved from the website contains stable identifiers from all resources.*
+
 Mapping Between Pathway Databases
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
