@@ -1,7 +1,15 @@
-ComPath Curation
-================
-This repository contains the curation efforts made with `ComPath <https://github.com/ComPath>`_. The aim is to generate mapping files across pathway databases in order to establish
-relationships between similar pathways in three of the major pathway databases:
+ComPath Resources
+=================
+This repository contains the different resources that complement with `ComPath <https://github.com/ComPath>`_.
+Among these resources, there are Jupyter notebooks (notebooks folder) as well as the results of the
+ curation effort (mappings folder) where we curated pathway knowledge in order to establish
+mappings between pathways from different databases.
+
+
+Curation (Pathway Mappings)
+~~~~~~~~~~~~~~~~~~~~~~~~~~~
+The aim of this exercise was to generate mapping files across pathway databases in order to establish relationships
+ between similar pathways in three of the major pathway databases:
 
 - `KEGG <http://www.kegg.jp/>`_
 - `Reactome <http://reactome.org/>`_
@@ -10,7 +18,7 @@ relationships between similar pathways in three of the major pathway databases:
 *We recommend to download the mappings directly from the ComPath website since WikiPathways names are not stable and might have been changed. However, the mapping file that can be retrieved from the website contains stable identifiers from all resources.*
 
 Mapping Between Pathway Databases
-~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+---------------------------------
 
 A total of 3 mapping files are stored in this package, one for each pairwise comparison:
 
