@@ -7,8 +7,7 @@ Among these resources, there are Jupyter notebooks (notebooks folder) as well as
 
 Curation (Pathway Mappings)
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~
-The aim of this exercise was to generate mapping files across pathway databases in order to establish relationships
- between similar pathways in three of the major pathway databases:
+The aim of this exercise was to generate mapping files across pathway databases in order to establish relationships between similar pathways in three of the major pathway databases:
 
 - `KEGG <http://www.kegg.jp/>`_
 - `Reactome <http://reactome.org/>`_
