@@ -1,9 +1,8 @@
 ComPath Resources
 =================
 This repository contains the different resources that complement with `ComPath <https://github.com/ComPath>`_.
-Among these resources, there are Jupyter notebooks (notebooks folder) as well as the results of the
- curation effort (mappings folder) where we curated pathway knowledge in order to establish
-mappings between pathways from different databases.
+Among these resources, there are Jupyter notebooks (notebooks folder) as well as the results of the curation effort
+(mappings folder) where we curated pathway knowledge in order to establish mappings between pathways from different databases.
 
 
 Curation (Pathway Mappings)
