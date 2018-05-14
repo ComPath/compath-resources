@@ -36,12 +36,12 @@ The curation exercise was conducted under inter-curator agreement in a team form
 
 Mapping types
 -------------
-We have distinguished between two types of mappings: equivalentTo and isPartOf:
+We have distinguished between two types of relationships between pathways (mappings): “equivalentTo” and “isPartOf”.
 
-- equivalentTo. Reflects that the pathway pair shares a high similarity. The guidelines for this mapping are:
+- equivalentTo. Both pathways refer to the same biological process. The requirements for this relationship are:
 
-  - The pair should share at least a certain degree of similarity (this is required). In other words, only pathways with at least 1 overlapping gene can be used for the mapping.
+  - The pair must share at least a certain degree of similarity. In other words, only pathways with at least 1 overlapping gene can be mapped with this relationship.
 
-  - Same focus and biological function. A high concordance in the name between the pair is not required but it is helpful to identify this similarity. Curators have read the descriptions for each database to assess whether the focus of the pathway is the same or not.
+  - Equal scope and context.
 
-- isPartOf. This type of mapping represents a hierarchical relationship between the pathway 1 (child) and 2 (parent). An example of this type of mappings can be found in the Reactome hierarchy.
+- isPartOf. This type of mapping represents a hierarchical relationship between the pathway 1 (child) and 2 (parent). Meaning that pathway 1 is a subset of pathway 2 (e.g., Reactome pathway hierarchy).
