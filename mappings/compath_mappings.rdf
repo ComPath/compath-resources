@@ -1,0 +1,2519 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rdf:RDF
+   xmlns:compath="http://compath.scai.fraunhofer.de/rdfs#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+>
+  <rdf:Description rdf:about="http://identifiers.org/kegg.pathway/hsa04916">
+    <compath:equivalentTo rdf:resource="http://identifiers.org/reactome/R-HSA-5662702"/>
+    <compath:isPartOf rdf:resource="http://identifiers.org/reactome/R-HSA-5662702"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://identifiers.org/kegg.pathway/hsa00515">
+    <compath:isPartOf rdf:resource="http://identifiers.org/reactome/R-HSA-5173105"/>
+    <compath:isPartOf rdf:resource="http://identifiers.org/reactome/R-HSA-977068"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://identifiers.org/kegg.pathway/hsa04137">
+    <compath:equivalentTo rdf:resource="http://identifiers.org/reactome/R-HSA-5205647"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://identifiers.org/kegg.pathway/hsa04550">
+    <compath:isPartOf rdf:resource="http://identifiers.org/wikipathways/WP3931"/>
+    <compath:isPartOf rdf:resource="http://identifiers.org/reactome/R-HSA-2023837"/>
+    <compath:isPartOf rdf:resource="http://identifiers.org/reactome/R-HSA-2892245"/>
+    <compath:isPartOf rdf:resource="http://identifiers.org/reactome/R-HSA-1839120"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://identifiers.org/kegg.pathway/hsa04146">
+    <compath:isPartOf rdf:resource="http://identifiers.org/reactome/R-HSA-390918"/>
+    <compath:isPartOf rdf:resource="http://identifiers.org/reactome/R-HSA-1430728"/>
+    <compath:isPartOf rdf:resource="http://identifiers.org/wikipathways/WP1941"/>
+    <compath:isPartOf rdf:resource="http://identifiers.org/reactome/R-HSA-389542"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://identifiers.org/wikipathways/WP3937">
+    <compath:isPartOf rdf:resource="http://identifiers.org/reactome/R-HSA-168249"/>
+    <compath:isPartOf rdf:resource="http://identifiers.org/reactome/R-HSA-168256"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://identifiers.org/wikipathways/WP2646">
+    <compath:isPartOf rdf:resource="http://identifiers.org/reactome/R-HSA-211897"/>
+    <compath:isPartOf rdf:resource="http://identifiers.org/reactome/R-HSA-1430728"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://identifiers.org/wikipathways/WP1424">
+    <compath:isPartOf rdf:resource="http://identifiers.org/reactome/R-HSA-428157"/>
+    <compath:isPartOf rdf:resource="http://identifiers.org/reactome/R-HSA-1430728"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://identifiers.org/kegg.pathway/hsa03015">
+    <compath:isPartOf rdf:resource="http://identifiers.org/reactome/R-HSA-72187"/>
+    <compath:isPartOf rdf:resource="http://identifiers.org/reactome/R-HSA-77595"/>
+    <compath:isPartOf rdf:resource="http://identifiers.org/reactome/R-HSA-72172"/>
+    <compath:isPartOf rdf:resource="http://identifiers.org/reactome/R-HSA-75067"/>
+    <compath:isPartOf rdf:resource="http://identifiers.org/reactome/R-HSA-72163"/>
+    <compath:isPartOf rdf:resource="http://identifiers.org/reactome/R-HSA-168315"/>
+    <compath:isPartOf rdf:resource="http://identifiers.org/reactome/R-HSA-72203"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://identifiers.org/wikipathways/WP2332">
+    <compath:isPartOf rdf:resource="http://identifiers.org/reactome/R-HSA-1280215"/>
+    <compath:isPartOf rdf:resource="http://identifiers.org/reactome/R-HSA-449147"/>
+    <compath:isPartOf rdf:resource="http://identifiers.org/reactome/R-HSA-168249"/>
+    <compath:isPartOf rdf:resource="http://identifiers.org/reactome/R-HSA-168256"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://identifiers.org/kegg.pathway/hsa04979">
+    <compath:isPartOf rdf:resource="http://identifiers.org/reactome/R-HSA-8964041"/>
+    <compath:isPartOf rdf:resource="http://identifiers.org/reactome/R-HSA-8866423"/>
+    <compath:isPartOf rdf:resource="http://identifiers.org/reactome/R-HSA-1430728"/>
+    <compath:isPartOf rdf:resource="http://identifiers.org/reactome/R-HSA-8964043"/>
+    <compath:isPartOf rdf:resource="http://identifiers.org/reactome/R-HSA-8963888"/>
+    <compath:isPartOf rdf:resource="http://identifiers.org/reactome/R-HSA-8963898"/>
+    <compath:isPartOf rdf:resource="http://identifiers.org/reactome/R-HSA-8964038"/>
+    <compath:isPartOf rdf:resource="http://identifiers.org/wikipathways/WP197"/>
+    <compath:isPartOf rdf:resource="http://identifiers.org/reactome/R-HSA-8964011"/>
+    <compath:isPartOf rdf:resource="http://identifiers.org/reactome/R-HSA-8964026"/>
+    <compath:isPartOf rdf:resource="http://identifiers.org/reactome/R-HSA-8963901"/>
+    <compath:isPartOf rdf:resource="http://identifiers.org/reactome/R-HSA-8964058"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://identifiers.org/wikipathways/WP2456">
+    <compath:isPartOf rdf:resource="http://identifiers.org/reactome/R-HSA-1430728"/>
+    <compath:isPartOf rdf:resource="http://identifiers.org/reactome/R-HSA-70171"/>
+    <compath:isPartOf rdf:resource="http://identifiers.org/reactome/R-HSA-71387"/>
+    <compath:isPartOf rdf:resource="http://identifiers.org/reactome/R-HSA-70326"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://identifiers.org/kegg.pathway/hsa00232">
+    <compath:isPartOf rdf:resource="http://identifiers.org/wikipathways/WP3633"/>
+    <compath:isPartOf rdf:resource="http://identifiers.org/reactome/R-HSA-1430728"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://identifiers.org/wikipathways/WP673">
+    <compath:isPartOf rdf:resource="http://identifiers.org/reactome/R-HSA-1250347"/>
+    <compath:isPartOf rdf:resource="http://identifiers.org/reactome/R-HSA-1963642"/>
+    <compath:isPartOf rdf:resource="http://identifiers.org/reactome/R-HSA-2179392"/>
+    <compath:isPartOf rdf:resource="http://identifiers.org/reactome/R-HSA-1250196"/>
+    <compath:isPartOf rdf:resource="http://identifiers.org/reactome/R-HSA-179812"/>
+    <compath:isPartOf rdf:resource="http://identifiers.org/reactome/R-HSA-1643713"/>
+    <compath:isPartOf rdf:resource="http://identifiers.org/reactome/R-HSA-1250342"/>
+    <compath:isPartOf rdf:resource="http://identifiers.org/reactome/R-HSA-212718"/>
+    <compath:isPartOf rdf:resource="http://identifiers.org/reactome/R-HSA-1306955"/>
+    <compath:isPartOf rdf:resource="http://identifiers.org/reactome/R-HSA-1236382"/>
+    <compath:isPartOf rdf:resource="http://identifiers.org/reactome/R-HSA-180336"/>
+    <compath:isPartOf rdf:resource="http://identifiers.org/reactome/R-HSA-5638303"/>
+    <compath:isPartOf rdf:resource="http://identifiers.org/reactome/R-HSA-1963640"/>
+    <compath:isPartOf rdf:resource="http://identifiers.org/reactome/R-HSA-6785631"/>
+    <compath:isPartOf rdf:resource="http://identifiers.org/reactome/R-HSA-1251932"/>
+    <compath:isPartOf rdf:resource="http://identifiers.org/reactome/R-HSA-5637815"/>
+    <compath:isPartOf rdf:resource="http://identifiers.org/reactome/R-HSA-8847993"/>
+    <compath:isPartOf rdf:resource="http://identifiers.org/reactome/R-HSA-1227986"/>
+    <compath:isPartOf rdf:resource="http://identifiers.org/reactome/R-HSA-5638302"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://identifiers.org/kegg.pathway/hsa04392">
+    <compath:equivalentTo rdf:resource="http://identifiers.org/reactome/R-HSA-2028269"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://identifiers.org/kegg.pathway/hsa04014">
+    <compath:isPartOf rdf:resource="http://identifiers.org/reactome/R-HSA-6802949"/>
+    <compath:isPartOf rdf:resource="http://identifiers.org/reactome/R-HSA-5658442"/>
+    <compath:isPartOf rdf:resource="http://identifiers.org/reactome/R-HSA-442982"/>
+    <compath:isPartOf rdf:resource="http://identifiers.org/reactome/R-HSA-442742"/>
+    <compath:isPartOf rdf:resource="http://identifiers.org/reactome/R-HSA-1169092"/>
+    <compath:isPartOf rdf:resource="http://identifiers.org/reactome/R-HSA-8851805"/>
+    <compath:isPartOf rdf:resource="http://identifiers.org/reactome/R-HSA-6802953"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://identifiers.org/kegg.pathway/hsa04070">
+    <compath:isPartOf rdf:resource="http://identifiers.org/reactome/R-HSA-1483249"/>
+    <compath:isPartOf rdf:resource="http://identifiers.org/reactome/R-HSA-1660514"/>
+    <compath:isPartOf rdf:resource="http://identifiers.org/reactome/R-HSA-1430728"/>
+    <compath:isPartOf rdf:resource="http://identifiers.org/reactome/R-HSA-1660499"/>
+    <compath:isPartOf rdf:resource="http://identifiers.org/reactome/R-HSA-1660517"/>
+    <compath:isPartOf rdf:resource="http://identifiers.org/reactome/R-HSA-1855183"/>
+    <compath:isPartOf rdf:resource="http://identifiers.org/reactome/R-HSA-8847453"/>
+    <compath:isPartOf rdf:resource="http://identifiers.org/reactome/R-HSA-1483248"/>
+    <compath:isPartOf rdf:resource="http://identifiers.org/reactome/R-HSA-1855191"/>
+    <compath:isPartOf rdf:resource="http://identifiers.org/reactome/R-HSA-1660516"/>
+    <compath:isPartOf rdf:resource="http://identifiers.org/reactome/R-HSA-1855204"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://identifiers.org/wikipathways/WP3925">
+    <compath:isPartOf rdf:resource="http://identifiers.org/reactome/R-HSA-71291"/>
+    <compath:isPartOf rdf:resource="http://identifiers.org/reactome/R-HSA-1430728"/>
+    <compath:equivalentTo rdf:resource="http://identifiers.org/reactome/R-HSA-71291"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://identifiers.org/kegg.pathway/hsa03022">
+    <compath:isPartOf rdf:resource="http://identifiers.org/reactome/R-HSA-73857"/>
+    <compath:isPartOf rdf:resource="http://identifiers.org/reactome/R-HSA-167162"/>
+    <compath:isPartOf rdf:resource="http://identifiers.org/reactome/R-HSA-73772"/>
+    <compath:isPartOf rdf:resource="http://identifiers.org/wikipathways/WP405"/>
+    <compath:isPartOf rdf:resource="http://identifiers.org/reactome/R-HSA-76042"/>
+    <compath:isPartOf rdf:resource="http://identifiers.org/reactome/R-HSA-74160"/>
+    <compath:isPartOf rdf:resource="http://identifiers.org/reactome/R-HSA-73779"/>
+    <compath:isPartOf rdf:resource="http://identifiers.org/reactome/R-HSA-212436"/>
+    <compath:isPartOf rdf:resource="http://identifiers.org/reactome/R-HSA-8953854"/>
+    <compath:isPartOf rdf:resource="http://identifiers.org/reactome/R-HSA-73776"/>
+    <compath:isPartOf rdf:resource="http://identifiers.org/reactome/R-HSA-77075"/>
+    <compath:isPartOf rdf:resource="http://identifiers.org/reactome/R-HSA-75953"/>
+    <compath:isPartOf rdf:resource="http://identifiers.org/reactome/R-HSA-73863"/>
+    <compath:isPartOf rdf:resource="http://identifiers.org/reactome/R-HSA-167160"/>
+    <compath:isPartOf rdf:resource="http://identifiers.org/reactome/R-HSA-674695"/>
+    <compath:isPartOf rdf:resource="http://identifiers.org/reactome/R-HSA-6807505"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://identifiers.org/wikipathways/WP4022">
+    <compath:isPartOf rdf:resource="http://identifiers.org/reactome/R-HSA-500753"/>
+    <compath:isPartOf rdf:resource="http://identifiers.org/reactome/R-HSA-1430728"/>
+    <compath:isPartOf rdf:resource="http://identifiers.org/reactome/R-HSA-73614"/>
+    <compath:isPartOf rdf:resource="http://identifiers.org/reactome/R-HSA-73621"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://identifiers.org/wikipathways/WP558">
+    <compath:isPartOf rdf:resource="http://identifiers.org/reactome/R-HSA-109582"/>
+    <compath:isPartOf rdf:resource="http://identifiers.org/reactome/R-HSA-168256"/>
+    <compath:isPartOf rdf:resource="http://identifiers.org/reactome/R-HSA-173736"/>
+    <compath:isPartOf rdf:resource="http://identifiers.org/reactome/R-HSA-166662"/>
+    <compath:isPartOf rdf:resource="http://identifiers.org/reactome/R-HSA-140875"/>
+    <compath:isPartOf rdf:resource="http://identifiers.org/reactome/R-HSA-75205"/>
+    <compath:isPartOf rdf:resource="http://identifiers.org/reactome/R-HSA-977606"/>
+    <compath:isPartOf rdf:resource="http://identifiers.org/reactome/R-HSA-166665"/>
+    <compath:isPartOf rdf:resource="http://identifiers.org/reactome/R-HSA-140877"/>
+    <compath:isPartOf rdf:resource="http://identifiers.org/reactome/R-HSA-174577"/>
+    <compath:isPartOf rdf:resource="http://identifiers.org/reactome/R-HSA-76002"/>
+    <compath:isPartOf rdf:resource="http://identifiers.org/reactome/R-HSA-140834"/>
+    <compath:isPartOf rdf:resource="http://identifiers.org/reactome/R-HSA-166658"/>
+    <compath:isPartOf rdf:resource="http://identifiers.org/reactome/R-HSA-140837"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://identifiers.org/kegg.pathway/hsa00983">
+    <compath:isPartOf rdf:resource="http://identifiers.org/reactome/R-HSA-1430728"/>
+    <compath:isPartOf rdf:resource="http://identifiers.org/wikipathways/WP698"/>
+    <compath:isPartOf rdf:resource="http://identifiers.org/wikipathways/WP2816"/>
+    <compath:isPartOf rdf:resource="http://identifiers.org/wikipathways/WP3633"/>
+    <compath:isPartOf rdf:resource="http://identifiers.org/wikipathways/WP2826"/>
+    <compath:isPartOf rdf:resource="http://identifiers.org/wikipathways/WP1604"/>
+    <compath:isPartOf rdf:resource="http://identifiers.org/wikipathways/WP694"/>
+    <compath:isPartOf rdf:resource="http://identifiers.org/wikipathways/WP2536"/>
+    <compath:isPartOf rdf:resource="http://identifiers.org/wikipathways/WP2645"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://identifiers.org/kegg.pathway/hsa01230">
+    <compath:isPartOf rdf:resource="http://identifiers.org/reactome/R-HSA-71291"/>
+    <compath:isPartOf rdf:resource="http://identifiers.org/wikipathways/WP497"/>
+    <compath:isPartOf rdf:resource="http://identifiers.org/reactome/R-HSA-1430728"/>
+    <compath:isPartOf rdf:resource="http://identifiers.org/wikipathways/WP106"/>
+    <compath:isPartOf rdf:resource="http://identifiers.org/reactome/R-HSA-70614"/>
+    <compath:isPartOf rdf:resource="http://identifiers.org/reactome/R-HSA-71182"/>
+    <compath:isPartOf rdf:resource="http://identifiers.org/reactome/R-HSA-70635"/>
+    <compath:isPartOf rdf:resource="http://identifiers.org/reactome/R-HSA-1614603"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://identifiers.org/wikipathways/WP1971">
+    <compath:isPartOf rdf:resource="http://identifiers.org/reactome/R-HSA-5632928"/>
+    <compath:isPartOf rdf:resource="http://identifiers.org/reactome/R-HSA-3311021"/>
+    <compath:isPartOf rdf:resource="http://identifiers.org/reactome/R-HSA-5632968"/>
+    <compath:isPartOf rdf:resource="http://identifiers.org/reactome/R-HSA-5674404"/>
+    <compath:isPartOf rdf:resource="http://identifiers.org/reactome/R-HSA-3304347"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://identifiers.org/wikipathways/WP694">
+    <compath:isPartOf rdf:resource="http://identifiers.org/reactome/R-HSA-1430728"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://identifiers.org/wikipathways/WP4159">
+    <compath:isPartOf rdf:resource="http://identifiers.org/reactome/R-HSA-888593"/>
+    <compath:equivalentTo rdf:resource="http://identifiers.org/reactome/R-HSA-977443"/>
+    <compath:isPartOf rdf:resource="http://identifiers.org/reactome/R-HSA-977441"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://identifiers.org/kegg.pathway/hsa04150">
+    <compath:isPartOf rdf:resource="http://identifiers.org/wikipathways/WP3844"/>
+    <compath:equivalentTo rdf:resource="http://identifiers.org/reactome/R-HSA-165159"/>
+    <compath:isPartOf rdf:resource="http://identifiers.org/wikipathways/WP4172"/>
+    <compath:isPartOf rdf:resource="http://identifiers.org/wikipathways/WP3932"/>
+    <compath:equivalentTo rdf:resource="http://identifiers.org/wikipathways/WP1471"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://identifiers.org/kegg.pathway/hsa01100">
+    <compath:isPartOf rdf:resource="http://identifiers.org/wikipathways/WP206"/>
+    <compath:isPartOf rdf:resource="http://identifiers.org/wikipathways/WP111"/>
+    <compath:isPartOf rdf:resource="http://identifiers.org/wikipathways/WP2816"/>
+    <compath:isPartOf rdf:resource="http://identifiers.org/wikipathways/WP500"/>
+    <compath:isPartOf rdf:resource="http://identifiers.org/wikipathways/WP3644"/>
+    <compath:isPartOf rdf:resource="http://identifiers.org/wikipathways/WP465"/>
+    <compath:isPartOf rdf:resource="http://identifiers.org/wikipathways/WP3940"/>
+    <compath:isPartOf rdf:resource="http://identifiers.org/wikipathways/WP197"/>
+    <compath:isPartOf rdf:resource="http://identifiers.org/wikipathways/WP3933"/>
+    <compath:isPartOf rdf:resource="http://identifiers.org/wikipathways/WP691"/>
+    <compath:isPartOf rdf:resource="http://identifiers.org/wikipathways/WP690"/>
+    <compath:isPartOf rdf:resource="http://identifiers.org/wikipathways/WP325"/>
+    <compath:isPartOf rdf:resource="http://identifiers.org/wikipathways/WP405"/>
+    <compath:isPartOf rdf:resource="http://identifiers.org/wikipathways/WP2436"/>
+    <compath:isPartOf rdf:resource="http://identifiers.org/wikipathways/WP241"/>
+    <compath:isPartOf rdf:resource="http://identifiers.org/wikipathways/WP3633"/>
+    <compath:isPartOf rdf:resource="http://identifiers.org/wikipathways/WP696"/>
+    <compath:isPartOf rdf:resource="http://identifiers.org/wikipathways/WP1946"/>
+    <compath:isPartOf rdf:resource="http://identifiers.org/wikipathways/WP4210"/>
+    <compath:isPartOf rdf:resource="http://identifiers.org/wikipathways/WP2491"/>
+    <compath:equivalentTo rdf:resource="http://identifiers.org/reactome/R-HSA-1430728"/>
+    <compath:isPartOf rdf:resource="http://identifiers.org/wikipathways/WP1424"/>
+    <compath:isPartOf rdf:resource="http://identifiers.org/wikipathways/WP2889"/>
+    <compath:isPartOf rdf:resource="http://identifiers.org/wikipathways/WP496"/>
+    <compath:isPartOf rdf:resource="http://identifiers.org/wikipathways/WP404"/>
+    <compath:isPartOf rdf:resource="http://identifiers.org/wikipathways/WP2485"/>
+    <compath:isPartOf rdf:resource="http://identifiers.org/wikipathways/WP704"/>
+    <compath:isPartOf rdf:resource="http://identifiers.org/wikipathways/WP3925"/>
+    <compath:isPartOf rdf:resource="http://identifiers.org/wikipathways/WP78"/>
+    <compath:isPartOf rdf:resource="http://identifiers.org/wikipathways/WP4156"/>
+    <compath:isPartOf rdf:resource="http://identifiers.org/wikipathways/WP497"/>
+    <compath:isPartOf rdf:resource="http://identifiers.org/wikipathways/WP698"/>
+    <compath:isPartOf rdf:resource="http://identifiers.org/wikipathways/WP2878"/>
+    <compath:isPartOf rdf:resource="http://identifiers.org/wikipathways/WP1423"/>
+    <compath:isPartOf rdf:resource="http://identifiers.org/wikipathways/WP2533"/>
+    <compath:isPartOf rdf:resource="http://identifiers.org/wikipathways/WP716"/>
+    <compath:isPartOf rdf:resource="http://identifiers.org/wikipathways/WP368"/>
+    <compath:isPartOf rdf:resource="http://identifiers.org/wikipathways/WP4022"/>
+    <compath:isPartOf rdf:resource="http://identifiers.org/wikipathways/WP1422"/>
+    <compath:isPartOf rdf:resource="http://identifiers.org/wikipathways/WP528"/>
+    <compath:isPartOf rdf:resource="http://identifiers.org/wikipathways/WP229"/>
+    <compath:isPartOf rdf:resource="http://identifiers.org/wikipathways/WP1604"/>
+    <compath:isPartOf rdf:resource="http://identifiers.org/wikipathways/WP3965"/>
+    <compath:isPartOf rdf:resource="http://identifiers.org/wikipathways/WP561"/>
+    <compath:isPartOf rdf:resource="http://identifiers.org/wikipathways/WP694"/>
+    <compath:isPartOf rdf:resource="http://identifiers.org/wikipathways/WP311"/>
+    <compath:isPartOf rdf:resource="http://identifiers.org/wikipathways/WP2536"/>
+    <compath:isPartOf rdf:resource="http://identifiers.org/wikipathways/WP2645"/>
+    <compath:isPartOf rdf:resource="http://identifiers.org/wikipathways/WP106"/>
+    <compath:isPartOf rdf:resource="http://identifiers.org/wikipathways/WP534"/>
+    <compath:isPartOf rdf:resource="http://identifiers.org/wikipathways/WP623"/>
+    <compath:isPartOf rdf:resource="http://identifiers.org/wikipathways/WP4142"/>
+    <compath:isPartOf rdf:resource="http://identifiers.org/wikipathways/WP2453"/>
+    <compath:isPartOf rdf:resource="http://identifiers.org/wikipathways/WP167"/>
+    <compath:isPartOf rdf:resource="http://identifiers.org/wikipathways/WP3869"/>
+    <compath:isPartOf rdf:resource="http://identifiers.org/wikipathways/WP3580"/>
+    <compath:isPartOf rdf:resource="http://identifiers.org/wikipathways/WP3585"/>
+    <compath:isPartOf rdf:resource="http://identifiers.org/wikipathways/WP2525"/>
+    <compath:isPartOf rdf:resource="http://identifiers.org/wikipathways/WP4174"/>
+    <compath:isPartOf rdf:resource="http://identifiers.org/wikipathways/WP697"/>
+    <compath:isPartOf rdf:resource="http://identifiers.org/wikipathways/WP1941"/>
+    <compath:isPartOf rdf:resource="http://identifiers.org/wikipathways/WP143"/>
+    <compath:isPartOf rdf:resource="http://identifiers.org/wikipathways/WP43"/>
+    <compath:isPartOf rdf:resource="http://identifiers.org/wikipathways/WP2646"/>
+    <compath:isPartOf rdf:resource="http://identifiers.org/wikipathways/WP4153"/>
+    <compath:isPartOf rdf:resource="http://identifiers.org/wikipathways/WP2826"/>
+    <compath:isPartOf rdf:resource="http://identifiers.org/wikipathways/WP550"/>
+    <compath:isPartOf rdf:resource="http://identifiers.org/wikipathways/WP357"/>
+    <compath:isPartOf rdf:resource="http://identifiers.org/wikipathways/WP134"/>
+    <compath:isPartOf rdf:resource="http://identifiers.org/wikipathways/WP176"/>
+    <compath:isPartOf rdf:resource="http://identifiers.org/wikipathways/WP1531"/>
+    <compath:isPartOf rdf:resource="http://identifiers.org/wikipathways/WP678"/>
+    <compath:isPartOf rdf:resource="http://identifiers.org/wikipathways/WP2333"/>
+    <compath:isPartOf rdf:resource="http://identifiers.org/wikipathways/WP98"/>
+    <compath:isPartOf rdf:resource="http://identifiers.org/wikipathways/WP699"/>
+    <compath:isPartOf rdf:resource="http://identifiers.org/wikipathways/WP237"/>
+    <compath:isPartOf rdf:resource="http://identifiers.org/wikipathways/WP100"/>
+    <compath:isPartOf rdf:resource="http://identifiers.org/wikipathways/WP3645"/>
+    <compath:isPartOf rdf:resource="http://identifiers.org/wikipathways/WP1600"/>
+    <compath:isPartOf rdf:resource="http://identifiers.org/wikipathways/WP2190"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://identifiers.org/wikipathways/WP183">
+    <compath:isPartOf rdf:resource="http://identifiers.org/reactome/R-HSA-211733"/>
+    <compath:isPartOf rdf:resource="http://identifiers.org/reactome/R-HSA-983168"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://identifiers.org/wikipathways/WP2491">
+    <compath:isPartOf rdf:resource="http://identifiers.org/reactome/R-HSA-1430728"/>
+    <compath:isPartOf rdf:resource="http://identifiers.org/reactome/R-HSA-211897"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://identifiers.org/kegg.pathway/hsa00790">
+    <compath:isPartOf rdf:resource="http://identifiers.org/reactome/R-HSA-1430728"/>
+    <compath:isPartOf rdf:resource="http://identifiers.org/wikipathways/WP4156"/>
+    <compath:isPartOf rdf:resource="http://identifiers.org/reactome/R-HSA-947581"/>
+    <compath:isPartOf rdf:resource="http://identifiers.org/reactome/R-HSA-196854"/>
+    <compath:isPartOf rdf:resource="http://identifiers.org/reactome/R-HSA-196849"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://identifiers.org/wikipathways/WP368">
+    <compath:isPartOf rdf:resource="http://identifiers.org/reactome/R-HSA-1430728"/>
+    <compath:isPartOf rdf:resource="http://identifiers.org/reactome/R-HSA-77348"/>
+    <compath:isPartOf rdf:resource="http://identifiers.org/reactome/R-HSA-77289"/>
+    <compath:isPartOf rdf:resource="http://identifiers.org/reactome/R-HSA-556833"/>
+    <compath:isPartOf rdf:resource="http://identifiers.org/reactome/R-HSA-77310"/>
+    <compath:isPartOf rdf:resource="http://identifiers.org/reactome/R-HSA-77286"/>
+    <compath:isPartOf rdf:resource="http://identifiers.org/reactome/R-HSA-77305"/>
+    <compath:isPartOf rdf:resource="http://identifiers.org/reactome/R-HSA-77285"/>
+    <compath:isPartOf rdf:resource="http://identifiers.org/reactome/R-HSA-77288"/>
+    <compath:isPartOf rdf:resource="http://identifiers.org/reactome/R-HSA-8978868"/>
+    <compath:isPartOf rdf:resource="http://identifiers.org/reactome/R-HSA-77350"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://identifiers.org/wikipathways/WP400">
+    <compath:equivalentTo rdf:resource="http://identifiers.org/reactome/R-HSA-171007"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://identifiers.org/kegg.pathway/hsa04977">
+    <compath:isPartOf rdf:resource="http://identifiers.org/reactome/R-HSA-196854"/>
+    <compath:isPartOf rdf:resource="http://identifiers.org/reactome/R-HSA-8963676"/>
+    <compath:isPartOf rdf:resource="http://identifiers.org/reactome/R-HSA-8963743"/>
+    <compath:isPartOf rdf:resource="http://identifiers.org/wikipathways/WP1533"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://identifiers.org/wikipathways/WP437">
+    <compath:isPartOf rdf:resource="http://identifiers.org/reactome/R-HSA-180336"/>
+    <compath:isPartOf rdf:resource="http://identifiers.org/reactome/R-HSA-5638303"/>
+    <compath:isPartOf rdf:resource="http://identifiers.org/reactome/R-HSA-182971"/>
+    <compath:isPartOf rdf:resource="http://identifiers.org/reactome/R-HSA-2179392"/>
+    <compath:isPartOf rdf:resource="http://identifiers.org/reactome/R-HSA-212718"/>
+    <compath:isPartOf rdf:resource="http://identifiers.org/reactome/R-HSA-179812"/>
+    <compath:isPartOf rdf:resource="http://identifiers.org/reactome/R-HSA-1251932"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://identifiers.org/wikipathways/WP3943">
+    <compath:isPartOf rdf:resource="http://identifiers.org/reactome/R-HSA-4420097"/>
+    <compath:isPartOf rdf:resource="http://identifiers.org/reactome/R-HSA-194138"/>
+    <compath:isPartOf rdf:resource="http://identifiers.org/reactome/R-HSA-195399"/>
+    <compath:isPartOf rdf:resource="http://identifiers.org/reactome/R-HSA-194313"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://identifiers.org/wikipathways/WP2333">
+    <compath:isPartOf rdf:resource="http://identifiers.org/reactome/R-HSA-71291"/>
+    <compath:isPartOf rdf:resource="http://identifiers.org/reactome/R-HSA-1430728"/>
+    <compath:equivalentTo rdf:resource="http://identifiers.org/reactome/R-HSA-1614603"/>
+    <compath:isPartOf rdf:resource="http://identifiers.org/reactome/R-HSA-1614635"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://identifiers.org/kegg.pathway/hsa00250">
+    <compath:isPartOf rdf:resource="http://identifiers.org/wikipathways/WP3925"/>
+    <compath:isPartOf rdf:resource="http://identifiers.org/reactome/R-HSA-1430728"/>
+    <compath:isPartOf rdf:resource="http://identifiers.org/reactome/R-HSA-71291"/>
+    <compath:isPartOf rdf:resource="http://identifiers.org/wikipathways/WP106"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://identifiers.org/wikipathways/WP395">
+    <compath:isPartOf rdf:resource="http://identifiers.org/reactome/R-HSA-449147"/>
+    <compath:isPartOf rdf:resource="http://identifiers.org/reactome/R-HSA-168249"/>
+    <compath:isPartOf rdf:resource="http://identifiers.org/reactome/R-HSA-168256"/>
+    <compath:isPartOf rdf:resource="http://identifiers.org/reactome/R-HSA-1280215"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://identifiers.org/kegg.pathway/hsa00071">
+    <compath:isPartOf rdf:resource="http://identifiers.org/reactome/R-HSA-77286"/>
+    <compath:isPartOf rdf:resource="http://identifiers.org/reactome/R-HSA-77346"/>
+    <compath:isPartOf rdf:resource="http://identifiers.org/reactome/R-HSA-556833"/>
+    <compath:isPartOf rdf:resource="http://identifiers.org/wikipathways/WP206"/>
+    <compath:isPartOf rdf:resource="http://identifiers.org/reactome/R-HSA-8978868"/>
+    <compath:isPartOf rdf:resource="http://identifiers.org/wikipathways/WP1941"/>
+    <compath:isPartOf rdf:resource="http://identifiers.org/reactome/R-HSA-77348"/>
+    <compath:isPartOf rdf:resource="http://identifiers.org/reactome/R-HSA-1430728"/>
+    <compath:isPartOf rdf:resource="http://identifiers.org/wikipathways/WP368"/>
+    <compath:isPartOf rdf:resource="http://identifiers.org/reactome/R-HSA-77350"/>
+    <compath:isPartOf rdf:resource="http://identifiers.org/reactome/R-HSA-77285"/>
+    <compath:isPartOf rdf:resource="http://identifiers.org/reactome/R-HSA-77288"/>
+    <compath:isPartOf rdf:resource="http://identifiers.org/reactome/R-HSA-77310"/>
+    <compath:isPartOf rdf:resource="http://identifiers.org/wikipathways/WP143"/>
+    <compath:isPartOf rdf:resource="http://identifiers.org/reactome/R-HSA-77305"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://identifiers.org/wikipathways/WP314">
+    <compath:isPartOf rdf:resource="http://identifiers.org/reactome/R-HSA-75157"/>
+    <compath:isPartOf rdf:resource="http://identifiers.org/reactome/R-HSA-211736"/>
+    <compath:isPartOf rdf:resource="http://identifiers.org/reactome/R-HSA-111458"/>
+    <compath:isPartOf rdf:resource="http://identifiers.org/reactome/R-HSA-109581"/>
+    <compath:isPartOf rdf:resource="http://identifiers.org/reactome/R-HSA-140534"/>
+    <compath:isPartOf rdf:resource="http://identifiers.org/reactome/R-HSA-5357801"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://identifiers.org/kegg.pathway/hsa00030">
+    <compath:equivalentTo rdf:resource="http://identifiers.org/wikipathways/WP134"/>
+    <compath:equivalentTo rdf:resource="http://identifiers.org/reactome/R-HSA-71336"/>
+    <compath:isPartOf rdf:resource="http://identifiers.org/wikipathways/WP534"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://identifiers.org/kegg.pathway/hsa04922">
+    <compath:isPartOf rdf:resource="http://identifiers.org/wikipathways/WP1541"/>
+    <compath:isPartOf rdf:resource="http://identifiers.org/wikipathways/WP500"/>
+    <compath:isPartOf rdf:resource="http://identifiers.org/wikipathways/WP534"/>
+    <compath:equivalentTo rdf:resource="http://identifiers.org/reactome/R-HSA-163359"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://identifiers.org/kegg.pathway/hsa00533">
+    <compath:isPartOf rdf:resource="http://identifiers.org/reactome/R-HSA-1430728"/>
+    <compath:isPartOf rdf:resource="http://identifiers.org/reactome/R-HSA-1630316"/>
+    <compath:isPartOf rdf:resource="http://identifiers.org/reactome/R-HSA-2022854"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://identifiers.org/kegg.pathway/hsa00100">
+    <compath:equivalentTo rdf:resource="http://identifiers.org/wikipathways/WP496"/>
+    <compath:isPartOf rdf:resource="http://identifiers.org/reactome/R-HSA-1430728"/>
+    <compath:isPartOf rdf:resource="http://identifiers.org/reactome/R-HSA-8957322"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://identifiers.org/kegg.pathway/hsa03013">
+    <compath:isPartOf rdf:resource="http://identifiers.org/reactome/R-HSA-159234"/>
+    <compath:isPartOf rdf:resource="http://identifiers.org/reactome/R-HSA-159231"/>
+    <compath:isPartOf rdf:resource="http://identifiers.org/reactome/R-HSA-159230"/>
+    <compath:isPartOf rdf:resource="http://identifiers.org/reactome/R-HSA-159227"/>
+    <compath:isPartOf rdf:resource="http://identifiers.org/reactome/R-HSA-165054"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://identifiers.org/wikipathways/WP3959">
+    <compath:isPartOf rdf:resource="http://identifiers.org/reactome/R-HSA-73894"/>
+    <compath:isPartOf rdf:resource="http://identifiers.org/reactome/R-HSA-5693606"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://identifiers.org/wikipathways/WP678">
+    <compath:isPartOf rdf:resource="http://identifiers.org/reactome/R-HSA-8978868"/>
+    <compath:isPartOf rdf:resource="http://identifiers.org/reactome/R-HSA-1430728"/>
+    <compath:isPartOf rdf:resource="http://identifiers.org/reactome/R-HSA-2142753"/>
+    <compath:isPartOf rdf:resource="http://identifiers.org/reactome/R-HSA-556833"/>
+    <compath:isPartOf rdf:resource="http://identifiers.org/reactome/R-HSA-211859"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://identifiers.org/kegg.pathway/hsa04726">
+    <compath:isPartOf rdf:resource="http://identifiers.org/reactome/R-HSA-380615"/>
+    <compath:isPartOf rdf:resource="http://identifiers.org/wikipathways/WP733"/>
+    <compath:isPartOf rdf:resource="http://identifiers.org/wikipathways/WP732"/>
+    <compath:isPartOf rdf:resource="http://identifiers.org/reactome/R-HSA-390666"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://identifiers.org/wikipathways/WP1941">
+    <compath:isPartOf rdf:resource="http://identifiers.org/reactome/R-HSA-390247"/>
+    <compath:isPartOf rdf:resource="http://identifiers.org/reactome/R-HSA-556833"/>
+    <compath:isPartOf rdf:resource="http://identifiers.org/reactome/R-HSA-1430728"/>
+    <compath:isPartOf rdf:resource="http://identifiers.org/reactome/R-HSA-390918"/>
+    <compath:isPartOf rdf:resource="http://identifiers.org/reactome/R-HSA-8978868"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://identifiers.org/wikipathways/WP1541">
+    <compath:isPartOf rdf:resource="http://identifiers.org/reactome/R-HSA-111932"/>
+    <compath:isPartOf rdf:resource="http://identifiers.org/reactome/R-HSA-1430728"/>
+    <compath:isPartOf rdf:resource="http://identifiers.org/reactome/R-HSA-1592230"/>
+    <compath:isPartOf rdf:resource="http://identifiers.org/reactome/R-HSA-442717"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://identifiers.org/kegg.pathway/hsa00630">
+    <compath:isPartOf rdf:resource="http://identifiers.org/reactome/R-HSA-71291"/>
+    <compath:isPartOf rdf:resource="http://identifiers.org/reactome/R-HSA-1430728"/>
+    <compath:isPartOf rdf:resource="http://identifiers.org/reactome/R-HSA-389661"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://identifiers.org/kegg.pathway/hsa05200">
+    <compath:isPartOf rdf:resource="http://identifiers.org/reactome/R-HSA-5632928"/>
+    <compath:isPartOf rdf:resource="http://identifiers.org/reactome/R-HSA-111461"/>
+    <compath:isPartOf rdf:resource="http://identifiers.org/wikipathways/WP2828"/>
+    <compath:isPartOf rdf:resource="http://identifiers.org/reactome/R-HSA-2033519"/>
+    <compath:isPartOf rdf:resource="http://identifiers.org/reactome/R-HSA-5632927"/>
+    <compath:isPartOf rdf:resource="http://identifiers.org/reactome/R-HSA-211163"/>
+    <compath:isPartOf rdf:resource="http://identifiers.org/wikipathways/WP2261"/>
+    <compath:isPartOf rdf:resource="http://identifiers.org/reactome/R-HSA-111452"/>
+    <compath:isPartOf rdf:resource="http://identifiers.org/reactome/R-HSA-1169092"/>
+    <compath:isPartOf rdf:resource="http://identifiers.org/wikipathways/WP1971"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://identifiers.org/wikipathways/WP3888">
+    <compath:equivalentTo rdf:resource="http://identifiers.org/reactome/R-HSA-4420097"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://identifiers.org/kegg.pathway/hsa00563">
+    <compath:isPartOf rdf:resource="http://identifiers.org/reactome/R-HSA-162710"/>
+    <compath:isPartOf rdf:resource="http://identifiers.org/reactome/R-HSA-163125"/>
+    <compath:equivalentTo rdf:resource="http://identifiers.org/reactome/R-HSA-162710"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://identifiers.org/kegg.pathway/hsa04510">
+    <compath:isPartOf rdf:resource="http://identifiers.org/reactome/R-HSA-3000171"/>
+    <compath:isPartOf rdf:resource="http://identifiers.org/reactome/R-HSA-354192"/>
+    <compath:isPartOf rdf:resource="http://identifiers.org/reactome/R-HSA-9006921"/>
+    <compath:isPartOf rdf:resource="http://identifiers.org/reactome/R-HSA-3000157"/>
+    <compath:equivalentTo rdf:resource="http://identifiers.org/wikipathways/WP306"/>
+    <compath:isPartOf rdf:resource="http://identifiers.org/reactome/R-HSA-446343"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://identifiers.org/kegg.pathway/hsa02010">
+    <compath:isPartOf rdf:resource="http://identifiers.org/reactome/R-HSA-5679096"/>
+    <compath:equivalentTo rdf:resource="http://identifiers.org/reactome/R-HSA-1369007"/>
+    <compath:isPartOf rdf:resource="http://identifiers.org/reactome/R-HSA-5678771"/>
+    <compath:isPartOf rdf:resource="http://identifiers.org/reactome/R-HSA-5683329"/>
+    <compath:isPartOf rdf:resource="http://identifiers.org/reactome/R-HSA-5688399"/>
+    <compath:isPartOf rdf:resource="http://identifiers.org/reactome/R-HSA-1369062"/>
+    <compath:isPartOf rdf:resource="http://identifiers.org/reactome/R-HSA-382556"/>
+    <compath:isPartOf rdf:resource="http://identifiers.org/reactome/R-HSA-5679090"/>
+    <compath:isPartOf rdf:resource="http://identifiers.org/reactome/R-HSA-5683371"/>
+    <compath:isPartOf rdf:resource="http://identifiers.org/reactome/R-HSA-5684045"/>
+    <compath:isPartOf rdf:resource="http://identifiers.org/reactome/R-HSA-5682113"/>
+    <compath:isPartOf rdf:resource="http://identifiers.org/reactome/R-HSA-5682294"/>
+    <compath:isPartOf rdf:resource="http://identifiers.org/reactome/R-HSA-5619084"/>
+    <compath:isPartOf rdf:resource="http://identifiers.org/reactome/R-HSA-5678520"/>
+    <compath:isPartOf rdf:resource="http://identifiers.org/reactome/R-HSA-5678420"/>
+    <compath:isPartOf rdf:resource="http://identifiers.org/reactome/R-HSA-5679001"/>
+    <compath:isPartOf rdf:resource="http://identifiers.org/reactome/R-HSA-5683177"/>
+    <compath:isPartOf rdf:resource="http://identifiers.org/reactome/R-HSA-5690338"/>
+    <compath:isPartOf rdf:resource="http://identifiers.org/reactome/R-HSA-5683678"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://identifiers.org/kegg.pathway/hsa04910">
+    <compath:isPartOf rdf:resource="http://identifiers.org/wikipathways/WP3634"/>
+    <compath:isPartOf rdf:resource="http://identifiers.org/reactome/R-HSA-74751"/>
+    <compath:isPartOf rdf:resource="http://identifiers.org/reactome/R-HSA-74752"/>
+    <compath:isPartOf rdf:resource="http://identifiers.org/wikipathways/WP661"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://identifiers.org/kegg.pathway/hsa04610">
+    <compath:isPartOf rdf:resource="http://identifiers.org/reactome/R-HSA-140834"/>
+    <compath:isPartOf rdf:resource="http://identifiers.org/reactome/R-HSA-174577"/>
+    <compath:isPartOf rdf:resource="http://identifiers.org/reactome/R-HSA-140875"/>
+    <compath:isPartOf rdf:resource="http://identifiers.org/reactome/R-HSA-166658"/>
+    <compath:isPartOf rdf:resource="http://identifiers.org/reactome/R-HSA-75205"/>
+    <compath:isPartOf rdf:resource="http://identifiers.org/reactome/R-HSA-140877"/>
+    <compath:isPartOf rdf:resource="http://identifiers.org/reactome/R-HSA-166665"/>
+    <compath:isPartOf rdf:resource="http://identifiers.org/wikipathways/WP545"/>
+    <compath:isPartOf rdf:resource="http://identifiers.org/reactome/R-HSA-140837"/>
+    <compath:isPartOf rdf:resource="http://identifiers.org/reactome/R-HSA-109582"/>
+    <compath:isPartOf rdf:resource="http://identifiers.org/reactome/R-HSA-168256"/>
+    <compath:equivalentTo rdf:resource="http://identifiers.org/wikipathways/WP558"/>
+    <compath:isPartOf rdf:resource="http://identifiers.org/reactome/R-HSA-977606"/>
+    <compath:isPartOf rdf:resource="http://identifiers.org/reactome/R-HSA-173736"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://identifiers.org/kegg.pathway/hsa04380">
+    <compath:isPartOf rdf:resource="http://identifiers.org/wikipathways/WP2018"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://identifiers.org/kegg.pathway/hsa00120">
+    <compath:isPartOf rdf:resource="http://identifiers.org/reactome/R-HSA-194068"/>
+    <compath:isPartOf rdf:resource="http://identifiers.org/reactome/R-HSA-1430728"/>
+    <compath:isPartOf rdf:resource="http://identifiers.org/reactome/R-HSA-193775"/>
+    <compath:isPartOf rdf:resource="http://identifiers.org/reactome/R-HSA-192105"/>
+    <compath:isPartOf rdf:resource="http://identifiers.org/reactome/R-HSA-193368"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://identifiers.org/kegg.pathway/hsa01200">
+    <compath:isPartOf rdf:resource="http://identifiers.org/wikipathways/WP1946"/>
+    <compath:isPartOf rdf:resource="http://identifiers.org/reactome/R-HSA-70326"/>
+    <compath:isPartOf rdf:resource="http://identifiers.org/reactome/R-HSA-6791465"/>
+    <compath:isPartOf rdf:resource="http://identifiers.org/reactome/R-HSA-73843"/>
+    <compath:equivalentTo rdf:resource="http://identifiers.org/reactome/R-HSA-71387"/>
+    <compath:isPartOf rdf:resource="http://identifiers.org/reactome/R-HSA-5652084"/>
+    <compath:isPartOf rdf:resource="http://identifiers.org/reactome/R-HSA-1430728"/>
+    <compath:isPartOf rdf:resource="http://identifiers.org/wikipathways/WP134"/>
+    <compath:isPartOf rdf:resource="http://identifiers.org/reactome/R-HSA-8982491"/>
+    <compath:isPartOf rdf:resource="http://identifiers.org/wikipathways/WP534"/>
+    <compath:isPartOf rdf:resource="http://identifiers.org/wikipathways/WP78"/>
+    <compath:isPartOf rdf:resource="http://identifiers.org/wikipathways/WP241"/>
+    <compath:isPartOf rdf:resource="http://identifiers.org/reactome/R-HSA-70171"/>
+    <compath:isPartOf rdf:resource="http://identifiers.org/reactome/R-HSA-71406"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://identifiers.org/kegg.pathway/hsa04110">
+    <compath:equivalentTo rdf:resource="http://identifiers.org/wikipathways/WP179"/>
+    <compath:isPartOf rdf:resource="http://identifiers.org/wikipathways/WP45"/>
+    <compath:equivalentTo rdf:resource="http://identifiers.org/reactome/R-HSA-1640170"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://identifiers.org/kegg.pathway/hsa04724">
+    <compath:isPartOf rdf:resource="http://identifiers.org/reactome/R-HSA-112313"/>
+    <compath:isPartOf rdf:resource="http://identifiers.org/reactome/R-HSA-500657"/>
+    <compath:isPartOf rdf:resource="http://identifiers.org/reactome/R-HSA-438066"/>
+    <compath:isPartOf rdf:resource="http://identifiers.org/reactome/R-HSA-210500"/>
+    <compath:isPartOf rdf:resource="http://identifiers.org/reactome/R-HSA-451326"/>
+    <compath:isPartOf rdf:resource="http://identifiers.org/reactome/R-HSA-399710"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://identifiers.org/kegg.pathway/hsa00430">
+    <compath:isPartOf rdf:resource="http://identifiers.org/reactome/R-HSA-1430728"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://identifiers.org/wikipathways/WP2034">
+    <compath:equivalentTo rdf:resource="http://identifiers.org/reactome/R-HSA-2586552"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://identifiers.org/wikipathways/WP1425">
+    <compath:equivalentTo rdf:resource="http://identifiers.org/reactome/R-HSA-201451"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://identifiers.org/kegg.pathway/hsa04310">
+    <compath:isPartOf rdf:resource="http://identifiers.org/reactome/R-HSA-8951430"/>
+    <compath:equivalentTo rdf:resource="http://identifiers.org/wikipathways/WP428"/>
+    <compath:isPartOf rdf:resource="http://identifiers.org/wikipathways/WP399"/>
+    <compath:isPartOf rdf:resource="http://identifiers.org/reactome/R-HSA-201688"/>
+    <compath:isPartOf rdf:resource="http://identifiers.org/reactome/R-HSA-5340573"/>
+    <compath:equivalentTo rdf:resource="http://identifiers.org/reactome/R-HSA-195721"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://identifiers.org/kegg.pathway/hsa04216">
+    <compath:isPartOf rdf:resource="http://identifiers.org/reactome/R-HSA-5619048"/>
+    <compath:isPartOf rdf:resource="http://identifiers.org/reactome/R-HSA-5578999"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://identifiers.org/kegg.pathway/hsa00670">
+    <compath:isPartOf rdf:resource="http://identifiers.org/reactome/R-HSA-196854"/>
+    <compath:isPartOf rdf:resource="http://identifiers.org/reactome/R-HSA-196757"/>
+    <compath:isPartOf rdf:resource="http://identifiers.org/wikipathways/WP3940"/>
+    <compath:isPartOf rdf:resource="http://identifiers.org/wikipathways/WP241"/>
+    <compath:isPartOf rdf:resource="http://identifiers.org/reactome/R-HSA-1430728"/>
+    <compath:isPartOf rdf:resource="http://identifiers.org/wikipathways/WP176"/>
+    <compath:isPartOf rdf:resource="http://identifiers.org/wikipathways/WP2190"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://identifiers.org/wikipathways/WP3656">
+    <compath:isPartOf rdf:resource="http://identifiers.org/reactome/R-HSA-446652"/>
+    <compath:isPartOf rdf:resource="http://identifiers.org/reactome/R-HSA-168249"/>
+    <compath:isPartOf rdf:resource="http://identifiers.org/reactome/R-HSA-9020702"/>
+    <compath:isPartOf rdf:resource="http://identifiers.org/reactome/R-HSA-449147"/>
+    <compath:isPartOf rdf:resource="http://identifiers.org/reactome/R-HSA-168256"/>
+    <compath:isPartOf rdf:resource="http://identifiers.org/reactome/R-HSA-1280215"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://identifiers.org/wikipathways/WP3934">
+    <compath:isPartOf rdf:resource="http://identifiers.org/reactome/R-HSA-2586552"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://identifiers.org/wikipathways/WP357">
+    <compath:isPartOf rdf:resource="http://identifiers.org/reactome/R-HSA-8978868"/>
+    <compath:isPartOf rdf:resource="http://identifiers.org/reactome/R-HSA-75105"/>
+    <compath:isPartOf rdf:resource="http://identifiers.org/reactome/R-HSA-1430728"/>
+    <compath:isPartOf rdf:resource="http://identifiers.org/reactome/R-HSA-556833"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://identifiers.org/kegg.pathway/hsa04010">
+    <compath:isPartOf rdf:resource="http://identifiers.org/reactome/R-HSA-171007"/>
+    <compath:isPartOf rdf:resource="http://identifiers.org/reactome/R-HSA-372708"/>
+    <compath:isPartOf rdf:resource="http://identifiers.org/reactome/R-HSA-5684996"/>
+    <compath:isPartOf rdf:resource="http://identifiers.org/reactome/R-HSA-110056"/>
+    <compath:isPartOf rdf:resource="http://identifiers.org/reactome/R-HSA-450282"/>
+    <compath:isPartOf rdf:resource="http://identifiers.org/reactome/R-HSA-5687128"/>
+    <compath:isPartOf rdf:resource="http://identifiers.org/wikipathways/WP422"/>
+    <compath:equivalentTo rdf:resource="http://identifiers.org/reactome/R-HSA-5683057"/>
+    <compath:isPartOf rdf:resource="http://identifiers.org/reactome/R-HSA-5684264"/>
+    <compath:isPartOf rdf:resource="http://identifiers.org/reactome/R-HSA-198753"/>
+    <compath:isPartOf rdf:resource="http://identifiers.org/reactome/R-HSA-112411"/>
+    <compath:isPartOf rdf:resource="http://identifiers.org/reactome/R-HSA-5674135"/>
+    <compath:isPartOf rdf:resource="http://identifiers.org/reactome/R-HSA-450302"/>
+    <compath:isPartOf rdf:resource="http://identifiers.org/reactome/R-HSA-5674499"/>
+    <compath:isPartOf rdf:resource="http://identifiers.org/reactome/R-HSA-5675221"/>
+    <compath:isPartOf rdf:resource="http://identifiers.org/reactome/R-HSA-881907"/>
+    <compath:isPartOf rdf:resource="http://identifiers.org/wikipathways/WP400"/>
+    <compath:isPartOf rdf:resource="http://identifiers.org/reactome/R-HSA-112409"/>
+    <compath:isPartOf rdf:resource="http://identifiers.org/reactome/R-HSA-2871796"/>
+    <compath:equivalentTo rdf:resource="http://identifiers.org/wikipathways/WP382"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://identifiers.org/kegg.pathway/hsa01212">
+    <compath:equivalentTo rdf:resource="http://identifiers.org/reactome/R-HSA-8978868"/>
+    <compath:isPartOf rdf:resource="http://identifiers.org/wikipathways/WP368"/>
+    <compath:isPartOf rdf:resource="http://identifiers.org/wikipathways/WP1941"/>
+    <compath:isPartOf rdf:resource="http://identifiers.org/reactome/R-HSA-1430728"/>
+    <compath:isPartOf rdf:resource="http://identifiers.org/wikipathways/WP143"/>
+    <compath:isPartOf rdf:resource="http://identifiers.org/wikipathways/WP357"/>
+    <compath:isPartOf rdf:resource="http://identifiers.org/reactome/R-HSA-556833"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://identifiers.org/kegg.pathway/hsa04514">
+    <compath:isPartOf rdf:resource="http://identifiers.org/reactome/R-HSA-447043"/>
+    <compath:isPartOf rdf:resource="http://identifiers.org/reactome/R-HSA-421270"/>
+    <compath:isPartOf rdf:resource="http://identifiers.org/reactome/R-HSA-420029"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://identifiers.org/wikipathways/WP2267">
+    <compath:isPartOf rdf:resource="http://identifiers.org/reactome/R-HSA-888590"/>
+    <compath:isPartOf rdf:resource="http://identifiers.org/reactome/R-HSA-181429"/>
+    <compath:isPartOf rdf:resource="http://identifiers.org/reactome/R-HSA-112316"/>
+    <compath:isPartOf rdf:resource="http://identifiers.org/reactome/R-HSA-181430"/>
+    <compath:isPartOf rdf:resource="http://identifiers.org/reactome/R-HSA-212676"/>
+    <compath:isPartOf rdf:resource="http://identifiers.org/reactome/R-HSA-264642"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://identifiers.org/kegg.pathway/hsa04012">
+    <compath:isPartOf rdf:resource="http://identifiers.org/reactome/R-HSA-1253288"/>
+    <compath:isPartOf rdf:resource="http://identifiers.org/reactome/R-HSA-1251985"/>
+    <compath:isPartOf rdf:resource="http://identifiers.org/reactome/R-HSA-1227986"/>
+    <compath:isPartOf rdf:resource="http://identifiers.org/reactome/R-HSA-8847993"/>
+    <compath:isPartOf rdf:resource="http://identifiers.org/reactome/R-HSA-1250196"/>
+    <compath:isPartOf rdf:resource="http://identifiers.org/reactome/R-HSA-6785631"/>
+    <compath:isPartOf rdf:resource="http://identifiers.org/reactome/R-HSA-1250347"/>
+    <compath:isPartOf rdf:resource="http://identifiers.org/reactome/R-HSA-1236394"/>
+    <compath:isPartOf rdf:resource="http://identifiers.org/reactome/R-HSA-8863795"/>
+    <compath:isPartOf rdf:resource="http://identifiers.org/reactome/R-HSA-1306955"/>
+    <compath:isPartOf rdf:resource="http://identifiers.org/reactome/R-HSA-1963642"/>
+    <compath:isPartOf rdf:resource="http://identifiers.org/reactome/R-HSA-1250342"/>
+    <compath:isPartOf rdf:resource="http://identifiers.org/reactome/R-HSA-1963640"/>
+    <compath:equivalentTo rdf:resource="http://identifiers.org/wikipathways/WP673"/>
+    <compath:isPartOf rdf:resource="http://identifiers.org/reactome/R-HSA-1358803"/>
+    <compath:isPartOf rdf:resource="http://identifiers.org/reactome/R-HSA-1251932"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://identifiers.org/wikipathways/WP2637">
+    <compath:isPartOf rdf:resource="http://identifiers.org/reactome/R-HSA-449147"/>
+    <compath:isPartOf rdf:resource="http://identifiers.org/reactome/R-HSA-168249"/>
+    <compath:isPartOf rdf:resource="http://identifiers.org/reactome/R-HSA-168256"/>
+    <compath:isPartOf rdf:resource="http://identifiers.org/reactome/R-HSA-1280215"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://identifiers.org/kegg.pathway/hsa00982">
+    <compath:isPartOf rdf:resource="http://identifiers.org/reactome/R-HSA-211999"/>
+    <compath:isPartOf rdf:resource="http://identifiers.org/reactome/R-HSA-1430728"/>
+    <compath:isPartOf rdf:resource="http://identifiers.org/reactome/R-HSA-141333"/>
+    <compath:isPartOf rdf:resource="http://identifiers.org/wikipathways/WP2816"/>
+    <compath:isPartOf rdf:resource="http://identifiers.org/wikipathways/WP691"/>
+    <compath:isPartOf rdf:resource="http://identifiers.org/wikipathways/WP1604"/>
+    <compath:isPartOf rdf:resource="http://identifiers.org/wikipathways/WP2646"/>
+    <compath:isPartOf rdf:resource="http://identifiers.org/wikipathways/WP1600"/>
+    <compath:isPartOf rdf:resource="http://identifiers.org/reactome/R-HSA-71384"/>
+    <compath:isPartOf rdf:resource="http://identifiers.org/wikipathways/WP2491"/>
+    <compath:isPartOf rdf:resource="http://identifiers.org/wikipathways/WP3871"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://identifiers.org/wikipathways/WP3858">
+    <compath:equivalentTo rdf:resource="http://identifiers.org/reactome/R-HSA-168898"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://identifiers.org/wikipathways/WP143">
+    <compath:isPartOf rdf:resource="http://identifiers.org/reactome/R-HSA-8978868"/>
+    <compath:isPartOf rdf:resource="http://identifiers.org/reactome/R-HSA-77289"/>
+    <compath:isPartOf rdf:resource="http://identifiers.org/reactome/R-HSA-556833"/>
+    <compath:isPartOf rdf:resource="http://identifiers.org/reactome/R-HSA-77346"/>
+    <compath:isPartOf rdf:resource="http://identifiers.org/reactome/R-HSA-77286"/>
+    <compath:isPartOf rdf:resource="http://identifiers.org/reactome/R-HSA-77305"/>
+    <compath:isPartOf rdf:resource="http://identifiers.org/reactome/R-HSA-77310"/>
+    <compath:isPartOf rdf:resource="http://identifiers.org/reactome/R-HSA-77288"/>
+    <compath:isPartOf rdf:resource="http://identifiers.org/reactome/R-HSA-77285"/>
+    <compath:isPartOf rdf:resource="http://identifiers.org/reactome/R-HSA-77352"/>
+    <compath:isPartOf rdf:resource="http://identifiers.org/reactome/R-HSA-77350"/>
+    <compath:isPartOf rdf:resource="http://identifiers.org/reactome/R-HSA-1430728"/>
+    <compath:isPartOf rdf:resource="http://identifiers.org/reactome/R-HSA-77348"/>
+    <compath:equivalentTo rdf:resource="http://identifiers.org/reactome/R-HSA-77289"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://identifiers.org/kegg.pathway/hsa03030">
+    <compath:equivalentTo rdf:resource="http://identifiers.org/wikipathways/WP466"/>
+    <compath:equivalentTo rdf:resource="http://identifiers.org/reactome/R-HSA-69306"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://identifiers.org/kegg.pathway/hsa04662">
+    <compath:isPartOf rdf:resource="http://identifiers.org/reactome/R-HSA-1280218"/>
+    <compath:equivalentTo rdf:resource="http://identifiers.org/reactome/R-HSA-983705"/>
+    <compath:isPartOf rdf:resource="http://identifiers.org/reactome/R-HSA-168256"/>
+    <compath:equivalentTo rdf:resource="http://identifiers.org/wikipathways/WP23"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://identifiers.org/kegg.pathway/hsa04973">
+    <compath:isPartOf rdf:resource="http://identifiers.org/reactome/R-HSA-189085"/>
+    <compath:isPartOf rdf:resource="http://identifiers.org/reactome/R-HSA-8981373"/>
+    <compath:isPartOf rdf:resource="http://identifiers.org/reactome/R-HSA-5659898"/>
+    <compath:isPartOf rdf:resource="http://identifiers.org/reactome/R-HSA-8963743"/>
+    <compath:isPartOf rdf:resource="http://identifiers.org/reactome/R-HSA-8963676"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://identifiers.org/kegg.pathway/hsa00270">
+    <compath:isPartOf rdf:resource="http://identifiers.org/reactome/R-HSA-71291"/>
+    <compath:isPartOf rdf:resource="http://identifiers.org/wikipathways/WP3580"/>
+    <compath:isPartOf rdf:resource="http://identifiers.org/reactome/R-HSA-1614635"/>
+    <compath:isPartOf rdf:resource="http://identifiers.org/reactome/R-HSA-1614603"/>
+    <compath:isPartOf rdf:resource="http://identifiers.org/reactome/R-HSA-1430728"/>
+    <compath:isPartOf rdf:resource="http://identifiers.org/wikipathways/WP3925"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://identifiers.org/kegg.pathway/hsa03040">
+    <compath:isPartOf rdf:resource="http://identifiers.org/reactome/R-HSA-75067"/>
+    <compath:isPartOf rdf:resource="http://identifiers.org/reactome/R-HSA-74160"/>
+    <compath:isPartOf rdf:resource="http://identifiers.org/wikipathways/WP411"/>
+    <compath:isPartOf rdf:resource="http://identifiers.org/reactome/R-HSA-73856"/>
+    <compath:isPartOf rdf:resource="http://identifiers.org/reactome/R-HSA-72165"/>
+    <compath:isPartOf rdf:resource="http://identifiers.org/reactome/R-HSA-72203"/>
+    <compath:isPartOf rdf:resource="http://identifiers.org/reactome/R-HSA-72172"/>
+    <compath:isPartOf rdf:resource="http://identifiers.org/reactome/R-HSA-72163"/>
+    <compath:isPartOf rdf:resource="http://identifiers.org/reactome/R-HSA-8953854"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://identifiers.org/wikipathways/WP4156">
+    <compath:isPartOf rdf:resource="http://identifiers.org/reactome/R-HSA-8978934"/>
+    <compath:isPartOf rdf:resource="http://identifiers.org/reactome/R-HSA-1474151"/>
+    <compath:isPartOf rdf:resource="http://identifiers.org/reactome/R-HSA-196854"/>
+    <compath:isPartOf rdf:resource="http://identifiers.org/reactome/R-HSA-1430728"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://identifiers.org/wikipathways/WP237">
+    <compath:isPartOf rdf:resource="http://identifiers.org/reactome/R-HSA-8957322"/>
+    <compath:isPartOf rdf:resource="http://identifiers.org/reactome/R-HSA-196071"/>
+    <compath:isPartOf rdf:resource="http://identifiers.org/reactome/R-HSA-194002"/>
+    <compath:isPartOf rdf:resource="http://identifiers.org/reactome/R-HSA-193993"/>
+    <compath:isPartOf rdf:resource="http://identifiers.org/reactome/R-HSA-1430728"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://identifiers.org/kegg.pathway/hsa04530">
+    <compath:isPartOf rdf:resource="http://identifiers.org/reactome/R-HSA-8935964"/>
+    <compath:equivalentTo rdf:resource="http://identifiers.org/reactome/R-HSA-420029"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://identifiers.org/wikipathways/WP98">
+    <compath:isPartOf rdf:resource="http://identifiers.org/reactome/R-HSA-391903"/>
+    <compath:isPartOf rdf:resource="http://identifiers.org/reactome/R-HSA-140180"/>
+    <compath:isPartOf rdf:resource="http://identifiers.org/reactome/R-HSA-1430728"/>
+    <compath:isPartOf rdf:resource="http://identifiers.org/reactome/R-HSA-2162123"/>
+    <compath:isPartOf rdf:resource="http://identifiers.org/reactome/R-HSA-556833"/>
+    <compath:isPartOf rdf:resource="http://identifiers.org/reactome/R-HSA-391908"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://identifiers.org/kegg.pathway/hsa00220">
+    <compath:isPartOf rdf:resource="http://identifiers.org/reactome/R-HSA-71291"/>
+    <compath:isPartOf rdf:resource="http://identifiers.org/wikipathways/WP497"/>
+    <compath:isPartOf rdf:resource="http://identifiers.org/reactome/R-HSA-70635"/>
+    <compath:isPartOf rdf:resource="http://identifiers.org/reactome/R-HSA-1430728"/>
+    <compath:isPartOf rdf:resource="http://identifiers.org/wikipathways/WP3925"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://identifiers.org/wikipathways/WP3851">
+    <compath:isPartOf rdf:resource="http://identifiers.org/reactome/R-HSA-166016"/>
+    <compath:isPartOf rdf:resource="http://identifiers.org/reactome/R-HSA-168898"/>
+    <compath:isPartOf rdf:resource="http://identifiers.org/reactome/R-HSA-168249"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://identifiers.org/wikipathways/WP3865">
+    <compath:isPartOf rdf:resource="http://identifiers.org/reactome/R-HSA-168249"/>
+    <compath:isPartOf rdf:resource="http://identifiers.org/reactome/R-HSA-168256"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://identifiers.org/wikipathways/WP733">
+    <compath:isPartOf rdf:resource="http://identifiers.org/reactome/R-HSA-372790"/>
+    <compath:isPartOf rdf:resource="http://identifiers.org/reactome/R-HSA-388396"/>
+    <compath:isPartOf rdf:resource="http://identifiers.org/reactome/R-HSA-416476"/>
+    <compath:isPartOf rdf:resource="http://identifiers.org/reactome/R-HSA-390666"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://identifiers.org/kegg.pathway/hsa00603">
+    <compath:isPartOf rdf:resource="http://identifiers.org/reactome/R-HSA-428157"/>
+    <compath:isPartOf rdf:resource="http://identifiers.org/wikipathways/WP1424"/>
+    <compath:isPartOf rdf:resource="http://identifiers.org/reactome/R-HSA-1660662"/>
+    <compath:isPartOf rdf:resource="http://identifiers.org/reactome/R-HSA-556833"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://identifiers.org/kegg.pathway/hsa00564">
+    <compath:isPartOf rdf:resource="http://identifiers.org/reactome/R-HSA-192456"/>
+    <compath:isPartOf rdf:resource="http://identifiers.org/reactome/R-HSA-1483206"/>
+    <compath:isPartOf rdf:resource="http://identifiers.org/reactome/R-HSA-1483213"/>
+    <compath:isPartOf rdf:resource="http://identifiers.org/reactome/R-HSA-556833"/>
+    <compath:isPartOf rdf:resource="http://identifiers.org/wikipathways/WP325"/>
+    <compath:isPartOf rdf:resource="http://identifiers.org/reactome/R-HSA-1482788"/>
+    <compath:isPartOf rdf:resource="http://identifiers.org/reactome/R-HSA-1483101"/>
+    <compath:isPartOf rdf:resource="http://identifiers.org/reactome/R-HSA-1430728"/>
+    <compath:isPartOf rdf:resource="http://identifiers.org/wikipathways/WP2533"/>
+    <compath:isPartOf rdf:resource="http://identifiers.org/reactome/R-HSA-1482922"/>
+    <compath:isPartOf rdf:resource="http://identifiers.org/reactome/R-HSA-6814848"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://identifiers.org/wikipathways/WP534">
+    <compath:isPartOf rdf:resource="http://identifiers.org/reactome/R-HSA-1430728"/>
+    <compath:isPartOf rdf:resource="http://identifiers.org/reactome/R-HSA-70171"/>
+    <compath:isPartOf rdf:resource="http://identifiers.org/reactome/R-HSA-71387"/>
+    <compath:isPartOf rdf:resource="http://identifiers.org/reactome/R-HSA-70326"/>
+    <compath:isPartOf rdf:resource="http://identifiers.org/reactome/R-HSA-70263"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://identifiers.org/wikipathways/WP24">
+    <compath:isPartOf rdf:resource="http://identifiers.org/reactome/R-HSA-500792"/>
+    <compath:isPartOf rdf:resource="http://identifiers.org/reactome/R-HSA-372790"/>
+    <compath:isPartOf rdf:resource="http://identifiers.org/reactome/R-HSA-388396"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://identifiers.org/wikipathways/WP58">
+    <compath:isPartOf rdf:resource="http://identifiers.org/reactome/R-HSA-373076"/>
+    <compath:isPartOf rdf:resource="http://identifiers.org/reactome/R-HSA-390651"/>
+    <compath:isPartOf rdf:resource="http://identifiers.org/reactome/R-HSA-500792"/>
+    <compath:isPartOf rdf:resource="http://identifiers.org/reactome/R-HSA-418594"/>
+    <compath:isPartOf rdf:resource="http://identifiers.org/reactome/R-HSA-390666"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://identifiers.org/kegg.pathway/hsa04611">
+    <compath:isPartOf rdf:resource="http://identifiers.org/reactome/R-HSA-75892"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://identifiers.org/wikipathways/WP3645">
+    <compath:isPartOf rdf:resource="http://identifiers.org/reactome/R-HSA-196807"/>
+    <compath:isPartOf rdf:resource="http://identifiers.org/reactome/R-HSA-1430728"/>
+    <compath:isPartOf rdf:resource="http://identifiers.org/reactome/R-HSA-196849"/>
+    <compath:isPartOf rdf:resource="http://identifiers.org/reactome/R-HSA-196854"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://identifiers.org/wikipathways/WP2436">
+    <compath:isPartOf rdf:resource="http://identifiers.org/reactome/R-HSA-140179"/>
+    <compath:isPartOf rdf:resource="http://identifiers.org/reactome/R-HSA-379401"/>
+    <compath:isPartOf rdf:resource="http://identifiers.org/reactome/R-HSA-379397"/>
+    <compath:isPartOf rdf:resource="http://identifiers.org/reactome/R-HSA-379398"/>
+    <compath:isPartOf rdf:resource="http://identifiers.org/reactome/R-HSA-1430728"/>
+    <compath:isPartOf rdf:resource="http://identifiers.org/reactome/R-HSA-390651"/>
+    <compath:isPartOf rdf:resource="http://identifiers.org/reactome/R-HSA-141333"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://identifiers.org/wikipathways/WP286">
+    <compath:isPartOf rdf:resource="http://identifiers.org/reactome/R-HSA-449147"/>
+    <compath:isPartOf rdf:resource="http://identifiers.org/reactome/R-HSA-512988"/>
+    <compath:isPartOf rdf:resource="http://identifiers.org/reactome/R-HSA-1280215"/>
+    <compath:isPartOf rdf:resource="http://identifiers.org/reactome/R-HSA-168256"/>
+    <compath:isPartOf rdf:resource="http://identifiers.org/reactome/R-HSA-168249"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://identifiers.org/wikipathways/WP3529">
+    <compath:isPartOf rdf:resource="http://identifiers.org/reactome/R-HSA-435354"/>
+    <compath:isPartOf rdf:resource="http://identifiers.org/reactome/R-HSA-435368"/>
+    <compath:isPartOf rdf:resource="http://identifiers.org/reactome/R-HSA-442380"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://identifiers.org/kegg.pathway/hsa04068">
+    <compath:isPartOf rdf:resource="http://identifiers.org/reactome/R-HSA-211163"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://identifiers.org/wikipathways/WP129">
+    <compath:isPartOf rdf:resource="http://identifiers.org/reactome/R-HSA-1474244"/>
+    <compath:isPartOf rdf:resource="http://identifiers.org/reactome/R-HSA-1592389"/>
+    <compath:isPartOf rdf:resource="http://identifiers.org/reactome/R-HSA-1474228"/>
+    <compath:isPartOf rdf:resource="http://identifiers.org/reactome/R-HSA-5689901"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://identifiers.org/wikipathways/WP28">
+    <compath:isPartOf rdf:resource="http://identifiers.org/reactome/R-HSA-392499"/>
+    <compath:isPartOf rdf:resource="http://identifiers.org/reactome/R-HSA-1430728"/>
+    <compath:isPartOf rdf:resource="http://identifiers.org/reactome/R-HSA-2408550"/>
+    <compath:isPartOf rdf:resource="http://identifiers.org/reactome/R-HSA-5263617"/>
+    <compath:isPartOf rdf:resource="http://identifiers.org/reactome/R-HSA-2408522"/>
+    <compath:isPartOf rdf:resource="http://identifiers.org/reactome/R-HSA-2408508"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://identifiers.org/kegg.pathway/hsa04145">
+    <compath:isPartOf rdf:resource="http://identifiers.org/reactome/R-HSA-168249"/>
+    <compath:isPartOf rdf:resource="http://identifiers.org/reactome/R-HSA-1280218"/>
+    <compath:isPartOf rdf:resource="http://identifiers.org/reactome/R-HSA-1236974"/>
+    <compath:isPartOf rdf:resource="http://identifiers.org/reactome/R-HSA-168256"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://identifiers.org/kegg.pathway/hsa00260">
+    <compath:isPartOf rdf:resource="http://identifiers.org/reactome/R-HSA-71291"/>
+    <compath:isPartOf rdf:resource="http://identifiers.org/reactome/R-HSA-70614"/>
+    <compath:isPartOf rdf:resource="http://identifiers.org/wikipathways/WP497"/>
+    <compath:isPartOf rdf:resource="http://identifiers.org/reactome/R-HSA-140179"/>
+    <compath:isPartOf rdf:resource="http://identifiers.org/wikipathways/WP3925"/>
+    <compath:isPartOf rdf:resource="http://identifiers.org/reactome/R-HSA-1430728"/>
+    <compath:isPartOf rdf:resource="http://identifiers.org/reactome/R-HSA-6783984"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://identifiers.org/wikipathways/WP560">
+    <compath:equivalentTo rdf:resource="http://identifiers.org/reactome/R-HSA-9006936"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://identifiers.org/wikipathways/WP167">
+    <compath:isPartOf rdf:resource="http://identifiers.org/reactome/R-HSA-2142753"/>
+    <compath:isPartOf rdf:resource="http://identifiers.org/reactome/R-HSA-1430728"/>
+    <compath:isPartOf rdf:resource="http://identifiers.org/reactome/R-HSA-211979"/>
+    <compath:isPartOf rdf:resource="http://identifiers.org/reactome/R-HSA-556833"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://identifiers.org/wikipathways/WP3845">
+    <compath:isPartOf rdf:resource="http://identifiers.org/reactome/R-HSA-350054"/>
+    <compath:isPartOf rdf:resource="http://identifiers.org/reactome/R-HSA-157118"/>
+    <compath:isPartOf rdf:resource="http://identifiers.org/reactome/R-HSA-9013507"/>
+    <compath:isPartOf rdf:resource="http://identifiers.org/reactome/R-HSA-2979096"/>
+    <compath:isPartOf rdf:resource="http://identifiers.org/reactome/R-HSA-9012852"/>
+    <compath:isPartOf rdf:resource="http://identifiers.org/reactome/R-HSA-9013508"/>
+    <compath:isPartOf rdf:resource="http://identifiers.org/reactome/R-HSA-1980150"/>
+    <compath:equivalentTo rdf:resource="http://identifiers.org/reactome/R-HSA-157118"/>
+    <compath:isPartOf rdf:resource="http://identifiers.org/reactome/R-HSA-2660826"/>
+    <compath:isPartOf rdf:resource="http://identifiers.org/reactome/R-HSA-1912399"/>
+    <compath:isPartOf rdf:resource="http://identifiers.org/reactome/R-HSA-1980143"/>
+    <compath:isPartOf rdf:resource="http://identifiers.org/reactome/R-HSA-1980145"/>
+    <compath:isPartOf rdf:resource="http://identifiers.org/reactome/R-HSA-162582"/>
+    <compath:isPartOf rdf:resource="http://identifiers.org/reactome/R-HSA-5083630"/>
+    <compath:isPartOf rdf:resource="http://identifiers.org/reactome/R-HSA-2122948"/>
+    <compath:isPartOf rdf:resource="http://identifiers.org/reactome/R-HSA-8941856"/>
+    <compath:isPartOf rdf:resource="http://identifiers.org/reactome/R-HSA-2660825"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://identifiers.org/wikipathways/WP391">
+    <compath:isPartOf rdf:resource="http://identifiers.org/reactome/R-HSA-163316"/>
+    <compath:isPartOf rdf:resource="http://identifiers.org/reactome/R-HSA-1592230"/>
+    <compath:isPartOf rdf:resource="http://identifiers.org/reactome/R-HSA-2151201"/>
+    <compath:isPartOf rdf:resource="http://identifiers.org/reactome/R-HSA-163282"/>
+    <compath:isPartOf rdf:resource="http://identifiers.org/reactome/R-HSA-1852241"/>
+    <compath:isPartOf rdf:resource="http://identifiers.org/reactome/R-HSA-75944"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://identifiers.org/wikipathways/WP3871">
+    <compath:isPartOf rdf:resource="http://identifiers.org/reactome/R-HSA-1430728"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://identifiers.org/kegg.pathway/hsa00350">
+    <compath:isPartOf rdf:resource="http://identifiers.org/reactome/R-HSA-71182"/>
+    <compath:isPartOf rdf:resource="http://identifiers.org/reactome/R-HSA-71291"/>
+    <compath:isPartOf rdf:resource="http://identifiers.org/reactome/R-HSA-70614"/>
+    <compath:isPartOf rdf:resource="http://identifiers.org/wikipathways/WP3925"/>
+    <compath:isPartOf rdf:resource="http://identifiers.org/reactome/R-HSA-1430728"/>
+    <compath:isPartOf rdf:resource="http://identifiers.org/wikipathways/WP550"/>
+    <compath:isPartOf rdf:resource="http://identifiers.org/reactome/R-HSA-6788656"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://identifiers.org/kegg.pathway/hsa04620">
+    <compath:isPartOf rdf:resource="http://identifiers.org/reactome/R-HSA-168176"/>
+    <compath:isPartOf rdf:resource="http://identifiers.org/reactome/R-HSA-168142"/>
+    <compath:isPartOf rdf:resource="http://identifiers.org/reactome/R-HSA-168179"/>
+    <compath:isPartOf rdf:resource="http://identifiers.org/reactome/R-HSA-166016"/>
+    <compath:equivalentTo rdf:resource="http://identifiers.org/wikipathways/WP3858"/>
+    <compath:equivalentTo rdf:resource="http://identifiers.org/reactome/R-HSA-168898"/>
+    <compath:isPartOf rdf:resource="http://identifiers.org/reactome/R-HSA-168138"/>
+    <compath:isPartOf rdf:resource="http://identifiers.org/reactome/R-HSA-168164"/>
+    <compath:isPartOf rdf:resource="http://identifiers.org/reactome/R-HSA-168181"/>
+    <compath:equivalentTo rdf:resource="http://identifiers.org/wikipathways/WP75"/>
+    <compath:isPartOf rdf:resource="http://identifiers.org/reactome/R-HSA-181438"/>
+    <compath:isPartOf rdf:resource="http://identifiers.org/reactome/R-HSA-168188"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://identifiers.org/kegg.pathway/hsa00130">
+    <compath:isPartOf rdf:resource="http://identifiers.org/reactome/R-HSA-1430728"/>
+    <compath:isPartOf rdf:resource="http://identifiers.org/reactome/R-HSA-196854"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://identifiers.org/wikipathways/WP2583">
+    <compath:isPartOf rdf:resource="http://identifiers.org/reactome/R-HSA-1280218"/>
+    <compath:isPartOf rdf:resource="http://identifiers.org/reactome/R-HSA-168256"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://identifiers.org/kegg.pathway/hsa04350">
+    <compath:equivalentTo rdf:resource="http://identifiers.org/wikipathways/WP366"/>
+    <compath:equivalentTo rdf:resource="http://identifiers.org/reactome/R-HSA-9006936"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://identifiers.org/kegg.pathway/hsa00020">
+    <compath:equivalentTo rdf:resource="http://identifiers.org/wikipathways/WP78"/>
+    <compath:isPartOf rdf:resource="http://identifiers.org/wikipathways/WP2453"/>
+    <compath:equivalentTo rdf:resource="http://identifiers.org/reactome/R-HSA-71403"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://identifiers.org/kegg.pathway/hsa04217">
+    <compath:equivalentTo rdf:resource="http://identifiers.org/reactome/R-HSA-5675482"/>
+    <compath:isPartOf rdf:resource="http://identifiers.org/wikipathways/WP2513"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://identifiers.org/wikipathways/WP3933">
+    <compath:isPartOf rdf:resource="http://identifiers.org/reactome/R-HSA-1483191"/>
+    <compath:isPartOf rdf:resource="http://identifiers.org/reactome/R-HSA-428157"/>
+    <compath:isPartOf rdf:resource="http://identifiers.org/reactome/R-HSA-1430728"/>
+    <compath:isPartOf rdf:resource="http://identifiers.org/reactome/R-HSA-556833"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://identifiers.org/kegg.pathway/hsa03008">
+    <compath:isPartOf rdf:resource="http://identifiers.org/reactome/R-HSA-8868773"/>
+    <compath:isPartOf rdf:resource="http://identifiers.org/reactome/R-HSA-8953854"/>
+    <compath:isPartOf rdf:resource="http://identifiers.org/reactome/R-HSA-6790901"/>
+    <compath:isPartOf rdf:resource="http://identifiers.org/reactome/R-HSA-72312"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://identifiers.org/kegg.pathway/hsa04612">
+    <compath:isPartOf rdf:resource="http://identifiers.org/reactome/R-HSA-2132295"/>
+    <compath:equivalentTo rdf:resource="http://identifiers.org/reactome/R-HSA-1236975"/>
+    <compath:isPartOf rdf:resource="http://identifiers.org/reactome/R-HSA-983169"/>
+    <compath:isPartOf rdf:resource="http://identifiers.org/reactome/R-HSA-983170"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://identifiers.org/wikipathways/WP127">
+    <compath:isPartOf rdf:resource="http://identifiers.org/reactome/R-HSA-168256"/>
+    <compath:isPartOf rdf:resource="http://identifiers.org/reactome/R-HSA-449147"/>
+    <compath:isPartOf rdf:resource="http://identifiers.org/reactome/R-HSA-168249"/>
+    <compath:isPartOf rdf:resource="http://identifiers.org/reactome/R-HSA-1280215"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://identifiers.org/wikipathways/WP170">
+    <compath:isPartOf rdf:resource="http://identifiers.org/reactome/R-HSA-383280"/>
+    <compath:isPartOf rdf:resource="http://identifiers.org/reactome/R-HSA-9006931"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://identifiers.org/wikipathways/WP545">
+    <compath:isPartOf rdf:resource="http://identifiers.org/reactome/R-HSA-174577"/>
+    <compath:isPartOf rdf:resource="http://identifiers.org/reactome/R-HSA-166663"/>
+    <compath:equivalentTo rdf:resource="http://identifiers.org/reactome/R-HSA-166658"/>
+    <compath:isPartOf rdf:resource="http://identifiers.org/reactome/R-HSA-977606"/>
+    <compath:isPartOf rdf:resource="http://identifiers.org/reactome/R-HSA-166665"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://identifiers.org/wikipathways/WP1772">
+    <compath:isPartOf rdf:resource="http://identifiers.org/reactome/R-HSA-111459"/>
+    <compath:isPartOf rdf:resource="http://identifiers.org/reactome/R-HSA-111453"/>
+    <compath:isPartOf rdf:resource="http://identifiers.org/reactome/R-HSA-109581"/>
+    <compath:isPartOf rdf:resource="http://identifiers.org/reactome/R-HSA-111458"/>
+    <compath:isPartOf rdf:resource="http://identifiers.org/reactome/R-HSA-75157"/>
+    <compath:isPartOf rdf:resource="http://identifiers.org/reactome/R-HSA-114294"/>
+    <compath:isPartOf rdf:resource="http://identifiers.org/reactome/R-HSA-5357769"/>
+    <compath:isPartOf rdf:resource="http://identifiers.org/reactome/R-HSA-111461"/>
+    <compath:isPartOf rdf:resource="http://identifiers.org/reactome/R-HSA-5218900"/>
+    <compath:isPartOf rdf:resource="http://identifiers.org/reactome/R-HSA-6803207"/>
+    <compath:isPartOf rdf:resource="http://identifiers.org/reactome/R-HSA-69416"/>
+    <compath:isPartOf rdf:resource="http://identifiers.org/reactome/R-HSA-111471"/>
+    <compath:isPartOf rdf:resource="http://identifiers.org/reactome/R-HSA-111457"/>
+    <compath:isPartOf rdf:resource="http://identifiers.org/reactome/R-HSA-111452"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://identifiers.org/wikipathways/WP524">
+    <compath:isPartOf rdf:resource="http://identifiers.org/reactome/R-HSA-162582"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://identifiers.org/kegg.pathway/hsa00240">
+    <compath:isPartOf rdf:resource="http://identifiers.org/reactome/R-HSA-500753"/>
+    <compath:isPartOf rdf:resource="http://identifiers.org/reactome/R-HSA-15869"/>
+    <compath:isPartOf rdf:resource="http://identifiers.org/reactome/R-HSA-73621"/>
+    <compath:isPartOf rdf:resource="http://identifiers.org/reactome/R-HSA-73614"/>
+    <compath:equivalentTo rdf:resource="http://identifiers.org/wikipathways/WP4022"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://identifiers.org/kegg.pathway/hsa03450">
+    <compath:equivalentTo rdf:resource="http://identifiers.org/reactome/R-HSA-5693571"/>
+    <compath:equivalentTo rdf:resource="http://identifiers.org/wikipathways/WP438"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://identifiers.org/wikipathways/WP3644">
+    <compath:isPartOf rdf:resource="http://identifiers.org/reactome/R-HSA-196854"/>
+    <compath:isPartOf rdf:resource="http://identifiers.org/reactome/R-HSA-196849"/>
+    <compath:isPartOf rdf:resource="http://identifiers.org/reactome/R-HSA-196807"/>
+    <compath:isPartOf rdf:resource="http://identifiers.org/reactome/R-HSA-1430728"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://identifiers.org/wikipathways/WP366">
+    <compath:equivalentTo rdf:resource="http://identifiers.org/reactome/R-HSA-9006936"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://identifiers.org/kegg.pathway/hsa00532">
+    <compath:isPartOf rdf:resource="http://identifiers.org/reactome/R-HSA-1630316"/>
+    <compath:isPartOf rdf:resource="http://identifiers.org/reactome/R-HSA-1793185"/>
+    <compath:isPartOf rdf:resource="http://identifiers.org/reactome/R-HSA-1430728"/>
+    <compath:isPartOf rdf:resource="http://identifiers.org/reactome/R-HSA-2022870"/>
+    <compath:isPartOf rdf:resource="http://identifiers.org/reactome/R-HSA-2022923"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://identifiers.org/kegg.pathway/hsa00400">
+    <compath:isPartOf rdf:resource="http://identifiers.org/reactome/R-HSA-6788656"/>
+    <compath:isPartOf rdf:resource="http://identifiers.org/wikipathways/WP550"/>
+    <compath:isPartOf rdf:resource="http://identifiers.org/reactome/R-HSA-1430728"/>
+    <compath:isPartOf rdf:resource="http://identifiers.org/reactome/R-HSA-71291"/>
+    <compath:isPartOf rdf:resource="http://identifiers.org/reactome/R-HSA-71182"/>
+    <compath:isPartOf rdf:resource="http://identifiers.org/reactome/R-HSA-70614"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://identifiers.org/kegg.pathway/hsa05014">
+    <compath:equivalentTo rdf:resource="http://identifiers.org/wikipathways/WP2447"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://identifiers.org/kegg.pathway/hsa04540">
+    <compath:isPartOf rdf:resource="http://identifiers.org/reactome/R-HSA-191647"/>
+    <compath:isPartOf rdf:resource="http://identifiers.org/reactome/R-HSA-191650"/>
+    <compath:isPartOf rdf:resource="http://identifiers.org/reactome/R-HSA-190828"/>
+    <compath:isPartOf rdf:resource="http://identifiers.org/reactome/R-HSA-157858"/>
+    <compath:isPartOf rdf:resource="http://identifiers.org/reactome/R-HSA-190861"/>
+    <compath:isPartOf rdf:resource="http://identifiers.org/reactome/R-HSA-190873"/>
+    <compath:isPartOf rdf:resource="http://identifiers.org/reactome/R-HSA-196025"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://identifiers.org/kegg.pathway/hsa04115">
+    <compath:isPartOf rdf:resource="http://identifiers.org/reactome/R-HSA-6804116"/>
+    <compath:isPartOf rdf:resource="http://identifiers.org/reactome/R-HSA-6791312"/>
+    <compath:isPartOf rdf:resource="http://identifiers.org/reactome/R-HSA-6806003"/>
+    <compath:isPartOf rdf:resource="http://identifiers.org/reactome/R-HSA-6803211"/>
+    <compath:isPartOf rdf:resource="http://identifiers.org/reactome/R-HSA-6804757"/>
+    <compath:isPartOf rdf:resource="http://identifiers.org/reactome/R-HSA-6803207"/>
+    <compath:isPartOf rdf:resource="http://identifiers.org/reactome/R-HSA-6803205"/>
+    <compath:isPartOf rdf:resource="http://identifiers.org/reactome/R-HSA-5633008"/>
+    <compath:isPartOf rdf:resource="http://identifiers.org/reactome/R-HSA-5628897"/>
+    <compath:isPartOf rdf:resource="http://identifiers.org/reactome/R-HSA-6804760"/>
+    <compath:isPartOf rdf:resource="http://identifiers.org/reactome/R-HSA-6803204"/>
+    <compath:isPartOf rdf:resource="http://identifiers.org/reactome/R-HSA-6804754"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://identifiers.org/kegg.pathway/hsa04622">
+    <compath:equivalentTo rdf:resource="http://identifiers.org/wikipathways/WP3865"/>
+    <compath:isPartOf rdf:resource="http://identifiers.org/reactome/R-HSA-168249"/>
+    <compath:isPartOf rdf:resource="http://identifiers.org/reactome/R-HSA-168256"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://identifiers.org/kegg.pathway/hsa04614">
+    <compath:isPartOf rdf:resource="http://identifiers.org/reactome/R-HSA-2022377"/>
+    <compath:isPartOf rdf:resource="http://identifiers.org/wikipathways/WP554"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://identifiers.org/kegg.pathway/hsa04218">
+    <compath:equivalentTo rdf:resource="http://identifiers.org/reactome/R-HSA-2559583"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://identifiers.org/kegg.pathway/hsa03320">
+    <compath:equivalentTo rdf:resource="http://identifiers.org/wikipathways/WP3942"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://identifiers.org/wikipathways/WP496">
+    <compath:isPartOf rdf:resource="http://identifiers.org/reactome/R-HSA-193993"/>
+    <compath:isPartOf rdf:resource="http://identifiers.org/reactome/R-HSA-1430728"/>
+    <compath:isPartOf rdf:resource="http://identifiers.org/reactome/R-HSA-193048"/>
+    <compath:isPartOf rdf:resource="http://identifiers.org/reactome/R-HSA-196071"/>
+    <compath:isPartOf rdf:resource="http://identifiers.org/reactome/R-HSA-193144"/>
+    <compath:isPartOf rdf:resource="http://identifiers.org/reactome/R-HSA-191273"/>
+    <compath:isPartOf rdf:resource="http://identifiers.org/reactome/R-HSA-8957322"/>
+    <compath:isPartOf rdf:resource="http://identifiers.org/reactome/R-HSA-194002"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://identifiers.org/kegg.pathway/hsa00290">
+    <compath:isPartOf rdf:resource="http://identifiers.org/reactome/R-HSA-71291"/>
+    <compath:isPartOf rdf:resource="http://identifiers.org/reactome/R-HSA-1430728"/>
+    <compath:isPartOf rdf:resource="http://identifiers.org/wikipathways/WP3925"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://identifiers.org/kegg.pathway/hsa04630">
+    <compath:isPartOf rdf:resource="http://identifiers.org/reactome/R-HSA-8983432"/>
+    <compath:isPartOf rdf:resource="http://identifiers.org/reactome/R-HSA-9020958"/>
+    <compath:isPartOf rdf:resource="http://identifiers.org/reactome/R-HSA-9020933"/>
+    <compath:isPartOf rdf:resource="http://identifiers.org/reactome/R-HSA-877312"/>
+    <compath:isPartOf rdf:resource="http://identifiers.org/reactome/R-HSA-8985947"/>
+    <compath:isPartOf rdf:resource="http://identifiers.org/reactome/R-HSA-1059683"/>
+    <compath:isPartOf rdf:resource="http://identifiers.org/reactome/R-HSA-8950505"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://identifiers.org/kegg.pathway/hsa04060">
+    <compath:isPartOf rdf:resource="http://identifiers.org/reactome/R-HSA-1280215"/>
+    <compath:isPartOf rdf:resource="http://identifiers.org/reactome/R-HSA-5632681"/>
+    <compath:isPartOf rdf:resource="http://identifiers.org/reactome/R-HSA-380108"/>
+    <compath:isPartOf rdf:resource="http://identifiers.org/reactome/R-HSA-5669034"/>
+    <compath:isPartOf rdf:resource="http://identifiers.org/reactome/R-HSA-6788467"/>
+    <compath:isPartOf rdf:resource="http://identifiers.org/wikipathways/WP453"/>
+    <compath:isPartOf rdf:resource="http://identifiers.org/wikipathways/WP530"/>
+    <compath:isPartOf rdf:resource="http://identifiers.org/reactome/R-HSA-168256"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://identifiers.org/kegg.pathway/hsa04714">
+    <compath:isPartOf rdf:resource="http://identifiers.org/reactome/R-HSA-1430728"/>
+    <compath:isPartOf rdf:resource="http://identifiers.org/reactome/R-HSA-163210"/>
+    <compath:isPartOf rdf:resource="http://identifiers.org/reactome/R-HSA-611105"/>
+    <compath:isPartOf rdf:resource="http://identifiers.org/reactome/R-HSA-163200"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://identifiers.org/kegg.pathway/hsa04666">
+    <compath:equivalentTo rdf:resource="http://identifiers.org/reactome/R-HSA-2029480"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://identifiers.org/kegg.pathway/hsa03050">
+    <compath:isPartOf rdf:resource="http://identifiers.org/reactome/R-HSA-5610780"/>
+    <compath:equivalentTo rdf:resource="http://identifiers.org/wikipathways/WP183"/>
+    <compath:isPartOf rdf:resource="http://identifiers.org/reactome/R-HSA-211733"/>
+    <compath:isPartOf rdf:resource="http://identifiers.org/wikipathways/WP2359"/>
+    <compath:isPartOf rdf:resource="http://identifiers.org/reactome/R-HSA-5610785"/>
+    <compath:isPartOf rdf:resource="http://identifiers.org/reactome/R-HSA-5689880"/>
+    <compath:isPartOf rdf:resource="http://identifiers.org/reactome/R-HSA-349425"/>
+    <compath:isPartOf rdf:resource="http://identifiers.org/reactome/R-HSA-392499"/>
+    <compath:isPartOf rdf:resource="http://identifiers.org/reactome/R-HSA-5610783"/>
+    <compath:isPartOf rdf:resource="http://identifiers.org/reactome/R-HSA-983168"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://identifiers.org/wikipathways/WP585">
+    <compath:isPartOf rdf:resource="http://identifiers.org/reactome/R-HSA-1280218"/>
+    <compath:isPartOf rdf:resource="http://identifiers.org/reactome/R-HSA-168256"/>
+    <compath:isPartOf rdf:resource="http://identifiers.org/reactome/R-HSA-1280215"/>
+    <compath:isPartOf rdf:resource="http://identifiers.org/reactome/R-HSA-913531"/>
+    <compath:isPartOf rdf:resource="http://identifiers.org/reactome/R-HSA-168249"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://identifiers.org/kegg.pathway/hsa04974">
+    <compath:isPartOf rdf:resource="http://identifiers.org/reactome/R-HSA-8963743"/>
+    <compath:isPartOf rdf:resource="http://identifiers.org/reactome/R-HSA-8963676"/>
+    <compath:isPartOf rdf:resource="http://identifiers.org/reactome/R-HSA-392499"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://identifiers.org/wikipathways/WP4142">
+    <compath:isPartOf rdf:resource="http://identifiers.org/reactome/R-HSA-1430728"/>
+    <compath:isPartOf rdf:resource="http://identifiers.org/reactome/R-HSA-392499"/>
+    <compath:isPartOf rdf:resource="http://identifiers.org/reactome/R-HSA-556833"/>
+    <compath:isPartOf rdf:resource="http://identifiers.org/reactome/R-HSA-428157"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://identifiers.org/wikipathways/WP3872">
+    <compath:isPartOf rdf:resource="http://identifiers.org/reactome/R-HSA-5357801"/>
+    <compath:isPartOf rdf:resource="http://identifiers.org/reactome/R-HSA-109581"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://identifiers.org/kegg.pathway/hsa00140">
+    <compath:isPartOf rdf:resource="http://identifiers.org/reactome/R-HSA-196071"/>
+    <compath:isPartOf rdf:resource="http://identifiers.org/wikipathways/WP237"/>
+    <compath:isPartOf rdf:resource="http://identifiers.org/reactome/R-HSA-194002"/>
+    <compath:isPartOf rdf:resource="http://identifiers.org/reactome/R-HSA-193993"/>
+    <compath:isPartOf rdf:resource="http://identifiers.org/reactome/R-HSA-1430728"/>
+    <compath:isPartOf rdf:resource="http://identifiers.org/reactome/R-HSA-193144"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://identifiers.org/kegg.pathway/hsa00230">
+    <compath:isPartOf rdf:resource="http://identifiers.org/reactome/R-HSA-8956319"/>
+    <compath:isPartOf rdf:resource="http://identifiers.org/wikipathways/WP466"/>
+    <compath:isPartOf rdf:resource="http://identifiers.org/wikipathways/WP186"/>
+    <compath:isPartOf rdf:resource="http://identifiers.org/reactome/R-HSA-74217"/>
+    <compath:isPartOf rdf:resource="http://identifiers.org/reactome/R-HSA-73817"/>
+    <compath:isPartOf rdf:resource="http://identifiers.org/reactome/R-HSA-15869"/>
+    <compath:isPartOf rdf:resource="http://identifiers.org/wikipathways/WP404"/>
+    <compath:isPartOf rdf:resource="http://identifiers.org/reactome/R-HSA-74259"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://identifiers.org/kegg.pathway/hsa00591">
+    <compath:equivalentTo rdf:resource="http://identifiers.org/reactome/R-HSA-2046105"/>
+    <compath:isPartOf rdf:resource="http://identifiers.org/reactome/R-HSA-556833"/>
+    <compath:isPartOf rdf:resource="http://identifiers.org/reactome/R-HSA-1430728"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://identifiers.org/kegg.pathway/hsa04151">
+    <compath:equivalentTo rdf:resource="http://identifiers.org/reactome/R-HSA-198203"/>
+    <compath:equivalentTo rdf:resource="http://identifiers.org/wikipathways/WP4172"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://identifiers.org/kegg.pathway/hsa04370">
+    <compath:isPartOf rdf:resource="http://identifiers.org/wikipathways/WP3888"/>
+    <compath:isPartOf rdf:resource="http://identifiers.org/wikipathways/WP3943"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://identifiers.org/kegg.pathway/hsa04728">
+    <compath:isPartOf rdf:resource="http://identifiers.org/reactome/R-HSA-390651"/>
+    <compath:isPartOf rdf:resource="http://identifiers.org/reactome/R-HSA-399710"/>
+    <compath:isPartOf rdf:resource="http://identifiers.org/reactome/R-HSA-379401"/>
+    <compath:isPartOf rdf:resource="http://identifiers.org/reactome/R-HSA-379398"/>
+    <compath:isPartOf rdf:resource="http://identifiers.org/reactome/R-HSA-141333"/>
+    <compath:isPartOf rdf:resource="http://identifiers.org/wikipathways/WP1602"/>
+    <compath:isPartOf rdf:resource="http://identifiers.org/reactome/R-HSA-379397"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://identifiers.org/kegg.pathway/hsa00600">
+    <compath:equivalentTo rdf:resource="http://identifiers.org/reactome/R-HSA-428157"/>
+    <compath:isPartOf rdf:resource="http://identifiers.org/wikipathways/WP1422"/>
+    <compath:equivalentTo rdf:resource="http://identifiers.org/wikipathways/WP1422"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://identifiers.org/kegg.pathway/hsa04120">
+    <compath:isPartOf rdf:resource="http://identifiers.org/wikipathways/WP183"/>
+    <compath:isPartOf rdf:resource="http://identifiers.org/wikipathways/WP2359"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://identifiers.org/wikipathways/WP1946">
+    <compath:isPartOf rdf:resource="http://identifiers.org/reactome/R-HSA-1430728"/>
+    <compath:isPartOf rdf:resource="http://identifiers.org/reactome/R-HSA-71387"/>
+    <compath:isPartOf rdf:resource="http://identifiers.org/reactome/R-HSA-70326"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://identifiers.org/kegg.pathway/hsa05330">
+    <compath:isPartOf rdf:resource="http://identifiers.org/reactome/R-HSA-168256"/>
+    <compath:equivalentTo rdf:resource="http://identifiers.org/wikipathways/WP2328"/>
+    <compath:isPartOf rdf:resource="http://identifiers.org/reactome/R-HSA-1280218"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://identifiers.org/wikipathways/WP1533">
+    <compath:isPartOf rdf:resource="http://identifiers.org/reactome/R-HSA-1430728"/>
+    <compath:isPartOf rdf:resource="http://identifiers.org/reactome/R-HSA-3296469"/>
+    <compath:isPartOf rdf:resource="http://identifiers.org/reactome/R-HSA-196741"/>
+    <compath:isPartOf rdf:resource="http://identifiers.org/reactome/R-HSA-196854"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://identifiers.org/wikipathways/WP521">
+    <compath:isPartOf rdf:resource="http://identifiers.org/reactome/R-HSA-156587"/>
+    <compath:isPartOf rdf:resource="http://identifiers.org/reactome/R-HSA-159424"/>
+    <compath:isPartOf rdf:resource="http://identifiers.org/reactome/R-HSA-1430728"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://identifiers.org/wikipathways/WP4149">
+    <compath:isPartOf rdf:resource="http://identifiers.org/reactome/R-HSA-1266738"/>
+    <compath:isPartOf rdf:resource="http://identifiers.org/reactome/R-HSA-381340"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://identifiers.org/wikipathways/WP288">
+    <compath:isPartOf rdf:resource="http://identifiers.org/reactome/R-HSA-168249"/>
+    <compath:isPartOf rdf:resource="http://identifiers.org/reactome/R-HSA-168256"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://identifiers.org/wikipathways/WP107">
+    <compath:isPartOf rdf:resource="http://identifiers.org/reactome/R-HSA-72613"/>
+    <compath:isPartOf rdf:resource="http://identifiers.org/reactome/R-HSA-72766"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://identifiers.org/kegg.pathway/hsa00360">
+    <compath:isPartOf rdf:resource="http://identifiers.org/reactome/R-HSA-71291"/>
+    <compath:isPartOf rdf:resource="http://identifiers.org/reactome/R-HSA-6788656"/>
+    <compath:isPartOf rdf:resource="http://identifiers.org/wikipathways/WP3925"/>
+    <compath:isPartOf rdf:resource="http://identifiers.org/reactome/R-HSA-71182"/>
+    <compath:isPartOf rdf:resource="http://identifiers.org/reactome/R-HSA-1430728"/>
+    <compath:isPartOf rdf:resource="http://identifiers.org/wikipathways/WP550"/>
+    <compath:isPartOf rdf:resource="http://identifiers.org/reactome/R-HSA-70614"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://identifiers.org/wikipathways/WP690">
+    <compath:isPartOf rdf:resource="http://identifiers.org/reactome/R-HSA-71387"/>
+    <compath:isPartOf rdf:resource="http://identifiers.org/reactome/R-HSA-1430728"/>
+    <compath:isPartOf rdf:resource="http://identifiers.org/reactome/R-HSA-5652084"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://identifiers.org/wikipathways/WP45">
+    <compath:isPartOf rdf:resource="http://identifiers.org/reactome/R-HSA-69200"/>
+    <compath:isPartOf rdf:resource="http://identifiers.org/reactome/R-HSA-1640170"/>
+    <compath:isPartOf rdf:resource="http://identifiers.org/reactome/R-HSA-453279"/>
+    <compath:isPartOf rdf:resource="http://identifiers.org/reactome/R-HSA-68616"/>
+    <compath:isPartOf rdf:resource="http://identifiers.org/reactome/R-HSA-69278"/>
+    <compath:isPartOf rdf:resource="http://identifiers.org/reactome/R-HSA-69206"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://identifiers.org/kegg.pathway/hsa04144">
+    <compath:isPartOf rdf:resource="http://identifiers.org/reactome/R-HSA-8856828"/>
+    <compath:isPartOf rdf:resource="http://identifiers.org/reactome/R-HSA-8856825"/>
+    <compath:isPartOf rdf:resource="http://identifiers.org/reactome/R-HSA-917729"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://identifiers.org/wikipathways/WP2874">
+    <compath:isPartOf rdf:resource="http://identifiers.org/reactome/R-HSA-1655829"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://identifiers.org/kegg.pathway/hsa04215">
+    <compath:isPartOf rdf:resource="http://identifiers.org/wikipathways/WP2507"/>
+    <compath:isPartOf rdf:resource="http://identifiers.org/wikipathways/WP1772"/>
+    <compath:isPartOf rdf:resource="http://identifiers.org/reactome/R-HSA-109581"/>
+    <compath:isPartOf rdf:resource="http://identifiers.org/wikipathways/WP384"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://identifiers.org/wikipathways/WP299">
+    <compath:isPartOf rdf:resource="http://identifiers.org/reactome/R-HSA-556833"/>
+    <compath:isPartOf rdf:resource="http://identifiers.org/reactome/R-HSA-1430728"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://identifiers.org/wikipathways/WP176">
+    <compath:isPartOf rdf:resource="http://identifiers.org/reactome/R-HSA-196849"/>
+    <compath:isPartOf rdf:resource="http://identifiers.org/reactome/R-HSA-196854"/>
+    <compath:isPartOf rdf:resource="http://identifiers.org/reactome/R-HSA-196757"/>
+    <compath:isPartOf rdf:resource="http://identifiers.org/reactome/R-HSA-1614603"/>
+    <compath:isPartOf rdf:resource="http://identifiers.org/reactome/R-HSA-1430728"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://identifiers.org/kegg.pathway/hsa00061">
+    <compath:equivalentTo rdf:resource="http://identifiers.org/wikipathways/WP357"/>
+    <compath:isPartOf rdf:resource="http://identifiers.org/reactome/R-HSA-75105"/>
+    <compath:isPartOf rdf:resource="http://identifiers.org/reactome/R-HSA-1430728"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://identifiers.org/kegg.pathway/hsa03018">
+    <compath:isPartOf rdf:resource="http://identifiers.org/reactome/R-HSA-8953854"/>
+    <compath:isPartOf rdf:resource="http://identifiers.org/reactome/R-HSA-430039"/>
+    <compath:isPartOf rdf:resource="http://identifiers.org/reactome/R-HSA-429958"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://identifiers.org/kegg.pathway/hsa04925">
+    <compath:isPartOf rdf:resource="http://identifiers.org/wikipathways/WP237"/>
+    <compath:isPartOf rdf:resource="http://identifiers.org/reactome/R-HSA-1430728"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://identifiers.org/kegg.pathway/hsa00053">
+    <compath:isPartOf rdf:resource="http://identifiers.org/reactome/R-HSA-1430728"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://identifiers.org/wikipathways/WP530">
+    <compath:isPartOf rdf:resource="http://identifiers.org/reactome/R-HSA-448706"/>
+    <compath:isPartOf rdf:resource="http://identifiers.org/reactome/R-HSA-449147"/>
+    <compath:isPartOf rdf:resource="http://identifiers.org/reactome/R-HSA-6785807"/>
+    <compath:isPartOf rdf:resource="http://identifiers.org/reactome/R-HSA-168256"/>
+    <compath:equivalentTo rdf:resource="http://identifiers.org/reactome/R-HSA-1280215"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://identifiers.org/wikipathways/WP3601">
+    <compath:isPartOf rdf:resource="http://identifiers.org/reactome/R-HSA-1430728"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://identifiers.org/kegg.pathway/hsa04927">
+    <compath:isPartOf rdf:resource="http://identifiers.org/reactome/R-HSA-6807062"/>
+    <compath:isPartOf rdf:resource="http://identifiers.org/reactome/R-HSA-1430728"/>
+    <compath:isPartOf rdf:resource="http://identifiers.org/reactome/R-HSA-6807047"/>
+    <compath:isPartOf rdf:resource="http://identifiers.org/reactome/R-HSA-193993"/>
+    <compath:isPartOf rdf:resource="http://identifiers.org/reactome/R-HSA-194002"/>
+    <compath:isPartOf rdf:resource="http://identifiers.org/wikipathways/WP237"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://identifiers.org/wikipathways/WP4216">
+    <compath:isPartOf rdf:resource="http://identifiers.org/reactome/R-HSA-3304347"/>
+    <compath:isPartOf rdf:resource="http://identifiers.org/reactome/R-HSA-3311021"/>
+    <compath:isPartOf rdf:resource="http://identifiers.org/reactome/R-HSA-3315487"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://identifiers.org/wikipathways/WP1438">
+    <compath:isPartOf rdf:resource="http://identifiers.org/reactome/R-HSA-168254"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://identifiers.org/wikipathways/WP697">
+    <compath:isPartOf rdf:resource="http://identifiers.org/reactome/R-HSA-1430728"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://identifiers.org/wikipathways/WP428">
+    <compath:equivalentTo rdf:resource="http://identifiers.org/reactome/R-HSA-195721"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://identifiers.org/kegg.pathway/hsa04080">
+    <compath:isPartOf rdf:resource="http://identifiers.org/wikipathways/WP334"/>
+    <compath:isPartOf rdf:resource="http://identifiers.org/wikipathways/WP455"/>
+    <compath:isPartOf rdf:resource="http://identifiers.org/wikipathways/WP58"/>
+    <compath:isPartOf rdf:resource="http://identifiers.org/wikipathways/WP24"/>
+    <compath:isPartOf rdf:resource="http://identifiers.org/wikipathways/WP501"/>
+    <compath:isPartOf rdf:resource="http://identifiers.org/wikipathways/WP247"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://identifiers.org/kegg.pathway/hsa04142">
+    <compath:isPartOf rdf:resource="http://identifiers.org/reactome/R-HSA-8853383"/>
+    <compath:isPartOf rdf:resource="http://identifiers.org/reactome/R-HSA-432720"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://identifiers.org/wikipathways/WP411">
+    <compath:isPartOf rdf:resource="http://identifiers.org/reactome/R-HSA-194441"/>
+    <compath:isPartOf rdf:resource="http://identifiers.org/reactome/R-HSA-72163"/>
+    <compath:isPartOf rdf:resource="http://identifiers.org/reactome/R-HSA-72187"/>
+    <compath:isPartOf rdf:resource="http://identifiers.org/reactome/R-HSA-77595"/>
+    <compath:isPartOf rdf:resource="http://identifiers.org/reactome/R-HSA-72172"/>
+    <compath:isPartOf rdf:resource="http://identifiers.org/reactome/R-HSA-72203"/>
+    <compath:isPartOf rdf:resource="http://identifiers.org/reactome/R-HSA-72165"/>
+    <compath:isPartOf rdf:resource="http://identifiers.org/reactome/R-HSA-75067"/>
+    <compath:isPartOf rdf:resource="http://identifiers.org/reactome/R-HSA-8953854"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://identifiers.org/wikipathways/WP304">
+    <compath:isPartOf rdf:resource="http://identifiers.org/reactome/R-HSA-1433559"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://identifiers.org/kegg.pathway/hsa00280">
+    <compath:isPartOf rdf:resource="http://identifiers.org/reactome/R-HSA-70895"/>
+    <compath:isPartOf rdf:resource="http://identifiers.org/wikipathways/WP3925"/>
+    <compath:isPartOf rdf:resource="http://identifiers.org/reactome/R-HSA-1430728"/>
+    <compath:isPartOf rdf:resource="http://identifiers.org/reactome/R-HSA-71291"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://identifiers.org/wikipathways/WP254">
+    <compath:equivalentTo rdf:resource="http://identifiers.org/reactome/R-HSA-109581"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://identifiers.org/wikipathways/WP4153">
+    <compath:isPartOf rdf:resource="http://identifiers.org/reactome/R-HSA-1660662"/>
+    <compath:isPartOf rdf:resource="http://identifiers.org/reactome/R-HSA-428157"/>
+    <compath:isPartOf rdf:resource="http://identifiers.org/reactome/R-HSA-556833"/>
+    <compath:isPartOf rdf:resource="http://identifiers.org/reactome/R-HSA-1430728"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://identifiers.org/wikipathways/WP3627">
+    <compath:isPartOf rdf:resource="http://identifiers.org/reactome/R-HSA-1430728"/>
+    <compath:isPartOf rdf:resource="http://identifiers.org/reactome/R-HSA-211999"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://identifiers.org/kegg.pathway/hsa04260">
+    <compath:isPartOf rdf:resource="http://identifiers.org/reactome/R-HSA-397014"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://identifiers.org/kegg.pathway/hsa04727">
+    <compath:isPartOf rdf:resource="http://identifiers.org/reactome/R-HSA-977441"/>
+    <compath:isPartOf rdf:resource="http://identifiers.org/reactome/R-HSA-977444"/>
+    <compath:isPartOf rdf:resource="http://identifiers.org/reactome/R-HSA-977442"/>
+    <compath:isPartOf rdf:resource="http://identifiers.org/wikipathways/WP4159"/>
+    <compath:isPartOf rdf:resource="http://identifiers.org/reactome/R-HSA-977443"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://identifiers.org/wikipathways/WP2816">
+    <compath:isPartOf rdf:resource="http://identifiers.org/reactome/R-HSA-1430728"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://identifiers.org/wikipathways/WP704">
+    <compath:equivalentTo rdf:resource="http://identifiers.org/reactome/R-HSA-156581"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://identifiers.org/wikipathways/WP197">
+    <compath:isPartOf rdf:resource="http://identifiers.org/reactome/R-HSA-8957322"/>
+    <compath:isPartOf rdf:resource="http://identifiers.org/reactome/R-HSA-6807047"/>
+    <compath:isPartOf rdf:resource="http://identifiers.org/reactome/R-HSA-556833"/>
+    <compath:isPartOf rdf:resource="http://identifiers.org/reactome/R-HSA-6807062"/>
+    <compath:equivalentTo rdf:resource="http://identifiers.org/reactome/R-HSA-191273"/>
+    <compath:isPartOf rdf:resource="http://identifiers.org/reactome/R-HSA-1430728"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://identifiers.org/wikipathways/WP2338">
+    <compath:equivalentTo rdf:resource="http://identifiers.org/reactome/R-HSA-203927"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://identifiers.org/kegg.pathway/hsa04917">
+    <compath:equivalentTo rdf:resource="http://identifiers.org/reactome/R-HSA-1170546"/>
+    <compath:equivalentTo rdf:resource="http://identifiers.org/wikipathways/WP2037"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://identifiers.org/wikipathways/WP22">
+    <compath:equivalentTo rdf:resource="http://identifiers.org/reactome/R-HSA-8985947"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://identifiers.org/kegg.pathway/hsa00330">
+    <compath:isPartOf rdf:resource="http://identifiers.org/reactome/R-HSA-70688"/>
+    <compath:isPartOf rdf:resource="http://identifiers.org/reactome/R-HSA-71291"/>
+    <compath:isPartOf rdf:resource="http://identifiers.org/wikipathways/WP497"/>
+    <compath:isPartOf rdf:resource="http://identifiers.org/wikipathways/WP3925"/>
+    <compath:isPartOf rdf:resource="http://identifiers.org/reactome/R-HSA-1430728"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://identifiers.org/wikipathways/WP3942">
+    <compath:isPartOf rdf:resource="http://identifiers.org/reactome/R-HSA-8978868"/>
+    <compath:isPartOf rdf:resource="http://identifiers.org/reactome/R-HSA-1430728"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://identifiers.org/kegg.pathway/hsa04064">
+    <compath:isPartOf rdf:resource="http://identifiers.org/reactome/R-HSA-5357956"/>
+    <compath:isPartOf rdf:resource="http://identifiers.org/reactome/R-HSA-209560"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://identifiers.org/wikipathways/WP550">
+    <compath:isPartOf rdf:resource="http://identifiers.org/reactome/R-HSA-888590"/>
+    <compath:isPartOf rdf:resource="http://identifiers.org/reactome/R-HSA-380612"/>
+    <compath:isPartOf rdf:resource="http://identifiers.org/reactome/R-HSA-888568"/>
+    <compath:isPartOf rdf:resource="http://identifiers.org/reactome/R-HSA-1430728"/>
+    <compath:isPartOf rdf:resource="http://identifiers.org/reactome/R-HSA-209905"/>
+    <compath:isPartOf rdf:resource="http://identifiers.org/reactome/R-HSA-209931"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://identifiers.org/wikipathways/WP117">
+    <compath:isPartOf rdf:resource="http://identifiers.org/reactome/R-HSA-388396"/>
+    <compath:isPartOf rdf:resource="http://identifiers.org/reactome/R-HSA-500792"/>
+    <compath:isPartOf rdf:resource="http://identifiers.org/reactome/R-HSA-372790"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://identifiers.org/kegg.pathway/hsa00730">
+    <compath:equivalentTo rdf:resource="http://identifiers.org/reactome/R-HSA-196819"/>
+    <compath:isPartOf rdf:resource="http://identifiers.org/reactome/R-HSA-1430728"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://identifiers.org/kegg.pathway/hsa00750">
+    <compath:isPartOf rdf:resource="http://identifiers.org/reactome/R-HSA-196854"/>
+    <compath:isPartOf rdf:resource="http://identifiers.org/reactome/R-HSA-964975"/>
+    <compath:isPartOf rdf:resource="http://identifiers.org/reactome/R-HSA-1430728"/>
+    <compath:isPartOf rdf:resource="http://identifiers.org/reactome/R-HSA-196849"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://identifiers.org/wikipathways/WP453">
+    <compath:isPartOf rdf:resource="http://identifiers.org/reactome/R-HSA-1280215"/>
+    <compath:isPartOf rdf:resource="http://identifiers.org/reactome/R-HSA-168256"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://identifiers.org/kegg.pathway/hsa00760">
+    <compath:isPartOf rdf:resource="http://identifiers.org/wikipathways/WP1600"/>
+    <compath:isPartOf rdf:resource="http://identifiers.org/wikipathways/WP3644"/>
+    <compath:isPartOf rdf:resource="http://identifiers.org/wikipathways/WP4210"/>
+    <compath:isPartOf rdf:resource="http://identifiers.org/reactome/R-HSA-197264"/>
+    <compath:isPartOf rdf:resource="http://identifiers.org/wikipathways/WP3645"/>
+    <compath:isPartOf rdf:resource="http://identifiers.org/wikipathways/WP2485"/>
+    <compath:isPartOf rdf:resource="http://identifiers.org/reactome/R-HSA-1430728"/>
+    <compath:isPartOf rdf:resource="http://identifiers.org/reactome/R-HSA-196807"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://identifiers.org/kegg.pathway/hsa00190">
+    <compath:isPartOf rdf:resource="http://identifiers.org/reactome/R-HSA-163210"/>
+    <compath:isPartOf rdf:resource="http://identifiers.org/reactome/R-HSA-71737"/>
+    <compath:isPartOf rdf:resource="http://identifiers.org/reactome/R-HSA-1430728"/>
+    <compath:isPartOf rdf:resource="http://identifiers.org/reactome/R-HSA-1428517"/>
+    <compath:equivalentTo rdf:resource="http://identifiers.org/wikipathways/WP623"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://identifiers.org/kegg.pathway/hsa04740">
+    <compath:equivalentTo rdf:resource="http://identifiers.org/reactome/R-HSA-381753"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://identifiers.org/wikipathways/WP2112">
+    <compath:equivalentTo rdf:resource="http://identifiers.org/reactome/R-HSA-448424"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://identifiers.org/kegg.pathway/hsa00062">
+    <compath:isPartOf rdf:resource="http://identifiers.org/reactome/R-HSA-1430728"/>
+    <compath:isPartOf rdf:resource="http://identifiers.org/reactome/R-HSA-211935"/>
+    <compath:isPartOf rdf:resource="http://identifiers.org/reactome/R-HSA-556833"/>
+    <compath:isPartOf rdf:resource="http://identifiers.org/reactome/R-HSA-8978868"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://identifiers.org/kegg.pathway/hsa04270">
+    <compath:isPartOf rdf:resource="http://identifiers.org/reactome/R-HSA-397014"/>
+    <compath:isPartOf rdf:resource="http://identifiers.org/wikipathways/WP2197"/>
+    <compath:isPartOf rdf:resource="http://identifiers.org/reactome/R-HSA-445355"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://identifiers.org/kegg.pathway/hsa01210">
+    <compath:isPartOf rdf:resource="http://identifiers.org/reactome/R-HSA-2978092"/>
+    <compath:isPartOf rdf:resource="http://identifiers.org/wikipathways/WP3925"/>
+    <compath:isPartOf rdf:resource="http://identifiers.org/reactome/R-HSA-71406"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://identifiers.org/wikipathways/WP206">
+    <compath:isPartOf rdf:resource="http://identifiers.org/reactome/R-HSA-556833"/>
+    <compath:isPartOf rdf:resource="http://identifiers.org/reactome/R-HSA-77289"/>
+    <compath:isPartOf rdf:resource="http://identifiers.org/reactome/R-HSA-1430728"/>
+    <compath:isPartOf rdf:resource="http://identifiers.org/reactome/R-HSA-211859"/>
+    <compath:isPartOf rdf:resource="http://identifiers.org/reactome/R-HSA-8978868"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://identifiers.org/wikipathways/WP106">
+    <compath:isPartOf rdf:resource="http://identifiers.org/reactome/R-HSA-1430728"/>
+    <compath:isPartOf rdf:resource="http://identifiers.org/reactome/R-HSA-71291"/>
+    <compath:isPartOf rdf:resource="http://identifiers.org/reactome/R-HSA-70614"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://identifiers.org/kegg.pathway/hsa05032">
+    <compath:isPartOf rdf:resource="http://identifiers.org/wikipathways/WP2636"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://identifiers.org/wikipathways/WP69">
+    <compath:isPartOf rdf:resource="http://identifiers.org/reactome/R-HSA-168256"/>
+    <compath:isPartOf rdf:resource="http://identifiers.org/reactome/R-HSA-1280218"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://identifiers.org/wikipathways/WP2536">
+    <compath:isPartOf rdf:resource="http://identifiers.org/reactome/R-HSA-1430728"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://identifiers.org/wikipathways/WP364">
+    <compath:equivalentTo rdf:resource="http://identifiers.org/reactome/R-HSA-1059683"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://identifiers.org/wikipathways/WP3877">
+    <compath:isPartOf rdf:resource="http://identifiers.org/reactome/R-HSA-166058"/>
+    <compath:isPartOf rdf:resource="http://identifiers.org/reactome/R-HSA-975155"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://identifiers.org/wikipathways/WP2507">
+    <compath:isPartOf rdf:resource="http://identifiers.org/reactome/R-HSA-140534"/>
+    <compath:isPartOf rdf:resource="http://identifiers.org/reactome/R-HSA-109581"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://identifiers.org/kegg.pathway/hsa00601">
+    <compath:isPartOf rdf:resource="http://identifiers.org/reactome/R-HSA-556833"/>
+    <compath:isPartOf rdf:resource="http://identifiers.org/reactome/R-HSA-1660662"/>
+    <compath:isPartOf rdf:resource="http://identifiers.org/reactome/R-HSA-428157"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://identifiers.org/wikipathways/WP4146">
+    <compath:isPartOf rdf:resource="http://identifiers.org/reactome/R-HSA-168249"/>
+    <compath:isPartOf rdf:resource="http://identifiers.org/reactome/R-HSA-1280218"/>
+    <compath:isPartOf rdf:resource="http://identifiers.org/reactome/R-HSA-168256"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://identifiers.org/wikipathways/WP2513">
+    <compath:isPartOf rdf:resource="http://identifiers.org/reactome/R-HSA-109581"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://identifiers.org/kegg.pathway/hsa00620">
+    <compath:equivalentTo rdf:resource="http://identifiers.org/reactome/R-HSA-70268"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://identifiers.org/wikipathways/WP186">
+    <compath:isPartOf rdf:resource="http://identifiers.org/reactome/R-HSA-5693538"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://identifiers.org/wikipathways/WP2113">
+    <compath:isPartOf rdf:resource="http://identifiers.org/reactome/R-HSA-449147"/>
+    <compath:isPartOf rdf:resource="http://identifiers.org/reactome/R-HSA-913531"/>
+    <compath:isPartOf rdf:resource="http://identifiers.org/reactome/R-HSA-449836"/>
+    <compath:isPartOf rdf:resource="http://identifiers.org/reactome/R-HSA-1280215"/>
+    <compath:isPartOf rdf:resource="http://identifiers.org/reactome/R-HSA-168256"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://identifiers.org/kegg.pathway/hsa00650">
+    <compath:isPartOf rdf:resource="http://identifiers.org/reactome/R-HSA-77350"/>
+    <compath:isPartOf rdf:resource="http://identifiers.org/reactome/R-HSA-77352"/>
+    <compath:isPartOf rdf:resource="http://identifiers.org/reactome/R-HSA-1430728"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://identifiers.org/kegg.pathway/hsa05130">
+    <compath:equivalentTo rdf:resource="http://identifiers.org/wikipathways/WP2272"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://identifiers.org/kegg.pathway/hsa00010">
+    <compath:equivalentTo rdf:resource="http://identifiers.org/wikipathways/WP534"/>
+    <compath:isPartOf rdf:resource="http://identifiers.org/reactome/R-HSA-70171"/>
+    <compath:isPartOf rdf:resource="http://identifiers.org/reactome/R-HSA-71387"/>
+    <compath:isPartOf rdf:resource="http://identifiers.org/reactome/R-HSA-70326"/>
+    <compath:isPartOf rdf:resource="http://identifiers.org/reactome/R-HSA-70263"/>
+    <compath:isPartOf rdf:resource="http://identifiers.org/reactome/R-HSA-1430728"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://identifiers.org/kegg.pathway/hsa04340">
+    <compath:isPartOf rdf:resource="http://identifiers.org/reactome/R-HSA-5610787"/>
+    <compath:equivalentTo rdf:resource="http://identifiers.org/wikipathways/WP47"/>
+    <compath:isPartOf rdf:resource="http://identifiers.org/reactome/R-HSA-5358351"/>
+    <compath:isPartOf rdf:resource="http://identifiers.org/reactome/R-HSA-5358346"/>
+    <compath:isPartOf rdf:resource="http://identifiers.org/reactome/R-HSA-5632684"/>
+    <compath:equivalentTo rdf:resource="http://identifiers.org/reactome/R-HSA-5358351"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://identifiers.org/kegg.pathway/hsa01040">
+    <compath:isPartOf rdf:resource="http://identifiers.org/reactome/R-HSA-2142688"/>
+    <compath:isPartOf rdf:resource="http://identifiers.org/reactome/R-HSA-556833"/>
+    <compath:isPartOf rdf:resource="http://identifiers.org/wikipathways/WP357"/>
+    <compath:isPartOf rdf:resource="http://identifiers.org/reactome/R-HSA-8978868"/>
+    <compath:isPartOf rdf:resource="http://identifiers.org/reactome/R-HSA-1430728"/>
+    <compath:isPartOf rdf:resource="http://identifiers.org/reactome/R-HSA-75105"/>
+    <compath:isPartOf rdf:resource="http://identifiers.org/reactome/R-HSA-2046105"/>
+    <compath:isPartOf rdf:resource="http://identifiers.org/reactome/R-HSA-75876"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://identifiers.org/wikipathways/WP536">
+    <compath:isPartOf rdf:resource="http://identifiers.org/reactome/R-HSA-390648"/>
+    <compath:isPartOf rdf:resource="http://identifiers.org/reactome/R-HSA-190827"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://identifiers.org/kegg.pathway/hsa03420">
+    <compath:isPartOf rdf:resource="http://identifiers.org/wikipathways/WP531"/>
+    <compath:equivalentTo rdf:resource="http://identifiers.org/reactome/R-HSA-5696398"/>
+    <compath:isPartOf rdf:resource="http://identifiers.org/wikipathways/WP186"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://identifiers.org/wikipathways/WP136">
+    <compath:isPartOf rdf:resource="http://identifiers.org/reactome/R-HSA-1430728"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://identifiers.org/wikipathways/WP3580">
+    <compath:equivalentTo rdf:resource="http://identifiers.org/reactome/R-HSA-1237112"/>
+    <compath:isPartOf rdf:resource="http://identifiers.org/reactome/R-HSA-1237112"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://identifiers.org/wikipathways/WP383">
+    <compath:equivalentTo rdf:resource="http://identifiers.org/reactome/R-HSA-390522"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://identifiers.org/wikipathways/WP247">
+    <compath:isPartOf rdf:resource="http://identifiers.org/reactome/R-HSA-162582"/>
+    <compath:isPartOf rdf:resource="http://identifiers.org/reactome/R-HSA-372790"/>
+    <compath:isPartOf rdf:resource="http://identifiers.org/reactome/R-HSA-388396"/>
+    <compath:isPartOf rdf:resource="http://identifiers.org/reactome/R-HSA-500792"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://identifiers.org/wikipathways/WP4172">
+    <compath:equivalentTo rdf:resource="http://identifiers.org/reactome/R-HSA-198203"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://identifiers.org/kegg.pathway/hsa03430">
+    <compath:equivalentTo rdf:resource="http://identifiers.org/reactome/R-HSA-5358508"/>
+    <compath:equivalentTo rdf:resource="http://identifiers.org/wikipathways/WP531"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://identifiers.org/kegg.pathway/hsa00830">
+    <compath:isPartOf rdf:resource="http://identifiers.org/reactome/R-HSA-211916"/>
+    <compath:isPartOf rdf:resource="http://identifiers.org/reactome/R-HSA-1430728"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://identifiers.org/kegg.pathway/hsa04130">
+    <compath:isPartOf rdf:resource="http://identifiers.org/reactome/R-HSA-5653656"/>
+    <compath:isPartOf rdf:resource="http://identifiers.org/wikipathways/WP2267"/>
+    <compath:isPartOf rdf:resource="http://identifiers.org/reactome/R-HSA-199991"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://identifiers.org/kegg.pathway/hsa04923">
+    <compath:isPartOf rdf:resource="http://identifiers.org/reactome/R-HSA-556833"/>
+    <compath:isPartOf rdf:resource="http://identifiers.org/wikipathways/WP3965"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://identifiers.org/kegg.pathway/hsa04141">
+    <compath:isPartOf rdf:resource="http://identifiers.org/reactome/R-HSA-392499"/>
+    <compath:isPartOf rdf:resource="http://identifiers.org/reactome/R-HSA-1912399"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://identifiers.org/kegg.pathway/hsa00450">
+    <compath:isPartOf rdf:resource="http://identifiers.org/reactome/R-HSA-2408522"/>
+    <compath:isPartOf rdf:resource="http://identifiers.org/reactome/R-HSA-1430728"/>
+    <compath:equivalentTo rdf:resource="http://identifiers.org/wikipathways/WP28"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://identifiers.org/kegg.pathway/hsa05030">
+    <compath:isPartOf rdf:resource="http://identifiers.org/wikipathways/WP2636"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://identifiers.org/wikipathways/WP474">
+    <compath:isPartOf rdf:resource="http://identifiers.org/reactome/R-HSA-8941284"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://identifiers.org/kegg.pathway/hsa03460">
+    <compath:equivalentTo rdf:resource="http://identifiers.org/reactome/R-HSA-6783310"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://identifiers.org/wikipathways/WP4220">
+    <compath:isPartOf rdf:resource="http://identifiers.org/reactome/R-HSA-5619081"/>
+    <compath:isPartOf rdf:resource="http://identifiers.org/reactome/R-HSA-5579012"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://identifiers.org/kegg.pathway/hsa04913">
+    <compath:isPartOf rdf:resource="http://identifiers.org/reactome/R-HSA-1430728"/>
+    <compath:isPartOf rdf:resource="http://identifiers.org/reactome/R-HSA-193048"/>
+    <compath:isPartOf rdf:resource="http://identifiers.org/reactome/R-HSA-193144"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://identifiers.org/wikipathways/WP455">
+    <compath:equivalentTo rdf:resource="http://identifiers.org/reactome/R-HSA-373076"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://identifiers.org/wikipathways/WP531">
+    <compath:equivalentTo rdf:resource="http://identifiers.org/reactome/R-HSA-5358508"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://identifiers.org/kegg.pathway/hsa00472">
+    <compath:isPartOf rdf:resource="http://identifiers.org/reactome/R-HSA-71291"/>
+    <compath:isPartOf rdf:resource="http://identifiers.org/reactome/R-HSA-1430728"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://identifiers.org/wikipathways/WP2485">
+    <compath:isPartOf rdf:resource="http://identifiers.org/reactome/R-HSA-196854"/>
+    <compath:isPartOf rdf:resource="http://identifiers.org/reactome/R-HSA-71291"/>
+    <compath:isPartOf rdf:resource="http://identifiers.org/reactome/R-HSA-196807"/>
+    <compath:isPartOf rdf:resource="http://identifiers.org/reactome/R-HSA-196849"/>
+    <compath:isPartOf rdf:resource="http://identifiers.org/reactome/R-HSA-1430728"/>
+    <compath:isPartOf rdf:resource="http://identifiers.org/reactome/R-HSA-71240"/>
+    <compath:isPartOf rdf:resource="http://identifiers.org/reactome/R-HSA-6788656"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://identifiers.org/kegg.pathway/hsa00590">
+    <compath:equivalentTo rdf:resource="http://identifiers.org/reactome/R-HSA-2142753"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://identifiers.org/kegg.pathway/hsa00970">
+    <compath:isPartOf rdf:resource="http://identifiers.org/reactome/R-HSA-379726"/>
+    <compath:isPartOf rdf:resource="http://identifiers.org/reactome/R-HSA-379724"/>
+    <compath:isPartOf rdf:resource="http://identifiers.org/reactome/R-HSA-379716"/>
+    <compath:isPartOf rdf:resource="http://identifiers.org/reactome/R-HSA-1430728"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://identifiers.org/wikipathways/WP2371">
+    <compath:isPartOf rdf:resource="http://identifiers.org/reactome/R-HSA-5619081"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://identifiers.org/wikipathways/WP272">
+    <compath:isPartOf rdf:resource="http://identifiers.org/reactome/R-HSA-75205"/>
+    <compath:isPartOf rdf:resource="http://identifiers.org/reactome/R-HSA-140877"/>
+    <compath:isPartOf rdf:resource="http://identifiers.org/reactome/R-HSA-140834"/>
+    <compath:isPartOf rdf:resource="http://identifiers.org/reactome/R-HSA-109582"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://identifiers.org/kegg.pathway/hsa00340">
+    <compath:isPartOf rdf:resource="http://identifiers.org/reactome/R-HSA-1430728"/>
+    <compath:isPartOf rdf:resource="http://identifiers.org/reactome/R-HSA-71291"/>
+    <compath:isPartOf rdf:resource="http://identifiers.org/reactome/R-HSA-70921"/>
+    <compath:isPartOf rdf:resource="http://identifiers.org/wikipathways/WP3925"/>
+    <compath:isPartOf rdf:resource="http://identifiers.org/reactome/R-HSA-6788656"/>
+    <compath:isPartOf rdf:resource="http://identifiers.org/reactome/R-HSA-140179"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://identifiers.org/kegg.pathway/hsa04971">
+    <compath:equivalentTo rdf:resource="http://identifiers.org/wikipathways/WP2597"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://identifiers.org/wikipathways/WP692">
+    <compath:isPartOf rdf:resource="http://identifiers.org/reactome/R-HSA-1430728"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://identifiers.org/kegg.pathway/hsa00410">
+    <compath:isPartOf rdf:resource="http://identifiers.org/wikipathways/WP497"/>
+    <compath:isPartOf rdf:resource="http://identifiers.org/reactome/R-HSA-71291"/>
+    <compath:isPartOf rdf:resource="http://identifiers.org/wikipathways/WP3925"/>
+    <compath:isPartOf rdf:resource="http://identifiers.org/wikipathways/WP106"/>
+    <compath:isPartOf rdf:resource="http://identifiers.org/reactome/R-HSA-1430728"/>
+    <compath:isPartOf rdf:resource="http://identifiers.org/wikipathways/WP550"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://identifiers.org/kegg.pathway/hsa03440">
+    <compath:isPartOf rdf:resource="http://identifiers.org/reactome/R-HSA-5693538"/>
+    <compath:equivalentTo rdf:resource="http://identifiers.org/wikipathways/WP186"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://identifiers.org/kegg.pathway/hsa00561">
+    <compath:isPartOf rdf:resource="http://identifiers.org/reactome/R-HSA-556833"/>
+    <compath:isPartOf rdf:resource="http://identifiers.org/wikipathways/WP2533"/>
+    <compath:isPartOf rdf:resource="http://identifiers.org/wikipathways/WP4153"/>
+    <compath:isPartOf rdf:resource="http://identifiers.org/reactome/R-HSA-1482883"/>
+    <compath:isPartOf rdf:resource="http://identifiers.org/reactome/R-HSA-1430728"/>
+    <compath:isPartOf rdf:resource="http://identifiers.org/reactome/R-HSA-6814848"/>
+    <compath:isPartOf rdf:resource="http://identifiers.org/wikipathways/WP325"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://identifiers.org/wikipathways/WP4210">
+    <compath:isPartOf rdf:resource="http://identifiers.org/reactome/R-HSA-71291"/>
+    <compath:isPartOf rdf:resource="http://identifiers.org/reactome/R-HSA-196807"/>
+    <compath:isPartOf rdf:resource="http://identifiers.org/reactome/R-HSA-196849"/>
+    <compath:isPartOf rdf:resource="http://identifiers.org/reactome/R-HSA-196854"/>
+    <compath:isPartOf rdf:resource="http://identifiers.org/reactome/R-HSA-6788656"/>
+    <compath:isPartOf rdf:resource="http://identifiers.org/reactome/R-HSA-71240"/>
+    <compath:isPartOf rdf:resource="http://identifiers.org/reactome/R-HSA-1430728"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://identifiers.org/kegg.pathway/hsa04136">
+    <compath:isPartOf rdf:resource="http://identifiers.org/reactome/R-HSA-8953897"/>
+    <compath:isPartOf rdf:resource="http://identifiers.org/reactome/R-HSA-168256"/>
+    <compath:equivalentTo rdf:resource="http://identifiers.org/reactome/R-HSA-1632852"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://identifiers.org/kegg.pathway/hsa04931">
+    <compath:isPartOf rdf:resource="http://identifiers.org/wikipathways/WP3635"/>
+    <compath:isPartOf rdf:resource="http://identifiers.org/wikipathways/WP1584"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://identifiers.org/kegg.pathway/hsa04512">
+    <compath:isPartOf rdf:resource="http://identifiers.org/reactome/R-HSA-3000178"/>
+    <compath:isPartOf rdf:resource="http://identifiers.org/reactome/R-HSA-3000157"/>
+    <compath:isPartOf rdf:resource="http://identifiers.org/wikipathways/WP306"/>
+    <compath:isPartOf rdf:resource="http://identifiers.org/reactome/R-HSA-1474244"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://identifiers.org/kegg.pathway/hsa04810">
+    <compath:equivalentTo rdf:resource="http://identifiers.org/wikipathways/WP51"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://identifiers.org/wikipathways/WP661">
+    <compath:isPartOf rdf:resource="http://identifiers.org/reactome/R-HSA-70326"/>
+    <compath:isPartOf rdf:resource="http://identifiers.org/reactome/R-HSA-74751"/>
+    <compath:isPartOf rdf:resource="http://identifiers.org/reactome/R-HSA-422356"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://identifiers.org/kegg.pathway/hsa00780">
+    <compath:isPartOf rdf:resource="http://identifiers.org/reactome/R-HSA-196780"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://identifiers.org/kegg.pathway/hsa05033">
+    <compath:isPartOf rdf:resource="http://identifiers.org/wikipathways/WP1602"/>
+    <compath:isPartOf rdf:resource="http://identifiers.org/wikipathways/WP4159"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://identifiers.org/wikipathways/WP734">
+    <compath:isPartOf rdf:resource="http://identifiers.org/reactome/R-HSA-390666"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://identifiers.org/kegg.pathway/hsa00640">
+    <compath:isPartOf rdf:resource="http://identifiers.org/reactome/R-HSA-1430728"/>
+    <compath:isPartOf rdf:resource="http://identifiers.org/reactome/R-HSA-71032"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://identifiers.org/kegg.pathway/hsa04915">
+    <compath:equivalentTo rdf:resource="http://identifiers.org/wikipathways/WP712"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://identifiers.org/wikipathways/WP111">
+    <compath:equivalentTo rdf:resource="http://identifiers.org/reactome/R-HSA-611105"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://identifiers.org/kegg.pathway/hsa04664">
+    <compath:isPartOf rdf:resource="http://identifiers.org/reactome/R-HSA-2454202"/>
+    <compath:equivalentTo rdf:resource="http://identifiers.org/reactome/R-HSA-2454202"/>
+    <compath:isPartOf rdf:resource="http://identifiers.org/reactome/R-HSA-111995"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://identifiers.org/wikipathways/WP3633">
+    <compath:isPartOf rdf:resource="http://identifiers.org/reactome/R-HSA-211957"/>
+    <compath:isPartOf rdf:resource="http://identifiers.org/reactome/R-HSA-1430728"/>
+    <compath:isPartOf rdf:resource="http://identifiers.org/reactome/R-HSA-211981"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://identifiers.org/kegg.pathway/hsa04330">
+    <compath:equivalentTo rdf:resource="http://identifiers.org/reactome/R-HSA-157118"/>
+    <compath:equivalentTo rdf:resource="http://identifiers.org/wikipathways/WP3845"/>
+    <compath:equivalentTo rdf:resource="http://identifiers.org/wikipathways/WP61"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://identifiers.org/kegg.pathway/hsa04975">
+    <compath:isPartOf rdf:resource="http://identifiers.org/reactome/R-HSA-8963678"/>
+    <compath:isPartOf rdf:resource="http://identifiers.org/reactome/R-HSA-8963743"/>
+    <compath:isPartOf rdf:resource="http://identifiers.org/reactome/R-HSA-192456"/>
+    <compath:isPartOf rdf:resource="http://identifiers.org/reactome/R-HSA-8963676"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://identifiers.org/wikipathways/WP707">
+    <compath:isPartOf rdf:resource="http://identifiers.org/reactome/R-HSA-69563"/>
+    <compath:isPartOf rdf:resource="http://identifiers.org/reactome/R-HSA-73942"/>
+    <compath:isPartOf rdf:resource="http://identifiers.org/reactome/R-HSA-73893"/>
+    <compath:isPartOf rdf:resource="http://identifiers.org/reactome/R-HSA-69615"/>
+    <compath:isPartOf rdf:resource="http://identifiers.org/reactome/R-HSA-69610"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://identifiers.org/wikipathways/WP311">
+    <compath:equivalentTo rdf:resource="http://identifiers.org/reactome/R-HSA-74182"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://identifiers.org/kegg.pathway/hsa04020">
+    <compath:isPartOf rdf:resource="http://identifiers.org/reactome/R-HSA-111997"/>
+    <compath:isPartOf rdf:resource="http://identifiers.org/reactome/R-HSA-442745"/>
+    <compath:isPartOf rdf:resource="http://identifiers.org/reactome/R-HSA-418360"/>
+    <compath:isPartOf rdf:resource="http://identifiers.org/reactome/R-HSA-139853"/>
+    <compath:isPartOf rdf:resource="http://identifiers.org/reactome/R-HSA-418359"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://identifiers.org/wikipathways/WP2328">
+    <compath:isPartOf rdf:resource="http://identifiers.org/reactome/R-HSA-168256"/>
+    <compath:isPartOf rdf:resource="http://identifiers.org/reactome/R-HSA-1280218"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://identifiers.org/wikipathways/WP1471">
+    <compath:equivalentTo rdf:resource="http://identifiers.org/reactome/R-HSA-165159"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://identifiers.org/wikipathways/WP3935">
+    <compath:isPartOf rdf:resource="http://identifiers.org/reactome/R-HSA-2586552"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://identifiers.org/kegg.pathway/hsa04659">
+    <compath:isPartOf rdf:resource="http://identifiers.org/wikipathways/WP2112"/>
+    <compath:isPartOf rdf:resource="http://identifiers.org/wikipathways/WP2029"/>
+    <compath:isPartOf rdf:resource="http://identifiers.org/reactome/R-HSA-168256"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://identifiers.org/kegg.pathway/hsa04650">
+    <compath:isPartOf rdf:resource="http://identifiers.org/reactome/R-HSA-168256"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://identifiers.org/kegg.pathway/hsa00565">
+    <compath:isPartOf rdf:resource="http://identifiers.org/reactome/R-HSA-1483257"/>
+    <compath:isPartOf rdf:resource="http://identifiers.org/reactome/R-HSA-1430728"/>
+    <compath:isPartOf rdf:resource="http://identifiers.org/reactome/R-HSA-556833"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://identifiers.org/wikipathways/WP3965">
+    <compath:equivalentTo rdf:resource="http://identifiers.org/reactome/R-HSA-556833"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://identifiers.org/wikipathways/WP727">
+    <compath:isPartOf rdf:resource="http://identifiers.org/reactome/R-HSA-209905"/>
+    <compath:isPartOf rdf:resource="http://identifiers.org/reactome/R-HSA-112311"/>
+    <compath:isPartOf rdf:resource="http://identifiers.org/reactome/R-HSA-380615"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://identifiers.org/kegg.pathway/hsa00860">
+    <compath:isPartOf rdf:resource="http://identifiers.org/reactome/R-HSA-189451"/>
+    <compath:isPartOf rdf:resource="http://identifiers.org/reactome/R-HSA-189483"/>
+    <compath:isPartOf rdf:resource="http://identifiers.org/reactome/R-HSA-1430728"/>
+    <compath:isPartOf rdf:resource="http://identifiers.org/reactome/R-HSA-189445"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://identifiers.org/kegg.pathway/hsa05164">
+    <compath:isPartOf rdf:resource="http://identifiers.org/reactome/R-HSA-168255"/>
+    <compath:isPartOf rdf:resource="http://identifiers.org/reactome/R-HSA-168277"/>
+    <compath:isPartOf rdf:resource="http://identifiers.org/reactome/R-HSA-168254"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://identifiers.org/kegg.pathway/hsa00040">
+    <compath:isPartOf rdf:resource="http://identifiers.org/reactome/R-HSA-1430728"/>
+    <compath:isPartOf rdf:resource="http://identifiers.org/reactome/R-HSA-5661270"/>
+    <compath:isPartOf rdf:resource="http://identifiers.org/wikipathways/WP698"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://identifiers.org/wikipathways/WP2276">
+    <compath:isPartOf rdf:resource="http://identifiers.org/reactome/R-HSA-1266738"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://identifiers.org/kegg.pathway/hsa00534">
+    <compath:isPartOf rdf:resource="http://identifiers.org/reactome/R-HSA-1430728"/>
+    <compath:isPartOf rdf:resource="http://identifiers.org/reactome/R-HSA-1630316"/>
+    <compath:isPartOf rdf:resource="http://identifiers.org/reactome/R-HSA-1638091"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://identifiers.org/kegg.pathway/hsa04978">
+    <compath:isPartOf rdf:resource="http://identifiers.org/reactome/R-HSA-382551"/>
+    <compath:isPartOf rdf:resource="http://identifiers.org/reactome/R-HSA-8963676"/>
+    <compath:isPartOf rdf:resource="http://identifiers.org/reactome/R-HSA-8963743"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://identifiers.org/wikipathways/WP1423">
+    <compath:isPartOf rdf:resource="http://identifiers.org/reactome/R-HSA-428157"/>
+    <compath:isPartOf rdf:resource="http://identifiers.org/reactome/R-HSA-1430728"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://identifiers.org/wikipathways/WP501">
+    <compath:equivalentTo rdf:resource="http://identifiers.org/reactome/R-HSA-420499"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://identifiers.org/kegg.pathway/hsa05225">
+    <compath:isPartOf rdf:resource="http://identifiers.org/wikipathways/WP3646"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://identifiers.org/wikipathways/WP408">
+    <compath:isPartOf rdf:resource="http://identifiers.org/reactome/R-HSA-2262752"/>
+    <compath:isPartOf rdf:resource="http://identifiers.org/reactome/R-HSA-8953897"/>
+    <compath:isPartOf rdf:resource="http://identifiers.org/reactome/R-HSA-2559580"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://identifiers.org/wikipathways/WP3859">
+    <compath:equivalentTo rdf:resource="http://identifiers.org/reactome/R-HSA-2173791"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://identifiers.org/kegg.pathway/hsa00380">
+    <compath:equivalentTo rdf:resource="http://identifiers.org/wikipathways/WP465"/>
+    <compath:isPartOf rdf:resource="http://identifiers.org/reactome/R-HSA-71240"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://identifiers.org/kegg.pathway/hsa00480">
+    <compath:equivalentTo rdf:resource="http://identifiers.org/wikipathways/WP100"/>
+    <compath:equivalentTo rdf:resource="http://identifiers.org/reactome/R-HSA-174403"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://identifiers.org/kegg.pathway/hsa00920">
+    <compath:isPartOf rdf:resource="http://identifiers.org/reactome/R-HSA-1430728"/>
+    <compath:isPartOf rdf:resource="http://identifiers.org/reactome/R-HSA-1614635"/>
+    <compath:isPartOf rdf:resource="http://identifiers.org/reactome/R-HSA-71291"/>
+    <compath:isPartOf rdf:resource="http://identifiers.org/wikipathways/WP692"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://identifiers.org/kegg.pathway/hsa04976">
+    <compath:isPartOf rdf:resource="http://identifiers.org/reactome/R-HSA-8935690"/>
+    <compath:isPartOf rdf:resource="http://identifiers.org/wikipathways/WP2289"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://identifiers.org/wikipathways/WP1982">
+    <compath:isPartOf rdf:resource="http://identifiers.org/reactome/R-HSA-2426168"/>
+    <compath:isPartOf rdf:resource="http://identifiers.org/reactome/R-HSA-1655829"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://identifiers.org/wikipathways/WP75">
+    <compath:equivalentTo rdf:resource="http://identifiers.org/reactome/R-HSA-168898"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://identifiers.org/wikipathways/WP399">
+    <compath:isPartOf rdf:resource="http://identifiers.org/reactome/R-HSA-195721"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://identifiers.org/wikipathways/WP3940">
+    <compath:isPartOf rdf:resource="http://identifiers.org/reactome/R-HSA-1430728"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://identifiers.org/wikipathways/WP3634">
+    <compath:isPartOf rdf:resource="http://identifiers.org/reactome/R-HSA-162582"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://identifiers.org/wikipathways/WP2895">
+    <compath:isPartOf rdf:resource="http://identifiers.org/reactome/R-HSA-1266738"/>
+    <compath:isPartOf rdf:resource="http://identifiers.org/reactome/R-HSA-381340"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://identifiers.org/kegg.pathway/hsa04721">
+    <compath:equivalentTo rdf:resource="http://identifiers.org/wikipathways/WP2267"/>
+    <compath:isPartOf rdf:resource="http://identifiers.org/reactome/R-HSA-5653656"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://identifiers.org/wikipathways/WP3844">
+    <compath:isPartOf rdf:resource="http://identifiers.org/reactome/R-HSA-1257604"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://identifiers.org/kegg.pathway/hsa04657">
+    <compath:equivalentTo rdf:resource="http://identifiers.org/wikipathways/WP2112"/>
+    <compath:isPartOf rdf:resource="http://identifiers.org/reactome/R-HSA-449147"/>
+    <compath:equivalentTo rdf:resource="http://identifiers.org/reactome/R-HSA-448424"/>
+    <compath:isPartOf rdf:resource="http://identifiers.org/reactome/R-HSA-1280215"/>
+    <compath:isPartOf rdf:resource="http://identifiers.org/reactome/R-HSA-168256"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://identifiers.org/kegg.pathway/hsa05226">
+    <compath:isPartOf rdf:resource="http://identifiers.org/wikipathways/WP2361"/>
+    <compath:isPartOf rdf:resource="http://identifiers.org/wikipathways/WP2363"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://identifiers.org/wikipathways/WP205">
+    <compath:equivalentTo rdf:resource="http://identifiers.org/reactome/R-HSA-1266695"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://identifiers.org/wikipathways/WP698">
+    <compath:equivalentTo rdf:resource="http://identifiers.org/reactome/R-HSA-156588"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://identifiers.org/kegg.pathway/hsa03020">
+    <compath:isPartOf rdf:resource="http://identifiers.org/wikipathways/WP405"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://identifiers.org/wikipathways/WP3929">
+    <compath:isPartOf rdf:resource="http://identifiers.org/reactome/R-HSA-380108"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://identifiers.org/wikipathways/WP3300">
+    <compath:isPartOf rdf:resource="http://identifiers.org/reactome/R-HSA-162906"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://identifiers.org/wikipathways/WP2007">
+    <compath:isPartOf rdf:resource="http://identifiers.org/reactome/R-HSA-1430728"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://identifiers.org/kegg.pathway/hsa04022">
+    <compath:isPartOf rdf:resource="http://identifiers.org/reactome/R-HSA-418457"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://identifiers.org/wikipathways/WP3676">
+    <compath:isPartOf rdf:resource="http://identifiers.org/reactome/R-HSA-162582"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://identifiers.org/wikipathways/WP710">
+    <compath:isPartOf rdf:resource="http://identifiers.org/reactome/R-HSA-112412"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://identifiers.org/wikipathways/WP2526">
+    <compath:isPartOf rdf:resource="http://identifiers.org/reactome/R-HSA-76002"/>
+    <compath:isPartOf rdf:resource="http://identifiers.org/reactome/R-HSA-168256"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://identifiers.org/kegg.pathway/hsa00051">
+    <compath:isPartOf rdf:resource="http://identifiers.org/reactome/R-HSA-5652227"/>
+    <compath:isPartOf rdf:resource="http://identifiers.org/reactome/R-HSA-446205"/>
+    <compath:isPartOf rdf:resource="http://identifiers.org/reactome/R-HSA-1430728"/>
+    <compath:isPartOf rdf:resource="http://identifiers.org/reactome/R-HSA-5652084"/>
+    <compath:isPartOf rdf:resource="http://identifiers.org/reactome/R-HSA-70350"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://identifiers.org/kegg.pathway/hsa00910">
+    <compath:isPartOf rdf:resource="http://identifiers.org/reactome/R-HSA-71291"/>
+    <compath:isPartOf rdf:resource="http://identifiers.org/reactome/R-HSA-70614"/>
+    <compath:isPartOf rdf:resource="http://identifiers.org/reactome/R-HSA-1430728"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://identifiers.org/kegg.pathway/hsa05210">
+    <compath:isPartOf rdf:resource="http://identifiers.org/reactome/R-HSA-5632927"/>
+    <compath:isPartOf rdf:resource="http://identifiers.org/reactome/R-HSA-5632968"/>
+    <compath:isPartOf rdf:resource="http://identifiers.org/reactome/R-HSA-5632928"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://identifiers.org/kegg.pathway/hsa04918">
+    <compath:equivalentTo rdf:resource="http://identifiers.org/reactome/R-HSA-209968"/>
+    <compath:equivalentTo rdf:resource="http://identifiers.org/wikipathways/WP1981"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://identifiers.org/kegg.pathway/hsa00052">
+    <compath:isPartOf rdf:resource="http://identifiers.org/reactome/R-HSA-70370"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://identifiers.org/kegg.pathway/hsa00785">
+    <compath:isPartOf rdf:resource="http://identifiers.org/reactome/R-HSA-1430728"/>
+    <compath:isPartOf rdf:resource="http://identifiers.org/wikipathways/WP3965"/>
+    <compath:isPartOf rdf:resource="http://identifiers.org/reactome/R-HSA-8978868"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://identifiers.org/kegg.pathway/hsa04152">
+    <compath:isPartOf rdf:resource="http://identifiers.org/reactome/R-HSA-163680"/>
+    <compath:equivalentTo rdf:resource="http://identifiers.org/wikipathways/WP1403"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://identifiers.org/kegg.pathway/hsa04672">
+    <compath:isPartOf rdf:resource="http://identifiers.org/reactome/R-HSA-168256"/>
+    <compath:isPartOf rdf:resource="http://identifiers.org/reactome/R-HSA-1280218"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://identifiers.org/wikipathways/WP78">
+    <compath:equivalentTo rdf:resource="http://identifiers.org/reactome/R-HSA-71403"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://identifiers.org/wikipathways/WP334">
+    <compath:equivalentTo rdf:resource="http://identifiers.org/reactome/R-HSA-373080"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://identifiers.org/wikipathways/WP2586">
+    <compath:equivalentTo rdf:resource="http://identifiers.org/reactome/R-HSA-8937144"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://identifiers.org/kegg.pathway/hsa05220">
+    <compath:isPartOf rdf:resource="http://identifiers.org/wikipathways/WP3640"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://identifiers.org/kegg.pathway/hsa04921">
+    <compath:equivalentTo rdf:resource="http://identifiers.org/wikipathways/WP2889"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://identifiers.org/kegg.pathway/hsa04210">
+    <compath:equivalentTo rdf:resource="http://identifiers.org/wikipathways/WP254"/>
+    <compath:equivalentTo rdf:resource="http://identifiers.org/reactome/R-HSA-109581"/>
+    <compath:isPartOf rdf:resource="http://identifiers.org/wikipathways/WP384"/>
+    <compath:isPartOf rdf:resource="http://identifiers.org/wikipathways/WP1772"/>
+    <compath:isPartOf rdf:resource="http://identifiers.org/wikipathways/WP2507"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://identifiers.org/wikipathways/WP2190">
+    <compath:isPartOf rdf:resource="http://identifiers.org/reactome/R-HSA-1430728"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://identifiers.org/kegg.pathway/hsa04911">
+    <compath:equivalentTo rdf:resource="http://identifiers.org/reactome/R-HSA-422356"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://identifiers.org/wikipathways/WP3891">
+    <compath:isPartOf rdf:resource="http://identifiers.org/reactome/R-HSA-1430728"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://identifiers.org/kegg.pathway/hsa00770">
+    <compath:isPartOf rdf:resource="http://identifiers.org/reactome/R-HSA-1430728"/>
+    <compath:isPartOf rdf:resource="http://identifiers.org/reactome/R-HSA-196783"/>
+    <compath:isPartOf rdf:resource="http://identifiers.org/reactome/R-HSA-196854"/>
+    <compath:isPartOf rdf:resource="http://identifiers.org/reactome/R-HSA-199220"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://identifiers.org/kegg.pathway/hsa05034">
+    <compath:isPartOf rdf:resource="http://identifiers.org/wikipathways/WP2636"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://identifiers.org/wikipathways/WP1531">
+    <compath:equivalentTo rdf:resource="http://identifiers.org/reactome/R-HSA-196791"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://identifiers.org/kegg.pathway/hsa04658">
+    <compath:isPartOf rdf:resource="http://identifiers.org/reactome/R-HSA-1280218"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://identifiers.org/wikipathways/WP134">
+    <compath:equivalentTo rdf:resource="http://identifiers.org/reactome/R-HSA-71336"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://identifiers.org/kegg.pathway/hsa00531">
+    <compath:isPartOf rdf:resource="http://identifiers.org/reactome/R-HSA-1630316"/>
+    <compath:isPartOf rdf:resource="http://identifiers.org/reactome/R-HSA-1430728"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://identifiers.org/kegg.pathway/hsa04062">
+    <compath:isPartOf rdf:resource="http://identifiers.org/reactome/R-HSA-380108"/>
+    <compath:equivalentTo rdf:resource="http://identifiers.org/wikipathways/WP3929"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://identifiers.org/kegg.pathway/hsa00514">
+    <compath:isPartOf rdf:resource="http://identifiers.org/reactome/R-HSA-977068"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://identifiers.org/kegg.pathway/hsa00980">
+    <compath:isPartOf rdf:resource="http://identifiers.org/reactome/R-HSA-211981"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://identifiers.org/kegg.pathway/hsa05010">
+    <compath:isPartOf rdf:resource="http://identifiers.org/reactome/R-HSA-8862803"/>
+    <compath:equivalentTo rdf:resource="http://identifiers.org/wikipathways/WP2059"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://identifiers.org/wikipathways/WP438">
+    <compath:equivalentTo rdf:resource="http://identifiers.org/reactome/R-HSA-5693571"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://identifiers.org/kegg.pathway/hsa05412">
+    <compath:equivalentTo rdf:resource="http://identifiers.org/wikipathways/WP2118"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://identifiers.org/kegg.pathway/hsa04390">
+    <compath:equivalentTo rdf:resource="http://identifiers.org/reactome/R-HSA-2028269"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://identifiers.org/wikipathways/WP100">
+    <compath:isPartOf rdf:resource="http://identifiers.org/reactome/R-HSA-1430728"/>
+    <compath:isPartOf rdf:resource="http://identifiers.org/reactome/R-HSA-156590"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://identifiers.org/wikipathways/WP2878">
+    <compath:isPartOf rdf:resource="http://identifiers.org/reactome/R-HSA-1989781"/>
+    <compath:isPartOf rdf:resource="http://identifiers.org/reactome/R-HSA-1430728"/>
+    <compath:isPartOf rdf:resource="http://identifiers.org/reactome/R-HSA-556833"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://identifiers.org/kegg.pathway/hsa05012">
+    <compath:equivalentTo rdf:resource="http://identifiers.org/wikipathways/WP2371"/>
+    <compath:isPartOf rdf:resource="http://identifiers.org/reactome/R-HSA-5619081"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://identifiers.org/kegg.pathway/hsa04623">
+    <compath:isPartOf rdf:resource="http://identifiers.org/reactome/R-HSA-1834949"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://identifiers.org/kegg.pathway/hsa04668">
+    <compath:equivalentTo rdf:resource="http://identifiers.org/reactome/R-HSA-75893"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://identifiers.org/kegg.pathway/hsa00592">
+    <compath:isPartOf rdf:resource="http://identifiers.org/reactome/R-HSA-1430728"/>
+    <compath:isPartOf rdf:resource="http://identifiers.org/reactome/R-HSA-556833"/>
+    <compath:equivalentTo rdf:resource="http://identifiers.org/reactome/R-HSA-2046106"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://identifiers.org/kegg.pathway/hsa03410">
+    <compath:equivalentTo rdf:resource="http://identifiers.org/reactome/R-HSA-73884"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://identifiers.org/wikipathways/WP4211">
+    <compath:isPartOf rdf:resource="http://identifiers.org/reactome/R-HSA-381340"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://identifiers.org/kegg.pathway/hsa00524">
+    <compath:isPartOf rdf:resource="http://identifiers.org/reactome/R-HSA-1430728"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://identifiers.org/wikipathways/WP2037">
+    <compath:equivalentTo rdf:resource="http://identifiers.org/reactome/R-HSA-1170546"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://identifiers.org/kegg.pathway/hsa00471">
+    <compath:isPartOf rdf:resource="http://identifiers.org/reactome/R-HSA-1430728"/>
+    <compath:isPartOf rdf:resource="http://identifiers.org/reactome/R-HSA-71291"/>
+    <compath:isPartOf rdf:resource="http://identifiers.org/reactome/R-HSA-70614"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://identifiers.org/wikipathways/WP26">
+    <compath:isPartOf rdf:resource="http://identifiers.org/reactome/R-HSA-162582"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://identifiers.org/wikipathways/WP1422">
+    <compath:equivalentTo rdf:resource="http://identifiers.org/reactome/R-HSA-428157"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://identifiers.org/wikipathways/WP3585">
+    <compath:isPartOf rdf:resource="http://identifiers.org/reactome/R-HSA-5334118"/>
+    <compath:isPartOf rdf:resource="http://identifiers.org/reactome/R-HSA-156581"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://identifiers.org/wikipathways/WP306">
+    <compath:isPartOf rdf:resource="http://identifiers.org/reactome/R-HSA-3000157"/>
+    <compath:isPartOf rdf:resource="http://identifiers.org/reactome/R-HSA-9006921"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://identifiers.org/kegg.pathway/hsa04360">
+    <compath:equivalentTo rdf:resource="http://identifiers.org/reactome/R-HSA-422475"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://identifiers.org/wikipathways/WP1449">
+    <compath:isPartOf rdf:resource="http://identifiers.org/reactome/R-HSA-166020"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://identifiers.org/wikipathways/WP4016">
+    <compath:isPartOf rdf:resource="http://identifiers.org/reactome/R-HSA-73894"/>
+    <compath:isPartOf rdf:resource="http://identifiers.org/reactome/R-HSA-5693548"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://identifiers.org/wikipathways/WP716">
+    <compath:isPartOf rdf:resource="http://identifiers.org/reactome/R-HSA-1430728"/>
+    <compath:isPartOf rdf:resource="http://identifiers.org/reactome/R-HSA-196854"/>
+    <compath:isPartOf rdf:resource="http://identifiers.org/reactome/R-HSA-5365859"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://identifiers.org/wikipathways/WP561">
+    <compath:equivalentTo rdf:resource="http://identifiers.org/reactome/R-HSA-189451"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://identifiers.org/wikipathways/WP3941">
+    <compath:isPartOf rdf:resource="http://identifiers.org/reactome/R-HSA-111471"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://identifiers.org/wikipathways/WP2369">
+    <compath:isPartOf rdf:resource="http://identifiers.org/reactome/R-HSA-3214841"/>
+    <compath:isPartOf rdf:resource="http://identifiers.org/reactome/R-HSA-3247509"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://identifiers.org/kegg.pathway/hsa00072">
+    <compath:equivalentTo rdf:resource="http://identifiers.org/wikipathways/WP311"/>
+    <compath:equivalentTo rdf:resource="http://identifiers.org/reactome/R-HSA-74182"/>
+    <compath:isPartOf rdf:resource="http://identifiers.org/reactome/R-HSA-1430728"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://identifiers.org/wikipathways/WP325">
+    <compath:equivalentTo rdf:resource="http://identifiers.org/reactome/R-HSA-75109"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://identifiers.org/kegg.pathway/hsa04930">
+    <compath:equivalentTo rdf:resource="http://identifiers.org/wikipathways/WP1584"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://identifiers.org/wikipathways/WP179">
+    <compath:equivalentTo rdf:resource="http://identifiers.org/reactome/R-HSA-1640170"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://identifiers.org/kegg.pathway/hsa05211">
+    <compath:isPartOf rdf:resource="http://identifiers.org/wikipathways/WP4205"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://identifiers.org/wikipathways/WP422">
+    <compath:equivalentTo rdf:resource="http://identifiers.org/reactome/R-HSA-5683057"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://identifiers.org/wikipathways/WP1995">
+    <compath:isPartOf rdf:resource="http://identifiers.org/reactome/R-HSA-392154"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://identifiers.org/wikipathways/WP195">
+    <compath:equivalentTo rdf:resource="http://identifiers.org/reactome/R-HSA-446652"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://identifiers.org/kegg.pathway/hsa00604">
+    <compath:isPartOf rdf:resource="http://identifiers.org/wikipathways/WP1423"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://identifiers.org/wikipathways/WP47">
+    <compath:equivalentTo rdf:resource="http://identifiers.org/reactome/R-HSA-5358351"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://identifiers.org/wikipathways/WP2525">
+    <compath:isPartOf rdf:resource="http://identifiers.org/reactome/R-HSA-1430728"/>
+    <compath:isPartOf rdf:resource="http://identifiers.org/reactome/R-HSA-163685"/>
+    <compath:isPartOf rdf:resource="http://identifiers.org/reactome/R-HSA-71291"/>
+    <compath:isPartOf rdf:resource="http://identifiers.org/reactome/R-HSA-1614603"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://identifiers.org/wikipathways/WP15">
+    <compath:isPartOf rdf:resource="http://identifiers.org/reactome/R-HSA-2408550"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://identifiers.org/wikipathways/WP2366">
+    <compath:isPartOf rdf:resource="http://identifiers.org/reactome/R-HSA-1430728"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://identifiers.org/wikipathways/WP2873">
+    <compath:equivalentTo rdf:resource="http://identifiers.org/reactome/R-HSA-8937144"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://identifiers.org/kegg.pathway/hsa00511">
+    <compath:isPartOf rdf:resource="http://identifiers.org/reactome/R-HSA-1430728"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://identifiers.org/wikipathways/WP497">
+    <compath:isPartOf rdf:resource="http://identifiers.org/reactome/R-HSA-71291"/>
+    <compath:isPartOf rdf:resource="http://identifiers.org/reactome/R-HSA-70635"/>
+    <compath:isPartOf rdf:resource="http://identifiers.org/reactome/R-HSA-1430728"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://identifiers.org/wikipathways/WP2355">
+    <compath:isPartOf rdf:resource="http://identifiers.org/reactome/R-HSA-194002"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://identifiers.org/kegg.pathway/hsa00440">
+    <compath:isPartOf rdf:resource="http://identifiers.org/reactome/R-HSA-1430728"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://identifiers.org/wikipathways/WP3599">
+    <compath:isPartOf rdf:resource="http://identifiers.org/reactome/R-HSA-381340"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://identifiers.org/kegg.pathway/hsa04660">
+    <compath:isPartOf rdf:resource="http://identifiers.org/wikipathways/WP69"/>
+    <compath:isPartOf rdf:resource="http://identifiers.org/reactome/R-HSA-389359"/>
+    <compath:isPartOf rdf:resource="http://identifiers.org/wikipathways/WP2583"/>
+    <compath:isPartOf rdf:resource="http://identifiers.org/reactome/R-HSA-168256"/>
+    <compath:isPartOf rdf:resource="http://identifiers.org/reactome/R-HSA-164939"/>
+    <compath:isPartOf rdf:resource="http://identifiers.org/reactome/R-HSA-389356"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://identifiers.org/kegg.pathway/hsa05332">
+    <compath:isPartOf rdf:resource="http://identifiers.org/reactome/R-HSA-1280218"/>
+    <compath:isPartOf rdf:resource="http://identifiers.org/wikipathways/WP2328"/>
+    <compath:isPartOf rdf:resource="http://identifiers.org/reactome/R-HSA-168256"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://identifiers.org/kegg.pathway/hsa05016">
+    <compath:isPartOf rdf:resource="http://identifiers.org/wikipathways/WP3853"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://identifiers.org/kegg.pathway/hsa04920">
+    <compath:isPartOf rdf:resource="http://identifiers.org/reactome/R-HSA-2586552"/>
+    <compath:isPartOf rdf:resource="http://identifiers.org/reactome/R-HSA-1430728"/>
+    <compath:isPartOf rdf:resource="http://identifiers.org/wikipathways/WP3934"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://identifiers.org/kegg.pathway/hsa05031">
+    <compath:isPartOf rdf:resource="http://identifiers.org/wikipathways/WP2636"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://identifiers.org/wikipathways/WP465">
+    <compath:isPartOf rdf:resource="http://identifiers.org/reactome/R-HSA-71240"/>
+    <compath:isPartOf rdf:resource="http://identifiers.org/reactome/R-HSA-1430728"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://identifiers.org/wikipathways/WP384">
+    <compath:isPartOf rdf:resource="http://identifiers.org/reactome/R-HSA-111471"/>
+    <compath:isPartOf rdf:resource="http://identifiers.org/reactome/R-HSA-109581"/>
+    <compath:isPartOf rdf:resource="http://identifiers.org/reactome/R-HSA-5357801"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://identifiers.org/kegg.pathway/hsa00520">
+    <compath:isPartOf rdf:resource="http://identifiers.org/reactome/R-HSA-1430728"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://identifiers.org/wikipathways/WP241">
+    <compath:isPartOf rdf:resource="http://identifiers.org/reactome/R-HSA-1430728"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://identifiers.org/wikipathways/WP2011">
+    <compath:isPartOf rdf:resource="http://identifiers.org/reactome/R-HSA-1655829"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://identifiers.org/wikipathways/WP3874">
+    <compath:isPartOf rdf:resource="http://identifiers.org/reactome/R-HSA-3304351"/>
+    <compath:equivalentTo rdf:resource="http://identifiers.org/reactome/R-HSA-170834"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://identifiers.org/wikipathways/WP4136">
+    <compath:isPartOf rdf:resource="http://identifiers.org/reactome/R-HSA-168256"/>
+    <compath:isPartOf rdf:resource="http://identifiers.org/reactome/R-HSA-168249"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://identifiers.org/kegg.pathway/hsa04962">
+    <compath:equivalentTo rdf:resource="http://identifiers.org/reactome/R-HSA-432040"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://identifiers.org/kegg.pathway/hsa05219">
+    <compath:equivalentTo rdf:resource="http://identifiers.org/wikipathways/WP2828"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://identifiers.org/wikipathways/WP61">
+    <compath:equivalentTo rdf:resource="http://identifiers.org/reactome/R-HSA-157118"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://identifiers.org/wikipathways/WP49">
+    <compath:equivalentTo rdf:resource="http://identifiers.org/reactome/R-HSA-9020558"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://identifiers.org/kegg.pathway/hsa04972">
+    <compath:isPartOf rdf:resource="http://identifiers.org/wikipathways/WP3679"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://identifiers.org/kegg.pathway/hsa00510">
+    <compath:isPartOf rdf:resource="http://identifiers.org/reactome/R-HSA-964739"/>
+    <compath:isPartOf rdf:resource="http://identifiers.org/reactome/R-HSA-975576"/>
+    <compath:isPartOf rdf:resource="http://identifiers.org/reactome/R-HSA-975577"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://identifiers.org/kegg.pathway/hsa00310">
+    <compath:isPartOf rdf:resource="http://identifiers.org/wikipathways/WP3925"/>
+    <compath:equivalentTo rdf:resource="http://identifiers.org/reactome/R-HSA-71064"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://identifiers.org/wikipathways/WP699">
+    <compath:isPartOf rdf:resource="http://identifiers.org/reactome/R-HSA-5423646"/>
+    <compath:isPartOf rdf:resource="http://identifiers.org/reactome/R-HSA-1430728"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://identifiers.org/wikipathways/WP3286">
+    <compath:isPartOf rdf:resource="http://identifiers.org/reactome/R-HSA-1222541"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://identifiers.org/wikipathways/WP2865">
+    <compath:isPartOf rdf:resource="http://identifiers.org/reactome/R-HSA-168256"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://identifiers.org/wikipathways/WP4174">
+    <compath:isPartOf rdf:resource="http://identifiers.org/reactome/R-HSA-1430728"/>
+    <compath:isPartOf rdf:resource="http://identifiers.org/reactome/R-HSA-211981"/>
+    <compath:isPartOf rdf:resource="http://identifiers.org/reactome/R-HSA-211897"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://identifiers.org/kegg.pathway/hsa03010">
+    <compath:isPartOf rdf:resource="http://identifiers.org/wikipathways/WP477"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://identifiers.org/kegg.pathway/hsa00500">
+    <compath:isPartOf rdf:resource="http://identifiers.org/reactome/R-HSA-1430728"/>
+    <compath:isPartOf rdf:resource="http://identifiers.org/reactome/R-HSA-71387"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://identifiers.org/wikipathways/WP500">
+    <compath:equivalentTo rdf:resource="http://identifiers.org/reactome/R-HSA-8982491"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://identifiers.org/wikipathways/WP3875">
+    <compath:isPartOf rdf:resource="http://identifiers.org/reactome/R-HSA-176187"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://identifiers.org/kegg.pathway/hsa05213">
+    <compath:equivalentTo rdf:resource="http://identifiers.org/wikipathways/WP4155"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://identifiers.org/kegg.pathway/hsa04024">
+    <compath:isPartOf rdf:resource="http://identifiers.org/reactome/R-HSA-170660"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://identifiers.org/kegg.pathway/hsa04723">
+    <compath:isPartOf rdf:resource="http://identifiers.org/wikipathways/WP3869"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://identifiers.org/wikipathways/WP691">
+    <compath:isPartOf rdf:resource="http://identifiers.org/reactome/R-HSA-1430728"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://identifiers.org/wikipathways/WP1602">
+    <compath:isPartOf rdf:resource="http://identifiers.org/reactome/R-HSA-112316"/>
+    <compath:isPartOf rdf:resource="http://identifiers.org/reactome/R-HSA-390651"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://identifiers.org/kegg.pathway/hsa04015">
+    <compath:equivalentTo rdf:resource="http://identifiers.org/reactome/R-HSA-392517"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://identifiers.org/wikipathways/WP1600">
+    <compath:isPartOf rdf:resource="http://identifiers.org/reactome/R-HSA-1430728"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://identifiers.org/kegg.pathway/hsa04071">
+    <compath:isPartOf rdf:resource="http://identifiers.org/wikipathways/WP1422"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://identifiers.org/kegg.pathway/hsa00740">
+    <compath:equivalentTo rdf:resource="http://identifiers.org/reactome/R-HSA-196843"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://identifiers.org/wikipathways/WP1403">
+    <compath:isPartOf rdf:resource="http://identifiers.org/reactome/R-HSA-163680"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://identifiers.org/wikipathways/WP244">
+    <compath:isPartOf rdf:resource="http://identifiers.org/reactome/R-HSA-162582"/>
+    <compath:isPartOf rdf:resource="http://identifiers.org/reactome/R-HSA-112412"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://identifiers.org/wikipathways/WP404">
+    <compath:equivalentTo rdf:resource="http://identifiers.org/reactome/R-HSA-15869"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://identifiers.org/kegg.pathway/hsa00900">
+    <compath:isPartOf rdf:resource="http://identifiers.org/reactome/R-HSA-1430728"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://identifiers.org/wikipathways/WP43">
+    <compath:isPartOf rdf:resource="http://identifiers.org/reactome/R-HSA-211999"/>
+    <compath:isPartOf rdf:resource="http://identifiers.org/reactome/R-HSA-211897"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://identifiers.org/wikipathways/WP3892">
+    <compath:isPartOf rdf:resource="http://identifiers.org/reactome/R-HSA-168256"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://identifiers.org/wikipathways/WP185">
+    <compath:isPartOf rdf:resource="http://identifiers.org/reactome/R-HSA-9006921"/>
+    <compath:isPartOf rdf:resource="http://identifiers.org/reactome/R-HSA-354192"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://identifiers.org/wikipathways/WP3303">
+    <compath:isPartOf rdf:resource="http://identifiers.org/reactome/R-HSA-171007"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://identifiers.org/wikipathways/WP1601">
+    <compath:isPartOf rdf:resource="http://identifiers.org/reactome/R-HSA-1430728"/>
+    <compath:isPartOf rdf:resource="http://identifiers.org/reactome/R-HSA-15869"/>
+    <compath:isPartOf rdf:resource="http://identifiers.org/reactome/R-HSA-73621"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://identifiers.org/kegg.pathway/hsa04710">
+    <compath:isPartOf rdf:resource="http://identifiers.org/wikipathways/WP3594"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://identifiers.org/wikipathways/WP2826">
+    <compath:isPartOf rdf:resource="http://identifiers.org/reactome/R-HSA-1430728"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://identifiers.org/wikipathways/WP1604">
+    <compath:isPartOf rdf:resource="http://identifiers.org/reactome/R-HSA-1430728"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://identifiers.org/wikipathways/WP466">
+    <compath:equivalentTo rdf:resource="http://identifiers.org/reactome/R-HSA-69306"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://identifiers.org/wikipathways/WP23">
+    <compath:isPartOf rdf:resource="http://identifiers.org/reactome/R-HSA-1280218"/>
+    <compath:isPartOf rdf:resource="http://identifiers.org/reactome/R-HSA-168256"/>
+    <compath:equivalentTo rdf:resource="http://identifiers.org/reactome/R-HSA-983705"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://identifiers.org/kegg.pathway/hsa04744">
+    <compath:equivalentTo rdf:resource="http://identifiers.org/reactome/R-HSA-2187338"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://identifiers.org/kegg.pathway/hsa04725">
+    <compath:isPartOf rdf:resource="http://identifiers.org/reactome/R-HSA-390648"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://identifiers.org/kegg.pathway/hsa04950">
+    <compath:isPartOf rdf:resource="http://identifiers.org/reactome/R-HSA-5619073"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://identifiers.org/kegg.pathway/hsa04722">
+    <compath:isPartOf rdf:resource="http://identifiers.org/reactome/R-HSA-205017"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://identifiers.org/wikipathways/WP623">
+    <compath:equivalentTo rdf:resource="http://identifiers.org/reactome/R-HSA-163210"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://identifiers.org/wikipathways/WP2533">
+    <compath:equivalentTo rdf:resource="http://identifiers.org/reactome/R-HSA-1483206"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://identifiers.org/kegg.pathway/hsa04919">
+    <compath:isPartOf rdf:resource="http://identifiers.org/reactome/R-HSA-350864"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://identifiers.org/wikipathways/WP696">
+    <compath:isPartOf rdf:resource="http://identifiers.org/reactome/R-HSA-1430728"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://identifiers.org/kegg.pathway/hsa00562">
+    <compath:equivalentTo rdf:resource="http://identifiers.org/reactome/R-HSA-1483249"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://identifiers.org/wikipathways/WP3958">
+    <compath:equivalentTo rdf:resource="http://identifiers.org/reactome/R-HSA-434316"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://identifiers.org/kegg.pathway/hsa05020">
+    <compath:equivalentTo rdf:resource="http://identifiers.org/wikipathways/WP3995"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://identifiers.org/wikipathways/WP3678">
+    <compath:isPartOf rdf:resource="http://identifiers.org/reactome/R-HSA-4411364"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://identifiers.org/wikipathways/WP382">
+    <compath:equivalentTo rdf:resource="http://identifiers.org/reactome/R-HSA-5683057"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://identifiers.org/kegg.pathway/hsa04926">
+    <compath:isPartOf rdf:resource="http://identifiers.org/reactome/R-HSA-444821"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://identifiers.org/wikipathways/WP3664">
+    <compath:isPartOf rdf:resource="http://identifiers.org/reactome/R-HSA-195721"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://identifiers.org/wikipathways/WP1981">
+    <compath:equivalentTo rdf:resource="http://identifiers.org/reactome/R-HSA-209968"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://identifiers.org/wikipathways/WP619">
+    <compath:equivalentTo rdf:resource="http://identifiers.org/reactome/R-HSA-877300"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://identifiers.org/wikipathways/WP3635">
+    <compath:isPartOf rdf:resource="http://identifiers.org/reactome/R-HSA-162582"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://identifiers.org/wikipathways/WP2645">
+    <compath:isPartOf rdf:resource="http://identifiers.org/reactome/R-HSA-1430728"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://identifiers.org/wikipathways/WP3869">
+    <compath:isPartOf rdf:resource="http://identifiers.org/reactome/R-HSA-162582"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://identifiers.org/kegg.pathway/hsa04520">
+    <compath:equivalentTo rdf:resource="http://identifiers.org/reactome/R-HSA-418990"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://identifiers.org/wikipathways/WP1455">
+    <compath:isPartOf rdf:resource="http://identifiers.org/reactome/R-HSA-380615"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://identifiers.org/wikipathways/WP528">
+    <compath:isPartOf rdf:resource="http://identifiers.org/reactome/R-HSA-1430728"/>
+  </rdf:Description>
+</rdf:RDF>
