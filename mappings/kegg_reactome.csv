@@ -1,653 +1,653 @@
-,Source Resource,Source ID,Source Name,Mapping Type,Target Resource,Target ID,Target Name
-0,reactome,R-HSA-2978092,Abnormal conversion of 2-oxoglutarate to 2-hydroxyglutarate,isPartOf,kegg,path:hsa01210,2-Oxocarboxylic acid metabolism - Homo sapiens (human)
-1,reactome,R-HSA-71406,Pyruvate metabolism and Citric Acid (TCA) cycle,isPartOf,kegg,path:hsa01210,2-Oxocarboxylic acid metabolism - Homo sapiens (human)
-2,kegg,path:hsa02010,ABC transporters - Homo sapiens (human),equivalentTo,reactome,R-HSA-1369007,Mitochondrial ABC transporters
-3,reactome,R-HSA-5683177,Defective ABCC8 can cause hypoglycemias and hyperglycemias,isPartOf,kegg,path:hsa02010,ABC transporters - Homo sapiens (human)
-4,reactome,R-HSA-5679001,Defective ABCC2 causes Dubin-Johnson syndrome,isPartOf,kegg,path:hsa02010,ABC transporters - Homo sapiens (human)
-5,reactome,R-HSA-5679096,Defective ABCG5 causes sitosterolemia,isPartOf,kegg,path:hsa02010,ABC transporters - Homo sapiens (human)
-6,reactome,R-HSA-5683329,"Defective ABCD4 causes methylmalonic aciduria and homocystinuria, cblj type (MAHCJ)",isPartOf,kegg,path:hsa02010,ABC transporters - Homo sapiens (human)
-7,reactome,R-HSA-5678520,Defective ABCB11 causes progressive familial intrahepatic cholestasis 2 and benign recurrent intrahepatic cholestasis 2,isPartOf,kegg,path:hsa02010,ABC transporters - Homo sapiens (human)
-8,reactome,R-HSA-5690338,Defective ABCC6 causes pseudoxanthoma elasticum (PXE),isPartOf,kegg,path:hsa02010,ABC transporters - Homo sapiens (human)
-9,reactome,R-HSA-5678420,"Defective ABCC9 causes dilated cardiomyopathy 10, familial atrial fibrillation 12 and hypertrichotic osteochondrodysplasia",isPartOf,kegg,path:hsa02010,ABC transporters - Homo sapiens (human)
-10,reactome,R-HSA-5679090,Defective ABCG8 causes gallbladder disease 4 and sitosterolemia,isPartOf,kegg,path:hsa02010,ABC transporters - Homo sapiens (human)
-11,reactome,R-HSA-5678771,"Defective ABCB4 causes progressive familial intrahepatic cholestasis 3, intrahepatic cholestasis of pregnancy 3 and gallbladder disease 1",isPartOf,kegg,path:hsa02010,ABC transporters - Homo sapiens (human)
-12,reactome,R-HSA-5684045,Defective ABCD1 causes adrenoleukodystrophy (ALD),isPartOf,kegg,path:hsa02010,ABC transporters - Homo sapiens (human)
-13,reactome,R-HSA-5682294,Defective ABCA12 causes autosomal recessive congenital ichthyosis type 4B,isPartOf,kegg,path:hsa02010,ABC transporters - Homo sapiens (human)
-14,reactome,R-HSA-5683371,Defective ABCB6 causes isolated colobomatous microphthalmia 7 (MCOPCB7),isPartOf,kegg,path:hsa02010,ABC transporters - Homo sapiens (human)
-15,reactome,R-HSA-5619084,ABC transporter disorders,isPartOf,kegg,path:hsa02010,ABC transporters - Homo sapiens (human)
-16,reactome,R-HSA-5682113,Defective ABCA1 causes Tangier disease,isPartOf,kegg,path:hsa02010,ABC transporters - Homo sapiens (human)
-17,reactome,R-HSA-5688399,Defective ABCA3 causes pulmonary surfactant metabolism dysfunction 3 (SMDP3),isPartOf,kegg,path:hsa02010,ABC transporters - Homo sapiens (human)
-18,reactome,R-HSA-1369062,ABC transporters in lipid homeostasis,isPartOf,kegg,path:hsa02010,ABC transporters - Homo sapiens (human)
-19,reactome,R-HSA-5683678,Defective ABCA3 causes pulmonary surfactant metabolism dysfunction type 3 (SMDP3),isPartOf,kegg,path:hsa02010,ABC transporters - Homo sapiens (human)
-20,reactome,R-HSA-382556,ABC-family proteins mediated transport,isPartOf,kegg,path:hsa02010,ABC transporters - Homo sapiens (human)
-21,reactome,R-HSA-163680,AMPK inhibits chREBP transcriptional activation activity,isPartOf,kegg,path:hsa04152,AMPK signaling pathway - Homo sapiens (human)
-22,kegg,path:hsa04520,Adherens junction - Homo sapiens (human),equivalentTo,reactome,R-HSA-418990,Adherens junctions interactions
-23,reactome,R-HSA-2586552,Signaling by Leptin,isPartOf,kegg,path:hsa04920,Adipocytokine signaling pathway - Homo sapiens (human)
-24,kegg,path:hsa04920,Adipocytokine signaling pathway - Homo sapiens (human),isPartOf,reactome,R-HSA-1430728,Metabolism
-25,kegg,path:hsa00250,"Alanine, aspartate and glutamate metabolism - Homo sapiens (human)",isPartOf,reactome,R-HSA-71291,Metabolism of amino acids and derivatives
-26,kegg,path:hsa00250,"Alanine, aspartate and glutamate metabolism - Homo sapiens (human)",isPartOf,reactome,R-HSA-1430728,Metabolism
-27,kegg,path:hsa04925,Aldosterone synthesis and secretion - Homo sapiens (human),isPartOf,reactome,R-HSA-1430728,Metabolism
-28,kegg,path:hsa05330,Allograft rejection - Homo sapiens (human),isPartOf,reactome,R-HSA-1280218,Adaptive Immune System
-29,kegg,path:hsa05330,Allograft rejection - Homo sapiens (human),isPartOf,reactome,R-HSA-168256,Immune System
-30,reactome,R-HSA-8862803,Deregulated CDK5 triggers multiple neurodegenerative pathways in Alzheimer's disease models,isPartOf,kegg,path:hsa05010,Alzheimer disease - Homo sapiens (human)
-31,kegg,path:hsa00520,Amino sugar and nucleotide sugar metabolism - Homo sapiens (human),isPartOf,reactome,R-HSA-1430728,Metabolism
-32,kegg,path:hsa00970,Aminoacyl-tRNA biosynthesis - Homo sapiens (human),isPartOf,reactome,R-HSA-1430728,Metabolism
-33,reactome,R-HSA-379724,tRNA Aminoacylation,isPartOf,kegg,path:hsa00970,Aminoacyl-tRNA biosynthesis - Homo sapiens (human)
-34,reactome,R-HSA-379726,Mitochondrial tRNA aminoacylation,isPartOf,kegg,path:hsa00970,Aminoacyl-tRNA biosynthesis - Homo sapiens (human)
-35,reactome,R-HSA-379716,Cytosolic tRNA aminoacylation,isPartOf,kegg,path:hsa00970,Aminoacyl-tRNA biosynthesis - Homo sapiens (human)
-36,kegg,path:hsa04612,Antigen processing and presentation - Homo sapiens (human),equivalentTo,reactome,R-HSA-1236975,Antigen processing-Cross presentation
-37,reactome,R-HSA-2132295,MHC class II antigen presentation,isPartOf,kegg,path:hsa04612,Antigen processing and presentation - Homo sapiens (human)
-38,reactome,R-HSA-983170,"Antigen Presentation: Folding, assembly and peptide loading of class I MHC",isPartOf,kegg,path:hsa04612,Antigen processing and presentation - Homo sapiens (human)
-39,reactome,R-HSA-983169,Class I MHC mediated antigen processing & presentation,isPartOf,kegg,path:hsa04612,Antigen processing and presentation - Homo sapiens (human)
-40,kegg,path:hsa04210,Apoptosis - Homo sapiens (human),equivalentTo,reactome,R-HSA-109581,Apoptosis
-41,reactome,R-HSA-109581,Apoptosis,isPartOf,kegg,path:hsa04215,Apoptosis - multiple species - Homo sapiens (human)
-42,kegg,path:hsa00590,Arachidonic acid metabolism - Homo sapiens (human),equivalentTo,reactome,R-HSA-2142753,Arachidonic acid metabolism
-43,reactome,R-HSA-70688,Proline catabolism,isPartOf,kegg,path:hsa00330,Arginine and proline metabolism - Homo sapiens (human)
-44,kegg,path:hsa00330,Arginine and proline metabolism - Homo sapiens (human),isPartOf,reactome,R-HSA-1430728,Metabolism
-45,kegg,path:hsa00330,Arginine and proline metabolism - Homo sapiens (human),isPartOf,reactome,R-HSA-71291,Metabolism of amino acids and derivatives
-46,kegg,path:hsa00220,Arginine biosynthesis - Homo sapiens (human),isPartOf,reactome,R-HSA-1430728,Metabolism
-47,kegg,path:hsa00220,Arginine biosynthesis - Homo sapiens (human),isPartOf,reactome,R-HSA-71291,Metabolism of amino acids and derivatives
-48,kegg,path:hsa00220,Arginine biosynthesis - Homo sapiens (human),isPartOf,reactome,R-HSA-70635,Urea cycle
-49,kegg,path:hsa00053,Ascorbate and aldarate metabolism - Homo sapiens (human),isPartOf,reactome,R-HSA-1430728,Metabolism
-50,kegg,path:hsa04136,Autophagy - other - Homo sapiens (human),equivalentTo,reactome,R-HSA-1632852,Macroautophagy
-51,kegg,path:hsa04136,Autophagy - other - Homo sapiens (human),isPartOf,reactome,R-HSA-168256,Immune System
-52,reactome,R-HSA-8953897,Cellular responses to external stimuli,isPartOf,kegg,path:hsa04136,Autophagy - other - Homo sapiens (human)
-53,kegg,path:hsa04360,Axon guidance - Homo sapiens (human),equivalentTo,reactome,R-HSA-422475,Axon guidance
-54,kegg,path:hsa04662,B cell receptor signaling pathway - Homo sapiens (human),equivalentTo,reactome,R-HSA-983705,Signaling by the B Cell Receptor (BCR)
-55,kegg,path:hsa04662,B cell receptor signaling pathway - Homo sapiens (human),isPartOf,reactome,R-HSA-1280218,Adaptive Immune System
-56,kegg,path:hsa04662,B cell receptor signaling pathway - Homo sapiens (human),isPartOf,reactome,R-HSA-168256,Immune System
-57,reactome,R-HSA-6807505,RNA polymerase II transcribes snRNA genes,isPartOf,kegg,path:hsa03022,Basal transcription factors - Homo sapiens (human)
-58,reactome,R-HSA-674695,RNA Polymerase II Pre-transcription Events,isPartOf,kegg,path:hsa03022,Basal transcription factors - Homo sapiens (human)
-59,reactome,R-HSA-73776,RNA Polymerase II Promoter Escape,isPartOf,kegg,path:hsa03022,Basal transcription factors - Homo sapiens (human)
-60,reactome,R-HSA-167160,RNA Pol II CTD phosphorylation and interaction with CE during HIV infection,isPartOf,kegg,path:hsa03022,Basal transcription factors - Homo sapiens (human)
-61,kegg,path:hsa03022,Basal transcription factors - Homo sapiens (human),isPartOf,reactome,R-HSA-73857,RNA Polymerase II Transcription
-62,reactome,R-HSA-77075,RNA Pol II CTD phosphorylation and interaction with CE,isPartOf,kegg,path:hsa03022,Basal transcription factors - Homo sapiens (human)
-63,kegg,path:hsa03022,Basal transcription factors - Homo sapiens (human),isPartOf,reactome,R-HSA-212436,Generic Transcription Pathway
-64,reactome,R-HSA-75953,RNA Polymerase II Transcription Initiation,isPartOf,kegg,path:hsa03022,Basal transcription factors - Homo sapiens (human)
-65,reactome,R-HSA-167162,RNA Polymerase II HIV Promoter Escape,isPartOf,kegg,path:hsa03022,Basal transcription factors - Homo sapiens (human)
-66,kegg,path:hsa03022,Basal transcription factors - Homo sapiens (human),isPartOf,reactome,R-HSA-8953854,Metabolism of RNA
-67,reactome,R-HSA-73863,RNA Polymerase I Transcription Termination,isPartOf,kegg,path:hsa03022,Basal transcription factors - Homo sapiens (human)
-68,reactome,R-HSA-73772,RNA Polymerase I Promoter Escape,isPartOf,kegg,path:hsa03022,Basal transcription factors - Homo sapiens (human)
-69,reactome,R-HSA-73857,RNA Polymerase II Transcription,isPartOf,kegg,path:hsa03022,Basal transcription factors - Homo sapiens (human)
-70,reactome,R-HSA-73779,RNA Polymerase II Transcription Pre-Initiation And Promoter Opening,isPartOf,kegg,path:hsa03022,Basal transcription factors - Homo sapiens (human)
-71,kegg,path:hsa03022,Basal transcription factors - Homo sapiens (human),isPartOf,reactome,R-HSA-74160,Gene expression (Transcription)
-72,reactome,R-HSA-76042,RNA Polymerase II Transcription Initiation And Promoter Clearance,isPartOf,kegg,path:hsa03022,Basal transcription factors - Homo sapiens (human)
-73,kegg,path:hsa03410,Base excision repair - Homo sapiens (human),equivalentTo,reactome,R-HSA-73884,Base Excision Repair
-74,kegg,path:hsa04976,Bile secretion - Homo sapiens (human),isPartOf,reactome,R-HSA-8935690,Digestion
-75,reactome,R-HSA-70614,Amino acid synthesis and interconversion (transamination),isPartOf,kegg,path:hsa01230,Biosynthesis of amino acids - Homo sapiens (human)
-76,reactome,R-HSA-1614603,Cysteine formation from homocysteine,isPartOf,kegg,path:hsa01230,Biosynthesis of amino acids - Homo sapiens (human)
-77,kegg,path:hsa01230,Biosynthesis of amino acids - Homo sapiens (human),isPartOf,reactome,R-HSA-1430728,Metabolism
-78,reactome,R-HSA-70635,Urea cycle,isPartOf,kegg,path:hsa01230,Biosynthesis of amino acids - Homo sapiens (human)
-79,reactome,R-HSA-71182,Phenylalanine and tyrosine catabolism,isPartOf,kegg,path:hsa01230,Biosynthesis of amino acids - Homo sapiens (human)
-80,kegg,path:hsa01230,Biosynthesis of amino acids - Homo sapiens (human),isPartOf,reactome,R-HSA-71291,Metabolism of amino acids and derivatives
-81,reactome,R-HSA-2046105,Linoleic acid (LA) metabolism,isPartOf,kegg,path:hsa01040,Biosynthesis of unsaturated fatty acids - Homo sapiens (human)
-82,reactome,R-HSA-75105,Fatty acyl-CoA biosynthesis,isPartOf,kegg,path:hsa01040,Biosynthesis of unsaturated fatty acids - Homo sapiens (human)
-83,reactome,R-HSA-75876,Synthesis of very long-chain fatty acyl-CoAs,isPartOf,kegg,path:hsa01040,Biosynthesis of unsaturated fatty acids - Homo sapiens (human)
-84,kegg,path:hsa01040,Biosynthesis of unsaturated fatty acids - Homo sapiens (human),isPartOf,reactome,R-HSA-8978868,Fatty acid metabolism
-85,kegg,path:hsa01040,Biosynthesis of unsaturated fatty acids - Homo sapiens (human),isPartOf,reactome,R-HSA-1430728,Metabolism
-86,reactome,R-HSA-2142688,Synthesis of 5-eicosatetraenoic acids,isPartOf,kegg,path:hsa01040,Biosynthesis of unsaturated fatty acids - Homo sapiens (human)
-87,kegg,path:hsa01040,Biosynthesis of unsaturated fatty acids - Homo sapiens (human),isPartOf,reactome,R-HSA-556833,Metabolism of lipids
-88,kegg,path:hsa00780,Biotin metabolism - Homo sapiens (human),isPartOf,reactome,R-HSA-196780,Biotin transport and metabolism
-89,reactome,R-HSA-77350,Beta oxidation of hexanoyl-CoA to butanoyl-CoA,isPartOf,kegg,path:hsa00650,Butanoate metabolism - Homo sapiens (human)
-90,reactome,R-HSA-77352,Beta oxidation of butanoyl-CoA to acetyl-CoA,isPartOf,kegg,path:hsa00650,Butanoate metabolism - Homo sapiens (human)
-91,kegg,path:hsa00650,Butanoate metabolism - Homo sapiens (human),isPartOf,reactome,R-HSA-1430728,Metabolism
-92,kegg,path:hsa00232,Caffeine metabolism - Homo sapiens (human),isPartOf,reactome,R-HSA-1430728,Metabolism
-93,reactome,R-HSA-139853,Elevation of cytosolic Ca2+ levels,isPartOf,kegg,path:hsa04020,Calcium signaling pathway - Homo sapiens (human)
-94,reactome,R-HSA-111997,CaM pathway,isPartOf,kegg,path:hsa04020,Calcium signaling pathway - Homo sapiens (human)
-95,reactome,R-HSA-418360,Platelet calcium homeostasis,isPartOf,kegg,path:hsa04020,Calcium signaling pathway - Homo sapiens (human)
-96,reactome,R-HSA-442745,Activation of CaMK IV,isPartOf,kegg,path:hsa04020,Calcium signaling pathway - Homo sapiens (human)
-97,reactome,R-HSA-418359,Reduction of cytosolic Ca++ levels,isPartOf,kegg,path:hsa04020,Calcium signaling pathway - Homo sapiens (human)
-98,reactome,R-HSA-8963676,Intestinal absorption,isPartOf,kegg,path:hsa04973,Carbohydrate digestion and absorption - Homo sapiens (human)
-99,reactome,R-HSA-189085,Digestion of dietary carbohydrate,isPartOf,kegg,path:hsa04973,Carbohydrate digestion and absorption - Homo sapiens (human)
-100,reactome,R-HSA-5659898,Intestinal saccharidase deficiencies,isPartOf,kegg,path:hsa04973,Carbohydrate digestion and absorption - Homo sapiens (human)
-101,reactome,R-HSA-8981373,Intestinal hexose absorption,isPartOf,kegg,path:hsa04973,Carbohydrate digestion and absorption - Homo sapiens (human)
-102,reactome,R-HSA-8963743,Digestion and absorption,isPartOf,kegg,path:hsa04973,Carbohydrate digestion and absorption - Homo sapiens (human)
-103,kegg,path:hsa01200,Carbon metabolism - Homo sapiens (human),equivalentTo,reactome,R-HSA-71387,Metabolism of carbohydrates
-104,reactome,R-HSA-70326,Glucose metabolism,isPartOf,kegg,path:hsa01200,Carbon metabolism - Homo sapiens (human)
-105,reactome,R-HSA-5652084,Fructose metabolism,isPartOf,kegg,path:hsa01200,Carbon metabolism - Homo sapiens (human)
-106,kegg,path:hsa01200,Carbon metabolism - Homo sapiens (human),isPartOf,reactome,R-HSA-1430728,Metabolism
-107,reactome,R-HSA-73843,5-Phosphoribose 1-diphosphate biosynthesis,isPartOf,kegg,path:hsa01200,Carbon metabolism - Homo sapiens (human)
-108,reactome,R-HSA-8982491,Glycogen metabolism,isPartOf,kegg,path:hsa01200,Carbon metabolism - Homo sapiens (human)
-109,reactome,R-HSA-71406,Pyruvate metabolism and Citric Acid (TCA) cycle,isPartOf,kegg,path:hsa01200,Carbon metabolism - Homo sapiens (human)
-110,kegg,path:hsa01200,Carbon metabolism - Homo sapiens (human),isPartOf,reactome,R-HSA-6791465,Pentose phosphate pathway disease
-111,reactome,R-HSA-70171,Glycolysis,isPartOf,kegg,path:hsa01200,Carbon metabolism - Homo sapiens (human)
-112,kegg,path:hsa04260,Cardiac muscle contraction - Homo sapiens (human),isPartOf,reactome,R-HSA-397014,Muscle contraction
-113,kegg,path:hsa04514,Cell adhesion molecules (CAMs) - Homo sapiens (human),isPartOf,reactome,R-HSA-421270,Cell-cell junction organization
-114,reactome,R-HSA-447043,Neurofascin interactions,isPartOf,kegg,path:hsa04514,Cell adhesion molecules (CAMs) - Homo sapiens (human)
-115,reactome,R-HSA-421270,Cell-cell junction organization,isPartOf,kegg,path:hsa04514,Cell adhesion molecules (CAMs) - Homo sapiens (human)
-116,kegg,path:hsa04514,Cell adhesion molecules (CAMs) - Homo sapiens (human),isPartOf,reactome,R-HSA-420029,Tight junction interactions
-117,kegg,path:hsa04110,Cell cycle - Homo sapiens (human),equivalentTo,reactome,R-HSA-1640170,Cell Cycle
-118,kegg,path:hsa04218,Cellular senescence - Homo sapiens (human),equivalentTo,reactome,R-HSA-2559583,Cellular Senescence
-119,reactome,R-HSA-380108,Chemokine receptors bind chemokines,isPartOf,kegg,path:hsa04062,Chemokine signaling pathway - Homo sapiens (human)
-120,reactome,R-HSA-8964041,LDL remodeling,isPartOf,kegg,path:hsa04979,Cholesterol metabolism - Homo sapiens (human)
-121,reactome,R-HSA-8963888,Chylomicron assembly,isPartOf,kegg,path:hsa04979,Cholesterol metabolism - Homo sapiens (human)
-122,kegg,path:hsa04979,Cholesterol metabolism - Homo sapiens (human),isPartOf,reactome,R-HSA-1430728,Metabolism
-123,reactome,R-HSA-8964011,HDL clearance,isPartOf,kegg,path:hsa04979,Cholesterol metabolism - Homo sapiens (human)
-124,reactome,R-HSA-8964058,HDL remodeling,isPartOf,kegg,path:hsa04979,Cholesterol metabolism - Homo sapiens (human)
-125,reactome,R-HSA-8963901,Chylomicron remodeling,isPartOf,kegg,path:hsa04979,Cholesterol metabolism - Homo sapiens (human)
-126,reactome,R-HSA-8964043,Plasma lipoprotein clearance,isPartOf,kegg,path:hsa04979,Cholesterol metabolism - Homo sapiens (human)
-127,reactome,R-HSA-8963898,Plasma lipoprotein assembly,isPartOf,kegg,path:hsa04979,Cholesterol metabolism - Homo sapiens (human)
-128,reactome,R-HSA-8866423,VLDL assembly,isPartOf,kegg,path:hsa04979,Cholesterol metabolism - Homo sapiens (human)
-129,reactome,R-HSA-8964026,Chylomicron clearance,isPartOf,kegg,path:hsa04979,Cholesterol metabolism - Homo sapiens (human)
-130,reactome,R-HSA-8964038,LDL clearance,isPartOf,kegg,path:hsa04979,Cholesterol metabolism - Homo sapiens (human)
-131,reactome,R-HSA-390648,Muscarinic acetylcholine receptors,isPartOf,kegg,path:hsa04725,Cholinergic synapse - Homo sapiens (human)
-132,kegg,path:hsa00020,Citrate cycle (TCA cycle) - Homo sapiens (human),equivalentTo,reactome,R-HSA-71403,Citric acid cycle (TCA cycle)
-133,reactome,R-HSA-5632927,Defective Mismatch Repair Associated With MSH3,isPartOf,kegg,path:hsa05210,Colorectal cancer - Homo sapiens (human)
-134,reactome,R-HSA-5632928,Defective Mismatch Repair Associated With MSH2,isPartOf,kegg,path:hsa05210,Colorectal cancer - Homo sapiens (human)
-135,reactome,R-HSA-5632968,Defective Mismatch Repair Associated With MSH6,isPartOf,kegg,path:hsa05210,Colorectal cancer - Homo sapiens (human)
-136,kegg,path:hsa04610,Complement and coagulation cascades - Homo sapiens (human),isPartOf,reactome,R-HSA-168256,Immune System
-137,reactome,R-HSA-109582,Hemostasis,isPartOf,kegg,path:hsa04610,Complement and coagulation cascades - Homo sapiens (human)
-138,reactome,R-HSA-173736,Alternative complement activation,isPartOf,kegg,path:hsa04610,Complement and coagulation cascades - Homo sapiens (human)
-139,reactome,R-HSA-174577,Activation of C3 and C5,isPartOf,kegg,path:hsa04610,Complement and coagulation cascades - Homo sapiens (human)
-140,reactome,R-HSA-977606,Regulation of Complement cascade,isPartOf,kegg,path:hsa04610,Complement and coagulation cascades - Homo sapiens (human)
-141,reactome,R-HSA-166658,Complement cascade,isPartOf,kegg,path:hsa04610,Complement and coagulation cascades - Homo sapiens (human)
-142,reactome,R-HSA-140875,Common Pathway of Fibrin Clot Formation,isPartOf,kegg,path:hsa04610,Complement and coagulation cascades - Homo sapiens (human)
-143,reactome,R-HSA-140877,Formation of Fibrin Clot (Clotting Cascade),isPartOf,kegg,path:hsa04610,Complement and coagulation cascades - Homo sapiens (human)
-144,reactome,R-HSA-75205,Dissolution of Fibrin Clot,isPartOf,kegg,path:hsa04610,Complement and coagulation cascades - Homo sapiens (human)
-145,reactome,R-HSA-166665,Terminal pathway of complement,isPartOf,kegg,path:hsa04610,Complement and coagulation cascades - Homo sapiens (human)
-146,reactome,R-HSA-140834,Extrinsic Pathway of Fibrin Clot Formation,isPartOf,kegg,path:hsa04610,Complement and coagulation cascades - Homo sapiens (human)
-147,reactome,R-HSA-140837,Intrinsic Pathway of Fibrin Clot Formation,isPartOf,kegg,path:hsa04610,Complement and coagulation cascades - Homo sapiens (human)
-148,reactome,R-HSA-193993,Mineralocorticoid biosynthesis,isPartOf,kegg,path:hsa04927,Cortisol synthesis and secretion - Homo sapiens (human)
-149,reactome,R-HSA-6807047,Cholesterol biosynthesis via desmosterol,isPartOf,kegg,path:hsa04927,Cortisol synthesis and secretion - Homo sapiens (human)
-150,reactome,R-HSA-6807062,Cholesterol biosynthesis via lathosterol,isPartOf,kegg,path:hsa04927,Cortisol synthesis and secretion - Homo sapiens (human)
-151,reactome,R-HSA-194002,Glucocorticoid biosynthesis,isPartOf,kegg,path:hsa04927,Cortisol synthesis and secretion - Homo sapiens (human)
-152,kegg,path:hsa04927,Cortisol synthesis and secretion - Homo sapiens (human),isPartOf,reactome,R-HSA-1430728,Metabolism
-153,kegg,path:hsa00270,Cysteine and methionine metabolism - Homo sapiens (human),isPartOf,reactome,R-HSA-1614635,Sulfur amino acid metabolism
-154,reactome,R-HSA-1614603,Cysteine formation from homocysteine,isPartOf,kegg,path:hsa00270,Cysteine and methionine metabolism - Homo sapiens (human)
-155,kegg,path:hsa00270,Cysteine and methionine metabolism - Homo sapiens (human),isPartOf,reactome,R-HSA-1430728,Metabolism
-156,kegg,path:hsa00270,Cysteine and methionine metabolism - Homo sapiens (human),isPartOf,reactome,R-HSA-71291,Metabolism of amino acids and derivatives
-157,kegg,path:hsa04060,Cytokine-cytokine receptor interaction - Homo sapiens (human),isPartOf,reactome,R-HSA-1280215,Cytokine Signaling in Immune system
-158,kegg,path:hsa04060,Cytokine-cytokine receptor interaction - Homo sapiens (human),isPartOf,reactome,R-HSA-168256,Immune System
-159,reactome,R-HSA-6788467,IL-6-type cytokine receptor ligand interactions,isPartOf,kegg,path:hsa04060,Cytokine-cytokine receptor interaction - Homo sapiens (human)
-160,reactome,R-HSA-5669034,TNFs bind their physiological receptors,isPartOf,kegg,path:hsa04060,Cytokine-cytokine receptor interaction - Homo sapiens (human)
-161,reactome,R-HSA-380108,Chemokine receptors bind chemokines,isPartOf,kegg,path:hsa04060,Cytokine-cytokine receptor interaction - Homo sapiens (human)
-162,kegg,path:hsa04060,Cytokine-cytokine receptor interaction - Homo sapiens (human),isPartOf,reactome,R-HSA-5632681,Ligand-receptor interactions
-163,kegg,path:hsa04623,Cytosolic DNA-sensing pathway - Homo sapiens (human),isPartOf,reactome,R-HSA-1834949,Cytosolic sensors of pathogen-associated DNA
-164,kegg,path:hsa00472,D-Arginine and D-ornithine metabolism - Homo sapiens (human),isPartOf,reactome,R-HSA-1430728,Metabolism
-165,kegg,path:hsa00472,D-Arginine and D-ornithine metabolism - Homo sapiens (human),isPartOf,reactome,R-HSA-71291,Metabolism of amino acids and derivatives
-166,kegg,path:hsa00471,D-Glutamine and D-glutamate metabolism - Homo sapiens (human),isPartOf,reactome,R-HSA-71291,Metabolism of amino acids and derivatives
-167,kegg,path:hsa00471,D-Glutamine and D-glutamate metabolism - Homo sapiens (human),isPartOf,reactome,R-HSA-1430728,Metabolism
-168,kegg,path:hsa00471,D-Glutamine and D-glutamate metabolism - Homo sapiens (human),isPartOf,reactome,R-HSA-70614,Amino acid synthesis and interconversion (transamination)
-169,kegg,path:hsa03030,DNA replication - Homo sapiens (human),equivalentTo,reactome,R-HSA-69306,DNA Replication
-170,reactome,R-HSA-390651,Dopamine receptors,isPartOf,kegg,path:hsa04728,Dopaminergic synapse - Homo sapiens (human)
-171,reactome,R-HSA-379397,Enzymatic degradation of dopamine by COMT,isPartOf,kegg,path:hsa04728,Dopaminergic synapse - Homo sapiens (human)
-172,reactome,R-HSA-399710,Activation of AMPA receptors,isPartOf,kegg,path:hsa04728,Dopaminergic synapse - Homo sapiens (human)
-173,reactome,R-HSA-379398,Enzymatic degradation of Dopamine by monoamine oxidase,isPartOf,kegg,path:hsa04728,Dopaminergic synapse - Homo sapiens (human)
-174,reactome,R-HSA-141333,Biogenic amines are oxidatively deaminated to aldehydes by MAOA and MAOB,isPartOf,kegg,path:hsa04728,Dopaminergic synapse - Homo sapiens (human)
-175,reactome,R-HSA-379401,Dopamine clearance from the synaptic cleft,isPartOf,kegg,path:hsa04728,Dopaminergic synapse - Homo sapiens (human)
-176,reactome,R-HSA-71384,Ethanol oxidation,isPartOf,kegg,path:hsa00982,Drug metabolism - cytochrome P450 - Homo sapiens (human)
-177,reactome,R-HSA-141333,Biogenic amines are oxidatively deaminated to aldehydes by MAOA and MAOB,isPartOf,kegg,path:hsa00982,Drug metabolism - cytochrome P450 - Homo sapiens (human)
-178,kegg,path:hsa00982,Drug metabolism - cytochrome P450 - Homo sapiens (human),isPartOf,reactome,R-HSA-1430728,Metabolism
-179,reactome,R-HSA-211999,CYP2E1 reactions,isPartOf,kegg,path:hsa00982,Drug metabolism - cytochrome P450 - Homo sapiens (human)
-180,kegg,path:hsa00983,Drug metabolism - other enzymes - Homo sapiens (human),isPartOf,reactome,R-HSA-1430728,Metabolism
-181,reactome,R-HSA-3000178,ECM proteoglycans,isPartOf,kegg,path:hsa04512,ECM-receptor interaction - Homo sapiens (human)
-182,kegg,path:hsa04512,ECM-receptor interaction - Homo sapiens (human),isPartOf,reactome,R-HSA-1474244,Extracellular matrix organization
-183,reactome,R-HSA-3000157,Laminin interactions,isPartOf,kegg,path:hsa04512,ECM-receptor interaction - Homo sapiens (human)
-184,reactome,R-HSA-917729,Endosomal Sorting Complex Required For Transport (ESCRT),isPartOf,kegg,path:hsa04144,Endocytosis - Homo sapiens (human)
-185,reactome,R-HSA-8856825,Cargo recognition for clathrin-mediated endocytosis,isPartOf,kegg,path:hsa04144,Endocytosis - Homo sapiens (human)
-186,reactome,R-HSA-8856828,Clathrin-mediated endocytosis,isPartOf,kegg,path:hsa04144,Endocytosis - Homo sapiens (human)
-187,reactome,R-HSA-1250342,PI3K events in ERBB4 signaling,isPartOf,kegg,path:hsa04012,ErbB signaling pathway - Homo sapiens (human)
-188,reactome,R-HSA-1236394,Signaling by ERBB4,isPartOf,kegg,path:hsa04012,ErbB signaling pathway - Homo sapiens (human)
-189,reactome,R-HSA-1963640,GRB2 events in ERBB2 signaling,isPartOf,kegg,path:hsa04012,ErbB signaling pathway - Homo sapiens (human)
-190,reactome,R-HSA-6785631,ERBB2 Regulates Cell Motility,isPartOf,kegg,path:hsa04012,ErbB signaling pathway - Homo sapiens (human)
-191,reactome,R-HSA-1963642,PI3K events in ERBB2 signaling,isPartOf,kegg,path:hsa04012,ErbB signaling pathway - Homo sapiens (human)
-192,reactome,R-HSA-8847993,ERBB2 Activates PTK6 Signaling,isPartOf,kegg,path:hsa04012,ErbB signaling pathway - Homo sapiens (human)
-193,reactome,R-HSA-1306955,GRB7 events in ERBB2 signaling,isPartOf,kegg,path:hsa04012,ErbB signaling pathway - Homo sapiens (human)
-194,reactome,R-HSA-1358803,Downregulation of ERBB2:ERBB3 signaling,isPartOf,kegg,path:hsa04012,ErbB signaling pathway - Homo sapiens (human)
-195,reactome,R-HSA-1253288,Downregulation of ERBB4 signaling,isPartOf,kegg,path:hsa04012,ErbB signaling pathway - Homo sapiens (human)
-196,reactome,R-HSA-8863795,Downregulation of ERBB2 signaling,isPartOf,kegg,path:hsa04012,ErbB signaling pathway - Homo sapiens (human)
-197,reactome,R-HSA-1250347,SHC1 events in ERBB4 signaling,isPartOf,kegg,path:hsa04012,ErbB signaling pathway - Homo sapiens (human)
-198,reactome,R-HSA-1227986,Signaling by ERBB2,isPartOf,kegg,path:hsa04012,ErbB signaling pathway - Homo sapiens (human)
-199,reactome,R-HSA-1251985,Nuclear signaling by ERBB4,isPartOf,kegg,path:hsa04012,ErbB signaling pathway - Homo sapiens (human)
-200,reactome,R-HSA-1250196,SHC1 events in ERBB2 signaling,isPartOf,kegg,path:hsa04012,ErbB signaling pathway - Homo sapiens (human)
-201,reactome,R-HSA-1251932,PLCG1 events in ERBB2 signaling,isPartOf,kegg,path:hsa04012,ErbB signaling pathway - Homo sapiens (human)
-202,kegg,path:hsa00565,Ether lipid metabolism - Homo sapiens (human),isPartOf,reactome,R-HSA-556833,Metabolism of lipids
-203,reactome,R-HSA-1483257,Phospholipid metabolism,isPartOf,kegg,path:hsa00565,Ether lipid metabolism - Homo sapiens (human)
-204,kegg,path:hsa00565,Ether lipid metabolism - Homo sapiens (human),isPartOf,reactome,R-HSA-1430728,Metabolism
-205,kegg,path:hsa03460,Fanconi anemia pathway - Homo sapiens (human),equivalentTo,reactome,R-HSA-6783310,Fanconi Anemia Pathway
-206,reactome,R-HSA-192456,Digestion of dietary lipid,isPartOf,kegg,path:hsa04975,Fat digestion and absorption - Homo sapiens (human)
-207,reactome,R-HSA-8963678,Intestinal lipid absorption,isPartOf,kegg,path:hsa04975,Fat digestion and absorption - Homo sapiens (human)
-208,kegg,path:hsa04975,Fat digestion and absorption - Homo sapiens (human),isPartOf,reactome,R-HSA-8963676,Intestinal absorption
-209,kegg,path:hsa04975,Fat digestion and absorption - Homo sapiens (human),isPartOf,reactome,R-HSA-8963743,Digestion and absorption
-210,kegg,path:hsa00061,Fatty acid biosynthesis - Homo sapiens (human),isPartOf,reactome,R-HSA-1430728,Metabolism
-211,reactome,R-HSA-75105,Fatty acyl-CoA biosynthesis,isPartOf,kegg,path:hsa00061,Fatty acid biosynthesis - Homo sapiens (human)
-212,reactome,R-HSA-77346,Beta oxidation of decanoyl-CoA to octanoyl-CoA-CoA,isPartOf,kegg,path:hsa00071,Fatty acid degradation - Homo sapiens (human)
-213,reactome,R-HSA-77350,Beta oxidation of hexanoyl-CoA to butanoyl-CoA,isPartOf,kegg,path:hsa00071,Fatty acid degradation - Homo sapiens (human)
-214,reactome,R-HSA-77348,Beta oxidation of octanoyl-CoA to hexanoyl-CoA,isPartOf,kegg,path:hsa00071,Fatty acid degradation - Homo sapiens (human)
-215,kegg,path:hsa00071,Fatty acid degradation - Homo sapiens (human),isPartOf,reactome,R-HSA-556833,Metabolism of lipids
-216,reactome,R-HSA-77286,mitochondrial fatty acid beta-oxidation of saturated fatty acids,isPartOf,kegg,path:hsa00071,Fatty acid degradation - Homo sapiens (human)
-217,kegg,path:hsa00071,Fatty acid degradation - Homo sapiens (human),isPartOf,reactome,R-HSA-8978868,Fatty acid metabolism
-218,kegg,path:hsa00071,Fatty acid degradation - Homo sapiens (human),isPartOf,reactome,R-HSA-1430728,Metabolism
-219,reactome,R-HSA-77285,Beta oxidation of myristoyl-CoA to lauroyl-CoA,isPartOf,kegg,path:hsa00071,Fatty acid degradation - Homo sapiens (human)
-220,reactome,R-HSA-77288,mitochondrial fatty acid beta-oxidation of unsaturated fatty acids,isPartOf,kegg,path:hsa00071,Fatty acid degradation - Homo sapiens (human)
-221,reactome,R-HSA-77310,Beta oxidation of lauroyl-CoA to decanoyl-CoA-CoA,isPartOf,kegg,path:hsa00071,Fatty acid degradation - Homo sapiens (human)
-222,reactome,R-HSA-77305,Beta oxidation of palmitoyl-CoA to myristoyl-CoA,isPartOf,kegg,path:hsa00071,Fatty acid degradation - Homo sapiens (human)
-223,kegg,path:hsa00062,Fatty acid elongation - Homo sapiens (human),isPartOf,reactome,R-HSA-1430728,Metabolism
-224,kegg,path:hsa00062,Fatty acid elongation - Homo sapiens (human),isPartOf,reactome,R-HSA-556833,Metabolism of lipids
-225,kegg,path:hsa00062,Fatty acid elongation - Homo sapiens (human),isPartOf,reactome,R-HSA-8978868,Fatty acid metabolism
-226,kegg,path:hsa00062,Fatty acid elongation - Homo sapiens (human),isPartOf,reactome,R-HSA-211935,Fatty acids
-227,kegg,path:hsa01212,Fatty acid metabolism - Homo sapiens (human),equivalentTo,reactome,R-HSA-8978868,Fatty acid metabolism
-228,kegg,path:hsa01212,Fatty acid metabolism - Homo sapiens (human),isPartOf,reactome,R-HSA-556833,Metabolism of lipids
-229,kegg,path:hsa01212,Fatty acid metabolism - Homo sapiens (human),isPartOf,reactome,R-HSA-1430728,Metabolism
-230,kegg,path:hsa04664,Fc epsilon RI signaling pathway - Homo sapiens (human),equivalentTo,reactome,R-HSA-2454202,Fc epsilon receptor (FCERI) signaling
-231,reactome,R-HSA-111995,phospho-PLA2 pathway,isPartOf,kegg,path:hsa04664,Fc epsilon RI signaling pathway - Homo sapiens (human)
-232,reactome,R-HSA-2454202,Fc epsilon receptor (FCERI) signaling,isPartOf,kegg,path:hsa04664,Fc epsilon RI signaling pathway - Homo sapiens (human)
-233,kegg,path:hsa04666,Fc gamma R-mediated phagocytosis - Homo sapiens (human),equivalentTo,reactome,R-HSA-2029480,Fcgamma receptor (FCGR) dependent phagocytosis
-234,reactome,R-HSA-5619048,"Defective SLC11A2 causes hypochromic microcytic anemia, with iron overload 1 (AHMIO1)",isPartOf,kegg,path:hsa04216,Ferroptosis - Homo sapiens (human)
-235,reactome,R-HSA-5578999,Defective GCLC causes Hemolytic anemia due to gamma-glutamylcysteine synthetase deficiency (HAGGSD),isPartOf,kegg,path:hsa04216,Ferroptosis - Homo sapiens (human)
-236,reactome,R-HSA-3000157,Laminin interactions,isPartOf,kegg,path:hsa04510,Focal adhesion - Homo sapiens (human)
-237,reactome,R-HSA-446343,Localization of the PINCH-ILK-PARVIN complex to focal adhesions,isPartOf,kegg,path:hsa04510,Focal adhesion - Homo sapiens (human)
-238,reactome,R-HSA-9006921,Integrin signaling,isPartOf,kegg,path:hsa04510,Focal adhesion - Homo sapiens (human)
-239,reactome,R-HSA-3000171,Non-integrin membrane-ECM interactions,isPartOf,kegg,path:hsa04510,Focal adhesion - Homo sapiens (human)
-240,reactome,R-HSA-354192,Integrin alphaIIb beta3 signaling,isPartOf,kegg,path:hsa04510,Focal adhesion - Homo sapiens (human)
-241,kegg,path:hsa00790,Folate biosynthesis - Homo sapiens (human),isPartOf,reactome,R-HSA-1430728,Metabolism
-242,reactome,R-HSA-947581,Molybdenum cofactor biosynthesis,isPartOf,kegg,path:hsa00790,Folate biosynthesis - Homo sapiens (human)
-243,kegg,path:hsa00790,Folate biosynthesis - Homo sapiens (human),isPartOf,reactome,R-HSA-196849,Metabolism of water-soluble vitamins and cofactors
-244,kegg,path:hsa00790,Folate biosynthesis - Homo sapiens (human),isPartOf,reactome,R-HSA-196854,Metabolism of vitamins and cofactors
-245,kegg,path:hsa00790,Folate biosynthesis - Homo sapiens (human),isPartOf,reactome,R-HSA-1430728,Metabolism
-246,reactome,R-HSA-211163,AKT-mediated inactivation of FOXO1A,isPartOf,kegg,path:hsa04068,FoxO signaling pathway - Homo sapiens (human)
-247,reactome,R-HSA-5652227,Fructose biosynthesis,isPartOf,kegg,path:hsa00051,Fructose and mannose metabolism - Homo sapiens (human)
-248,reactome,R-HSA-446205,Synthesis of GDP-mannose,isPartOf,kegg,path:hsa00051,Fructose and mannose metabolism - Homo sapiens (human)
-249,kegg,path:hsa00051,Fructose and mannose metabolism - Homo sapiens (human),isPartOf,reactome,R-HSA-1430728,Metabolism
-250,reactome,R-HSA-70350,Fructose catabolism,isPartOf,kegg,path:hsa00051,Fructose and mannose metabolism - Homo sapiens (human)
-251,reactome,R-HSA-5652084,Fructose metabolism,isPartOf,kegg,path:hsa00051,Fructose and mannose metabolism - Homo sapiens (human)
-252,reactome,R-HSA-977443,GABA receptor activation,isPartOf,kegg,path:hsa04727,GABAergic synapse - Homo sapiens (human)
-253,reactome,R-HSA-977444,GABA B receptor activation,isPartOf,kegg,path:hsa04727,GABAergic synapse - Homo sapiens (human)
-254,reactome,R-HSA-977442,GABA A (rho) receptor activation,isPartOf,kegg,path:hsa04727,GABAergic synapse - Homo sapiens (human)
-255,reactome,R-HSA-977441,GABA A receptor activation,isPartOf,kegg,path:hsa04727,GABAergic synapse - Homo sapiens (human)
-256,reactome,R-HSA-70370,Galactose catabolism,isPartOf,kegg,path:hsa00052,Galactose metabolism - Homo sapiens (human)
-257,reactome,R-HSA-190873,Gap junction degradation,isPartOf,kegg,path:hsa04540,Gap junction - Homo sapiens (human)
-258,reactome,R-HSA-191647,c-src mediated regulation of Cx43 function and closure of gap junctions,isPartOf,kegg,path:hsa04540,Gap junction - Homo sapiens (human)
-259,reactome,R-HSA-190828,Gap junction trafficking,isPartOf,kegg,path:hsa04540,Gap junction - Homo sapiens (human)
-260,reactome,R-HSA-196025,Formation of annular gap junctions,isPartOf,kegg,path:hsa04540,Gap junction - Homo sapiens (human)
-261,reactome,R-HSA-190861,Gap junction assembly,isPartOf,kegg,path:hsa04540,Gap junction - Homo sapiens (human)
-262,reactome,R-HSA-157858,Gap junction trafficking and regulation,isPartOf,kegg,path:hsa04540,Gap junction - Homo sapiens (human)
-263,reactome,R-HSA-191650,Regulation of gap junction activity,isPartOf,kegg,path:hsa04540,Gap junction - Homo sapiens (human)
-264,kegg,path:hsa04922,Glucagon signaling pathway - Homo sapiens (human),equivalentTo,reactome,R-HSA-163359,Glucagon signaling in metabolic regulation
-265,reactome,R-HSA-451326,Activation of kainate receptors upon glutamate binding,isPartOf,kegg,path:hsa04724,Glutamatergic synapse - Homo sapiens (human)
-266,kegg,path:hsa04724,Glutamatergic synapse - Homo sapiens (human),isPartOf,reactome,R-HSA-112313,Neurotransmitter uptake and metabolism In glial cells
-267,reactome,R-HSA-438066,"Unblocking of NMDA receptor, glutamate binding and activation",isPartOf,kegg,path:hsa04724,Glutamatergic synapse - Homo sapiens (human)
-268,reactome,R-HSA-399710,Activation of AMPA receptors,isPartOf,kegg,path:hsa04724,Glutamatergic synapse - Homo sapiens (human)
-269,reactome,R-HSA-500657,Presynaptic function of Kainate receptors,isPartOf,kegg,path:hsa04724,Glutamatergic synapse - Homo sapiens (human)
-270,reactome,R-HSA-210500,Glutamate Neurotransmitter Release Cycle,isPartOf,kegg,path:hsa04724,Glutamatergic synapse - Homo sapiens (human)
-271,reactome,R-HSA-112313,Neurotransmitter uptake and metabolism In glial cells,isPartOf,kegg,path:hsa04724,Glutamatergic synapse - Homo sapiens (human)
-272,kegg,path:hsa00480,Glutathione metabolism - Homo sapiens (human),equivalentTo,reactome,R-HSA-174403,Glutathione synthesis and recycling
-273,kegg,path:hsa00561,Glycerolipid metabolism - Homo sapiens (human),isPartOf,reactome,R-HSA-556833,Metabolism of lipids
-274,kegg,path:hsa00561,Glycerolipid metabolism - Homo sapiens (human),isPartOf,reactome,R-HSA-1430728,Metabolism
-275,reactome,R-HSA-1482883,Acyl chain remodeling of DAG and TAG,isPartOf,kegg,path:hsa00561,Glycerolipid metabolism - Homo sapiens (human)
-276,reactome,R-HSA-6814848,Glycerophospholipid catabolism,isPartOf,kegg,path:hsa00561,Glycerolipid metabolism - Homo sapiens (human)
-277,reactome,R-HSA-1482922,Acyl chain remodelling of PI,isPartOf,kegg,path:hsa00564,Glycerophospholipid metabolism - Homo sapiens (human)
-278,reactome,R-HSA-1483101,Synthesis of PS,isPartOf,kegg,path:hsa00564,Glycerophospholipid metabolism - Homo sapiens (human)
-279,kegg,path:hsa00564,Glycerophospholipid metabolism - Homo sapiens (human),isPartOf,reactome,R-HSA-556833,Metabolism of lipids
-280,reactome,R-HSA-1483213,Synthesis of PE,isPartOf,kegg,path:hsa00564,Glycerophospholipid metabolism - Homo sapiens (human)
-281,reactome,R-HSA-1483206,Glycerophospholipid biosynthesis,isPartOf,kegg,path:hsa00564,Glycerophospholipid metabolism - Homo sapiens (human)
-282,kegg,path:hsa00564,Glycerophospholipid metabolism - Homo sapiens (human),isPartOf,reactome,R-HSA-1430728,Metabolism
-283,reactome,R-HSA-192456,Digestion of dietary lipid,isPartOf,kegg,path:hsa00564,Glycerophospholipid metabolism - Homo sapiens (human)
-284,reactome,R-HSA-6814848,Glycerophospholipid catabolism,isPartOf,kegg,path:hsa00564,Glycerophospholipid metabolism - Homo sapiens (human)
-285,reactome,R-HSA-1482788,Acyl chain remodelling of PC,isPartOf,kegg,path:hsa00564,Glycerophospholipid metabolism - Homo sapiens (human)
-286,kegg,path:hsa00260,"Glycine, serine and threonine metabolism - Homo sapiens (human)",isPartOf,reactome,R-HSA-1430728,Metabolism
-287,kegg,path:hsa00260,"Glycine, serine and threonine metabolism - Homo sapiens (human)",isPartOf,reactome,R-HSA-140179,Amine Oxidase reactions
-288,reactome,R-HSA-6783984,Glycine degradation,isPartOf,kegg,path:hsa00260,"Glycine, serine and threonine metabolism - Homo sapiens (human)"
-289,kegg,path:hsa00260,"Glycine, serine and threonine metabolism - Homo sapiens (human)",isPartOf,reactome,R-HSA-70614,Amino acid synthesis and interconversion (transamination)
-290,kegg,path:hsa00260,"Glycine, serine and threonine metabolism - Homo sapiens (human)",isPartOf,reactome,R-HSA-71291,Metabolism of amino acids and derivatives
-291,kegg,path:hsa00010,Glycolysis / Gluconeogenesis - Homo sapiens (human),isPartOf,reactome,R-HSA-70326,Glucose metabolism
-292,reactome,R-HSA-70263,Gluconeogenesis,isPartOf,kegg,path:hsa00010,Glycolysis / Gluconeogenesis - Homo sapiens (human)
-293,kegg,path:hsa00010,Glycolysis / Gluconeogenesis - Homo sapiens (human),isPartOf,reactome,R-HSA-1430728,Metabolism
-294,kegg,path:hsa00010,Glycolysis / Gluconeogenesis - Homo sapiens (human),isPartOf,reactome,R-HSA-71387,Metabolism of carbohydrates
-295,reactome,R-HSA-70171,Glycolysis,isPartOf,kegg,path:hsa00010,Glycolysis / Gluconeogenesis - Homo sapiens (human)
-296,kegg,path:hsa00532,Glycosaminoglycan biosynthesis - chondroitin sulfate / dermatan sulfate - Homo sapiens (human),isPartOf,reactome,R-HSA-1430728,Metabolism
-297,reactome,R-HSA-2022870,Chondroitin sulfate biosynthesis,isPartOf,kegg,path:hsa00532,Glycosaminoglycan biosynthesis - chondroitin sulfate / dermatan sulfate - Homo sapiens (human)
-298,reactome,R-HSA-1630316,Glycosaminoglycan metabolism,isPartOf,kegg,path:hsa00532,Glycosaminoglycan biosynthesis - chondroitin sulfate / dermatan sulfate - Homo sapiens (human)
-299,reactome,R-HSA-1793185,Chondroitin sulfate/dermatan sulfate metabolism,isPartOf,kegg,path:hsa00532,Glycosaminoglycan biosynthesis - chondroitin sulfate / dermatan sulfate - Homo sapiens (human)
-300,reactome,R-HSA-2022923,Dermatan sulfate biosynthesis,isPartOf,kegg,path:hsa00532,Glycosaminoglycan biosynthesis - chondroitin sulfate / dermatan sulfate - Homo sapiens (human)
-301,kegg,path:hsa00534,Glycosaminoglycan biosynthesis - heparan sulfate / heparin - Homo sapiens (human),isPartOf,reactome,R-HSA-1430728,Metabolism
-302,kegg,path:hsa00534,Glycosaminoglycan biosynthesis - heparan sulfate / heparin - Homo sapiens (human),isPartOf,reactome,R-HSA-1630316,Glycosaminoglycan metabolism
-303,reactome,R-HSA-1638091,Heparan sulfate/heparin (HS-GAG) metabolism,isPartOf,kegg,path:hsa00534,Glycosaminoglycan biosynthesis - heparan sulfate / heparin - Homo sapiens (human)
-304,kegg,path:hsa00533,Glycosaminoglycan biosynthesis - keratan sulfate - Homo sapiens (human),isPartOf,reactome,R-HSA-1630316,Glycosaminoglycan metabolism
-305,kegg,path:hsa00533,Glycosaminoglycan biosynthesis - keratan sulfate - Homo sapiens (human),isPartOf,reactome,R-HSA-1430728,Metabolism
-306,reactome,R-HSA-2022854,Keratan sulfate biosynthesis,isPartOf,kegg,path:hsa00533,Glycosaminoglycan biosynthesis - keratan sulfate - Homo sapiens (human)
-307,kegg,path:hsa00531,Glycosaminoglycan degradation - Homo sapiens (human),isPartOf,reactome,R-HSA-1430728,Metabolism
-308,kegg,path:hsa00531,Glycosaminoglycan degradation - Homo sapiens (human),isPartOf,reactome,R-HSA-1630316,Glycosaminoglycan metabolism
-309,kegg,path:hsa00603,Glycosphingolipid biosynthesis - globo and isoglobo series - Homo sapiens (human),isPartOf,reactome,R-HSA-428157,Sphingolipid metabolism
-310,kegg,path:hsa00603,Glycosphingolipid biosynthesis - globo and isoglobo series - Homo sapiens (human),isPartOf,reactome,R-HSA-1660662,Glycosphingolipid metabolism
-311,kegg,path:hsa00603,Glycosphingolipid biosynthesis - globo and isoglobo series - Homo sapiens (human),isPartOf,reactome,R-HSA-556833,Metabolism of lipids
-312,kegg,path:hsa00601,Glycosphingolipid biosynthesis - lacto and neolacto series - Homo sapiens (human),isPartOf,reactome,R-HSA-556833,Metabolism of lipids
-313,kegg,path:hsa00601,Glycosphingolipid biosynthesis - lacto and neolacto series - Homo sapiens (human),isPartOf,reactome,R-HSA-1660662,Glycosphingolipid metabolism
-314,kegg,path:hsa00601,Glycosphingolipid biosynthesis - lacto and neolacto series - Homo sapiens (human),isPartOf,reactome,R-HSA-428157,Sphingolipid metabolism
-315,kegg,path:hsa00563,Glycosylphosphatidylinositol (GPI)-anchor biosynthesis - Homo sapiens (human),equivalentTo,reactome,R-HSA-162710,Synthesis of glycosylphosphatidylinositol (GPI)
-316,reactome,R-HSA-162710,Synthesis of glycosylphosphatidylinositol (GPI),isPartOf,kegg,path:hsa00563,Glycosylphosphatidylinositol (GPI)-anchor biosynthesis - Homo sapiens (human)
-317,reactome,R-HSA-163125,Post-translational modification: synthesis of GPI-anchored proteins,isPartOf,kegg,path:hsa00563,Glycosylphosphatidylinositol (GPI)-anchor biosynthesis - Homo sapiens (human)
-318,reactome,R-HSA-389661,Glyoxylate metabolism and glycine degradation,isPartOf,kegg,path:hsa00630,Glyoxylate and dicarboxylate metabolism - Homo sapiens (human)
-319,kegg,path:hsa00630,Glyoxylate and dicarboxylate metabolism - Homo sapiens (human),isPartOf,reactome,R-HSA-1430728,Metabolism
-320,kegg,path:hsa00630,Glyoxylate and dicarboxylate metabolism - Homo sapiens (human),isPartOf,reactome,R-HSA-71291,Metabolism of amino acids and derivatives
-321,kegg,path:hsa05332,Graft-versus-host disease - Homo sapiens (human),isPartOf,reactome,R-HSA-1280218,Adaptive Immune System
-322,kegg,path:hsa05332,Graft-versus-host disease - Homo sapiens (human),isPartOf,reactome,R-HSA-168256,Immune System
-323,kegg,path:hsa04340,Hedgehog signaling pathway - Homo sapiens (human),equivalentTo,reactome,R-HSA-5358351,Signaling by Hedgehog
-324,reactome,R-HSA-5632684,Hedgehog 'on' state,isPartOf,kegg,path:hsa04340,Hedgehog signaling pathway - Homo sapiens (human)
-325,reactome,R-HSA-5358346,Hedgehog ligand biogenesis,isPartOf,kegg,path:hsa04340,Hedgehog signaling pathway - Homo sapiens (human)
-326,reactome,R-HSA-5358351,Signaling by Hedgehog,isPartOf,kegg,path:hsa04340,Hedgehog signaling pathway - Homo sapiens (human)
-327,reactome,R-HSA-5610787,Hedgehog 'off' state,isPartOf,kegg,path:hsa04340,Hedgehog signaling pathway - Homo sapiens (human)
-328,kegg,path:hsa04390,Hippo signaling pathway - Homo sapiens (human),equivalentTo,reactome,R-HSA-2028269,Signaling by Hippo
-329,kegg,path:hsa04392,Hippo signaling pathway - multiple species - Homo sapiens (human),equivalentTo,reactome,R-HSA-2028269,Signaling by Hippo
-330,kegg,path:hsa00340,Histidine metabolism - Homo sapiens (human),isPartOf,reactome,R-HSA-6788656,"Histidine, lysine, phenylalanine, tyrosine, proline and tryptophan catabolism"
-331,kegg,path:hsa00340,Histidine metabolism - Homo sapiens (human),isPartOf,reactome,R-HSA-1430728,Metabolism
-332,kegg,path:hsa00340,Histidine metabolism - Homo sapiens (human),isPartOf,reactome,R-HSA-140179,Amine Oxidase reactions
-333,kegg,path:hsa00340,Histidine metabolism - Homo sapiens (human),isPartOf,reactome,R-HSA-71291,Metabolism of amino acids and derivatives
-334,reactome,R-HSA-70921,Histidine catabolism,isPartOf,kegg,path:hsa00340,Histidine metabolism - Homo sapiens (human)
-335,reactome,R-HSA-5693538,Homology Directed Repair,isPartOf,kegg,path:hsa03440,Homologous recombination - Homo sapiens (human)
-336,kegg,path:hsa04657,IL-17 signaling pathway - Homo sapiens (human),equivalentTo,reactome,R-HSA-448424,Interleukin-17 signaling
-337,kegg,path:hsa04657,IL-17 signaling pathway - Homo sapiens (human),isPartOf,reactome,R-HSA-1280215,Cytokine Signaling in Immune system
-338,kegg,path:hsa04657,IL-17 signaling pathway - Homo sapiens (human),isPartOf,reactome,R-HSA-449147,Signaling by Interleukins
-339,kegg,path:hsa04657,IL-17 signaling pathway - Homo sapiens (human),isPartOf,reactome,R-HSA-168256,Immune System
-340,reactome,R-HSA-168277,Influenza Virus Induced Apoptosis,isPartOf,kegg,path:hsa05164,Influenza A - Homo sapiens (human)
-341,reactome,R-HSA-168255,Influenza Life Cycle,isPartOf,kegg,path:hsa05164,Influenza A - Homo sapiens (human)
-342,kegg,path:hsa05164,Influenza A - Homo sapiens (human),isPartOf,reactome,R-HSA-168255,Influenza Life Cycle
-343,kegg,path:hsa05164,Influenza A - Homo sapiens (human),isPartOf,reactome,R-HSA-168254,Influenza Infection
-344,reactome,R-HSA-168254,Influenza Infection,isPartOf,kegg,path:hsa05164,Influenza A - Homo sapiens (human)
-345,kegg,path:hsa00562,Inositol phosphate metabolism - Homo sapiens (human),equivalentTo,reactome,R-HSA-1483249,Inositol phosphate metabolism
-346,kegg,path:hsa04911,Insulin secretion - Homo sapiens (human),equivalentTo,reactome,R-HSA-422356,Regulation of insulin secretion
-347,reactome,R-HSA-74752,Signaling by Insulin receptor,isPartOf,kegg,path:hsa04910,Insulin signaling pathway - Homo sapiens (human)
-348,reactome,R-HSA-74751,Insulin receptor signalling cascade,isPartOf,kegg,path:hsa04910,Insulin signaling pathway - Homo sapiens (human)
-349,kegg,path:hsa04672,Intestinal immune network for IgA production - Homo sapiens (human),isPartOf,reactome,R-HSA-168256,Immune System
-350,kegg,path:hsa04672,Intestinal immune network for IgA production - Homo sapiens (human),isPartOf,reactome,R-HSA-1280218,Adaptive Immune System
-351,reactome,R-HSA-877312,Regulation of IFNG signaling,isPartOf,kegg,path:hsa04630,Jak-STAT signaling pathway - Homo sapiens (human)
-352,reactome,R-HSA-9020958,Interleukin-21 signaling,isPartOf,kegg,path:hsa04630,Jak-STAT signaling pathway - Homo sapiens (human)
-353,reactome,R-HSA-8983432,Interleukin-15 signaling,isPartOf,kegg,path:hsa04630,Jak-STAT signaling pathway - Homo sapiens (human)
-354,reactome,R-HSA-8985947,Interleukin-9 signaling,isPartOf,kegg,path:hsa04630,Jak-STAT signaling pathway - Homo sapiens (human)
-355,reactome,R-HSA-1059683,Interleukin-6 signaling,isPartOf,kegg,path:hsa04630,Jak-STAT signaling pathway - Homo sapiens (human)
-356,reactome,R-HSA-8950505,Gene and protein expression by JAK-STAT signaling after Interleukin-12 stimulation,isPartOf,kegg,path:hsa04630,Jak-STAT signaling pathway - Homo sapiens (human)
-357,reactome,R-HSA-9020933,Interleukin-23 signaling,isPartOf,kegg,path:hsa04630,Jak-STAT signaling pathway - Homo sapiens (human)
-358,kegg,path:hsa00591,Linoleic acid metabolism - Homo sapiens (human),equivalentTo,reactome,R-HSA-2046105,Linoleic acid (LA) metabolism
-359,kegg,path:hsa00591,Linoleic acid metabolism - Homo sapiens (human),isPartOf,reactome,R-HSA-1430728,Metabolism
-360,kegg,path:hsa00591,Linoleic acid metabolism - Homo sapiens (human),isPartOf,reactome,R-HSA-556833,Metabolism of lipids
-361,kegg,path:hsa00785,Lipoic acid metabolism - Homo sapiens (human),isPartOf,reactome,R-HSA-8978868,Fatty acid metabolism
-362,kegg,path:hsa00785,Lipoic acid metabolism - Homo sapiens (human),isPartOf,reactome,R-HSA-1430728,Metabolism
-363,kegg,path:hsa00310,Lysine degradation - Homo sapiens (human),equivalentTo,reactome,R-HSA-71064,Lysine catabolism
-364,reactome,R-HSA-8853383,Lysosomal oligosaccharide catabolism,isPartOf,kegg,path:hsa04142,Lysosome - Homo sapiens (human)
-365,reactome,R-HSA-432720,Lysosome Vesicle Biogenesis,isPartOf,kegg,path:hsa04142,Lysosome - Homo sapiens (human)
-366,kegg,path:hsa04010,MAPK signaling pathway - Homo sapiens (human),equivalentTo,reactome,R-HSA-5683057,MAPK family signaling cascades
-367,reactome,R-HSA-198753,ERK/MAPK targets,isPartOf,kegg,path:hsa04010,MAPK signaling pathway - Homo sapiens (human)
-368,reactome,R-HSA-5684996,MAPK1/MAPK3 signaling,isPartOf,kegg,path:hsa04010,MAPK signaling pathway - Homo sapiens (human)
-369,reactome,R-HSA-5675221,Negative regulation of MAPK pathway,isPartOf,kegg,path:hsa04010,MAPK signaling pathway - Homo sapiens (human)
-370,reactome,R-HSA-5674499,Negative feedback regulation of MAPK pathway,isPartOf,kegg,path:hsa04010,MAPK signaling pathway - Homo sapiens (human)
-371,reactome,R-HSA-450282,MAPK targets/ Nuclear events mediated by MAP kinases,isPartOf,kegg,path:hsa04010,MAPK signaling pathway - Homo sapiens (human)
-372,reactome,R-HSA-5684264,MAP3K8 (TPL2)-dependent MAPK1/3 activation,isPartOf,kegg,path:hsa04010,MAPK signaling pathway - Homo sapiens (human)
-373,reactome,R-HSA-2871796,FCERI mediated MAPK activation,isPartOf,kegg,path:hsa04010,MAPK signaling pathway - Homo sapiens (human)
-374,reactome,R-HSA-372708,p130Cas linkage to MAPK signaling for integrins,isPartOf,kegg,path:hsa04010,MAPK signaling pathway - Homo sapiens (human)
-375,reactome,R-HSA-112411,MAPK1 (ERK2) activation,isPartOf,kegg,path:hsa04010,MAPK signaling pathway - Homo sapiens (human)
-376,reactome,R-HSA-171007,p38MAPK events,isPartOf,kegg,path:hsa04010,MAPK signaling pathway - Homo sapiens (human)
-377,reactome,R-HSA-5674135,MAP2K and MAPK activation,isPartOf,kegg,path:hsa04010,MAPK signaling pathway - Homo sapiens (human)
-378,reactome,R-HSA-5687128,MAPK6/MAPK4 signaling,isPartOf,kegg,path:hsa04010,MAPK signaling pathway - Homo sapiens (human)
-379,reactome,R-HSA-450302,activated TAK1 mediates p38 MAPK activation,isPartOf,kegg,path:hsa04010,MAPK signaling pathway - Homo sapiens (human)
-380,reactome,R-HSA-112409,RAF-independent MAPK1/3 activation,isPartOf,kegg,path:hsa04010,MAPK signaling pathway - Homo sapiens (human)
-381,reactome,R-HSA-110056,MAPK3 (ERK1) activation,isPartOf,kegg,path:hsa04010,MAPK signaling pathway - Homo sapiens (human)
-382,reactome,R-HSA-881907,Gastrin-CREB signalling pathway via PKC and MAPK,isPartOf,kegg,path:hsa04010,MAPK signaling pathway - Homo sapiens (human)
-383,reactome,R-HSA-977068,Termination of O-glycan biosynthesis,isPartOf,kegg,path:hsa00515,Mannose type O-glycan biosynthesis - Homo sapiens (human)
-384,reactome,R-HSA-5173105,O-linked glycosylation,isPartOf,kegg,path:hsa00515,Mannose type O-glycan biosynthesis - Homo sapiens (human)
-385,reactome,R-HSA-5619073,Defective GCK causes maturity-onset diabetes of the young 2 (MODY2),isPartOf,kegg,path:hsa04950,Maturity onset diabetes of the young - Homo sapiens (human)
-386,kegg,path:hsa04916,Melanogenesis - Homo sapiens (human),equivalentTo,reactome,R-HSA-5662702,Melanin biosynthesis
-387,reactome,R-HSA-5662702,Melanin biosynthesis,isPartOf,kegg,path:hsa04916,Melanogenesis - Homo sapiens (human)
-388,kegg,path:hsa01100,Metabolic pathways - Homo sapiens (human),equivalentTo,reactome,R-HSA-1430728,Metabolism
-389,kegg,path:hsa00980,Metabolism of xenobiotics by cytochrome P450 - Homo sapiens (human),isPartOf,reactome,R-HSA-211981,Xenobiotics
-390,kegg,path:hsa04978,Mineral absorption - Homo sapiens (human),isPartOf,reactome,R-HSA-8963676,Intestinal absorption
-391,kegg,path:hsa04978,Mineral absorption - Homo sapiens (human),isPartOf,reactome,R-HSA-8963743,Digestion and absorption
-392,kegg,path:hsa04978,Mineral absorption - Homo sapiens (human),isPartOf,reactome,R-HSA-382551,Transport of small molecules
-393,kegg,path:hsa03430,Mismatch repair - Homo sapiens (human),equivalentTo,reactome,R-HSA-5358508,Mismatch Repair
-394,kegg,path:hsa04137,Mitophagy - animal - Homo sapiens (human),equivalentTo,reactome,R-HSA-5205647,Mitophagy
-395,reactome,R-HSA-964739,N-glycan trimming and elongation in the cis-Golgi,isPartOf,kegg,path:hsa00510,N-Glycan biosynthesis - Homo sapiens (human)
-396,reactome,R-HSA-975577,N-Glycan antennae elongation,isPartOf,kegg,path:hsa00510,N-Glycan biosynthesis - Homo sapiens (human)
-397,reactome,R-HSA-975576,N-glycan antennae elongation in the medial/trans-Golgi,isPartOf,kegg,path:hsa00510,N-Glycan biosynthesis - Homo sapiens (human)
-398,reactome,R-HSA-5357956,TNFR1-induced NFkappaB signaling pathway,isPartOf,kegg,path:hsa04064,NF-kappa B signaling pathway - Homo sapiens (human)
-399,reactome,R-HSA-209560,NF-kB is activated and signals survival,isPartOf,kegg,path:hsa04064,NF-kappa B signaling pathway - Homo sapiens (human)
-400,kegg,path:hsa04650,Natural killer cell mediated cytotoxicity - Homo sapiens (human),isPartOf,reactome,R-HSA-168256,Immune System
-401,kegg,path:hsa04217,Necroptosis - Homo sapiens (human),equivalentTo,reactome,R-HSA-5675482,Regulation of necroptotic cell death
-402,kegg,path:hsa00524,"Neomycin, kanamycin and gentamicin biosynthesis - Homo sapiens (human)",isPartOf,reactome,R-HSA-1430728,Metabolism
-403,reactome,R-HSA-205017,NFG and proNGF binds to p75NTR,isPartOf,kegg,path:hsa04722,Neurotrophin signaling pathway - Homo sapiens (human)
-404,kegg,path:hsa00760,Nicotinate and nicotinamide metabolism - Homo sapiens (human),isPartOf,reactome,R-HSA-1430728,Metabolism
-405,reactome,R-HSA-196807,Nicotinate metabolism,isPartOf,kegg,path:hsa00760,Nicotinate and nicotinamide metabolism - Homo sapiens (human)
-406,reactome,R-HSA-197264,Nicotinamide salvaging,isPartOf,kegg,path:hsa00760,Nicotinate and nicotinamide metabolism - Homo sapiens (human)
-407,kegg,path:hsa00910,Nitrogen metabolism - Homo sapiens (human),isPartOf,reactome,R-HSA-1430728,Metabolism
-408,kegg,path:hsa00910,Nitrogen metabolism - Homo sapiens (human),isPartOf,reactome,R-HSA-70614,Amino acid synthesis and interconversion (transamination)
-409,kegg,path:hsa00910,Nitrogen metabolism - Homo sapiens (human),isPartOf,reactome,R-HSA-71291,Metabolism of amino acids and derivatives
-410,kegg,path:hsa03450,Non-homologous end-joining - Homo sapiens (human),equivalentTo,reactome,R-HSA-5693571,Nonhomologous End-Joining (NHEJ)
-411,kegg,path:hsa04330,Notch signaling pathway - Homo sapiens (human),equivalentTo,reactome,R-HSA-157118,Signaling by NOTCH
-412,kegg,path:hsa03420,Nucleotide excision repair - Homo sapiens (human),equivalentTo,reactome,R-HSA-5696398,Nucleotide Excision Repair
-413,kegg,path:hsa04740,Olfactory transduction - Homo sapiens (human),equivalentTo,reactome,R-HSA-381753,Olfactory Signaling Pathway
-414,kegg,path:hsa00670,One carbon pool by folate - Homo sapiens (human),isPartOf,reactome,R-HSA-196757,Metabolism of folate and pterines
-415,kegg,path:hsa00670,One carbon pool by folate - Homo sapiens (human),isPartOf,reactome,R-HSA-1430728,Metabolism
-416,kegg,path:hsa00670,One carbon pool by folate - Homo sapiens (human),isPartOf,reactome,R-HSA-196854,Metabolism of vitamins and cofactors
-417,kegg,path:hsa00511,Other glycan degradation - Homo sapiens (human),isPartOf,reactome,R-HSA-1430728,Metabolism
-418,reactome,R-HSA-977068,Termination of O-glycan biosynthesis,isPartOf,kegg,path:hsa00514,Other types of O-glycan biosynthesis - Homo sapiens (human)
-419,reactome,R-HSA-193144,Estrogen biosynthesis,isPartOf,kegg,path:hsa04913,Ovarian steroidogenesis - Homo sapiens (human)
-420,reactome,R-HSA-193048,Androgen biosynthesis,isPartOf,kegg,path:hsa04913,Ovarian steroidogenesis - Homo sapiens (human)
-421,kegg,path:hsa04913,Ovarian steroidogenesis - Homo sapiens (human),isPartOf,reactome,R-HSA-1430728,Metabolism
-422,kegg,path:hsa00190,Oxidative phosphorylation - Homo sapiens (human),isPartOf,reactome,R-HSA-1430728,Metabolism
-423,reactome,R-HSA-71737,Pyrophosphate hydrolysis,isPartOf,kegg,path:hsa00190,Oxidative phosphorylation - Homo sapiens (human)
-424,kegg,path:hsa00190,Oxidative phosphorylation - Homo sapiens (human),isPartOf,reactome,R-HSA-1428517,The citric acid (TCA) cycle and respiratory electron transport
-425,reactome,R-HSA-163210,Formation of ATP by chemiosmotic coupling,isPartOf,kegg,path:hsa00190,Oxidative phosphorylation - Homo sapiens (human)
-426,kegg,path:hsa04151,PI3K-Akt signaling pathway - Homo sapiens (human),equivalentTo,reactome,R-HSA-198203,PI3K/AKT activation
-427,reactome,R-HSA-196783,Coenzyme A biosynthesis,isPartOf,kegg,path:hsa00770,Pantothenate and CoA biosynthesis - Homo sapiens (human)
-428,kegg,path:hsa00770,Pantothenate and CoA biosynthesis - Homo sapiens (human),isPartOf,reactome,R-HSA-196854,Metabolism of vitamins and cofactors
-429,kegg,path:hsa00770,Pantothenate and CoA biosynthesis - Homo sapiens (human),isPartOf,reactome,R-HSA-1430728,Metabolism
-430,reactome,R-HSA-199220,Vitamin B5 (pantothenate) metabolism,isPartOf,kegg,path:hsa00770,Pantothenate and CoA biosynthesis - Homo sapiens (human)
-431,reactome,R-HSA-5619081,Defective SLC6A3 causes Parkinsonism-dystonia infantile (PKDYS),isPartOf,kegg,path:hsa05012,Parkinson's disease - Homo sapiens (human)
-432,reactome,R-HSA-111452,Activation and oligomerization of BAK protein,isPartOf,kegg,path:hsa05200,Pathways in cancer - Homo sapiens (human)
-433,reactome,R-HSA-5632928,Defective Mismatch Repair Associated With MSH2,isPartOf,kegg,path:hsa05200,Pathways in cancer - Homo sapiens (human)
-434,reactome,R-HSA-211163,AKT-mediated inactivation of FOXO1A,isPartOf,kegg,path:hsa05200,Pathways in cancer - Homo sapiens (human)
-435,reactome,R-HSA-111461,Cytochrome c-mediated apoptotic response,isPartOf,kegg,path:hsa05200,Pathways in cancer - Homo sapiens (human)
-436,reactome,R-HSA-1169092,Activation of RAS in B cells,isPartOf,kegg,path:hsa05200,Pathways in cancer - Homo sapiens (human)
-437,reactome,R-HSA-5632927,Defective Mismatch Repair Associated With MSH3,isPartOf,kegg,path:hsa05200,Pathways in cancer - Homo sapiens (human)
-438,reactome,R-HSA-2033519,Activated point mutants of FGFR2,isPartOf,kegg,path:hsa05200,Pathways in cancer - Homo sapiens (human)
-439,reactome,R-HSA-5661270,Catabolism of glucuronate to xylulose-5-phosphate,isPartOf,kegg,path:hsa00040,Pentose and glucuronate interconversions - Homo sapiens (human)
-440,kegg,path:hsa00040,Pentose and glucuronate interconversions - Homo sapiens (human),isPartOf,reactome,R-HSA-1430728,Metabolism
-441,kegg,path:hsa00030,Pentose phosphate pathway - Homo sapiens (human),equivalentTo,reactome,R-HSA-71336,Pentose phosphate pathway (hexose monophosphate shunt)
-442,reactome,R-HSA-390918,Peroxisomal lipid metabolism,isPartOf,kegg,path:hsa04146,Peroxisome - Homo sapiens (human)
-443,reactome,R-HSA-389542,NADPH regeneration,isPartOf,kegg,path:hsa04146,Peroxisome - Homo sapiens (human)
-444,kegg,path:hsa04146,Peroxisome - Homo sapiens (human),isPartOf,reactome,R-HSA-1430728,Metabolism
-445,kegg,path:hsa04145,Phagosome - Homo sapiens (human),isPartOf,reactome,R-HSA-1280218,Adaptive Immune System
-446,reactome,R-HSA-1236974,ER-Phagosome pathway,isPartOf,kegg,path:hsa04145,Phagosome - Homo sapiens (human)
-447,kegg,path:hsa04145,Phagosome - Homo sapiens (human),isPartOf,reactome,R-HSA-168256,Immune System
-448,kegg,path:hsa04145,Phagosome - Homo sapiens (human),isPartOf,reactome,R-HSA-168249,Innate Immune System
-449,kegg,path:hsa00360,Phenylalanine metabolism - Homo sapiens (human),isPartOf,reactome,R-HSA-1430728,Metabolism
-450,kegg,path:hsa00360,Phenylalanine metabolism - Homo sapiens (human),isPartOf,reactome,R-HSA-71291,Metabolism of amino acids and derivatives
-451,kegg,path:hsa00360,Phenylalanine metabolism - Homo sapiens (human),isPartOf,reactome,R-HSA-70614,Amino acid synthesis and interconversion (transamination)
-452,kegg,path:hsa00360,Phenylalanine metabolism - Homo sapiens (human),isPartOf,reactome,R-HSA-6788656,"Histidine, lysine, phenylalanine, tyrosine, proline and tryptophan catabolism"
-453,kegg,path:hsa00400,"Phenylalanine, tyrosine and tryptophan biosynthesis - Homo sapiens (human)",isPartOf,reactome,R-HSA-1430728,Metabolism
-454,reactome,R-HSA-71182,Phenylalanine and tyrosine catabolism,isPartOf,kegg,path:hsa00400,"Phenylalanine, tyrosine and tryptophan biosynthesis - Homo sapiens (human)"
-455,kegg,path:hsa00400,"Phenylalanine, tyrosine and tryptophan biosynthesis - Homo sapiens (human)",isPartOf,reactome,R-HSA-71291,Metabolism of amino acids and derivatives
-456,kegg,path:hsa00400,"Phenylalanine, tyrosine and tryptophan biosynthesis - Homo sapiens (human)",isPartOf,reactome,R-HSA-70614,Amino acid synthesis and interconversion (transamination)
-457,kegg,path:hsa00400,"Phenylalanine, tyrosine and tryptophan biosynthesis - Homo sapiens (human)",isPartOf,reactome,R-HSA-6788656,"Histidine, lysine, phenylalanine, tyrosine, proline and tryptophan catabolism"
-458,reactome,R-HSA-8847453,Synthesis of PIPs in the nucleus,isPartOf,kegg,path:hsa04070,Phosphatidylinositol signaling system - Homo sapiens (human)
-459,reactome,R-HSA-1660516,Synthesis of PIPs at the early endosome membrane,isPartOf,kegg,path:hsa04070,Phosphatidylinositol signaling system - Homo sapiens (human)
-460,reactome,R-HSA-1660517,Synthesis of PIPs at the late endosome membrane,isPartOf,kegg,path:hsa04070,Phosphatidylinositol signaling system - Homo sapiens (human)
-461,reactome,R-HSA-1483249,Inositol phosphate metabolism,isPartOf,kegg,path:hsa04070,Phosphatidylinositol signaling system - Homo sapiens (human)
-462,reactome,R-HSA-1855204,Synthesis of IP3 and IP4 in the cytosol,isPartOf,kegg,path:hsa04070,Phosphatidylinositol signaling system - Homo sapiens (human)
-463,kegg,path:hsa04070,Phosphatidylinositol signaling system - Homo sapiens (human),isPartOf,reactome,R-HSA-1430728,Metabolism
-464,reactome,R-HSA-1483248,Synthesis of PIPs at the ER membrane,isPartOf,kegg,path:hsa04070,Phosphatidylinositol signaling system - Homo sapiens (human)
-465,reactome,R-HSA-1855183,"Synthesis of IP2, IP, and Ins in the cytosol",isPartOf,kegg,path:hsa04070,Phosphatidylinositol signaling system - Homo sapiens (human)
-466,reactome,R-HSA-1660499,Synthesis of PIPs at the plasma membrane,isPartOf,kegg,path:hsa04070,Phosphatidylinositol signaling system - Homo sapiens (human)
-467,reactome,R-HSA-1855191,Synthesis of IPs in the nucleus,isPartOf,kegg,path:hsa04070,Phosphatidylinositol signaling system - Homo sapiens (human)
-468,reactome,R-HSA-1660514,Synthesis of PIPs at the Golgi membrane,isPartOf,kegg,path:hsa04070,Phosphatidylinositol signaling system - Homo sapiens (human)
-469,kegg,path:hsa00440,Phosphonate and phosphinate metabolism - Homo sapiens (human),isPartOf,reactome,R-HSA-1430728,Metabolism
-470,kegg,path:hsa04744,Phototransduction - Homo sapiens (human),equivalentTo,reactome,R-HSA-2187338,Visual phototransduction
-471,reactome,R-HSA-75892,Platelet Adhesion to exposed collagen,isPartOf,kegg,path:hsa04611,Platelet activation - Homo sapiens (human)
-472,kegg,path:hsa00860,Porphyrin and chlorophyll metabolism - Homo sapiens (human),isPartOf,reactome,R-HSA-1430728,Metabolism
-473,reactome,R-HSA-189483,Heme degradation,isPartOf,kegg,path:hsa00860,Porphyrin and chlorophyll metabolism - Homo sapiens (human)
-474,reactome,R-HSA-189445,Metabolism of porphyrins,isPartOf,kegg,path:hsa00860,Porphyrin and chlorophyll metabolism - Homo sapiens (human)
-475,reactome,R-HSA-189451,Heme biosynthesis,isPartOf,kegg,path:hsa00860,Porphyrin and chlorophyll metabolism - Homo sapiens (human)
-476,kegg,path:hsa00120,Primary bile acid biosynthesis - Homo sapiens (human),isPartOf,reactome,R-HSA-193368,Synthesis of bile acids and bile salts via 7alpha-hydroxycholesterol
-477,kegg,path:hsa00120,Primary bile acid biosynthesis - Homo sapiens (human),isPartOf,reactome,R-HSA-1430728,Metabolism
-478,kegg,path:hsa00120,Primary bile acid biosynthesis - Homo sapiens (human),isPartOf,reactome,R-HSA-192105,Synthesis of bile acids and bile salts
-479,kegg,path:hsa00120,Primary bile acid biosynthesis - Homo sapiens (human),isPartOf,reactome,R-HSA-193775,Synthesis of bile acids and bile salts via 24-hydroxycholesterol
-480,kegg,path:hsa00120,Primary bile acid biosynthesis - Homo sapiens (human),isPartOf,reactome,R-HSA-194068,Bile acid and bile salt metabolism
-481,kegg,path:hsa04917,Prolactin signaling pathway - Homo sapiens (human),equivalentTo,reactome,R-HSA-1170546,Prolactin receptor signaling
-482,reactome,R-HSA-71032,Propionyl-CoA catabolism,isPartOf,kegg,path:hsa00640,Propanoate metabolism - Homo sapiens (human)
-483,kegg,path:hsa00640,Propanoate metabolism - Homo sapiens (human),isPartOf,reactome,R-HSA-1430728,Metabolism
-484,reactome,R-HSA-5610785,GLI3 is processed to GLI3R by the proteasome,isPartOf,kegg,path:hsa03050,Proteasome - Homo sapiens (human)
-485,reactome,R-HSA-5689880,Ub-specific processing proteases,isPartOf,kegg,path:hsa03050,Proteasome - Homo sapiens (human)
-486,reactome,R-HSA-211733,Regulation of activated PAK-2p34 by proteasome mediated degradation,isPartOf,kegg,path:hsa03050,Proteasome - Homo sapiens (human)
-487,kegg,path:hsa03050,Proteasome - Homo sapiens (human),isPartOf,reactome,R-HSA-392499,Metabolism of proteins
-488,reactome,R-HSA-5610780,Degradation of GLI1 by the proteasome,isPartOf,kegg,path:hsa03050,Proteasome - Homo sapiens (human)
-489,reactome,R-HSA-5610783,Degradation of GLI2 by the proteasome,isPartOf,kegg,path:hsa03050,Proteasome - Homo sapiens (human)
-490,reactome,R-HSA-349425,Autodegradation of the E3 ubiquitin ligase COP1,isPartOf,kegg,path:hsa03050,Proteasome - Homo sapiens (human)
-491,reactome,R-HSA-983168,Antigen processing: Ubiquitination & Proteasome degradation,isPartOf,kegg,path:hsa03050,Proteasome - Homo sapiens (human)
-492,kegg,path:hsa04974,Protein digestion and absorption - Homo sapiens (human),isPartOf,reactome,R-HSA-8963676,Intestinal absorption
-493,kegg,path:hsa04974,Protein digestion and absorption - Homo sapiens (human),isPartOf,reactome,R-HSA-8963743,Digestion and absorption
-494,kegg,path:hsa04974,Protein digestion and absorption - Homo sapiens (human),isPartOf,reactome,R-HSA-392499,Metabolism of proteins
-495,kegg,path:hsa04141,Protein processing in endoplasmic reticulum - Homo sapiens (human),isPartOf,reactome,R-HSA-392499,Metabolism of proteins
-496,reactome,R-HSA-1912399,Pre-NOTCH Processing in the Endoplasmic Reticulum,isPartOf,kegg,path:hsa04141,Protein processing in endoplasmic reticulum - Homo sapiens (human)
-497,kegg,path:hsa00230,Purine metabolism - Homo sapiens (human),isPartOf,reactome,R-HSA-8956319,Nucleobase catabolism
-498,reactome,R-HSA-74259,Purine catabolism,isPartOf,kegg,path:hsa00230,Purine metabolism - Homo sapiens (human)
-499,reactome,R-HSA-73817,Purine ribonucleoside monophosphate biosynthesis,isPartOf,kegg,path:hsa00230,Purine metabolism - Homo sapiens (human)
-500,reactome,R-HSA-74217,Purine salvage,isPartOf,kegg,path:hsa00230,Purine metabolism - Homo sapiens (human)
-501,kegg,path:hsa00230,Purine metabolism - Homo sapiens (human),isPartOf,reactome,R-HSA-15869,Metabolism of nucleotides
-502,reactome,R-HSA-73621,Pyrimidine catabolism,isPartOf,kegg,path:hsa00240,Pyrimidine metabolism - Homo sapiens (human)
-503,reactome,R-HSA-73614,Pyrimidine salvage,isPartOf,kegg,path:hsa00240,Pyrimidine metabolism - Homo sapiens (human)
-504,kegg,path:hsa00240,Pyrimidine metabolism - Homo sapiens (human),isPartOf,reactome,R-HSA-15869,Metabolism of nucleotides
-505,reactome,R-HSA-500753,Pyrimidine biosynthesis,isPartOf,kegg,path:hsa00240,Pyrimidine metabolism - Homo sapiens (human)
-506,kegg,path:hsa00620,Pyruvate metabolism - Homo sapiens (human),equivalentTo,reactome,R-HSA-70268,Pyruvate metabolism
-507,kegg,path:hsa04622,RIG-I-like receptor signaling pathway - Homo sapiens (human),isPartOf,reactome,R-HSA-168256,Immune System
-508,kegg,path:hsa04622,RIG-I-like receptor signaling pathway - Homo sapiens (human),isPartOf,reactome,R-HSA-168249,Innate Immune System
-509,reactome,R-HSA-429958,mRNA decay by 3' to 5' exoribonuclease,isPartOf,kegg,path:hsa03018,RNA degradation - Homo sapiens (human)
-510,kegg,path:hsa03018,RNA degradation - Homo sapiens (human),isPartOf,reactome,R-HSA-8953854,Metabolism of RNA
-511,reactome,R-HSA-430039,mRNA decay by 5' to 3' exoribonuclease,isPartOf,kegg,path:hsa03018,RNA degradation - Homo sapiens (human)
-512,reactome,R-HSA-159234,Transport of Mature mRNAs Derived from Intronless Transcripts,isPartOf,kegg,path:hsa03013,RNA transport - Homo sapiens (human)
-513,reactome,R-HSA-165054,Rev-mediated nuclear export of HIV RNA,isPartOf,kegg,path:hsa03013,RNA transport - Homo sapiens (human)
-514,reactome,R-HSA-159231,Transport of Mature mRNA Derived from an Intronless Transcript,isPartOf,kegg,path:hsa03013,RNA transport - Homo sapiens (human)
-515,reactome,R-HSA-159230,Transport of the SLBP Dependant Mature mRNA,isPartOf,kegg,path:hsa03013,RNA transport - Homo sapiens (human)
-516,reactome,R-HSA-159227,Transport of the SLBP independent Mature mRNA,isPartOf,kegg,path:hsa03013,RNA transport - Homo sapiens (human)
-517,kegg,path:hsa04015,Rap1 signaling pathway - Homo sapiens (human),equivalentTo,reactome,R-HSA-392517,Rap1 signalling
-518,reactome,R-HSA-6802949,Signaling by RAS mutants,isPartOf,kegg,path:hsa04014,Ras signaling pathway - Homo sapiens (human)
-519,reactome,R-HSA-8851805,MET activates RAS signaling,isPartOf,kegg,path:hsa04014,Ras signaling pathway - Homo sapiens (human)
-520,reactome,R-HSA-442742,CREB phosphorylation through the activation of Ras,isPartOf,kegg,path:hsa04014,Ras signaling pathway - Homo sapiens (human)
-521,reactome,R-HSA-5658442,Regulation of RAS by GAPs,isPartOf,kegg,path:hsa04014,Ras signaling pathway - Homo sapiens (human)
-522,reactome,R-HSA-442982,Ras activation upon Ca2+ influx through NMDA receptor,isPartOf,kegg,path:hsa04014,Ras signaling pathway - Homo sapiens (human)
-523,reactome,R-HSA-1169092,Activation of RAS in B cells,isPartOf,kegg,path:hsa04014,Ras signaling pathway - Homo sapiens (human)
-524,reactome,R-HSA-6802953,RAS signaling downstream of NF1 loss-of-function variants,isPartOf,kegg,path:hsa04014,Ras signaling pathway - Homo sapiens (human)
-525,kegg,path:hsa04923,Regulation of lipolysis in adipocytes - Homo sapiens (human),isPartOf,reactome,R-HSA-556833,Metabolism of lipids
-526,reactome,R-HSA-444821,Relaxin receptors,isPartOf,kegg,path:hsa04926,Relaxin signaling pathway - Homo sapiens (human)
-527,reactome,R-HSA-2022377,Metabolism of Angiotensinogen to Angiotensins,isPartOf,kegg,path:hsa04614,Renin-angiotensin system - Homo sapiens (human)
-528,kegg,path:hsa00830,Retinol metabolism - Homo sapiens (human),isPartOf,reactome,R-HSA-211916,Vitamins
-529,kegg,path:hsa00830,Retinol metabolism - Homo sapiens (human),isPartOf,reactome,R-HSA-1430728,Metabolism
-530,kegg,path:hsa00740,Riboflavin metabolism - Homo sapiens (human),equivalentTo,reactome,R-HSA-196843,Vitamin B2 (riboflavin) metabolism
-531,reactome,R-HSA-6790901,rRNA modification in the nucleus and cytosol,isPartOf,kegg,path:hsa03008,Ribosome biogenesis in eukaryotes - Homo sapiens (human)
-532,reactome,R-HSA-8868773,rRNA processing in the nucleus and cytosol,isPartOf,kegg,path:hsa03008,Ribosome biogenesis in eukaryotes - Homo sapiens (human)
-533,reactome,R-HSA-72312,rRNA processing,isPartOf,kegg,path:hsa03008,Ribosome biogenesis in eukaryotes - Homo sapiens (human)
-534,kegg,path:hsa03008,Ribosome biogenesis in eukaryotes - Homo sapiens (human),isPartOf,reactome,R-HSA-8953854,Metabolism of RNA
-535,kegg,path:hsa04130,SNARE interactions in vesicular transport - Homo sapiens (human),isPartOf,reactome,R-HSA-5653656,Vesicle-mediated transport
-536,kegg,path:hsa04130,SNARE interactions in vesicular transport - Homo sapiens (human),isPartOf,reactome,R-HSA-199991,Membrane Trafficking
-537,kegg,path:hsa00450,Selenocompound metabolism - Homo sapiens (human),isPartOf,reactome,R-HSA-1430728,Metabolism
-538,reactome,R-HSA-2408522,Selenoamino acid metabolism,isPartOf,kegg,path:hsa00450,Selenocompound metabolism - Homo sapiens (human)
-539,reactome,R-HSA-390666,Serotonin receptors,isPartOf,kegg,path:hsa04726,Serotonergic synapse - Homo sapiens (human)
-540,reactome,R-HSA-380615,Serotonin clearance from the synaptic cleft,isPartOf,kegg,path:hsa04726,Serotonergic synapse - Homo sapiens (human)
-541,reactome,R-HSA-2892245,"POU5F1 (OCT4), SOX2, NANOG repress genes related to differentiation",isPartOf,kegg,path:hsa04550,Signaling pathways regulating pluripotency of stem cells - Homo sapiens (human)
-542,reactome,R-HSA-1839120,Signaling by FGFR1 amplification mutants,isPartOf,kegg,path:hsa04550,Signaling pathways regulating pluripotency of stem cells - Homo sapiens (human)
-543,reactome,R-HSA-2023837,Signaling by FGFR2 amplification mutants,isPartOf,kegg,path:hsa04550,Signaling pathways regulating pluripotency of stem cells - Homo sapiens (human)
-544,kegg,path:hsa00600,Sphingolipid metabolism - Homo sapiens (human),equivalentTo,reactome,R-HSA-428157,Sphingolipid metabolism
-545,kegg,path:hsa03040,Spliceosome - Homo sapiens (human),isPartOf,reactome,R-HSA-75067,Processing of Capped Intronless Pre-mRNA
-546,kegg,path:hsa03040,Spliceosome - Homo sapiens (human),isPartOf,reactome,R-HSA-72172,mRNA Splicing
-547,kegg,path:hsa03040,Spliceosome - Homo sapiens (human),isPartOf,reactome,R-HSA-8953854,Metabolism of RNA
-548,kegg,path:hsa03040,Spliceosome - Homo sapiens (human),isPartOf,reactome,R-HSA-72163,mRNA Splicing - Major Pathway
-549,kegg,path:hsa03040,Spliceosome - Homo sapiens (human),isPartOf,reactome,R-HSA-74160,Gene expression (Transcription)
-550,kegg,path:hsa03040,Spliceosome - Homo sapiens (human),isPartOf,reactome,R-HSA-72165,mRNA Splicing - Minor Pathway
-551,kegg,path:hsa03040,Spliceosome - Homo sapiens (human),isPartOf,reactome,R-HSA-72203,Processing of Capped Intron-Containing Pre-mRNA
-552,kegg,path:hsa03040,Spliceosome - Homo sapiens (human),isPartOf,reactome,R-HSA-73856,RNA Polymerase II Transcription Termination
-553,kegg,path:hsa00500,Starch and sucrose metabolism - Homo sapiens (human),isPartOf,reactome,R-HSA-1430728,Metabolism
-554,kegg,path:hsa00500,Starch and sucrose metabolism - Homo sapiens (human),isPartOf,reactome,R-HSA-71387,Metabolism of carbohydrates
-555,kegg,path:hsa00100,Steroid biosynthesis - Homo sapiens (human),isPartOf,reactome,R-HSA-1430728,Metabolism
-556,kegg,path:hsa00100,Steroid biosynthesis - Homo sapiens (human),isPartOf,reactome,R-HSA-8957322,Metabolism of steroids
-557,kegg,path:hsa00140,Steroid hormone biosynthesis - Homo sapiens (human),isPartOf,reactome,R-HSA-196071,Metabolism of steroid hormones
-558,reactome,R-HSA-193144,Estrogen biosynthesis,isPartOf,kegg,path:hsa00140,Steroid hormone biosynthesis - Homo sapiens (human)
-559,reactome,R-HSA-194002,Glucocorticoid biosynthesis,isPartOf,kegg,path:hsa00140,Steroid hormone biosynthesis - Homo sapiens (human)
-560,kegg,path:hsa00140,Steroid hormone biosynthesis - Homo sapiens (human),isPartOf,reactome,R-HSA-1430728,Metabolism
-561,reactome,R-HSA-193993,Mineralocorticoid biosynthesis,isPartOf,kegg,path:hsa00140,Steroid hormone biosynthesis - Homo sapiens (human)
-562,kegg,path:hsa00920,Sulfur metabolism - Homo sapiens (human),isPartOf,reactome,R-HSA-71291,Metabolism of amino acids and derivatives
-563,kegg,path:hsa00920,Sulfur metabolism - Homo sapiens (human),isPartOf,reactome,R-HSA-1614635,Sulfur amino acid metabolism
-564,kegg,path:hsa00920,Sulfur metabolism - Homo sapiens (human),isPartOf,reactome,R-HSA-1430728,Metabolism
-565,kegg,path:hsa04721,Synaptic vesicle cycle - Homo sapiens (human),isPartOf,reactome,R-HSA-5653656,Vesicle-mediated transport
-566,kegg,path:hsa00072,Synthesis and degradation of ketone bodies - Homo sapiens (human),equivalentTo,reactome,R-HSA-74182,Ketone body metabolism
-567,kegg,path:hsa00072,Synthesis and degradation of ketone bodies - Homo sapiens (human),isPartOf,reactome,R-HSA-1430728,Metabolism
-568,reactome,R-HSA-164939,Nef mediated downregulation of CD28 cell surface expression,isPartOf,kegg,path:hsa04660,T cell receptor signaling pathway - Homo sapiens (human)
-569,kegg,path:hsa04660,T cell receptor signaling pathway - Homo sapiens (human),isPartOf,reactome,R-HSA-168256,Immune System
-570,reactome,R-HSA-389359,CD28 dependent Vav1 pathway,isPartOf,kegg,path:hsa04660,T cell receptor signaling pathway - Homo sapiens (human)
-571,reactome,R-HSA-389356,CD28 co-stimulation,isPartOf,kegg,path:hsa04660,T cell receptor signaling pathway - Homo sapiens (human)
-572,kegg,path:hsa04350,TGF-beta signaling pathway - Homo sapiens (human),equivalentTo,reactome,R-HSA-9006936,Signaling by TGF-beta family members
-573,kegg,path:hsa04668,TNF signaling pathway - Homo sapiens (human),equivalentTo,reactome,R-HSA-75893,TNF signaling
-574,kegg,path:hsa00430,Taurine and hypotaurine metabolism - Homo sapiens (human),isPartOf,reactome,R-HSA-1430728,Metabolism
-575,kegg,path:hsa00900,Terpenoid backbone biosynthesis - Homo sapiens (human),isPartOf,reactome,R-HSA-1430728,Metabolism
-576,kegg,path:hsa04658,Th1 and Th2 cell differentiation - Homo sapiens (human),isPartOf,reactome,R-HSA-1280218,Adaptive Immune System
-577,kegg,path:hsa04659,Th17 cell differentiation - Homo sapiens (human),isPartOf,reactome,R-HSA-168256,Immune System
-578,kegg,path:hsa04714,Thermogenesis - Homo sapiens (human),isPartOf,reactome,R-HSA-163210,Formation of ATP by chemiosmotic coupling
-579,kegg,path:hsa04714,Thermogenesis - Homo sapiens (human),isPartOf,reactome,R-HSA-163200,"Respiratory electron transport, ATP synthesis by chemiosmotic coupling, and heat production by uncoupling proteins."
-580,kegg,path:hsa04714,Thermogenesis - Homo sapiens (human),isPartOf,reactome,R-HSA-1430728,Metabolism
-581,kegg,path:hsa04714,Thermogenesis - Homo sapiens (human),isPartOf,reactome,R-HSA-611105,Respiratory electron transport
-582,kegg,path:hsa00730,Thiamine metabolism - Homo sapiens (human),equivalentTo,reactome,R-HSA-196819,Vitamin B1 (thiamin) metabolism
-583,kegg,path:hsa00730,Thiamine metabolism - Homo sapiens (human),isPartOf,reactome,R-HSA-1430728,Metabolism
-584,reactome,R-HSA-350864,Regulation of thyroid hormone activity,isPartOf,kegg,path:hsa04919,Thyroid hormone signaling pathway - Homo sapiens (human)
-585,kegg,path:hsa04918,Thyroid hormone synthesis - Homo sapiens (human),equivalentTo,reactome,R-HSA-209968,Thyroxine biosynthesis
-586,kegg,path:hsa04530,Tight junction - Homo sapiens (human),equivalentTo,reactome,R-HSA-420029,Tight junction interactions
-587,reactome,R-HSA-8935964,RUNX1 regulates expression of components of tight junctions,isPartOf,kegg,path:hsa04530,Tight junction - Homo sapiens (human)
-588,kegg,path:hsa04620,Toll-like receptor signaling pathway - Homo sapiens (human),equivalentTo,reactome,R-HSA-168898,Toll-Like Receptors Cascades
-589,reactome,R-HSA-166016,Toll Like Receptor 4 (TLR4) Cascade,isPartOf,kegg,path:hsa04620,Toll-like receptor signaling pathway - Homo sapiens (human)
-590,reactome,R-HSA-181438,Toll Like Receptor 2 (TLR2) Cascade,isPartOf,kegg,path:hsa04620,Toll-like receptor signaling pathway - Homo sapiens (human)
-591,reactome,R-HSA-168188,Toll Like Receptor TLR6:TLR2 Cascade,isPartOf,kegg,path:hsa04620,Toll-like receptor signaling pathway - Homo sapiens (human)
-592,reactome,R-HSA-168176,Toll Like Receptor 5 (TLR5) Cascade,isPartOf,kegg,path:hsa04620,Toll-like receptor signaling pathway - Homo sapiens (human)
-593,reactome,R-HSA-168142,Toll Like Receptor 10 (TLR10) Cascade,isPartOf,kegg,path:hsa04620,Toll-like receptor signaling pathway - Homo sapiens (human)
-594,reactome,R-HSA-168179,Toll Like Receptor TLR1:TLR2 Cascade,isPartOf,kegg,path:hsa04620,Toll-like receptor signaling pathway - Homo sapiens (human)
-595,reactome,R-HSA-168138,Toll Like Receptor 9 (TLR9) Cascade,isPartOf,kegg,path:hsa04620,Toll-like receptor signaling pathway - Homo sapiens (human)
-596,reactome,R-HSA-168164,Toll Like Receptor 3 (TLR3) Cascade,isPartOf,kegg,path:hsa04620,Toll-like receptor signaling pathway - Homo sapiens (human)
-597,reactome,R-HSA-168181,Toll Like Receptor 7/8 (TLR7/8) Cascade,isPartOf,kegg,path:hsa04620,Toll-like receptor signaling pathway - Homo sapiens (human)
-598,reactome,R-HSA-71240,Tryptophan catabolism,isPartOf,kegg,path:hsa00380,Tryptophan metabolism - Homo sapiens (human)
-599,kegg,path:hsa00350,Tyrosine metabolism - Homo sapiens (human),isPartOf,reactome,R-HSA-70614,Amino acid synthesis and interconversion (transamination)
-600,kegg,path:hsa00350,Tyrosine metabolism - Homo sapiens (human),isPartOf,reactome,R-HSA-71291,Metabolism of amino acids and derivatives
-601,reactome,R-HSA-71182,Phenylalanine and tyrosine catabolism,isPartOf,kegg,path:hsa00350,Tyrosine metabolism - Homo sapiens (human)
-602,kegg,path:hsa00350,Tyrosine metabolism - Homo sapiens (human),isPartOf,reactome,R-HSA-6788656,"Histidine, lysine, phenylalanine, tyrosine, proline and tryptophan catabolism"
-603,kegg,path:hsa00350,Tyrosine metabolism - Homo sapiens (human),isPartOf,reactome,R-HSA-1430728,Metabolism
-604,kegg,path:hsa00130,Ubiquinone and other terpenoid-quinone biosynthesis - Homo sapiens (human),isPartOf,reactome,R-HSA-1430728,Metabolism
-605,kegg,path:hsa00130,Ubiquinone and other terpenoid-quinone biosynthesis - Homo sapiens (human),isPartOf,reactome,R-HSA-196854,Metabolism of vitamins and cofactors
-606,kegg,path:hsa00290,"Valine, leucine and isoleucine biosynthesis - Homo sapiens (human)",isPartOf,reactome,R-HSA-71291,Metabolism of amino acids and derivatives
-607,kegg,path:hsa00290,"Valine, leucine and isoleucine biosynthesis - Homo sapiens (human)",isPartOf,reactome,R-HSA-1430728,Metabolism
-608,kegg,path:hsa00280,"Valine, leucine and isoleucine degradation - Homo sapiens (human)",isPartOf,reactome,R-HSA-70895,Branched-chain amino acid catabolism
-609,kegg,path:hsa00280,"Valine, leucine and isoleucine degradation - Homo sapiens (human)",isPartOf,reactome,R-HSA-1430728,Metabolism
-610,kegg,path:hsa00280,"Valine, leucine and isoleucine degradation - Homo sapiens (human)",isPartOf,reactome,R-HSA-71291,Metabolism of amino acids and derivatives
-611,kegg,path:hsa04270,Vascular smooth muscle contraction - Homo sapiens (human),isPartOf,reactome,R-HSA-445355,Smooth Muscle Contraction
-612,kegg,path:hsa04270,Vascular smooth muscle contraction - Homo sapiens (human),isPartOf,reactome,R-HSA-397014,Muscle contraction
-613,kegg,path:hsa04962,Vasopressin-regulated water reabsorption - Homo sapiens (human),equivalentTo,reactome,R-HSA-432040,Vasopressin regulates renal water homeostasis via Aquaporins
-614,kegg,path:hsa00750,Vitamin B6 metabolism - Homo sapiens (human),isPartOf,reactome,R-HSA-1430728,Metabolism
-615,kegg,path:hsa00750,Vitamin B6 metabolism - Homo sapiens (human),isPartOf,reactome,R-HSA-196849,Metabolism of water-soluble vitamins and cofactors
-616,kegg,path:hsa00750,Vitamin B6 metabolism - Homo sapiens (human),isPartOf,reactome,R-HSA-196854,Metabolism of vitamins and cofactors
-617,reactome,R-HSA-964975,Vitamins B6 activation to pyridoxal phosphate,isPartOf,kegg,path:hsa00750,Vitamin B6 metabolism - Homo sapiens (human)
-618,kegg,path:hsa04977,Vitamin digestion and absorption - Homo sapiens (human),isPartOf,reactome,R-HSA-8963676,Intestinal absorption
-619,kegg,path:hsa04977,Vitamin digestion and absorption - Homo sapiens (human),isPartOf,reactome,R-HSA-8963743,Digestion and absorption
-620,kegg,path:hsa04977,Vitamin digestion and absorption - Homo sapiens (human),isPartOf,reactome,R-HSA-196854,Metabolism of vitamins and cofactors
-621,kegg,path:hsa04310,Wnt signaling pathway - Homo sapiens (human),equivalentTo,reactome,R-HSA-195721,Signaling by WNT
-622,reactome,R-HSA-8951430,RUNX3 regulates WNT signaling,isPartOf,kegg,path:hsa04310,Wnt signaling pathway - Homo sapiens (human)
-623,reactome,R-HSA-201688,WNT mediated activation of DVL,isPartOf,kegg,path:hsa04310,Wnt signaling pathway - Homo sapiens (human)
-624,reactome,R-HSA-5340573,WNT ligand secretion is abrogated by the PORCN inhibitor LGK974,isPartOf,kegg,path:hsa04310,Wnt signaling pathway - Homo sapiens (human)
-625,kegg,path:hsa00592,alpha-Linolenic acid metabolism - Homo sapiens (human),equivalentTo,reactome,R-HSA-2046106,alpha-linolenic acid (ALA) metabolism
-626,kegg,path:hsa00592,alpha-Linolenic acid metabolism - Homo sapiens (human),isPartOf,reactome,R-HSA-556833,Metabolism of lipids
-627,kegg,path:hsa00592,alpha-Linolenic acid metabolism - Homo sapiens (human),isPartOf,reactome,R-HSA-1430728,Metabolism
-628,kegg,path:hsa00410,beta-Alanine metabolism - Homo sapiens (human),isPartOf,reactome,R-HSA-71291,Metabolism of amino acids and derivatives
-629,kegg,path:hsa00410,beta-Alanine metabolism - Homo sapiens (human),isPartOf,reactome,R-HSA-1430728,Metabolism
-630,reactome,R-HSA-170660,Adenylate cyclase activating pathway,isPartOf,kegg,path:hsa04024,cAMP signaling pathway - Homo sapiens (human)
-631,reactome,R-HSA-418457,cGMP effects,isPartOf,kegg,path:hsa04022,cGMP-PKG signaling pathway - Homo sapiens (human)
-632,reactome,R-HSA-168315,Inhibition of Host mRNA Processing and RNA Silencing,isPartOf,kegg,path:hsa03015,mRNA surveillance pathway - Homo sapiens (human)
-633,reactome,R-HSA-72203,Processing of Capped Intron-Containing Pre-mRNA,isPartOf,kegg,path:hsa03015,mRNA surveillance pathway - Homo sapiens (human)
-634,reactome,R-HSA-72172,mRNA Splicing,isPartOf,kegg,path:hsa03015,mRNA surveillance pathway - Homo sapiens (human)
-635,reactome,R-HSA-75067,Processing of Capped Intronless Pre-mRNA,isPartOf,kegg,path:hsa03015,mRNA surveillance pathway - Homo sapiens (human)
-636,reactome,R-HSA-72187,mRNA 3'-end processing,isPartOf,kegg,path:hsa03015,mRNA surveillance pathway - Homo sapiens (human)
-637,reactome,R-HSA-77595,Processing of Intronless Pre-mRNAs,isPartOf,kegg,path:hsa03015,mRNA surveillance pathway - Homo sapiens (human)
-638,reactome,R-HSA-72163,mRNA Splicing - Major Pathway,isPartOf,kegg,path:hsa03015,mRNA surveillance pathway - Homo sapiens (human)
-639,kegg,path:hsa04150,mTOR signaling pathway - Homo sapiens (human),equivalentTo,reactome,R-HSA-165159,mTOR signalling
-640,reactome,R-HSA-5633008,TP53 Regulates Transcription of Cell Death Genes,isPartOf,kegg,path:hsa04115,p53 signaling pathway - Homo sapiens (human)
-641,reactome,R-HSA-6804754,Regulation of TP53 Expression,isPartOf,kegg,path:hsa04115,p53 signaling pathway - Homo sapiens (human)
-642,reactome,R-HSA-6791312,TP53 Regulates Transcription of Cell Cycle Genes,isPartOf,kegg,path:hsa04115,p53 signaling pathway - Homo sapiens (human)
-643,reactome,R-HSA-6803211,TP53 Regulates Transcription of Death Receptors and Ligands,isPartOf,kegg,path:hsa04115,p53 signaling pathway - Homo sapiens (human)
-644,reactome,R-HSA-6803205,TP53 regulates transcription of several additional cell death genes whose specific roles in p53-dependent apoptosis remain uncertain,isPartOf,kegg,path:hsa04115,p53 signaling pathway - Homo sapiens (human)
-645,reactome,R-HSA-6803207,TP53 Regulates Transcription of Caspase Activators and Caspases,isPartOf,kegg,path:hsa04115,p53 signaling pathway - Homo sapiens (human)
-646,reactome,R-HSA-5628897,TP53 Regulates Metabolic Genes,isPartOf,kegg,path:hsa04115,p53 signaling pathway - Homo sapiens (human)
-647,reactome,R-HSA-6804760,Regulation of TP53 Activity through Methylation,isPartOf,kegg,path:hsa04115,p53 signaling pathway - Homo sapiens (human)
-648,reactome,R-HSA-6804116,TP53 Regulates Transcription of Genes Involved in G1 Cell Cycle Arrest,isPartOf,kegg,path:hsa04115,p53 signaling pathway - Homo sapiens (human)
-649,reactome,R-HSA-6803204,TP53 Regulates Transcription of Genes Involved in Cytochrome C Release,isPartOf,kegg,path:hsa04115,p53 signaling pathway - Homo sapiens (human)
-650,reactome,R-HSA-6806003,Regulation of TP53 Expression and Degradation,isPartOf,kegg,path:hsa04115,p53 signaling pathway - Homo sapiens (human)
-651,reactome,R-HSA-6804757,Regulation of TP53 Degradation,isPartOf,kegg,path:hsa04115,p53 signaling pathway - Homo sapiens (human)
+Source Resource,Source ID,Source Name,Mapping Type,Target Resource,Target ID,Target Name
+reactome,R-HSA-2978092,Abnormal conversion of 2-oxoglutarate to 2-hydroxyglutarate,isPartOf,kegg,path:hsa01210,2-Oxocarboxylic acid metabolism - Homo sapiens (human)
+reactome,R-HSA-71406,Pyruvate metabolism and Citric Acid (TCA) cycle,isPartOf,kegg,path:hsa01210,2-Oxocarboxylic acid metabolism - Homo sapiens (human)
+kegg,path:hsa02010,ABC transporters - Homo sapiens (human),equivalentTo,reactome,R-HSA-1369007,Mitochondrial ABC transporters
+reactome,R-HSA-5683177,Defective ABCC8 can cause hypoglycemias and hyperglycemias,isPartOf,kegg,path:hsa02010,ABC transporters - Homo sapiens (human)
+reactome,R-HSA-5679001,Defective ABCC2 causes Dubin-Johnson syndrome,isPartOf,kegg,path:hsa02010,ABC transporters - Homo sapiens (human)
+reactome,R-HSA-5679096,Defective ABCG5 causes sitosterolemia,isPartOf,kegg,path:hsa02010,ABC transporters - Homo sapiens (human)
+reactome,R-HSA-5683329,"Defective ABCD4 causes methylmalonic aciduria and homocystinuria, cblj type (MAHCJ)",isPartOf,kegg,path:hsa02010,ABC transporters - Homo sapiens (human)
+reactome,R-HSA-5678520,Defective ABCB11 causes progressive familial intrahepatic cholestasis 2 and benign recurrent intrahepatic cholestasis 2,isPartOf,kegg,path:hsa02010,ABC transporters - Homo sapiens (human)
+reactome,R-HSA-5690338,Defective ABCC6 causes pseudoxanthoma elasticum (PXE),isPartOf,kegg,path:hsa02010,ABC transporters - Homo sapiens (human)
+reactome,R-HSA-5678420,"Defective ABCC9 causes dilated cardiomyopathy 10, familial atrial fibrillation 12 and hypertrichotic osteochondrodysplasia",isPartOf,kegg,path:hsa02010,ABC transporters - Homo sapiens (human)
+reactome,R-HSA-5679090,Defective ABCG8 causes gallbladder disease 4 and sitosterolemia,isPartOf,kegg,path:hsa02010,ABC transporters - Homo sapiens (human)
+reactome,R-HSA-5678771,"Defective ABCB4 causes progressive familial intrahepatic cholestasis 3, intrahepatic cholestasis of pregnancy 3 and gallbladder disease 1",isPartOf,kegg,path:hsa02010,ABC transporters - Homo sapiens (human)
+reactome,R-HSA-5684045,Defective ABCD1 causes adrenoleukodystrophy (ALD),isPartOf,kegg,path:hsa02010,ABC transporters - Homo sapiens (human)
+reactome,R-HSA-5682294,Defective ABCA12 causes autosomal recessive congenital ichthyosis type 4B,isPartOf,kegg,path:hsa02010,ABC transporters - Homo sapiens (human)
+reactome,R-HSA-5683371,Defective ABCB6 causes isolated colobomatous microphthalmia 7 (MCOPCB7),isPartOf,kegg,path:hsa02010,ABC transporters - Homo sapiens (human)
+reactome,R-HSA-5619084,ABC transporter disorders,isPartOf,kegg,path:hsa02010,ABC transporters - Homo sapiens (human)
+reactome,R-HSA-5682113,Defective ABCA1 causes Tangier disease,isPartOf,kegg,path:hsa02010,ABC transporters - Homo sapiens (human)
+reactome,R-HSA-5688399,Defective ABCA3 causes pulmonary surfactant metabolism dysfunction 3 (SMDP3),isPartOf,kegg,path:hsa02010,ABC transporters - Homo sapiens (human)
+reactome,R-HSA-1369062,ABC transporters in lipid homeostasis,isPartOf,kegg,path:hsa02010,ABC transporters - Homo sapiens (human)
+reactome,R-HSA-5683678,Defective ABCA3 causes pulmonary surfactant metabolism dysfunction type 3 (SMDP3),isPartOf,kegg,path:hsa02010,ABC transporters - Homo sapiens (human)
+reactome,R-HSA-382556,ABC-family proteins mediated transport,isPartOf,kegg,path:hsa02010,ABC transporters - Homo sapiens (human)
+reactome,R-HSA-163680,AMPK inhibits chREBP transcriptional activation activity,isPartOf,kegg,path:hsa04152,AMPK signaling pathway - Homo sapiens (human)
+kegg,path:hsa04520,Adherens junction - Homo sapiens (human),equivalentTo,reactome,R-HSA-418990,Adherens junctions interactions
+reactome,R-HSA-2586552,Signaling by Leptin,isPartOf,kegg,path:hsa04920,Adipocytokine signaling pathway - Homo sapiens (human)
+kegg,path:hsa04920,Adipocytokine signaling pathway - Homo sapiens (human),isPartOf,reactome,R-HSA-1430728,Metabolism
+kegg,path:hsa00250,"Alanine, aspartate and glutamate metabolism - Homo sapiens (human)",isPartOf,reactome,R-HSA-71291,Metabolism of amino acids and derivatives
+kegg,path:hsa00250,"Alanine, aspartate and glutamate metabolism - Homo sapiens (human)",isPartOf,reactome,R-HSA-1430728,Metabolism
+kegg,path:hsa04925,Aldosterone synthesis and secretion - Homo sapiens (human),isPartOf,reactome,R-HSA-1430728,Metabolism
+kegg,path:hsa05330,Allograft rejection - Homo sapiens (human),isPartOf,reactome,R-HSA-1280218,Adaptive Immune System
+kegg,path:hsa05330,Allograft rejection - Homo sapiens (human),isPartOf,reactome,R-HSA-168256,Immune System
+reactome,R-HSA-8862803,Deregulated CDK5 triggers multiple neurodegenerative pathways in Alzheimer's disease models,isPartOf,kegg,path:hsa05010,Alzheimer disease - Homo sapiens (human)
+kegg,path:hsa00520,Amino sugar and nucleotide sugar metabolism - Homo sapiens (human),isPartOf,reactome,R-HSA-1430728,Metabolism
+kegg,path:hsa00970,Aminoacyl-tRNA biosynthesis - Homo sapiens (human),isPartOf,reactome,R-HSA-1430728,Metabolism
+reactome,R-HSA-379724,tRNA Aminoacylation,isPartOf,kegg,path:hsa00970,Aminoacyl-tRNA biosynthesis - Homo sapiens (human)
+reactome,R-HSA-379726,Mitochondrial tRNA aminoacylation,isPartOf,kegg,path:hsa00970,Aminoacyl-tRNA biosynthesis - Homo sapiens (human)
+reactome,R-HSA-379716,Cytosolic tRNA aminoacylation,isPartOf,kegg,path:hsa00970,Aminoacyl-tRNA biosynthesis - Homo sapiens (human)
+kegg,path:hsa04612,Antigen processing and presentation - Homo sapiens (human),equivalentTo,reactome,R-HSA-1236975,Antigen processing-Cross presentation
+reactome,R-HSA-2132295,MHC class II antigen presentation,isPartOf,kegg,path:hsa04612,Antigen processing and presentation - Homo sapiens (human)
+reactome,R-HSA-983170,"Antigen Presentation: Folding, assembly and peptide loading of class I MHC",isPartOf,kegg,path:hsa04612,Antigen processing and presentation - Homo sapiens (human)
+reactome,R-HSA-983169,Class I MHC mediated antigen processing & presentation,isPartOf,kegg,path:hsa04612,Antigen processing and presentation - Homo sapiens (human)
+kegg,path:hsa04210,Apoptosis - Homo sapiens (human),equivalentTo,reactome,R-HSA-109581,Apoptosis
+reactome,R-HSA-109581,Apoptosis,isPartOf,kegg,path:hsa04215,Apoptosis - multiple species - Homo sapiens (human)
+kegg,path:hsa00590,Arachidonic acid metabolism - Homo sapiens (human),equivalentTo,reactome,R-HSA-2142753,Arachidonic acid metabolism
+reactome,R-HSA-70688,Proline catabolism,isPartOf,kegg,path:hsa00330,Arginine and proline metabolism - Homo sapiens (human)
+kegg,path:hsa00330,Arginine and proline metabolism - Homo sapiens (human),isPartOf,reactome,R-HSA-1430728,Metabolism
+kegg,path:hsa00330,Arginine and proline metabolism - Homo sapiens (human),isPartOf,reactome,R-HSA-71291,Metabolism of amino acids and derivatives
+kegg,path:hsa00220,Arginine biosynthesis - Homo sapiens (human),isPartOf,reactome,R-HSA-1430728,Metabolism
+kegg,path:hsa00220,Arginine biosynthesis - Homo sapiens (human),isPartOf,reactome,R-HSA-71291,Metabolism of amino acids and derivatives
+kegg,path:hsa00220,Arginine biosynthesis - Homo sapiens (human),isPartOf,reactome,R-HSA-70635,Urea cycle
+kegg,path:hsa00053,Ascorbate and aldarate metabolism - Homo sapiens (human),isPartOf,reactome,R-HSA-1430728,Metabolism
+kegg,path:hsa04136,Autophagy - other - Homo sapiens (human),equivalentTo,reactome,R-HSA-1632852,Macroautophagy
+kegg,path:hsa04136,Autophagy - other - Homo sapiens (human),isPartOf,reactome,R-HSA-168256,Immune System
+reactome,R-HSA-8953897,Cellular responses to external stimuli,isPartOf,kegg,path:hsa04136,Autophagy - other - Homo sapiens (human)
+kegg,path:hsa04360,Axon guidance - Homo sapiens (human),equivalentTo,reactome,R-HSA-422475,Axon guidance
+kegg,path:hsa04662,B cell receptor signaling pathway - Homo sapiens (human),equivalentTo,reactome,R-HSA-983705,Signaling by the B Cell Receptor (BCR)
+kegg,path:hsa04662,B cell receptor signaling pathway - Homo sapiens (human),isPartOf,reactome,R-HSA-1280218,Adaptive Immune System
+kegg,path:hsa04662,B cell receptor signaling pathway - Homo sapiens (human),isPartOf,reactome,R-HSA-168256,Immune System
+reactome,R-HSA-6807505,RNA polymerase II transcribes snRNA genes,isPartOf,kegg,path:hsa03022,Basal transcription factors - Homo sapiens (human)
+reactome,R-HSA-674695,RNA Polymerase II Pre-transcription Events,isPartOf,kegg,path:hsa03022,Basal transcription factors - Homo sapiens (human)
+reactome,R-HSA-73776,RNA Polymerase II Promoter Escape,isPartOf,kegg,path:hsa03022,Basal transcription factors - Homo sapiens (human)
+reactome,R-HSA-167160,RNA Pol II CTD phosphorylation and interaction with CE during HIV infection,isPartOf,kegg,path:hsa03022,Basal transcription factors - Homo sapiens (human)
+kegg,path:hsa03022,Basal transcription factors - Homo sapiens (human),isPartOf,reactome,R-HSA-73857,RNA Polymerase II Transcription
+reactome,R-HSA-77075,RNA Pol II CTD phosphorylation and interaction with CE,isPartOf,kegg,path:hsa03022,Basal transcription factors - Homo sapiens (human)
+kegg,path:hsa03022,Basal transcription factors - Homo sapiens (human),isPartOf,reactome,R-HSA-212436,Generic Transcription Pathway
+reactome,R-HSA-75953,RNA Polymerase II Transcription Initiation,isPartOf,kegg,path:hsa03022,Basal transcription factors - Homo sapiens (human)
+reactome,R-HSA-167162,RNA Polymerase II HIV Promoter Escape,isPartOf,kegg,path:hsa03022,Basal transcription factors - Homo sapiens (human)
+kegg,path:hsa03022,Basal transcription factors - Homo sapiens (human),isPartOf,reactome,R-HSA-8953854,Metabolism of RNA
+reactome,R-HSA-73863,RNA Polymerase I Transcription Termination,isPartOf,kegg,path:hsa03022,Basal transcription factors - Homo sapiens (human)
+reactome,R-HSA-73772,RNA Polymerase I Promoter Escape,isPartOf,kegg,path:hsa03022,Basal transcription factors - Homo sapiens (human)
+reactome,R-HSA-73857,RNA Polymerase II Transcription,isPartOf,kegg,path:hsa03022,Basal transcription factors - Homo sapiens (human)
+reactome,R-HSA-73779,RNA Polymerase II Transcription Pre-Initiation And Promoter Opening,isPartOf,kegg,path:hsa03022,Basal transcription factors - Homo sapiens (human)
+kegg,path:hsa03022,Basal transcription factors - Homo sapiens (human),isPartOf,reactome,R-HSA-74160,Gene expression (Transcription)
+reactome,R-HSA-76042,RNA Polymerase II Transcription Initiation And Promoter Clearance,isPartOf,kegg,path:hsa03022,Basal transcription factors - Homo sapiens (human)
+kegg,path:hsa03410,Base excision repair - Homo sapiens (human),equivalentTo,reactome,R-HSA-73884,Base Excision Repair
+kegg,path:hsa04976,Bile secretion - Homo sapiens (human),isPartOf,reactome,R-HSA-8935690,Digestion
+reactome,R-HSA-70614,Amino acid synthesis and interconversion (transamination),isPartOf,kegg,path:hsa01230,Biosynthesis of amino acids - Homo sapiens (human)
+reactome,R-HSA-1614603,Cysteine formation from homocysteine,isPartOf,kegg,path:hsa01230,Biosynthesis of amino acids - Homo sapiens (human)
+kegg,path:hsa01230,Biosynthesis of amino acids - Homo sapiens (human),isPartOf,reactome,R-HSA-1430728,Metabolism
+reactome,R-HSA-70635,Urea cycle,isPartOf,kegg,path:hsa01230,Biosynthesis of amino acids - Homo sapiens (human)
+reactome,R-HSA-71182,Phenylalanine and tyrosine catabolism,isPartOf,kegg,path:hsa01230,Biosynthesis of amino acids - Homo sapiens (human)
+kegg,path:hsa01230,Biosynthesis of amino acids - Homo sapiens (human),isPartOf,reactome,R-HSA-71291,Metabolism of amino acids and derivatives
+reactome,R-HSA-2046105,Linoleic acid (LA) metabolism,isPartOf,kegg,path:hsa01040,Biosynthesis of unsaturated fatty acids - Homo sapiens (human)
+reactome,R-HSA-75105,Fatty acyl-CoA biosynthesis,isPartOf,kegg,path:hsa01040,Biosynthesis of unsaturated fatty acids - Homo sapiens (human)
+reactome,R-HSA-75876,Synthesis of very long-chain fatty acyl-CoAs,isPartOf,kegg,path:hsa01040,Biosynthesis of unsaturated fatty acids - Homo sapiens (human)
+kegg,path:hsa01040,Biosynthesis of unsaturated fatty acids - Homo sapiens (human),isPartOf,reactome,R-HSA-8978868,Fatty acid metabolism
+kegg,path:hsa01040,Biosynthesis of unsaturated fatty acids - Homo sapiens (human),isPartOf,reactome,R-HSA-1430728,Metabolism
+reactome,R-HSA-2142688,Synthesis of 5-eicosatetraenoic acids,isPartOf,kegg,path:hsa01040,Biosynthesis of unsaturated fatty acids - Homo sapiens (human)
+kegg,path:hsa01040,Biosynthesis of unsaturated fatty acids - Homo sapiens (human),isPartOf,reactome,R-HSA-556833,Metabolism of lipids
+kegg,path:hsa00780,Biotin metabolism - Homo sapiens (human),isPartOf,reactome,R-HSA-196780,Biotin transport and metabolism
+reactome,R-HSA-77350,Beta oxidation of hexanoyl-CoA to butanoyl-CoA,isPartOf,kegg,path:hsa00650,Butanoate metabolism - Homo sapiens (human)
+reactome,R-HSA-77352,Beta oxidation of butanoyl-CoA to acetyl-CoA,isPartOf,kegg,path:hsa00650,Butanoate metabolism - Homo sapiens (human)
+kegg,path:hsa00650,Butanoate metabolism - Homo sapiens (human),isPartOf,reactome,R-HSA-1430728,Metabolism
+kegg,path:hsa00232,Caffeine metabolism - Homo sapiens (human),isPartOf,reactome,R-HSA-1430728,Metabolism
+reactome,R-HSA-139853,Elevation of cytosolic Ca2+ levels,isPartOf,kegg,path:hsa04020,Calcium signaling pathway - Homo sapiens (human)
+reactome,R-HSA-111997,CaM pathway,isPartOf,kegg,path:hsa04020,Calcium signaling pathway - Homo sapiens (human)
+reactome,R-HSA-418360,Platelet calcium homeostasis,isPartOf,kegg,path:hsa04020,Calcium signaling pathway - Homo sapiens (human)
+reactome,R-HSA-442745,Activation of CaMK IV,isPartOf,kegg,path:hsa04020,Calcium signaling pathway - Homo sapiens (human)
+reactome,R-HSA-418359,Reduction of cytosolic Ca++ levels,isPartOf,kegg,path:hsa04020,Calcium signaling pathway - Homo sapiens (human)
+reactome,R-HSA-8963676,Intestinal absorption,isPartOf,kegg,path:hsa04973,Carbohydrate digestion and absorption - Homo sapiens (human)
+reactome,R-HSA-189085,Digestion of dietary carbohydrate,isPartOf,kegg,path:hsa04973,Carbohydrate digestion and absorption - Homo sapiens (human)
+reactome,R-HSA-5659898,Intestinal saccharidase deficiencies,isPartOf,kegg,path:hsa04973,Carbohydrate digestion and absorption - Homo sapiens (human)
+reactome,R-HSA-8981373,Intestinal hexose absorption,isPartOf,kegg,path:hsa04973,Carbohydrate digestion and absorption - Homo sapiens (human)
+reactome,R-HSA-8963743,Digestion and absorption,isPartOf,kegg,path:hsa04973,Carbohydrate digestion and absorption - Homo sapiens (human)
+kegg,path:hsa01200,Carbon metabolism - Homo sapiens (human),equivalentTo,reactome,R-HSA-71387,Metabolism of carbohydrates
+reactome,R-HSA-70326,Glucose metabolism,isPartOf,kegg,path:hsa01200,Carbon metabolism - Homo sapiens (human)
+reactome,R-HSA-5652084,Fructose metabolism,isPartOf,kegg,path:hsa01200,Carbon metabolism - Homo sapiens (human)
+kegg,path:hsa01200,Carbon metabolism - Homo sapiens (human),isPartOf,reactome,R-HSA-1430728,Metabolism
+reactome,R-HSA-73843,5-Phosphoribose 1-diphosphate biosynthesis,isPartOf,kegg,path:hsa01200,Carbon metabolism - Homo sapiens (human)
+reactome,R-HSA-8982491,Glycogen metabolism,isPartOf,kegg,path:hsa01200,Carbon metabolism - Homo sapiens (human)
+reactome,R-HSA-71406,Pyruvate metabolism and Citric Acid (TCA) cycle,isPartOf,kegg,path:hsa01200,Carbon metabolism - Homo sapiens (human)
+kegg,path:hsa01200,Carbon metabolism - Homo sapiens (human),isPartOf,reactome,R-HSA-6791465,Pentose phosphate pathway disease
+reactome,R-HSA-70171,Glycolysis,isPartOf,kegg,path:hsa01200,Carbon metabolism - Homo sapiens (human)
+kegg,path:hsa04260,Cardiac muscle contraction - Homo sapiens (human),isPartOf,reactome,R-HSA-397014,Muscle contraction
+kegg,path:hsa04514,Cell adhesion molecules (CAMs) - Homo sapiens (human),isPartOf,reactome,R-HSA-421270,Cell-cell junction organization
+reactome,R-HSA-447043,Neurofascin interactions,isPartOf,kegg,path:hsa04514,Cell adhesion molecules (CAMs) - Homo sapiens (human)
+reactome,R-HSA-421270,Cell-cell junction organization,isPartOf,kegg,path:hsa04514,Cell adhesion molecules (CAMs) - Homo sapiens (human)
+kegg,path:hsa04514,Cell adhesion molecules (CAMs) - Homo sapiens (human),isPartOf,reactome,R-HSA-420029,Tight junction interactions
+kegg,path:hsa04110,Cell cycle - Homo sapiens (human),equivalentTo,reactome,R-HSA-1640170,Cell Cycle
+kegg,path:hsa04218,Cellular senescence - Homo sapiens (human),equivalentTo,reactome,R-HSA-2559583,Cellular Senescence
+reactome,R-HSA-380108,Chemokine receptors bind chemokines,isPartOf,kegg,path:hsa04062,Chemokine signaling pathway - Homo sapiens (human)
+reactome,R-HSA-8964041,LDL remodeling,isPartOf,kegg,path:hsa04979,Cholesterol metabolism - Homo sapiens (human)
+reactome,R-HSA-8963888,Chylomicron assembly,isPartOf,kegg,path:hsa04979,Cholesterol metabolism - Homo sapiens (human)
+kegg,path:hsa04979,Cholesterol metabolism - Homo sapiens (human),isPartOf,reactome,R-HSA-1430728,Metabolism
+reactome,R-HSA-8964011,HDL clearance,isPartOf,kegg,path:hsa04979,Cholesterol metabolism - Homo sapiens (human)
+reactome,R-HSA-8964058,HDL remodeling,isPartOf,kegg,path:hsa04979,Cholesterol metabolism - Homo sapiens (human)
+reactome,R-HSA-8963901,Chylomicron remodeling,isPartOf,kegg,path:hsa04979,Cholesterol metabolism - Homo sapiens (human)
+reactome,R-HSA-8964043,Plasma lipoprotein clearance,isPartOf,kegg,path:hsa04979,Cholesterol metabolism - Homo sapiens (human)
+reactome,R-HSA-8963898,Plasma lipoprotein assembly,isPartOf,kegg,path:hsa04979,Cholesterol metabolism - Homo sapiens (human)
+reactome,R-HSA-8866423,VLDL assembly,isPartOf,kegg,path:hsa04979,Cholesterol metabolism - Homo sapiens (human)
+reactome,R-HSA-8964026,Chylomicron clearance,isPartOf,kegg,path:hsa04979,Cholesterol metabolism - Homo sapiens (human)
+reactome,R-HSA-8964038,LDL clearance,isPartOf,kegg,path:hsa04979,Cholesterol metabolism - Homo sapiens (human)
+reactome,R-HSA-390648,Muscarinic acetylcholine receptors,isPartOf,kegg,path:hsa04725,Cholinergic synapse - Homo sapiens (human)
+kegg,path:hsa00020,Citrate cycle (TCA cycle) - Homo sapiens (human),equivalentTo,reactome,R-HSA-71403,Citric acid cycle (TCA cycle)
+reactome,R-HSA-5632927,Defective Mismatch Repair Associated With MSH3,isPartOf,kegg,path:hsa05210,Colorectal cancer - Homo sapiens (human)
+reactome,R-HSA-5632928,Defective Mismatch Repair Associated With MSH2,isPartOf,kegg,path:hsa05210,Colorectal cancer - Homo sapiens (human)
+reactome,R-HSA-5632968,Defective Mismatch Repair Associated With MSH6,isPartOf,kegg,path:hsa05210,Colorectal cancer - Homo sapiens (human)
+kegg,path:hsa04610,Complement and coagulation cascades - Homo sapiens (human),isPartOf,reactome,R-HSA-168256,Immune System
+reactome,R-HSA-109582,Hemostasis,isPartOf,kegg,path:hsa04610,Complement and coagulation cascades - Homo sapiens (human)
+reactome,R-HSA-173736,Alternative complement activation,isPartOf,kegg,path:hsa04610,Complement and coagulation cascades - Homo sapiens (human)
+reactome,R-HSA-174577,Activation of C3 and C5,isPartOf,kegg,path:hsa04610,Complement and coagulation cascades - Homo sapiens (human)
+reactome,R-HSA-977606,Regulation of Complement cascade,isPartOf,kegg,path:hsa04610,Complement and coagulation cascades - Homo sapiens (human)
+reactome,R-HSA-166658,Complement cascade,isPartOf,kegg,path:hsa04610,Complement and coagulation cascades - Homo sapiens (human)
+reactome,R-HSA-140875,Common Pathway of Fibrin Clot Formation,isPartOf,kegg,path:hsa04610,Complement and coagulation cascades - Homo sapiens (human)
+reactome,R-HSA-140877,Formation of Fibrin Clot (Clotting Cascade),isPartOf,kegg,path:hsa04610,Complement and coagulation cascades - Homo sapiens (human)
+reactome,R-HSA-75205,Dissolution of Fibrin Clot,isPartOf,kegg,path:hsa04610,Complement and coagulation cascades - Homo sapiens (human)
+reactome,R-HSA-166665,Terminal pathway of complement,isPartOf,kegg,path:hsa04610,Complement and coagulation cascades - Homo sapiens (human)
+reactome,R-HSA-140834,Extrinsic Pathway of Fibrin Clot Formation,isPartOf,kegg,path:hsa04610,Complement and coagulation cascades - Homo sapiens (human)
+reactome,R-HSA-140837,Intrinsic Pathway of Fibrin Clot Formation,isPartOf,kegg,path:hsa04610,Complement and coagulation cascades - Homo sapiens (human)
+reactome,R-HSA-193993,Mineralocorticoid biosynthesis,isPartOf,kegg,path:hsa04927,Cortisol synthesis and secretion - Homo sapiens (human)
+reactome,R-HSA-6807047,Cholesterol biosynthesis via desmosterol,isPartOf,kegg,path:hsa04927,Cortisol synthesis and secretion - Homo sapiens (human)
+reactome,R-HSA-6807062,Cholesterol biosynthesis via lathosterol,isPartOf,kegg,path:hsa04927,Cortisol synthesis and secretion - Homo sapiens (human)
+reactome,R-HSA-194002,Glucocorticoid biosynthesis,isPartOf,kegg,path:hsa04927,Cortisol synthesis and secretion - Homo sapiens (human)
+kegg,path:hsa04927,Cortisol synthesis and secretion - Homo sapiens (human),isPartOf,reactome,R-HSA-1430728,Metabolism
+kegg,path:hsa00270,Cysteine and methionine metabolism - Homo sapiens (human),isPartOf,reactome,R-HSA-1614635,Sulfur amino acid metabolism
+reactome,R-HSA-1614603,Cysteine formation from homocysteine,isPartOf,kegg,path:hsa00270,Cysteine and methionine metabolism - Homo sapiens (human)
+kegg,path:hsa00270,Cysteine and methionine metabolism - Homo sapiens (human),isPartOf,reactome,R-HSA-1430728,Metabolism
+kegg,path:hsa00270,Cysteine and methionine metabolism - Homo sapiens (human),isPartOf,reactome,R-HSA-71291,Metabolism of amino acids and derivatives
+kegg,path:hsa04060,Cytokine-cytokine receptor interaction - Homo sapiens (human),isPartOf,reactome,R-HSA-1280215,Cytokine Signaling in Immune system
+kegg,path:hsa04060,Cytokine-cytokine receptor interaction - Homo sapiens (human),isPartOf,reactome,R-HSA-168256,Immune System
+reactome,R-HSA-6788467,IL-6-type cytokine receptor ligand interactions,isPartOf,kegg,path:hsa04060,Cytokine-cytokine receptor interaction - Homo sapiens (human)
+reactome,R-HSA-5669034,TNFs bind their physiological receptors,isPartOf,kegg,path:hsa04060,Cytokine-cytokine receptor interaction - Homo sapiens (human)
+reactome,R-HSA-380108,Chemokine receptors bind chemokines,isPartOf,kegg,path:hsa04060,Cytokine-cytokine receptor interaction - Homo sapiens (human)
+kegg,path:hsa04060,Cytokine-cytokine receptor interaction - Homo sapiens (human),isPartOf,reactome,R-HSA-5632681,Ligand-receptor interactions
+kegg,path:hsa04623,Cytosolic DNA-sensing pathway - Homo sapiens (human),isPartOf,reactome,R-HSA-1834949,Cytosolic sensors of pathogen-associated DNA
+kegg,path:hsa00472,D-Arginine and D-ornithine metabolism - Homo sapiens (human),isPartOf,reactome,R-HSA-1430728,Metabolism
+kegg,path:hsa00472,D-Arginine and D-ornithine metabolism - Homo sapiens (human),isPartOf,reactome,R-HSA-71291,Metabolism of amino acids and derivatives
+kegg,path:hsa00471,D-Glutamine and D-glutamate metabolism - Homo sapiens (human),isPartOf,reactome,R-HSA-71291,Metabolism of amino acids and derivatives
+kegg,path:hsa00471,D-Glutamine and D-glutamate metabolism - Homo sapiens (human),isPartOf,reactome,R-HSA-1430728,Metabolism
+kegg,path:hsa00471,D-Glutamine and D-glutamate metabolism - Homo sapiens (human),isPartOf,reactome,R-HSA-70614,Amino acid synthesis and interconversion (transamination)
+kegg,path:hsa03030,DNA replication - Homo sapiens (human),equivalentTo,reactome,R-HSA-69306,DNA Replication
+reactome,R-HSA-390651,Dopamine receptors,isPartOf,kegg,path:hsa04728,Dopaminergic synapse - Homo sapiens (human)
+reactome,R-HSA-379397,Enzymatic degradation of dopamine by COMT,isPartOf,kegg,path:hsa04728,Dopaminergic synapse - Homo sapiens (human)
+reactome,R-HSA-399710,Activation of AMPA receptors,isPartOf,kegg,path:hsa04728,Dopaminergic synapse - Homo sapiens (human)
+reactome,R-HSA-379398,Enzymatic degradation of Dopamine by monoamine oxidase,isPartOf,kegg,path:hsa04728,Dopaminergic synapse - Homo sapiens (human)
+reactome,R-HSA-141333,Biogenic amines are oxidatively deaminated to aldehydes by MAOA and MAOB,isPartOf,kegg,path:hsa04728,Dopaminergic synapse - Homo sapiens (human)
+reactome,R-HSA-379401,Dopamine clearance from the synaptic cleft,isPartOf,kegg,path:hsa04728,Dopaminergic synapse - Homo sapiens (human)
+reactome,R-HSA-71384,Ethanol oxidation,isPartOf,kegg,path:hsa00982,Drug metabolism - cytochrome P450 - Homo sapiens (human)
+reactome,R-HSA-141333,Biogenic amines are oxidatively deaminated to aldehydes by MAOA and MAOB,isPartOf,kegg,path:hsa00982,Drug metabolism - cytochrome P450 - Homo sapiens (human)
+kegg,path:hsa00982,Drug metabolism - cytochrome P450 - Homo sapiens (human),isPartOf,reactome,R-HSA-1430728,Metabolism
+reactome,R-HSA-211999,CYP2E1 reactions,isPartOf,kegg,path:hsa00982,Drug metabolism - cytochrome P450 - Homo sapiens (human)
+kegg,path:hsa00983,Drug metabolism - other enzymes - Homo sapiens (human),isPartOf,reactome,R-HSA-1430728,Metabolism
+reactome,R-HSA-3000178,ECM proteoglycans,isPartOf,kegg,path:hsa04512,ECM-receptor interaction - Homo sapiens (human)
+kegg,path:hsa04512,ECM-receptor interaction - Homo sapiens (human),isPartOf,reactome,R-HSA-1474244,Extracellular matrix organization
+reactome,R-HSA-3000157,Laminin interactions,isPartOf,kegg,path:hsa04512,ECM-receptor interaction - Homo sapiens (human)
+reactome,R-HSA-917729,Endosomal Sorting Complex Required For Transport (ESCRT),isPartOf,kegg,path:hsa04144,Endocytosis - Homo sapiens (human)
+reactome,R-HSA-8856825,Cargo recognition for clathrin-mediated endocytosis,isPartOf,kegg,path:hsa04144,Endocytosis - Homo sapiens (human)
+reactome,R-HSA-8856828,Clathrin-mediated endocytosis,isPartOf,kegg,path:hsa04144,Endocytosis - Homo sapiens (human)
+reactome,R-HSA-1250342,PI3K events in ERBB4 signaling,isPartOf,kegg,path:hsa04012,ErbB signaling pathway - Homo sapiens (human)
+reactome,R-HSA-1236394,Signaling by ERBB4,isPartOf,kegg,path:hsa04012,ErbB signaling pathway - Homo sapiens (human)
+reactome,R-HSA-1963640,GRB2 events in ERBB2 signaling,isPartOf,kegg,path:hsa04012,ErbB signaling pathway - Homo sapiens (human)
+reactome,R-HSA-6785631,ERBB2 Regulates Cell Motility,isPartOf,kegg,path:hsa04012,ErbB signaling pathway - Homo sapiens (human)
+reactome,R-HSA-1963642,PI3K events in ERBB2 signaling,isPartOf,kegg,path:hsa04012,ErbB signaling pathway - Homo sapiens (human)
+reactome,R-HSA-8847993,ERBB2 Activates PTK6 Signaling,isPartOf,kegg,path:hsa04012,ErbB signaling pathway - Homo sapiens (human)
+reactome,R-HSA-1306955,GRB7 events in ERBB2 signaling,isPartOf,kegg,path:hsa04012,ErbB signaling pathway - Homo sapiens (human)
+reactome,R-HSA-1358803,Downregulation of ERBB2:ERBB3 signaling,isPartOf,kegg,path:hsa04012,ErbB signaling pathway - Homo sapiens (human)
+reactome,R-HSA-1253288,Downregulation of ERBB4 signaling,isPartOf,kegg,path:hsa04012,ErbB signaling pathway - Homo sapiens (human)
+reactome,R-HSA-8863795,Downregulation of ERBB2 signaling,isPartOf,kegg,path:hsa04012,ErbB signaling pathway - Homo sapiens (human)
+reactome,R-HSA-1250347,SHC1 events in ERBB4 signaling,isPartOf,kegg,path:hsa04012,ErbB signaling pathway - Homo sapiens (human)
+reactome,R-HSA-1227986,Signaling by ERBB2,isPartOf,kegg,path:hsa04012,ErbB signaling pathway - Homo sapiens (human)
+reactome,R-HSA-1251985,Nuclear signaling by ERBB4,isPartOf,kegg,path:hsa04012,ErbB signaling pathway - Homo sapiens (human)
+reactome,R-HSA-1250196,SHC1 events in ERBB2 signaling,isPartOf,kegg,path:hsa04012,ErbB signaling pathway - Homo sapiens (human)
+reactome,R-HSA-1251932,PLCG1 events in ERBB2 signaling,isPartOf,kegg,path:hsa04012,ErbB signaling pathway - Homo sapiens (human)
+kegg,path:hsa00565,Ether lipid metabolism - Homo sapiens (human),isPartOf,reactome,R-HSA-556833,Metabolism of lipids
+reactome,R-HSA-1483257,Phospholipid metabolism,isPartOf,kegg,path:hsa00565,Ether lipid metabolism - Homo sapiens (human)
+kegg,path:hsa00565,Ether lipid metabolism - Homo sapiens (human),isPartOf,reactome,R-HSA-1430728,Metabolism
+kegg,path:hsa03460,Fanconi anemia pathway - Homo sapiens (human),equivalentTo,reactome,R-HSA-6783310,Fanconi Anemia Pathway
+reactome,R-HSA-192456,Digestion of dietary lipid,isPartOf,kegg,path:hsa04975,Fat digestion and absorption - Homo sapiens (human)
+reactome,R-HSA-8963678,Intestinal lipid absorption,isPartOf,kegg,path:hsa04975,Fat digestion and absorption - Homo sapiens (human)
+kegg,path:hsa04975,Fat digestion and absorption - Homo sapiens (human),isPartOf,reactome,R-HSA-8963676,Intestinal absorption
+kegg,path:hsa04975,Fat digestion and absorption - Homo sapiens (human),isPartOf,reactome,R-HSA-8963743,Digestion and absorption
+kegg,path:hsa00061,Fatty acid biosynthesis - Homo sapiens (human),isPartOf,reactome,R-HSA-1430728,Metabolism
+reactome,R-HSA-75105,Fatty acyl-CoA biosynthesis,isPartOf,kegg,path:hsa00061,Fatty acid biosynthesis - Homo sapiens (human)
+reactome,R-HSA-77346,Beta oxidation of decanoyl-CoA to octanoyl-CoA-CoA,isPartOf,kegg,path:hsa00071,Fatty acid degradation - Homo sapiens (human)
+reactome,R-HSA-77350,Beta oxidation of hexanoyl-CoA to butanoyl-CoA,isPartOf,kegg,path:hsa00071,Fatty acid degradation - Homo sapiens (human)
+reactome,R-HSA-77348,Beta oxidation of octanoyl-CoA to hexanoyl-CoA,isPartOf,kegg,path:hsa00071,Fatty acid degradation - Homo sapiens (human)
+kegg,path:hsa00071,Fatty acid degradation - Homo sapiens (human),isPartOf,reactome,R-HSA-556833,Metabolism of lipids
+reactome,R-HSA-77286,mitochondrial fatty acid beta-oxidation of saturated fatty acids,isPartOf,kegg,path:hsa00071,Fatty acid degradation - Homo sapiens (human)
+kegg,path:hsa00071,Fatty acid degradation - Homo sapiens (human),isPartOf,reactome,R-HSA-8978868,Fatty acid metabolism
+kegg,path:hsa00071,Fatty acid degradation - Homo sapiens (human),isPartOf,reactome,R-HSA-1430728,Metabolism
+reactome,R-HSA-77285,Beta oxidation of myristoyl-CoA to lauroyl-CoA,isPartOf,kegg,path:hsa00071,Fatty acid degradation - Homo sapiens (human)
+reactome,R-HSA-77288,mitochondrial fatty acid beta-oxidation of unsaturated fatty acids,isPartOf,kegg,path:hsa00071,Fatty acid degradation - Homo sapiens (human)
+reactome,R-HSA-77310,Beta oxidation of lauroyl-CoA to decanoyl-CoA-CoA,isPartOf,kegg,path:hsa00071,Fatty acid degradation - Homo sapiens (human)
+reactome,R-HSA-77305,Beta oxidation of palmitoyl-CoA to myristoyl-CoA,isPartOf,kegg,path:hsa00071,Fatty acid degradation - Homo sapiens (human)
+kegg,path:hsa00062,Fatty acid elongation - Homo sapiens (human),isPartOf,reactome,R-HSA-1430728,Metabolism
+kegg,path:hsa00062,Fatty acid elongation - Homo sapiens (human),isPartOf,reactome,R-HSA-556833,Metabolism of lipids
+kegg,path:hsa00062,Fatty acid elongation - Homo sapiens (human),isPartOf,reactome,R-HSA-8978868,Fatty acid metabolism
+kegg,path:hsa00062,Fatty acid elongation - Homo sapiens (human),isPartOf,reactome,R-HSA-211935,Fatty acids
+kegg,path:hsa01212,Fatty acid metabolism - Homo sapiens (human),equivalentTo,reactome,R-HSA-8978868,Fatty acid metabolism
+kegg,path:hsa01212,Fatty acid metabolism - Homo sapiens (human),isPartOf,reactome,R-HSA-556833,Metabolism of lipids
+kegg,path:hsa01212,Fatty acid metabolism - Homo sapiens (human),isPartOf,reactome,R-HSA-1430728,Metabolism
+kegg,path:hsa04664,Fc epsilon RI signaling pathway - Homo sapiens (human),equivalentTo,reactome,R-HSA-2454202,Fc epsilon receptor (FCERI) signaling
+reactome,R-HSA-111995,phospho-PLA2 pathway,isPartOf,kegg,path:hsa04664,Fc epsilon RI signaling pathway - Homo sapiens (human)
+reactome,R-HSA-2454202,Fc epsilon receptor (FCERI) signaling,isPartOf,kegg,path:hsa04664,Fc epsilon RI signaling pathway - Homo sapiens (human)
+kegg,path:hsa04666,Fc gamma R-mediated phagocytosis - Homo sapiens (human),equivalentTo,reactome,R-HSA-2029480,Fcgamma receptor (FCGR) dependent phagocytosis
+reactome,R-HSA-5619048,"Defective SLC11A2 causes hypochromic microcytic anemia, with iron overload 1 (AHMIO1)",isPartOf,kegg,path:hsa04216,Ferroptosis - Homo sapiens (human)
+reactome,R-HSA-5578999,Defective GCLC causes Hemolytic anemia due to gamma-glutamylcysteine synthetase deficiency (HAGGSD),isPartOf,kegg,path:hsa04216,Ferroptosis - Homo sapiens (human)
+reactome,R-HSA-3000157,Laminin interactions,isPartOf,kegg,path:hsa04510,Focal adhesion - Homo sapiens (human)
+reactome,R-HSA-446343,Localization of the PINCH-ILK-PARVIN complex to focal adhesions,isPartOf,kegg,path:hsa04510,Focal adhesion - Homo sapiens (human)
+reactome,R-HSA-9006921,Integrin signaling,isPartOf,kegg,path:hsa04510,Focal adhesion - Homo sapiens (human)
+reactome,R-HSA-3000171,Non-integrin membrane-ECM interactions,isPartOf,kegg,path:hsa04510,Focal adhesion - Homo sapiens (human)
+reactome,R-HSA-354192,Integrin alphaIIb beta3 signaling,isPartOf,kegg,path:hsa04510,Focal adhesion - Homo sapiens (human)
+kegg,path:hsa00790,Folate biosynthesis - Homo sapiens (human),isPartOf,reactome,R-HSA-1430728,Metabolism
+reactome,R-HSA-947581,Molybdenum cofactor biosynthesis,isPartOf,kegg,path:hsa00790,Folate biosynthesis - Homo sapiens (human)
+kegg,path:hsa00790,Folate biosynthesis - Homo sapiens (human),isPartOf,reactome,R-HSA-196849,Metabolism of water-soluble vitamins and cofactors
+kegg,path:hsa00790,Folate biosynthesis - Homo sapiens (human),isPartOf,reactome,R-HSA-196854,Metabolism of vitamins and cofactors
+kegg,path:hsa00790,Folate biosynthesis - Homo sapiens (human),isPartOf,reactome,R-HSA-1430728,Metabolism
+reactome,R-HSA-211163,AKT-mediated inactivation of FOXO1A,isPartOf,kegg,path:hsa04068,FoxO signaling pathway - Homo sapiens (human)
+reactome,R-HSA-5652227,Fructose biosynthesis,isPartOf,kegg,path:hsa00051,Fructose and mannose metabolism - Homo sapiens (human)
+reactome,R-HSA-446205,Synthesis of GDP-mannose,isPartOf,kegg,path:hsa00051,Fructose and mannose metabolism - Homo sapiens (human)
+kegg,path:hsa00051,Fructose and mannose metabolism - Homo sapiens (human),isPartOf,reactome,R-HSA-1430728,Metabolism
+reactome,R-HSA-70350,Fructose catabolism,isPartOf,kegg,path:hsa00051,Fructose and mannose metabolism - Homo sapiens (human)
+reactome,R-HSA-5652084,Fructose metabolism,isPartOf,kegg,path:hsa00051,Fructose and mannose metabolism - Homo sapiens (human)
+reactome,R-HSA-977443,GABA receptor activation,isPartOf,kegg,path:hsa04727,GABAergic synapse - Homo sapiens (human)
+reactome,R-HSA-977444,GABA B receptor activation,isPartOf,kegg,path:hsa04727,GABAergic synapse - Homo sapiens (human)
+reactome,R-HSA-977442,GABA A (rho) receptor activation,isPartOf,kegg,path:hsa04727,GABAergic synapse - Homo sapiens (human)
+reactome,R-HSA-977441,GABA A receptor activation,isPartOf,kegg,path:hsa04727,GABAergic synapse - Homo sapiens (human)
+reactome,R-HSA-70370,Galactose catabolism,isPartOf,kegg,path:hsa00052,Galactose metabolism - Homo sapiens (human)
+reactome,R-HSA-190873,Gap junction degradation,isPartOf,kegg,path:hsa04540,Gap junction - Homo sapiens (human)
+reactome,R-HSA-191647,c-src mediated regulation of Cx43 function and closure of gap junctions,isPartOf,kegg,path:hsa04540,Gap junction - Homo sapiens (human)
+reactome,R-HSA-190828,Gap junction trafficking,isPartOf,kegg,path:hsa04540,Gap junction - Homo sapiens (human)
+reactome,R-HSA-196025,Formation of annular gap junctions,isPartOf,kegg,path:hsa04540,Gap junction - Homo sapiens (human)
+reactome,R-HSA-190861,Gap junction assembly,isPartOf,kegg,path:hsa04540,Gap junction - Homo sapiens (human)
+reactome,R-HSA-157858,Gap junction trafficking and regulation,isPartOf,kegg,path:hsa04540,Gap junction - Homo sapiens (human)
+reactome,R-HSA-191650,Regulation of gap junction activity,isPartOf,kegg,path:hsa04540,Gap junction - Homo sapiens (human)
+kegg,path:hsa04922,Glucagon signaling pathway - Homo sapiens (human),equivalentTo,reactome,R-HSA-163359,Glucagon signaling in metabolic regulation
+reactome,R-HSA-451326,Activation of kainate receptors upon glutamate binding,isPartOf,kegg,path:hsa04724,Glutamatergic synapse - Homo sapiens (human)
+kegg,path:hsa04724,Glutamatergic synapse - Homo sapiens (human),isPartOf,reactome,R-HSA-112313,Neurotransmitter uptake and metabolism In glial cells
+reactome,R-HSA-438066,"Unblocking of NMDA receptor, glutamate binding and activation",isPartOf,kegg,path:hsa04724,Glutamatergic synapse - Homo sapiens (human)
+reactome,R-HSA-399710,Activation of AMPA receptors,isPartOf,kegg,path:hsa04724,Glutamatergic synapse - Homo sapiens (human)
+reactome,R-HSA-500657,Presynaptic function of Kainate receptors,isPartOf,kegg,path:hsa04724,Glutamatergic synapse - Homo sapiens (human)
+reactome,R-HSA-210500,Glutamate Neurotransmitter Release Cycle,isPartOf,kegg,path:hsa04724,Glutamatergic synapse - Homo sapiens (human)
+reactome,R-HSA-112313,Neurotransmitter uptake and metabolism In glial cells,isPartOf,kegg,path:hsa04724,Glutamatergic synapse - Homo sapiens (human)
+kegg,path:hsa00480,Glutathione metabolism - Homo sapiens (human),equivalentTo,reactome,R-HSA-174403,Glutathione synthesis and recycling
+kegg,path:hsa00561,Glycerolipid metabolism - Homo sapiens (human),isPartOf,reactome,R-HSA-556833,Metabolism of lipids
+kegg,path:hsa00561,Glycerolipid metabolism - Homo sapiens (human),isPartOf,reactome,R-HSA-1430728,Metabolism
+reactome,R-HSA-1482883,Acyl chain remodeling of DAG and TAG,isPartOf,kegg,path:hsa00561,Glycerolipid metabolism - Homo sapiens (human)
+reactome,R-HSA-6814848,Glycerophospholipid catabolism,isPartOf,kegg,path:hsa00561,Glycerolipid metabolism - Homo sapiens (human)
+reactome,R-HSA-1482922,Acyl chain remodelling of PI,isPartOf,kegg,path:hsa00564,Glycerophospholipid metabolism - Homo sapiens (human)
+reactome,R-HSA-1483101,Synthesis of PS,isPartOf,kegg,path:hsa00564,Glycerophospholipid metabolism - Homo sapiens (human)
+kegg,path:hsa00564,Glycerophospholipid metabolism - Homo sapiens (human),isPartOf,reactome,R-HSA-556833,Metabolism of lipids
+reactome,R-HSA-1483213,Synthesis of PE,isPartOf,kegg,path:hsa00564,Glycerophospholipid metabolism - Homo sapiens (human)
+reactome,R-HSA-1483206,Glycerophospholipid biosynthesis,isPartOf,kegg,path:hsa00564,Glycerophospholipid metabolism - Homo sapiens (human)
+kegg,path:hsa00564,Glycerophospholipid metabolism - Homo sapiens (human),isPartOf,reactome,R-HSA-1430728,Metabolism
+reactome,R-HSA-192456,Digestion of dietary lipid,isPartOf,kegg,path:hsa00564,Glycerophospholipid metabolism - Homo sapiens (human)
+reactome,R-HSA-6814848,Glycerophospholipid catabolism,isPartOf,kegg,path:hsa00564,Glycerophospholipid metabolism - Homo sapiens (human)
+reactome,R-HSA-1482788,Acyl chain remodelling of PC,isPartOf,kegg,path:hsa00564,Glycerophospholipid metabolism - Homo sapiens (human)
+kegg,path:hsa00260,"Glycine, serine and threonine metabolism - Homo sapiens (human)",isPartOf,reactome,R-HSA-1430728,Metabolism
+kegg,path:hsa00260,"Glycine, serine and threonine metabolism - Homo sapiens (human)",isPartOf,reactome,R-HSA-140179,Amine Oxidase reactions
+reactome,R-HSA-6783984,Glycine degradation,isPartOf,kegg,path:hsa00260,"Glycine, serine and threonine metabolism - Homo sapiens (human)"
+kegg,path:hsa00260,"Glycine, serine and threonine metabolism - Homo sapiens (human)",isPartOf,reactome,R-HSA-70614,Amino acid synthesis and interconversion (transamination)
+kegg,path:hsa00260,"Glycine, serine and threonine metabolism - Homo sapiens (human)",isPartOf,reactome,R-HSA-71291,Metabolism of amino acids and derivatives
+kegg,path:hsa00010,Glycolysis / Gluconeogenesis - Homo sapiens (human),isPartOf,reactome,R-HSA-70326,Glucose metabolism
+reactome,R-HSA-70263,Gluconeogenesis,isPartOf,kegg,path:hsa00010,Glycolysis / Gluconeogenesis - Homo sapiens (human)
+kegg,path:hsa00010,Glycolysis / Gluconeogenesis - Homo sapiens (human),isPartOf,reactome,R-HSA-1430728,Metabolism
+kegg,path:hsa00010,Glycolysis / Gluconeogenesis - Homo sapiens (human),isPartOf,reactome,R-HSA-71387,Metabolism of carbohydrates
+reactome,R-HSA-70171,Glycolysis,isPartOf,kegg,path:hsa00010,Glycolysis / Gluconeogenesis - Homo sapiens (human)
+kegg,path:hsa00532,Glycosaminoglycan biosynthesis - chondroitin sulfate / dermatan sulfate - Homo sapiens (human),isPartOf,reactome,R-HSA-1430728,Metabolism
+reactome,R-HSA-2022870,Chondroitin sulfate biosynthesis,isPartOf,kegg,path:hsa00532,Glycosaminoglycan biosynthesis - chondroitin sulfate / dermatan sulfate - Homo sapiens (human)
+reactome,R-HSA-1630316,Glycosaminoglycan metabolism,isPartOf,kegg,path:hsa00532,Glycosaminoglycan biosynthesis - chondroitin sulfate / dermatan sulfate - Homo sapiens (human)
+reactome,R-HSA-1793185,Chondroitin sulfate/dermatan sulfate metabolism,isPartOf,kegg,path:hsa00532,Glycosaminoglycan biosynthesis - chondroitin sulfate / dermatan sulfate - Homo sapiens (human)
+reactome,R-HSA-2022923,Dermatan sulfate biosynthesis,isPartOf,kegg,path:hsa00532,Glycosaminoglycan biosynthesis - chondroitin sulfate / dermatan sulfate - Homo sapiens (human)
+kegg,path:hsa00534,Glycosaminoglycan biosynthesis - heparan sulfate / heparin - Homo sapiens (human),isPartOf,reactome,R-HSA-1430728,Metabolism
+kegg,path:hsa00534,Glycosaminoglycan biosynthesis - heparan sulfate / heparin - Homo sapiens (human),isPartOf,reactome,R-HSA-1630316,Glycosaminoglycan metabolism
+reactome,R-HSA-1638091,Heparan sulfate/heparin (HS-GAG) metabolism,isPartOf,kegg,path:hsa00534,Glycosaminoglycan biosynthesis - heparan sulfate / heparin - Homo sapiens (human)
+kegg,path:hsa00533,Glycosaminoglycan biosynthesis - keratan sulfate - Homo sapiens (human),isPartOf,reactome,R-HSA-1630316,Glycosaminoglycan metabolism
+kegg,path:hsa00533,Glycosaminoglycan biosynthesis - keratan sulfate - Homo sapiens (human),isPartOf,reactome,R-HSA-1430728,Metabolism
+reactome,R-HSA-2022854,Keratan sulfate biosynthesis,isPartOf,kegg,path:hsa00533,Glycosaminoglycan biosynthesis - keratan sulfate - Homo sapiens (human)
+kegg,path:hsa00531,Glycosaminoglycan degradation - Homo sapiens (human),isPartOf,reactome,R-HSA-1430728,Metabolism
+kegg,path:hsa00531,Glycosaminoglycan degradation - Homo sapiens (human),isPartOf,reactome,R-HSA-1630316,Glycosaminoglycan metabolism
+kegg,path:hsa00603,Glycosphingolipid biosynthesis - globo and isoglobo series - Homo sapiens (human),isPartOf,reactome,R-HSA-428157,Sphingolipid metabolism
+kegg,path:hsa00603,Glycosphingolipid biosynthesis - globo and isoglobo series - Homo sapiens (human),isPartOf,reactome,R-HSA-1660662,Glycosphingolipid metabolism
+kegg,path:hsa00603,Glycosphingolipid biosynthesis - globo and isoglobo series - Homo sapiens (human),isPartOf,reactome,R-HSA-556833,Metabolism of lipids
+kegg,path:hsa00601,Glycosphingolipid biosynthesis - lacto and neolacto series - Homo sapiens (human),isPartOf,reactome,R-HSA-556833,Metabolism of lipids
+kegg,path:hsa00601,Glycosphingolipid biosynthesis - lacto and neolacto series - Homo sapiens (human),isPartOf,reactome,R-HSA-1660662,Glycosphingolipid metabolism
+kegg,path:hsa00601,Glycosphingolipid biosynthesis - lacto and neolacto series - Homo sapiens (human),isPartOf,reactome,R-HSA-428157,Sphingolipid metabolism
+kegg,path:hsa00563,Glycosylphosphatidylinositol (GPI)-anchor biosynthesis - Homo sapiens (human),equivalentTo,reactome,R-HSA-162710,Synthesis of glycosylphosphatidylinositol (GPI)
+reactome,R-HSA-162710,Synthesis of glycosylphosphatidylinositol (GPI),isPartOf,kegg,path:hsa00563,Glycosylphosphatidylinositol (GPI)-anchor biosynthesis - Homo sapiens (human)
+reactome,R-HSA-163125,Post-translational modification: synthesis of GPI-anchored proteins,isPartOf,kegg,path:hsa00563,Glycosylphosphatidylinositol (GPI)-anchor biosynthesis - Homo sapiens (human)
+reactome,R-HSA-389661,Glyoxylate metabolism and glycine degradation,isPartOf,kegg,path:hsa00630,Glyoxylate and dicarboxylate metabolism - Homo sapiens (human)
+kegg,path:hsa00630,Glyoxylate and dicarboxylate metabolism - Homo sapiens (human),isPartOf,reactome,R-HSA-1430728,Metabolism
+kegg,path:hsa00630,Glyoxylate and dicarboxylate metabolism - Homo sapiens (human),isPartOf,reactome,R-HSA-71291,Metabolism of amino acids and derivatives
+kegg,path:hsa05332,Graft-versus-host disease - Homo sapiens (human),isPartOf,reactome,R-HSA-1280218,Adaptive Immune System
+kegg,path:hsa05332,Graft-versus-host disease - Homo sapiens (human),isPartOf,reactome,R-HSA-168256,Immune System
+kegg,path:hsa04340,Hedgehog signaling pathway - Homo sapiens (human),equivalentTo,reactome,R-HSA-5358351,Signaling by Hedgehog
+reactome,R-HSA-5632684,Hedgehog 'on' state,isPartOf,kegg,path:hsa04340,Hedgehog signaling pathway - Homo sapiens (human)
+reactome,R-HSA-5358346,Hedgehog ligand biogenesis,isPartOf,kegg,path:hsa04340,Hedgehog signaling pathway - Homo sapiens (human)
+reactome,R-HSA-5358351,Signaling by Hedgehog,isPartOf,kegg,path:hsa04340,Hedgehog signaling pathway - Homo sapiens (human)
+reactome,R-HSA-5610787,Hedgehog 'off' state,isPartOf,kegg,path:hsa04340,Hedgehog signaling pathway - Homo sapiens (human)
+kegg,path:hsa04390,Hippo signaling pathway - Homo sapiens (human),equivalentTo,reactome,R-HSA-2028269,Signaling by Hippo
+kegg,path:hsa04392,Hippo signaling pathway - multiple species - Homo sapiens (human),equivalentTo,reactome,R-HSA-2028269,Signaling by Hippo
+kegg,path:hsa00340,Histidine metabolism - Homo sapiens (human),isPartOf,reactome,R-HSA-6788656,"Histidine, lysine, phenylalanine, tyrosine, proline and tryptophan catabolism"
+kegg,path:hsa00340,Histidine metabolism - Homo sapiens (human),isPartOf,reactome,R-HSA-1430728,Metabolism
+kegg,path:hsa00340,Histidine metabolism - Homo sapiens (human),isPartOf,reactome,R-HSA-140179,Amine Oxidase reactions
+kegg,path:hsa00340,Histidine metabolism - Homo sapiens (human),isPartOf,reactome,R-HSA-71291,Metabolism of amino acids and derivatives
+reactome,R-HSA-70921,Histidine catabolism,isPartOf,kegg,path:hsa00340,Histidine metabolism - Homo sapiens (human)
+reactome,R-HSA-5693538,Homology Directed Repair,isPartOf,kegg,path:hsa03440,Homologous recombination - Homo sapiens (human)
+kegg,path:hsa04657,IL-17 signaling pathway - Homo sapiens (human),equivalentTo,reactome,R-HSA-448424,Interleukin-17 signaling
+kegg,path:hsa04657,IL-17 signaling pathway - Homo sapiens (human),isPartOf,reactome,R-HSA-1280215,Cytokine Signaling in Immune system
+kegg,path:hsa04657,IL-17 signaling pathway - Homo sapiens (human),isPartOf,reactome,R-HSA-449147,Signaling by Interleukins
+kegg,path:hsa04657,IL-17 signaling pathway - Homo sapiens (human),isPartOf,reactome,R-HSA-168256,Immune System
+reactome,R-HSA-168277,Influenza Virus Induced Apoptosis,isPartOf,kegg,path:hsa05164,Influenza A - Homo sapiens (human)
+reactome,R-HSA-168255,Influenza Life Cycle,isPartOf,kegg,path:hsa05164,Influenza A - Homo sapiens (human)
+kegg,path:hsa05164,Influenza A - Homo sapiens (human),isPartOf,reactome,R-HSA-168255,Influenza Life Cycle
+kegg,path:hsa05164,Influenza A - Homo sapiens (human),isPartOf,reactome,R-HSA-168254,Influenza Infection
+reactome,R-HSA-168254,Influenza Infection,isPartOf,kegg,path:hsa05164,Influenza A - Homo sapiens (human)
+kegg,path:hsa00562,Inositol phosphate metabolism - Homo sapiens (human),equivalentTo,reactome,R-HSA-1483249,Inositol phosphate metabolism
+kegg,path:hsa04911,Insulin secretion - Homo sapiens (human),equivalentTo,reactome,R-HSA-422356,Regulation of insulin secretion
+reactome,R-HSA-74752,Signaling by Insulin receptor,isPartOf,kegg,path:hsa04910,Insulin signaling pathway - Homo sapiens (human)
+reactome,R-HSA-74751,Insulin receptor signalling cascade,isPartOf,kegg,path:hsa04910,Insulin signaling pathway - Homo sapiens (human)
+kegg,path:hsa04672,Intestinal immune network for IgA production - Homo sapiens (human),isPartOf,reactome,R-HSA-168256,Immune System
+kegg,path:hsa04672,Intestinal immune network for IgA production - Homo sapiens (human),isPartOf,reactome,R-HSA-1280218,Adaptive Immune System
+reactome,R-HSA-877312,Regulation of IFNG signaling,isPartOf,kegg,path:hsa04630,Jak-STAT signaling pathway - Homo sapiens (human)
+reactome,R-HSA-9020958,Interleukin-21 signaling,isPartOf,kegg,path:hsa04630,Jak-STAT signaling pathway - Homo sapiens (human)
+reactome,R-HSA-8983432,Interleukin-15 signaling,isPartOf,kegg,path:hsa04630,Jak-STAT signaling pathway - Homo sapiens (human)
+reactome,R-HSA-8985947,Interleukin-9 signaling,isPartOf,kegg,path:hsa04630,Jak-STAT signaling pathway - Homo sapiens (human)
+reactome,R-HSA-1059683,Interleukin-6 signaling,isPartOf,kegg,path:hsa04630,Jak-STAT signaling pathway - Homo sapiens (human)
+reactome,R-HSA-8950505,Gene and protein expression by JAK-STAT signaling after Interleukin-12 stimulation,isPartOf,kegg,path:hsa04630,Jak-STAT signaling pathway - Homo sapiens (human)
+reactome,R-HSA-9020933,Interleukin-23 signaling,isPartOf,kegg,path:hsa04630,Jak-STAT signaling pathway - Homo sapiens (human)
+kegg,path:hsa00591,Linoleic acid metabolism - Homo sapiens (human),equivalentTo,reactome,R-HSA-2046105,Linoleic acid (LA) metabolism
+kegg,path:hsa00591,Linoleic acid metabolism - Homo sapiens (human),isPartOf,reactome,R-HSA-1430728,Metabolism
+kegg,path:hsa00591,Linoleic acid metabolism - Homo sapiens (human),isPartOf,reactome,R-HSA-556833,Metabolism of lipids
+kegg,path:hsa00785,Lipoic acid metabolism - Homo sapiens (human),isPartOf,reactome,R-HSA-8978868,Fatty acid metabolism
+kegg,path:hsa00785,Lipoic acid metabolism - Homo sapiens (human),isPartOf,reactome,R-HSA-1430728,Metabolism
+kegg,path:hsa00310,Lysine degradation - Homo sapiens (human),equivalentTo,reactome,R-HSA-71064,Lysine catabolism
+reactome,R-HSA-8853383,Lysosomal oligosaccharide catabolism,isPartOf,kegg,path:hsa04142,Lysosome - Homo sapiens (human)
+reactome,R-HSA-432720,Lysosome Vesicle Biogenesis,isPartOf,kegg,path:hsa04142,Lysosome - Homo sapiens (human)
+kegg,path:hsa04010,MAPK signaling pathway - Homo sapiens (human),equivalentTo,reactome,R-HSA-5683057,MAPK family signaling cascades
+reactome,R-HSA-198753,ERK/MAPK targets,isPartOf,kegg,path:hsa04010,MAPK signaling pathway - Homo sapiens (human)
+reactome,R-HSA-5684996,MAPK1/MAPK3 signaling,isPartOf,kegg,path:hsa04010,MAPK signaling pathway - Homo sapiens (human)
+reactome,R-HSA-5675221,Negative regulation of MAPK pathway,isPartOf,kegg,path:hsa04010,MAPK signaling pathway - Homo sapiens (human)
+reactome,R-HSA-5674499,Negative feedback regulation of MAPK pathway,isPartOf,kegg,path:hsa04010,MAPK signaling pathway - Homo sapiens (human)
+reactome,R-HSA-450282,MAPK targets/ Nuclear events mediated by MAP kinases,isPartOf,kegg,path:hsa04010,MAPK signaling pathway - Homo sapiens (human)
+reactome,R-HSA-5684264,MAP3K8 (TPL2)-dependent MAPK1/3 activation,isPartOf,kegg,path:hsa04010,MAPK signaling pathway - Homo sapiens (human)
+reactome,R-HSA-2871796,FCERI mediated MAPK activation,isPartOf,kegg,path:hsa04010,MAPK signaling pathway - Homo sapiens (human)
+reactome,R-HSA-372708,p130Cas linkage to MAPK signaling for integrins,isPartOf,kegg,path:hsa04010,MAPK signaling pathway - Homo sapiens (human)
+reactome,R-HSA-112411,MAPK1 (ERK2) activation,isPartOf,kegg,path:hsa04010,MAPK signaling pathway - Homo sapiens (human)
+reactome,R-HSA-171007,p38MAPK events,isPartOf,kegg,path:hsa04010,MAPK signaling pathway - Homo sapiens (human)
+reactome,R-HSA-5674135,MAP2K and MAPK activation,isPartOf,kegg,path:hsa04010,MAPK signaling pathway - Homo sapiens (human)
+reactome,R-HSA-5687128,MAPK6/MAPK4 signaling,isPartOf,kegg,path:hsa04010,MAPK signaling pathway - Homo sapiens (human)
+reactome,R-HSA-450302,activated TAK1 mediates p38 MAPK activation,isPartOf,kegg,path:hsa04010,MAPK signaling pathway - Homo sapiens (human)
+reactome,R-HSA-112409,RAF-independent MAPK1/3 activation,isPartOf,kegg,path:hsa04010,MAPK signaling pathway - Homo sapiens (human)
+reactome,R-HSA-110056,MAPK3 (ERK1) activation,isPartOf,kegg,path:hsa04010,MAPK signaling pathway - Homo sapiens (human)
+reactome,R-HSA-881907,Gastrin-CREB signalling pathway via PKC and MAPK,isPartOf,kegg,path:hsa04010,MAPK signaling pathway - Homo sapiens (human)
+reactome,R-HSA-977068,Termination of O-glycan biosynthesis,isPartOf,kegg,path:hsa00515,Mannose type O-glycan biosynthesis - Homo sapiens (human)
+reactome,R-HSA-5173105,O-linked glycosylation,isPartOf,kegg,path:hsa00515,Mannose type O-glycan biosynthesis - Homo sapiens (human)
+reactome,R-HSA-5619073,Defective GCK causes maturity-onset diabetes of the young 2 (MODY2),isPartOf,kegg,path:hsa04950,Maturity onset diabetes of the young - Homo sapiens (human)
+kegg,path:hsa04916,Melanogenesis - Homo sapiens (human),equivalentTo,reactome,R-HSA-5662702,Melanin biosynthesis
+reactome,R-HSA-5662702,Melanin biosynthesis,isPartOf,kegg,path:hsa04916,Melanogenesis - Homo sapiens (human)
+kegg,path:hsa01100,Metabolic pathways - Homo sapiens (human),equivalentTo,reactome,R-HSA-1430728,Metabolism
+kegg,path:hsa00980,Metabolism of xenobiotics by cytochrome P450 - Homo sapiens (human),isPartOf,reactome,R-HSA-211981,Xenobiotics
+kegg,path:hsa04978,Mineral absorption - Homo sapiens (human),isPartOf,reactome,R-HSA-8963676,Intestinal absorption
+kegg,path:hsa04978,Mineral absorption - Homo sapiens (human),isPartOf,reactome,R-HSA-8963743,Digestion and absorption
+kegg,path:hsa04978,Mineral absorption - Homo sapiens (human),isPartOf,reactome,R-HSA-382551,Transport of small molecules
+kegg,path:hsa03430,Mismatch repair - Homo sapiens (human),equivalentTo,reactome,R-HSA-5358508,Mismatch Repair
+kegg,path:hsa04137,Mitophagy - animal - Homo sapiens (human),equivalentTo,reactome,R-HSA-5205647,Mitophagy
+reactome,R-HSA-964739,N-glycan trimming and elongation in the cis-Golgi,isPartOf,kegg,path:hsa00510,N-Glycan biosynthesis - Homo sapiens (human)
+reactome,R-HSA-975577,N-Glycan antennae elongation,isPartOf,kegg,path:hsa00510,N-Glycan biosynthesis - Homo sapiens (human)
+reactome,R-HSA-975576,N-glycan antennae elongation in the medial/trans-Golgi,isPartOf,kegg,path:hsa00510,N-Glycan biosynthesis - Homo sapiens (human)
+reactome,R-HSA-5357956,TNFR1-induced NFkappaB signaling pathway,isPartOf,kegg,path:hsa04064,NF-kappa B signaling pathway - Homo sapiens (human)
+reactome,R-HSA-209560,NF-kB is activated and signals survival,isPartOf,kegg,path:hsa04064,NF-kappa B signaling pathway - Homo sapiens (human)
+kegg,path:hsa04650,Natural killer cell mediated cytotoxicity - Homo sapiens (human),isPartOf,reactome,R-HSA-168256,Immune System
+kegg,path:hsa04217,Necroptosis - Homo sapiens (human),equivalentTo,reactome,R-HSA-5675482,Regulation of necroptotic cell death
+kegg,path:hsa00524,"Neomycin, kanamycin and gentamicin biosynthesis - Homo sapiens (human)",isPartOf,reactome,R-HSA-1430728,Metabolism
+reactome,R-HSA-205017,NFG and proNGF binds to p75NTR,isPartOf,kegg,path:hsa04722,Neurotrophin signaling pathway - Homo sapiens (human)
+kegg,path:hsa00760,Nicotinate and nicotinamide metabolism - Homo sapiens (human),isPartOf,reactome,R-HSA-1430728,Metabolism
+reactome,R-HSA-196807,Nicotinate metabolism,isPartOf,kegg,path:hsa00760,Nicotinate and nicotinamide metabolism - Homo sapiens (human)
+reactome,R-HSA-197264,Nicotinamide salvaging,isPartOf,kegg,path:hsa00760,Nicotinate and nicotinamide metabolism - Homo sapiens (human)
+kegg,path:hsa00910,Nitrogen metabolism - Homo sapiens (human),isPartOf,reactome,R-HSA-1430728,Metabolism
+kegg,path:hsa00910,Nitrogen metabolism - Homo sapiens (human),isPartOf,reactome,R-HSA-70614,Amino acid synthesis and interconversion (transamination)
+kegg,path:hsa00910,Nitrogen metabolism - Homo sapiens (human),isPartOf,reactome,R-HSA-71291,Metabolism of amino acids and derivatives
+kegg,path:hsa03450,Non-homologous end-joining - Homo sapiens (human),equivalentTo,reactome,R-HSA-5693571,Nonhomologous End-Joining (NHEJ)
+kegg,path:hsa04330,Notch signaling pathway - Homo sapiens (human),equivalentTo,reactome,R-HSA-157118,Signaling by NOTCH
+kegg,path:hsa03420,Nucleotide excision repair - Homo sapiens (human),equivalentTo,reactome,R-HSA-5696398,Nucleotide Excision Repair
+kegg,path:hsa04740,Olfactory transduction - Homo sapiens (human),equivalentTo,reactome,R-HSA-381753,Olfactory Signaling Pathway
+kegg,path:hsa00670,One carbon pool by folate - Homo sapiens (human),isPartOf,reactome,R-HSA-196757,Metabolism of folate and pterines
+kegg,path:hsa00670,One carbon pool by folate - Homo sapiens (human),isPartOf,reactome,R-HSA-1430728,Metabolism
+kegg,path:hsa00670,One carbon pool by folate - Homo sapiens (human),isPartOf,reactome,R-HSA-196854,Metabolism of vitamins and cofactors
+kegg,path:hsa00511,Other glycan degradation - Homo sapiens (human),isPartOf,reactome,R-HSA-1430728,Metabolism
+reactome,R-HSA-977068,Termination of O-glycan biosynthesis,isPartOf,kegg,path:hsa00514,Other types of O-glycan biosynthesis - Homo sapiens (human)
+reactome,R-HSA-193144,Estrogen biosynthesis,isPartOf,kegg,path:hsa04913,Ovarian steroidogenesis - Homo sapiens (human)
+reactome,R-HSA-193048,Androgen biosynthesis,isPartOf,kegg,path:hsa04913,Ovarian steroidogenesis - Homo sapiens (human)
+kegg,path:hsa04913,Ovarian steroidogenesis - Homo sapiens (human),isPartOf,reactome,R-HSA-1430728,Metabolism
+kegg,path:hsa00190,Oxidative phosphorylation - Homo sapiens (human),isPartOf,reactome,R-HSA-1430728,Metabolism
+reactome,R-HSA-71737,Pyrophosphate hydrolysis,isPartOf,kegg,path:hsa00190,Oxidative phosphorylation - Homo sapiens (human)
+kegg,path:hsa00190,Oxidative phosphorylation - Homo sapiens (human),isPartOf,reactome,R-HSA-1428517,The citric acid (TCA) cycle and respiratory electron transport
+reactome,R-HSA-163210,Formation of ATP by chemiosmotic coupling,isPartOf,kegg,path:hsa00190,Oxidative phosphorylation - Homo sapiens (human)
+kegg,path:hsa04151,PI3K-Akt signaling pathway - Homo sapiens (human),equivalentTo,reactome,R-HSA-198203,PI3K/AKT activation
+reactome,R-HSA-196783,Coenzyme A biosynthesis,isPartOf,kegg,path:hsa00770,Pantothenate and CoA biosynthesis - Homo sapiens (human)
+kegg,path:hsa00770,Pantothenate and CoA biosynthesis - Homo sapiens (human),isPartOf,reactome,R-HSA-196854,Metabolism of vitamins and cofactors
+kegg,path:hsa00770,Pantothenate and CoA biosynthesis - Homo sapiens (human),isPartOf,reactome,R-HSA-1430728,Metabolism
+reactome,R-HSA-199220,Vitamin B5 (pantothenate) metabolism,isPartOf,kegg,path:hsa00770,Pantothenate and CoA biosynthesis - Homo sapiens (human)
+reactome,R-HSA-5619081,Defective SLC6A3 causes Parkinsonism-dystonia infantile (PKDYS),isPartOf,kegg,path:hsa05012,Parkinson's disease - Homo sapiens (human)
+reactome,R-HSA-111452,Activation and oligomerization of BAK protein,isPartOf,kegg,path:hsa05200,Pathways in cancer - Homo sapiens (human)
+reactome,R-HSA-5632928,Defective Mismatch Repair Associated With MSH2,isPartOf,kegg,path:hsa05200,Pathways in cancer - Homo sapiens (human)
+reactome,R-HSA-211163,AKT-mediated inactivation of FOXO1A,isPartOf,kegg,path:hsa05200,Pathways in cancer - Homo sapiens (human)
+reactome,R-HSA-111461,Cytochrome c-mediated apoptotic response,isPartOf,kegg,path:hsa05200,Pathways in cancer - Homo sapiens (human)
+reactome,R-HSA-1169092,Activation of RAS in B cells,isPartOf,kegg,path:hsa05200,Pathways in cancer - Homo sapiens (human)
+reactome,R-HSA-5632927,Defective Mismatch Repair Associated With MSH3,isPartOf,kegg,path:hsa05200,Pathways in cancer - Homo sapiens (human)
+reactome,R-HSA-2033519,Activated point mutants of FGFR2,isPartOf,kegg,path:hsa05200,Pathways in cancer - Homo sapiens (human)
+reactome,R-HSA-5661270,Catabolism of glucuronate to xylulose-5-phosphate,isPartOf,kegg,path:hsa00040,Pentose and glucuronate interconversions - Homo sapiens (human)
+kegg,path:hsa00040,Pentose and glucuronate interconversions - Homo sapiens (human),isPartOf,reactome,R-HSA-1430728,Metabolism
+kegg,path:hsa00030,Pentose phosphate pathway - Homo sapiens (human),equivalentTo,reactome,R-HSA-71336,Pentose phosphate pathway (hexose monophosphate shunt)
+reactome,R-HSA-390918,Peroxisomal lipid metabolism,isPartOf,kegg,path:hsa04146,Peroxisome - Homo sapiens (human)
+reactome,R-HSA-389542,NADPH regeneration,isPartOf,kegg,path:hsa04146,Peroxisome - Homo sapiens (human)
+kegg,path:hsa04146,Peroxisome - Homo sapiens (human),isPartOf,reactome,R-HSA-1430728,Metabolism
+kegg,path:hsa04145,Phagosome - Homo sapiens (human),isPartOf,reactome,R-HSA-1280218,Adaptive Immune System
+reactome,R-HSA-1236974,ER-Phagosome pathway,isPartOf,kegg,path:hsa04145,Phagosome - Homo sapiens (human)
+kegg,path:hsa04145,Phagosome - Homo sapiens (human),isPartOf,reactome,R-HSA-168256,Immune System
+kegg,path:hsa04145,Phagosome - Homo sapiens (human),isPartOf,reactome,R-HSA-168249,Innate Immune System
+kegg,path:hsa00360,Phenylalanine metabolism - Homo sapiens (human),isPartOf,reactome,R-HSA-1430728,Metabolism
+kegg,path:hsa00360,Phenylalanine metabolism - Homo sapiens (human),isPartOf,reactome,R-HSA-71291,Metabolism of amino acids and derivatives
+kegg,path:hsa00360,Phenylalanine metabolism - Homo sapiens (human),isPartOf,reactome,R-HSA-70614,Amino acid synthesis and interconversion (transamination)
+kegg,path:hsa00360,Phenylalanine metabolism - Homo sapiens (human),isPartOf,reactome,R-HSA-6788656,"Histidine, lysine, phenylalanine, tyrosine, proline and tryptophan catabolism"
+kegg,path:hsa00400,"Phenylalanine, tyrosine and tryptophan biosynthesis - Homo sapiens (human)",isPartOf,reactome,R-HSA-1430728,Metabolism
+reactome,R-HSA-71182,Phenylalanine and tyrosine catabolism,isPartOf,kegg,path:hsa00400,"Phenylalanine, tyrosine and tryptophan biosynthesis - Homo sapiens (human)"
+kegg,path:hsa00400,"Phenylalanine, tyrosine and tryptophan biosynthesis - Homo sapiens (human)",isPartOf,reactome,R-HSA-71291,Metabolism of amino acids and derivatives
+kegg,path:hsa00400,"Phenylalanine, tyrosine and tryptophan biosynthesis - Homo sapiens (human)",isPartOf,reactome,R-HSA-70614,Amino acid synthesis and interconversion (transamination)
+kegg,path:hsa00400,"Phenylalanine, tyrosine and tryptophan biosynthesis - Homo sapiens (human)",isPartOf,reactome,R-HSA-6788656,"Histidine, lysine, phenylalanine, tyrosine, proline and tryptophan catabolism"
+reactome,R-HSA-8847453,Synthesis of PIPs in the nucleus,isPartOf,kegg,path:hsa04070,Phosphatidylinositol signaling system - Homo sapiens (human)
+reactome,R-HSA-1660516,Synthesis of PIPs at the early endosome membrane,isPartOf,kegg,path:hsa04070,Phosphatidylinositol signaling system - Homo sapiens (human)
+reactome,R-HSA-1660517,Synthesis of PIPs at the late endosome membrane,isPartOf,kegg,path:hsa04070,Phosphatidylinositol signaling system - Homo sapiens (human)
+reactome,R-HSA-1483249,Inositol phosphate metabolism,isPartOf,kegg,path:hsa04070,Phosphatidylinositol signaling system - Homo sapiens (human)
+reactome,R-HSA-1855204,Synthesis of IP3 and IP4 in the cytosol,isPartOf,kegg,path:hsa04070,Phosphatidylinositol signaling system - Homo sapiens (human)
+kegg,path:hsa04070,Phosphatidylinositol signaling system - Homo sapiens (human),isPartOf,reactome,R-HSA-1430728,Metabolism
+reactome,R-HSA-1483248,Synthesis of PIPs at the ER membrane,isPartOf,kegg,path:hsa04070,Phosphatidylinositol signaling system - Homo sapiens (human)
+reactome,R-HSA-1855183,"Synthesis of IP2, IP, and Ins in the cytosol",isPartOf,kegg,path:hsa04070,Phosphatidylinositol signaling system - Homo sapiens (human)
+reactome,R-HSA-1660499,Synthesis of PIPs at the plasma membrane,isPartOf,kegg,path:hsa04070,Phosphatidylinositol signaling system - Homo sapiens (human)
+reactome,R-HSA-1855191,Synthesis of IPs in the nucleus,isPartOf,kegg,path:hsa04070,Phosphatidylinositol signaling system - Homo sapiens (human)
+reactome,R-HSA-1660514,Synthesis of PIPs at the Golgi membrane,isPartOf,kegg,path:hsa04070,Phosphatidylinositol signaling system - Homo sapiens (human)
+kegg,path:hsa00440,Phosphonate and phosphinate metabolism - Homo sapiens (human),isPartOf,reactome,R-HSA-1430728,Metabolism
+kegg,path:hsa04744,Phototransduction - Homo sapiens (human),equivalentTo,reactome,R-HSA-2187338,Visual phototransduction
+reactome,R-HSA-75892,Platelet Adhesion to exposed collagen,isPartOf,kegg,path:hsa04611,Platelet activation - Homo sapiens (human)
+kegg,path:hsa00860,Porphyrin and chlorophyll metabolism - Homo sapiens (human),isPartOf,reactome,R-HSA-1430728,Metabolism
+reactome,R-HSA-189483,Heme degradation,isPartOf,kegg,path:hsa00860,Porphyrin and chlorophyll metabolism - Homo sapiens (human)
+reactome,R-HSA-189445,Metabolism of porphyrins,isPartOf,kegg,path:hsa00860,Porphyrin and chlorophyll metabolism - Homo sapiens (human)
+reactome,R-HSA-189451,Heme biosynthesis,isPartOf,kegg,path:hsa00860,Porphyrin and chlorophyll metabolism - Homo sapiens (human)
+kegg,path:hsa00120,Primary bile acid biosynthesis - Homo sapiens (human),isPartOf,reactome,R-HSA-193368,Synthesis of bile acids and bile salts via 7alpha-hydroxycholesterol
+kegg,path:hsa00120,Primary bile acid biosynthesis - Homo sapiens (human),isPartOf,reactome,R-HSA-1430728,Metabolism
+kegg,path:hsa00120,Primary bile acid biosynthesis - Homo sapiens (human),isPartOf,reactome,R-HSA-192105,Synthesis of bile acids and bile salts
+kegg,path:hsa00120,Primary bile acid biosynthesis - Homo sapiens (human),isPartOf,reactome,R-HSA-193775,Synthesis of bile acids and bile salts via 24-hydroxycholesterol
+kegg,path:hsa00120,Primary bile acid biosynthesis - Homo sapiens (human),isPartOf,reactome,R-HSA-194068,Bile acid and bile salt metabolism
+kegg,path:hsa04917,Prolactin signaling pathway - Homo sapiens (human),equivalentTo,reactome,R-HSA-1170546,Prolactin receptor signaling
+reactome,R-HSA-71032,Propionyl-CoA catabolism,isPartOf,kegg,path:hsa00640,Propanoate metabolism - Homo sapiens (human)
+kegg,path:hsa00640,Propanoate metabolism - Homo sapiens (human),isPartOf,reactome,R-HSA-1430728,Metabolism
+reactome,R-HSA-5610785,GLI3 is processed to GLI3R by the proteasome,isPartOf,kegg,path:hsa03050,Proteasome - Homo sapiens (human)
+reactome,R-HSA-5689880,Ub-specific processing proteases,isPartOf,kegg,path:hsa03050,Proteasome - Homo sapiens (human)
+reactome,R-HSA-211733,Regulation of activated PAK-2p34 by proteasome mediated degradation,isPartOf,kegg,path:hsa03050,Proteasome - Homo sapiens (human)
+kegg,path:hsa03050,Proteasome - Homo sapiens (human),isPartOf,reactome,R-HSA-392499,Metabolism of proteins
+reactome,R-HSA-5610780,Degradation of GLI1 by the proteasome,isPartOf,kegg,path:hsa03050,Proteasome - Homo sapiens (human)
+reactome,R-HSA-5610783,Degradation of GLI2 by the proteasome,isPartOf,kegg,path:hsa03050,Proteasome - Homo sapiens (human)
+reactome,R-HSA-349425,Autodegradation of the E3 ubiquitin ligase COP1,isPartOf,kegg,path:hsa03050,Proteasome - Homo sapiens (human)
+reactome,R-HSA-983168,Antigen processing: Ubiquitination & Proteasome degradation,isPartOf,kegg,path:hsa03050,Proteasome - Homo sapiens (human)
+kegg,path:hsa04974,Protein digestion and absorption - Homo sapiens (human),isPartOf,reactome,R-HSA-8963676,Intestinal absorption
+kegg,path:hsa04974,Protein digestion and absorption - Homo sapiens (human),isPartOf,reactome,R-HSA-8963743,Digestion and absorption
+kegg,path:hsa04974,Protein digestion and absorption - Homo sapiens (human),isPartOf,reactome,R-HSA-392499,Metabolism of proteins
+kegg,path:hsa04141,Protein processing in endoplasmic reticulum - Homo sapiens (human),isPartOf,reactome,R-HSA-392499,Metabolism of proteins
+reactome,R-HSA-1912399,Pre-NOTCH Processing in the Endoplasmic Reticulum,isPartOf,kegg,path:hsa04141,Protein processing in endoplasmic reticulum - Homo sapiens (human)
+kegg,path:hsa00230,Purine metabolism - Homo sapiens (human),isPartOf,reactome,R-HSA-8956319,Nucleobase catabolism
+reactome,R-HSA-74259,Purine catabolism,isPartOf,kegg,path:hsa00230,Purine metabolism - Homo sapiens (human)
+reactome,R-HSA-73817,Purine ribonucleoside monophosphate biosynthesis,isPartOf,kegg,path:hsa00230,Purine metabolism - Homo sapiens (human)
+reactome,R-HSA-74217,Purine salvage,isPartOf,kegg,path:hsa00230,Purine metabolism - Homo sapiens (human)
+kegg,path:hsa00230,Purine metabolism - Homo sapiens (human),isPartOf,reactome,R-HSA-15869,Metabolism of nucleotides
+reactome,R-HSA-73621,Pyrimidine catabolism,isPartOf,kegg,path:hsa00240,Pyrimidine metabolism - Homo sapiens (human)
+reactome,R-HSA-73614,Pyrimidine salvage,isPartOf,kegg,path:hsa00240,Pyrimidine metabolism - Homo sapiens (human)
+kegg,path:hsa00240,Pyrimidine metabolism - Homo sapiens (human),isPartOf,reactome,R-HSA-15869,Metabolism of nucleotides
+reactome,R-HSA-500753,Pyrimidine biosynthesis,isPartOf,kegg,path:hsa00240,Pyrimidine metabolism - Homo sapiens (human)
+kegg,path:hsa00620,Pyruvate metabolism - Homo sapiens (human),equivalentTo,reactome,R-HSA-70268,Pyruvate metabolism
+kegg,path:hsa04622,RIG-I-like receptor signaling pathway - Homo sapiens (human),isPartOf,reactome,R-HSA-168256,Immune System
+kegg,path:hsa04622,RIG-I-like receptor signaling pathway - Homo sapiens (human),isPartOf,reactome,R-HSA-168249,Innate Immune System
+reactome,R-HSA-429958,mRNA decay by 3' to 5' exoribonuclease,isPartOf,kegg,path:hsa03018,RNA degradation - Homo sapiens (human)
+kegg,path:hsa03018,RNA degradation - Homo sapiens (human),isPartOf,reactome,R-HSA-8953854,Metabolism of RNA
+reactome,R-HSA-430039,mRNA decay by 5' to 3' exoribonuclease,isPartOf,kegg,path:hsa03018,RNA degradation - Homo sapiens (human)
+reactome,R-HSA-159234,Transport of Mature mRNAs Derived from Intronless Transcripts,isPartOf,kegg,path:hsa03013,RNA transport - Homo sapiens (human)
+reactome,R-HSA-165054,Rev-mediated nuclear export of HIV RNA,isPartOf,kegg,path:hsa03013,RNA transport - Homo sapiens (human)
+reactome,R-HSA-159231,Transport of Mature mRNA Derived from an Intronless Transcript,isPartOf,kegg,path:hsa03013,RNA transport - Homo sapiens (human)
+reactome,R-HSA-159230,Transport of the SLBP Dependant Mature mRNA,isPartOf,kegg,path:hsa03013,RNA transport - Homo sapiens (human)
+reactome,R-HSA-159227,Transport of the SLBP independent Mature mRNA,isPartOf,kegg,path:hsa03013,RNA transport - Homo sapiens (human)
+kegg,path:hsa04015,Rap1 signaling pathway - Homo sapiens (human),equivalentTo,reactome,R-HSA-392517,Rap1 signalling
+reactome,R-HSA-6802949,Signaling by RAS mutants,isPartOf,kegg,path:hsa04014,Ras signaling pathway - Homo sapiens (human)
+reactome,R-HSA-8851805,MET activates RAS signaling,isPartOf,kegg,path:hsa04014,Ras signaling pathway - Homo sapiens (human)
+reactome,R-HSA-442742,CREB phosphorylation through the activation of Ras,isPartOf,kegg,path:hsa04014,Ras signaling pathway - Homo sapiens (human)
+reactome,R-HSA-5658442,Regulation of RAS by GAPs,isPartOf,kegg,path:hsa04014,Ras signaling pathway - Homo sapiens (human)
+reactome,R-HSA-442982,Ras activation upon Ca2+ influx through NMDA receptor,isPartOf,kegg,path:hsa04014,Ras signaling pathway - Homo sapiens (human)
+reactome,R-HSA-1169092,Activation of RAS in B cells,isPartOf,kegg,path:hsa04014,Ras signaling pathway - Homo sapiens (human)
+reactome,R-HSA-6802953,RAS signaling downstream of NF1 loss-of-function variants,isPartOf,kegg,path:hsa04014,Ras signaling pathway - Homo sapiens (human)
+kegg,path:hsa04923,Regulation of lipolysis in adipocytes - Homo sapiens (human),isPartOf,reactome,R-HSA-556833,Metabolism of lipids
+reactome,R-HSA-444821,Relaxin receptors,isPartOf,kegg,path:hsa04926,Relaxin signaling pathway - Homo sapiens (human)
+reactome,R-HSA-2022377,Metabolism of Angiotensinogen to Angiotensins,isPartOf,kegg,path:hsa04614,Renin-angiotensin system - Homo sapiens (human)
+kegg,path:hsa00830,Retinol metabolism - Homo sapiens (human),isPartOf,reactome,R-HSA-211916,Vitamins
+kegg,path:hsa00830,Retinol metabolism - Homo sapiens (human),isPartOf,reactome,R-HSA-1430728,Metabolism
+kegg,path:hsa00740,Riboflavin metabolism - Homo sapiens (human),equivalentTo,reactome,R-HSA-196843,Vitamin B2 (riboflavin) metabolism
+reactome,R-HSA-6790901,rRNA modification in the nucleus and cytosol,isPartOf,kegg,path:hsa03008,Ribosome biogenesis in eukaryotes - Homo sapiens (human)
+reactome,R-HSA-8868773,rRNA processing in the nucleus and cytosol,isPartOf,kegg,path:hsa03008,Ribosome biogenesis in eukaryotes - Homo sapiens (human)
+reactome,R-HSA-72312,rRNA processing,isPartOf,kegg,path:hsa03008,Ribosome biogenesis in eukaryotes - Homo sapiens (human)
+kegg,path:hsa03008,Ribosome biogenesis in eukaryotes - Homo sapiens (human),isPartOf,reactome,R-HSA-8953854,Metabolism of RNA
+kegg,path:hsa04130,SNARE interactions in vesicular transport - Homo sapiens (human),isPartOf,reactome,R-HSA-5653656,Vesicle-mediated transport
+kegg,path:hsa04130,SNARE interactions in vesicular transport - Homo sapiens (human),isPartOf,reactome,R-HSA-199991,Membrane Trafficking
+kegg,path:hsa00450,Selenocompound metabolism - Homo sapiens (human),isPartOf,reactome,R-HSA-1430728,Metabolism
+reactome,R-HSA-2408522,Selenoamino acid metabolism,isPartOf,kegg,path:hsa00450,Selenocompound metabolism - Homo sapiens (human)
+reactome,R-HSA-390666,Serotonin receptors,isPartOf,kegg,path:hsa04726,Serotonergic synapse - Homo sapiens (human)
+reactome,R-HSA-380615,Serotonin clearance from the synaptic cleft,isPartOf,kegg,path:hsa04726,Serotonergic synapse - Homo sapiens (human)
+reactome,R-HSA-2892245,"POU5F1 (OCT4), SOX2, NANOG repress genes related to differentiation",isPartOf,kegg,path:hsa04550,Signaling pathways regulating pluripotency of stem cells - Homo sapiens (human)
+reactome,R-HSA-1839120,Signaling by FGFR1 amplification mutants,isPartOf,kegg,path:hsa04550,Signaling pathways regulating pluripotency of stem cells - Homo sapiens (human)
+reactome,R-HSA-2023837,Signaling by FGFR2 amplification mutants,isPartOf,kegg,path:hsa04550,Signaling pathways regulating pluripotency of stem cells - Homo sapiens (human)
+kegg,path:hsa00600,Sphingolipid metabolism - Homo sapiens (human),equivalentTo,reactome,R-HSA-428157,Sphingolipid metabolism
+kegg,path:hsa03040,Spliceosome - Homo sapiens (human),isPartOf,reactome,R-HSA-75067,Processing of Capped Intronless Pre-mRNA
+kegg,path:hsa03040,Spliceosome - Homo sapiens (human),isPartOf,reactome,R-HSA-72172,mRNA Splicing
+kegg,path:hsa03040,Spliceosome - Homo sapiens (human),isPartOf,reactome,R-HSA-8953854,Metabolism of RNA
+kegg,path:hsa03040,Spliceosome - Homo sapiens (human),isPartOf,reactome,R-HSA-72163,mRNA Splicing - Major Pathway
+kegg,path:hsa03040,Spliceosome - Homo sapiens (human),isPartOf,reactome,R-HSA-74160,Gene expression (Transcription)
+kegg,path:hsa03040,Spliceosome - Homo sapiens (human),isPartOf,reactome,R-HSA-72165,mRNA Splicing - Minor Pathway
+kegg,path:hsa03040,Spliceosome - Homo sapiens (human),isPartOf,reactome,R-HSA-72203,Processing of Capped Intron-Containing Pre-mRNA
+kegg,path:hsa03040,Spliceosome - Homo sapiens (human),isPartOf,reactome,R-HSA-73856,RNA Polymerase II Transcription Termination
+kegg,path:hsa00500,Starch and sucrose metabolism - Homo sapiens (human),isPartOf,reactome,R-HSA-1430728,Metabolism
+kegg,path:hsa00500,Starch and sucrose metabolism - Homo sapiens (human),isPartOf,reactome,R-HSA-71387,Metabolism of carbohydrates
+kegg,path:hsa00100,Steroid biosynthesis - Homo sapiens (human),isPartOf,reactome,R-HSA-1430728,Metabolism
+kegg,path:hsa00100,Steroid biosynthesis - Homo sapiens (human),isPartOf,reactome,R-HSA-8957322,Metabolism of steroids
+kegg,path:hsa00140,Steroid hormone biosynthesis - Homo sapiens (human),isPartOf,reactome,R-HSA-196071,Metabolism of steroid hormones
+reactome,R-HSA-193144,Estrogen biosynthesis,isPartOf,kegg,path:hsa00140,Steroid hormone biosynthesis - Homo sapiens (human)
+reactome,R-HSA-194002,Glucocorticoid biosynthesis,isPartOf,kegg,path:hsa00140,Steroid hormone biosynthesis - Homo sapiens (human)
+kegg,path:hsa00140,Steroid hormone biosynthesis - Homo sapiens (human),isPartOf,reactome,R-HSA-1430728,Metabolism
+reactome,R-HSA-193993,Mineralocorticoid biosynthesis,isPartOf,kegg,path:hsa00140,Steroid hormone biosynthesis - Homo sapiens (human)
+kegg,path:hsa00920,Sulfur metabolism - Homo sapiens (human),isPartOf,reactome,R-HSA-71291,Metabolism of amino acids and derivatives
+kegg,path:hsa00920,Sulfur metabolism - Homo sapiens (human),isPartOf,reactome,R-HSA-1614635,Sulfur amino acid metabolism
+kegg,path:hsa00920,Sulfur metabolism - Homo sapiens (human),isPartOf,reactome,R-HSA-1430728,Metabolism
+kegg,path:hsa04721,Synaptic vesicle cycle - Homo sapiens (human),isPartOf,reactome,R-HSA-5653656,Vesicle-mediated transport
+kegg,path:hsa00072,Synthesis and degradation of ketone bodies - Homo sapiens (human),equivalentTo,reactome,R-HSA-74182,Ketone body metabolism
+kegg,path:hsa00072,Synthesis and degradation of ketone bodies - Homo sapiens (human),isPartOf,reactome,R-HSA-1430728,Metabolism
+reactome,R-HSA-164939,Nef mediated downregulation of CD28 cell surface expression,isPartOf,kegg,path:hsa04660,T cell receptor signaling pathway - Homo sapiens (human)
+kegg,path:hsa04660,T cell receptor signaling pathway - Homo sapiens (human),isPartOf,reactome,R-HSA-168256,Immune System
+reactome,R-HSA-389359,CD28 dependent Vav1 pathway,isPartOf,kegg,path:hsa04660,T cell receptor signaling pathway - Homo sapiens (human)
+reactome,R-HSA-389356,CD28 co-stimulation,isPartOf,kegg,path:hsa04660,T cell receptor signaling pathway - Homo sapiens (human)
+kegg,path:hsa04350,TGF-beta signaling pathway - Homo sapiens (human),equivalentTo,reactome,R-HSA-9006936,Signaling by TGF-beta family members
+kegg,path:hsa04668,TNF signaling pathway - Homo sapiens (human),equivalentTo,reactome,R-HSA-75893,TNF signaling
+kegg,path:hsa00430,Taurine and hypotaurine metabolism - Homo sapiens (human),isPartOf,reactome,R-HSA-1430728,Metabolism
+kegg,path:hsa00900,Terpenoid backbone biosynthesis - Homo sapiens (human),isPartOf,reactome,R-HSA-1430728,Metabolism
+kegg,path:hsa04658,Th1 and Th2 cell differentiation - Homo sapiens (human),isPartOf,reactome,R-HSA-1280218,Adaptive Immune System
+kegg,path:hsa04659,Th17 cell differentiation - Homo sapiens (human),isPartOf,reactome,R-HSA-168256,Immune System
+kegg,path:hsa04714,Thermogenesis - Homo sapiens (human),isPartOf,reactome,R-HSA-163210,Formation of ATP by chemiosmotic coupling
+kegg,path:hsa04714,Thermogenesis - Homo sapiens (human),isPartOf,reactome,R-HSA-163200,"Respiratory electron transport, ATP synthesis by chemiosmotic coupling, and heat production by uncoupling proteins."
+kegg,path:hsa04714,Thermogenesis - Homo sapiens (human),isPartOf,reactome,R-HSA-1430728,Metabolism
+kegg,path:hsa04714,Thermogenesis - Homo sapiens (human),isPartOf,reactome,R-HSA-611105,Respiratory electron transport
+kegg,path:hsa00730,Thiamine metabolism - Homo sapiens (human),equivalentTo,reactome,R-HSA-196819,Vitamin B1 (thiamin) metabolism
+kegg,path:hsa00730,Thiamine metabolism - Homo sapiens (human),isPartOf,reactome,R-HSA-1430728,Metabolism
+reactome,R-HSA-350864,Regulation of thyroid hormone activity,isPartOf,kegg,path:hsa04919,Thyroid hormone signaling pathway - Homo sapiens (human)
+kegg,path:hsa04918,Thyroid hormone synthesis - Homo sapiens (human),equivalentTo,reactome,R-HSA-209968,Thyroxine biosynthesis
+kegg,path:hsa04530,Tight junction - Homo sapiens (human),equivalentTo,reactome,R-HSA-420029,Tight junction interactions
+reactome,R-HSA-8935964,RUNX1 regulates expression of components of tight junctions,isPartOf,kegg,path:hsa04530,Tight junction - Homo sapiens (human)
+kegg,path:hsa04620,Toll-like receptor signaling pathway - Homo sapiens (human),equivalentTo,reactome,R-HSA-168898,Toll-Like Receptors Cascades
+reactome,R-HSA-166016,Toll Like Receptor 4 (TLR4) Cascade,isPartOf,kegg,path:hsa04620,Toll-like receptor signaling pathway - Homo sapiens (human)
+reactome,R-HSA-181438,Toll Like Receptor 2 (TLR2) Cascade,isPartOf,kegg,path:hsa04620,Toll-like receptor signaling pathway - Homo sapiens (human)
+reactome,R-HSA-168188,Toll Like Receptor TLR6:TLR2 Cascade,isPartOf,kegg,path:hsa04620,Toll-like receptor signaling pathway - Homo sapiens (human)
+reactome,R-HSA-168176,Toll Like Receptor 5 (TLR5) Cascade,isPartOf,kegg,path:hsa04620,Toll-like receptor signaling pathway - Homo sapiens (human)
+reactome,R-HSA-168142,Toll Like Receptor 10 (TLR10) Cascade,isPartOf,kegg,path:hsa04620,Toll-like receptor signaling pathway - Homo sapiens (human)
+reactome,R-HSA-168179,Toll Like Receptor TLR1:TLR2 Cascade,isPartOf,kegg,path:hsa04620,Toll-like receptor signaling pathway - Homo sapiens (human)
+reactome,R-HSA-168138,Toll Like Receptor 9 (TLR9) Cascade,isPartOf,kegg,path:hsa04620,Toll-like receptor signaling pathway - Homo sapiens (human)
+reactome,R-HSA-168164,Toll Like Receptor 3 (TLR3) Cascade,isPartOf,kegg,path:hsa04620,Toll-like receptor signaling pathway - Homo sapiens (human)
+reactome,R-HSA-168181,Toll Like Receptor 7/8 (TLR7/8) Cascade,isPartOf,kegg,path:hsa04620,Toll-like receptor signaling pathway - Homo sapiens (human)
+reactome,R-HSA-71240,Tryptophan catabolism,isPartOf,kegg,path:hsa00380,Tryptophan metabolism - Homo sapiens (human)
+kegg,path:hsa00350,Tyrosine metabolism - Homo sapiens (human),isPartOf,reactome,R-HSA-70614,Amino acid synthesis and interconversion (transamination)
+kegg,path:hsa00350,Tyrosine metabolism - Homo sapiens (human),isPartOf,reactome,R-HSA-71291,Metabolism of amino acids and derivatives
+reactome,R-HSA-71182,Phenylalanine and tyrosine catabolism,isPartOf,kegg,path:hsa00350,Tyrosine metabolism - Homo sapiens (human)
+kegg,path:hsa00350,Tyrosine metabolism - Homo sapiens (human),isPartOf,reactome,R-HSA-6788656,"Histidine, lysine, phenylalanine, tyrosine, proline and tryptophan catabolism"
+kegg,path:hsa00350,Tyrosine metabolism - Homo sapiens (human),isPartOf,reactome,R-HSA-1430728,Metabolism
+kegg,path:hsa00130,Ubiquinone and other terpenoid-quinone biosynthesis - Homo sapiens (human),isPartOf,reactome,R-HSA-1430728,Metabolism
+kegg,path:hsa00130,Ubiquinone and other terpenoid-quinone biosynthesis - Homo sapiens (human),isPartOf,reactome,R-HSA-196854,Metabolism of vitamins and cofactors
+kegg,path:hsa00290,"Valine, leucine and isoleucine biosynthesis - Homo sapiens (human)",isPartOf,reactome,R-HSA-71291,Metabolism of amino acids and derivatives
+kegg,path:hsa00290,"Valine, leucine and isoleucine biosynthesis - Homo sapiens (human)",isPartOf,reactome,R-HSA-1430728,Metabolism
+kegg,path:hsa00280,"Valine, leucine and isoleucine degradation - Homo sapiens (human)",isPartOf,reactome,R-HSA-70895,Branched-chain amino acid catabolism
+kegg,path:hsa00280,"Valine, leucine and isoleucine degradation - Homo sapiens (human)",isPartOf,reactome,R-HSA-1430728,Metabolism
+kegg,path:hsa00280,"Valine, leucine and isoleucine degradation - Homo sapiens (human)",isPartOf,reactome,R-HSA-71291,Metabolism of amino acids and derivatives
+kegg,path:hsa04270,Vascular smooth muscle contraction - Homo sapiens (human),isPartOf,reactome,R-HSA-445355,Smooth Muscle Contraction
+kegg,path:hsa04270,Vascular smooth muscle contraction - Homo sapiens (human),isPartOf,reactome,R-HSA-397014,Muscle contraction
+kegg,path:hsa04962,Vasopressin-regulated water reabsorption - Homo sapiens (human),equivalentTo,reactome,R-HSA-432040,Vasopressin regulates renal water homeostasis via Aquaporins
+kegg,path:hsa00750,Vitamin B6 metabolism - Homo sapiens (human),isPartOf,reactome,R-HSA-1430728,Metabolism
+kegg,path:hsa00750,Vitamin B6 metabolism - Homo sapiens (human),isPartOf,reactome,R-HSA-196849,Metabolism of water-soluble vitamins and cofactors
+kegg,path:hsa00750,Vitamin B6 metabolism - Homo sapiens (human),isPartOf,reactome,R-HSA-196854,Metabolism of vitamins and cofactors
+reactome,R-HSA-964975,Vitamins B6 activation to pyridoxal phosphate,isPartOf,kegg,path:hsa00750,Vitamin B6 metabolism - Homo sapiens (human)
+kegg,path:hsa04977,Vitamin digestion and absorption - Homo sapiens (human),isPartOf,reactome,R-HSA-8963676,Intestinal absorption
+kegg,path:hsa04977,Vitamin digestion and absorption - Homo sapiens (human),isPartOf,reactome,R-HSA-8963743,Digestion and absorption
+kegg,path:hsa04977,Vitamin digestion and absorption - Homo sapiens (human),isPartOf,reactome,R-HSA-196854,Metabolism of vitamins and cofactors
+kegg,path:hsa04310,Wnt signaling pathway - Homo sapiens (human),equivalentTo,reactome,R-HSA-195721,Signaling by WNT
+reactome,R-HSA-8951430,RUNX3 regulates WNT signaling,isPartOf,kegg,path:hsa04310,Wnt signaling pathway - Homo sapiens (human)
+reactome,R-HSA-201688,WNT mediated activation of DVL,isPartOf,kegg,path:hsa04310,Wnt signaling pathway - Homo sapiens (human)
+reactome,R-HSA-5340573,WNT ligand secretion is abrogated by the PORCN inhibitor LGK974,isPartOf,kegg,path:hsa04310,Wnt signaling pathway - Homo sapiens (human)
+kegg,path:hsa00592,alpha-Linolenic acid metabolism - Homo sapiens (human),equivalentTo,reactome,R-HSA-2046106,alpha-linolenic acid (ALA) metabolism
+kegg,path:hsa00592,alpha-Linolenic acid metabolism - Homo sapiens (human),isPartOf,reactome,R-HSA-556833,Metabolism of lipids
+kegg,path:hsa00592,alpha-Linolenic acid metabolism - Homo sapiens (human),isPartOf,reactome,R-HSA-1430728,Metabolism
+kegg,path:hsa00410,beta-Alanine metabolism - Homo sapiens (human),isPartOf,reactome,R-HSA-71291,Metabolism of amino acids and derivatives
+kegg,path:hsa00410,beta-Alanine metabolism - Homo sapiens (human),isPartOf,reactome,R-HSA-1430728,Metabolism
+reactome,R-HSA-170660,Adenylate cyclase activating pathway,isPartOf,kegg,path:hsa04024,cAMP signaling pathway - Homo sapiens (human)
+reactome,R-HSA-418457,cGMP effects,isPartOf,kegg,path:hsa04022,cGMP-PKG signaling pathway - Homo sapiens (human)
+reactome,R-HSA-168315,Inhibition of Host mRNA Processing and RNA Silencing,isPartOf,kegg,path:hsa03015,mRNA surveillance pathway - Homo sapiens (human)
+reactome,R-HSA-72203,Processing of Capped Intron-Containing Pre-mRNA,isPartOf,kegg,path:hsa03015,mRNA surveillance pathway - Homo sapiens (human)
+reactome,R-HSA-72172,mRNA Splicing,isPartOf,kegg,path:hsa03015,mRNA surveillance pathway - Homo sapiens (human)
+reactome,R-HSA-75067,Processing of Capped Intronless Pre-mRNA,isPartOf,kegg,path:hsa03015,mRNA surveillance pathway - Homo sapiens (human)
+reactome,R-HSA-72187,mRNA 3'-end processing,isPartOf,kegg,path:hsa03015,mRNA surveillance pathway - Homo sapiens (human)
+reactome,R-HSA-77595,Processing of Intronless Pre-mRNAs,isPartOf,kegg,path:hsa03015,mRNA surveillance pathway - Homo sapiens (human)
+reactome,R-HSA-72163,mRNA Splicing - Major Pathway,isPartOf,kegg,path:hsa03015,mRNA surveillance pathway - Homo sapiens (human)
+kegg,path:hsa04150,mTOR signaling pathway - Homo sapiens (human),equivalentTo,reactome,R-HSA-165159,mTOR signalling
+reactome,R-HSA-5633008,TP53 Regulates Transcription of Cell Death Genes,isPartOf,kegg,path:hsa04115,p53 signaling pathway - Homo sapiens (human)
+reactome,R-HSA-6804754,Regulation of TP53 Expression,isPartOf,kegg,path:hsa04115,p53 signaling pathway - Homo sapiens (human)
+reactome,R-HSA-6791312,TP53 Regulates Transcription of Cell Cycle Genes,isPartOf,kegg,path:hsa04115,p53 signaling pathway - Homo sapiens (human)
+reactome,R-HSA-6803211,TP53 Regulates Transcription of Death Receptors and Ligands,isPartOf,kegg,path:hsa04115,p53 signaling pathway - Homo sapiens (human)
+reactome,R-HSA-6803205,TP53 regulates transcription of several additional cell death genes whose specific roles in p53-dependent apoptosis remain uncertain,isPartOf,kegg,path:hsa04115,p53 signaling pathway - Homo sapiens (human)
+reactome,R-HSA-6803207,TP53 Regulates Transcription of Caspase Activators and Caspases,isPartOf,kegg,path:hsa04115,p53 signaling pathway - Homo sapiens (human)
+reactome,R-HSA-5628897,TP53 Regulates Metabolic Genes,isPartOf,kegg,path:hsa04115,p53 signaling pathway - Homo sapiens (human)
+reactome,R-HSA-6804760,Regulation of TP53 Activity through Methylation,isPartOf,kegg,path:hsa04115,p53 signaling pathway - Homo sapiens (human)
+reactome,R-HSA-6804116,TP53 Regulates Transcription of Genes Involved in G1 Cell Cycle Arrest,isPartOf,kegg,path:hsa04115,p53 signaling pathway - Homo sapiens (human)
+reactome,R-HSA-6803204,TP53 Regulates Transcription of Genes Involved in Cytochrome C Release,isPartOf,kegg,path:hsa04115,p53 signaling pathway - Homo sapiens (human)
+reactome,R-HSA-6806003,Regulation of TP53 Expression and Degradation,isPartOf,kegg,path:hsa04115,p53 signaling pathway - Homo sapiens (human)
+reactome,R-HSA-6804757,Regulation of TP53 Degradation,isPartOf,kegg,path:hsa04115,p53 signaling pathway - Homo sapiens (human)

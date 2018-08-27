@@ -1,302 +1,302 @@
-,Source Resource,Source ID,Source Name,Mapping Type,Target Resource,Target ID,Target Name
-0,kegg,path:hsa01210,2-Oxocarboxylic acid metabolism - Homo sapiens (human),isPartOf,wikipathways,WP3925,Amino Acid metabolism
-1,kegg,path:hsa04152,AMPK signaling pathway - Homo sapiens (human),equivalentTo,wikipathways,WP1403,AMP-activated Protein Kinase (AMPK) Signaling
-2,wikipathways,WP3934,Leptin and adiponectin,isPartOf,kegg,path:hsa04920,Adipocytokine signaling pathway - Homo sapiens (human)
-3,kegg,path:hsa00250,"Alanine, aspartate and glutamate metabolism - Homo sapiens (human)",isPartOf,wikipathways,WP3925,Amino Acid metabolism
-4,wikipathways,WP106,Alanine and aspartate metabolism,isPartOf,kegg,path:hsa00250,"Alanine, aspartate and glutamate metabolism - Homo sapiens (human)"
-5,kegg,path:hsa05034,Alcoholism - Homo sapiens (human),isPartOf,wikipathways,WP2636,Common Pathways Underlying Drug Addiction
-6,kegg,path:hsa04925,Aldosterone synthesis and secretion - Homo sapiens (human),isPartOf,wikipathways,WP237,Glucocorticoid and Mineralcorticoid Metabolism
-7,kegg,path:hsa05330,Allograft rejection - Homo sapiens (human),equivalentTo,wikipathways,WP2328,Allograft Rejection
-8,kegg,path:hsa05010,Alzheimer disease - Homo sapiens (human),equivalentTo,wikipathways,WP2059,Alzheimers Disease
-9,kegg,path:hsa05031,Amphetamine addiction - Homo sapiens (human),isPartOf,wikipathways,WP2636,Common Pathways Underlying Drug Addiction
-10,kegg,path:hsa05014,Amyotrophic lateral sclerosis (ALS) - Homo sapiens (human),equivalentTo,wikipathways,WP2447,Amyotrophic lateral sclerosis (ALS)
-11,kegg,path:hsa04210,Apoptosis - Homo sapiens (human),equivalentTo,wikipathways,WP254,Apoptosis
-12,wikipathways,WP384,Apoptosis Modulation by HSP70,isPartOf,kegg,path:hsa04210,Apoptosis - Homo sapiens (human)
-13,wikipathways,WP2507,Nanomaterial induced apoptosis,isPartOf,kegg,path:hsa04210,Apoptosis - Homo sapiens (human)
-14,wikipathways,WP1772,Apoptosis Modulation and Signaling,isPartOf,kegg,path:hsa04210,Apoptosis - Homo sapiens (human)
-15,wikipathways,WP2507,Nanomaterial induced apoptosis,isPartOf,kegg,path:hsa04215,Apoptosis - multiple species - Homo sapiens (human)
-16,wikipathways,WP384,Apoptosis Modulation by HSP70,isPartOf,kegg,path:hsa04215,Apoptosis - multiple species - Homo sapiens (human)
-17,wikipathways,WP1772,Apoptosis Modulation and Signaling,isPartOf,kegg,path:hsa04215,Apoptosis - multiple species - Homo sapiens (human)
-18,kegg,path:hsa00330,Arginine and proline metabolism - Homo sapiens (human),isPartOf,wikipathways,WP3925,Amino Acid metabolism
-19,kegg,path:hsa00330,Arginine and proline metabolism - Homo sapiens (human),isPartOf,wikipathways,WP497,Urea cycle and metabolism of amino groups
-20,kegg,path:hsa00220,Arginine biosynthesis - Homo sapiens (human),isPartOf,wikipathways,WP3925,Amino Acid metabolism
-21,kegg,path:hsa00220,Arginine biosynthesis - Homo sapiens (human),isPartOf,wikipathways,WP497,Urea cycle and metabolism of amino groups
-22,kegg,path:hsa05412,Arrhythmogenic right ventricular cardiomyopathy (ARVC) - Homo sapiens (human),equivalentTo,wikipathways,WP2118,Arrhythmogenic Right Ventricular Cardiomyopathy
-23,kegg,path:hsa04662,B cell receptor signaling pathway - Homo sapiens (human),equivalentTo,wikipathways,WP23,B Cell Receptor Signaling Pathway
-24,wikipathways,WP405,Eukaryotic Transcription Initiation,isPartOf,kegg,path:hsa03022,Basal transcription factors - Homo sapiens (human)
-25,wikipathways,WP2289,Drug Induction of Bile Acid Pathway,isPartOf,kegg,path:hsa04976,Bile secretion - Homo sapiens (human)
-26,wikipathways,WP106,Alanine and aspartate metabolism,isPartOf,kegg,path:hsa01230,Biosynthesis of amino acids - Homo sapiens (human)
-27,wikipathways,WP497,Urea cycle and metabolism of amino groups,isPartOf,kegg,path:hsa01230,Biosynthesis of amino acids - Homo sapiens (human)
-28,kegg,path:hsa01040,Biosynthesis of unsaturated fatty acids - Homo sapiens (human),isPartOf,wikipathways,WP357,Fatty Acid Biosynthesis
-29,kegg,path:hsa05219,Bladder cancer - Homo sapiens (human),equivalentTo,wikipathways,WP2828,Bladder Cancer
-30,kegg,path:hsa00232,Caffeine metabolism - Homo sapiens (human),isPartOf,wikipathways,WP3633,Caffeine and Theobromine metabolism
-31,wikipathways,WP1946,Cori Cycle,isPartOf,kegg,path:hsa01200,Carbon metabolism - Homo sapiens (human)
-32,wikipathways,WP134,Pentose Phosphate Pathway,isPartOf,kegg,path:hsa01200,Carbon metabolism - Homo sapiens (human)
-33,wikipathways,WP534,Glycolysis and Gluconeogenesis,isPartOf,kegg,path:hsa01200,Carbon metabolism - Homo sapiens (human)
-34,wikipathways,WP78,TCA Cycle,isPartOf,kegg,path:hsa01200,Carbon metabolism - Homo sapiens (human)
-35,wikipathways,WP241,One Carbon Metabolism,isPartOf,kegg,path:hsa01200,Carbon metabolism - Homo sapiens (human)
-36,kegg,path:hsa04110,Cell cycle - Homo sapiens (human),equivalentTo,wikipathways,WP179,Cell Cycle
-37,wikipathways,WP45,G1 to S cell cycle control,isPartOf,kegg,path:hsa04110,Cell cycle - Homo sapiens (human)
-38,kegg,path:hsa04062,Chemokine signaling pathway - Homo sapiens (human),equivalentTo,wikipathways,WP3929,Chemokine signaling pathway
-39,wikipathways,WP197,Cholesterol Biosynthesis,isPartOf,kegg,path:hsa04979,Cholesterol metabolism - Homo sapiens (human)
-40,wikipathways,WP3640,Imatinib and Chronic Myeloid Leukemia,isPartOf,kegg,path:hsa05220,Chronic myeloid leukemia - Homo sapiens (human)
-41,wikipathways,WP3594,Circadian rythm related genes,isPartOf,kegg,path:hsa04710,Circadian rhythm - Homo sapiens (human)
-42,kegg,path:hsa00020,Citrate cycle (TCA cycle) - Homo sapiens (human),equivalentTo,wikipathways,WP78,TCA Cycle
-43,wikipathways,WP2453,TCA Cycle and Deficiency of Pyruvate Dehydrogenase complex (PDHc),isPartOf,kegg,path:hsa00020,Citrate cycle (TCA cycle) - Homo sapiens (human)
-44,kegg,path:hsa05030,Cocaine addiction - Homo sapiens (human),isPartOf,wikipathways,WP2636,Common Pathways Underlying Drug Addiction
-45,kegg,path:hsa04610,Complement and coagulation cascades - Homo sapiens (human),equivalentTo,wikipathways,WP558,Complement and Coagulation Cascades
-46,wikipathways,WP545,Complement Activation,isPartOf,kegg,path:hsa04610,Complement and coagulation cascades - Homo sapiens (human)
-47,kegg,path:hsa04927,Cortisol synthesis and secretion - Homo sapiens (human),isPartOf,wikipathways,WP237,Glucocorticoid and Mineralcorticoid Metabolism
-48,kegg,path:hsa00270,Cysteine and methionine metabolism - Homo sapiens (human),isPartOf,wikipathways,WP3925,Amino Acid metabolism
-49,wikipathways,WP3580,Methionine De Novo and Salvage Pathway,isPartOf,kegg,path:hsa00270,Cysteine and methionine metabolism - Homo sapiens (human)
-50,kegg,path:hsa04060,Cytokine-cytokine receptor interaction - Homo sapiens (human),isPartOf,wikipathways,WP530,Cytokines and Inflammatory Response
-51,kegg,path:hsa04060,Cytokine-cytokine receptor interaction - Homo sapiens (human),isPartOf,wikipathways,WP453,Inflammatory Response Pathway
-52,kegg,path:hsa03030,DNA replication - Homo sapiens (human),equivalentTo,wikipathways,WP466,DNA Replication
-53,wikipathways,WP1602,Nicotine Activity on Dopaminergic Neurons,isPartOf,kegg,path:hsa04728,Dopaminergic synapse - Homo sapiens (human)
-54,wikipathways,WP2646,Lidocaine metabolism,isPartOf,kegg,path:hsa00982,Drug metabolism - cytochrome P450 - Homo sapiens (human)
-55,wikipathways,WP1604,Codeine and Morphine Metabolism,isPartOf,kegg,path:hsa00982,Drug metabolism - cytochrome P450 - Homo sapiens (human)
-56,wikipathways,WP3871,Valproic acid pathway,isPartOf,kegg,path:hsa00982,Drug metabolism - cytochrome P450 - Homo sapiens (human)
-57,wikipathways,WP1600,Nicotine Metabolism,isPartOf,kegg,path:hsa00982,Drug metabolism - cytochrome P450 - Homo sapiens (human)
-58,wikipathways,WP691,Tamoxifen metabolism,isPartOf,kegg,path:hsa00982,Drug metabolism - cytochrome P450 - Homo sapiens (human)
-59,wikipathways,WP2816,Felbamate Metabolism,isPartOf,kegg,path:hsa00982,Drug metabolism - cytochrome P450 - Homo sapiens (human)
-60,wikipathways,WP2491,Diclofenac Metabolic Pathway,isPartOf,kegg,path:hsa00982,Drug metabolism - cytochrome P450 - Homo sapiens (human)
-61,wikipathways,WP1604,Codeine and Morphine Metabolism,isPartOf,kegg,path:hsa00983,Drug metabolism - other enzymes - Homo sapiens (human)
-62,wikipathways,WP3633,Caffeine and Theobromine metabolism,isPartOf,kegg,path:hsa00983,Drug metabolism - other enzymes - Homo sapiens (human)
-63,wikipathways,WP698,Glucuronidation,isPartOf,kegg,path:hsa00983,Drug metabolism - other enzymes - Homo sapiens (human)
-64,wikipathways,WP694,Arylamine metabolism,isPartOf,kegg,path:hsa00983,Drug metabolism - other enzymes - Homo sapiens (human)
-65,wikipathways,WP2816,Felbamate Metabolism,isPartOf,kegg,path:hsa00983,Drug metabolism - other enzymes - Homo sapiens (human)
-66,wikipathways,WP2536,Colchicine Metabolic Pathway,isPartOf,kegg,path:hsa00983,Drug metabolism - other enzymes - Homo sapiens (human)
-67,wikipathways,WP2826,Cocaine metabolism,isPartOf,kegg,path:hsa00983,Drug metabolism - other enzymes - Homo sapiens (human)
-68,wikipathways,WP2645,Heroin metabolism,isPartOf,kegg,path:hsa00983,Drug metabolism - other enzymes - Homo sapiens (human)
-69,kegg,path:hsa04512,ECM-receptor interaction - Homo sapiens (human),isPartOf,wikipathways,WP306,Focal Adhesion
-70,kegg,path:hsa05213,Endometrial cancer - Homo sapiens (human),equivalentTo,wikipathways,WP4155,Endometrial cancer
-71,kegg,path:hsa04012,ErbB signaling pathway - Homo sapiens (human),equivalentTo,wikipathways,WP673,ErbB Signaling Pathway
-72,kegg,path:hsa04915,Estrogen signaling pathway - Homo sapiens (human),equivalentTo,wikipathways,WP712,Estrogen signaling pathway
-73,kegg,path:hsa00061,Fatty acid biosynthesis - Homo sapiens (human),equivalentTo,wikipathways,WP357,Fatty Acid Biosynthesis
-74,wikipathways,WP206,Fatty Acid Omega Oxidation,isPartOf,kegg,path:hsa00071,Fatty acid degradation - Homo sapiens (human)
-75,wikipathways,WP1941,Peroxisomal beta-oxidation of tetracosanoyl-CoA,isPartOf,kegg,path:hsa00071,Fatty acid degradation - Homo sapiens (human)
-76,wikipathways,WP368,Mitochondrial LC-Fatty Acid Beta-Oxidation,isPartOf,kegg,path:hsa00071,Fatty acid degradation - Homo sapiens (human)
-77,wikipathways,WP143,Fatty Acid Beta Oxidation,isPartOf,kegg,path:hsa00071,Fatty acid degradation - Homo sapiens (human)
-78,wikipathways,WP1941,Peroxisomal beta-oxidation of tetracosanoyl-CoA,isPartOf,kegg,path:hsa01212,Fatty acid metabolism - Homo sapiens (human)
-79,wikipathways,WP368,Mitochondrial LC-Fatty Acid Beta-Oxidation,isPartOf,kegg,path:hsa01212,Fatty acid metabolism - Homo sapiens (human)
-80,wikipathways,WP143,Fatty Acid Beta Oxidation,isPartOf,kegg,path:hsa01212,Fatty acid metabolism - Homo sapiens (human)
-81,wikipathways,WP357,Fatty Acid Biosynthesis,isPartOf,kegg,path:hsa01212,Fatty acid metabolism - Homo sapiens (human)
-82,kegg,path:hsa04510,Focal adhesion - Homo sapiens (human),equivalentTo,wikipathways,WP306,Focal Adhesion
-83,wikipathways,WP4156,"Biosynthesis and regeneration of tetrahydrobiopterin (BH4) and catabolism of phenylalanine, including diseases",isPartOf,kegg,path:hsa00790,Folate biosynthesis - Homo sapiens (human)
-84,kegg,path:hsa04727,GABAergic synapse - Homo sapiens (human),isPartOf,wikipathways,WP4159,GABA receptor Signaling
-85,kegg,path:hsa04971,Gastric acid secretion - Homo sapiens (human),equivalentTo,wikipathways,WP2597,Secretion of Hydrochloric Acid in Parietal Cells
-86,wikipathways,WP2363,Gastric Cancer Network 2,isPartOf,kegg,path:hsa05226,Gastric cancer - Homo sapiens (human)
-87,wikipathways,WP2361,Gastric Cancer Network 1,isPartOf,kegg,path:hsa05226,Gastric cancer - Homo sapiens (human)
-88,kegg,path:hsa04922,Glucagon signaling pathway - Homo sapiens (human),isPartOf,wikipathways,WP534,Glycolysis and Gluconeogenesis
-89,kegg,path:hsa04922,Glucagon signaling pathway - Homo sapiens (human),isPartOf,wikipathways,WP1541,Energy Metabolism
-90,kegg,path:hsa04922,Glucagon signaling pathway - Homo sapiens (human),isPartOf,wikipathways,WP500,Glycogen Metabolism
-91,kegg,path:hsa00480,Glutathione metabolism - Homo sapiens (human),equivalentTo,wikipathways,WP100,Glutathione metabolism
-92,wikipathways,WP2533,Glycerophospholipid Biosynthetic Pathway,isPartOf,kegg,path:hsa00561,Glycerolipid metabolism - Homo sapiens (human)
-93,wikipathways,WP4153,"Degradation pathway of sphingolipids, including diseases",isPartOf,kegg,path:hsa00561,Glycerolipid metabolism - Homo sapiens (human)
-94,wikipathways,WP325,Triacylglyceride Synthesis,isPartOf,kegg,path:hsa00561,Glycerolipid metabolism - Homo sapiens (human)
-95,wikipathways,WP2533,Glycerophospholipid Biosynthetic Pathway,isPartOf,kegg,path:hsa00564,Glycerophospholipid metabolism - Homo sapiens (human)
-96,wikipathways,WP325,Triacylglyceride Synthesis,isPartOf,kegg,path:hsa00564,Glycerophospholipid metabolism - Homo sapiens (human)
-97,kegg,path:hsa00260,"Glycine, serine and threonine metabolism - Homo sapiens (human)",isPartOf,wikipathways,WP497,Urea cycle and metabolism of amino groups
-98,kegg,path:hsa00260,"Glycine, serine and threonine metabolism - Homo sapiens (human)",isPartOf,wikipathways,WP3925,Amino Acid metabolism
-99,kegg,path:hsa00010,Glycolysis / Gluconeogenesis - Homo sapiens (human),equivalentTo,wikipathways,WP534,Glycolysis and Gluconeogenesis
-100,kegg,path:hsa00604,Glycosphingolipid biosynthesis - ganglio series - Homo sapiens (human),isPartOf,wikipathways,WP1423,Ganglio Sphingolipid Metabolism
-101,kegg,path:hsa00603,Glycosphingolipid biosynthesis - globo and isoglobo series - Homo sapiens (human),isPartOf,wikipathways,WP1424,Globo Sphingolipid Metabolism
-102,kegg,path:hsa05332,Graft-versus-host disease - Homo sapiens (human),isPartOf,wikipathways,WP2328,Allograft Rejection
-103,kegg,path:hsa04340,Hedgehog signaling pathway - Homo sapiens (human),equivalentTo,wikipathways,WP47,Hedgehog Signaling Pathway
-104,kegg,path:hsa05225,Hepatocellular carcinoma - Homo sapiens (human),isPartOf,wikipathways,WP3646,Hepatitis C and Hepatocellular Carcinoma
-105,kegg,path:hsa00340,Histidine metabolism - Homo sapiens (human),isPartOf,wikipathways,WP3925,Amino Acid metabolism
-106,kegg,path:hsa03440,Homologous recombination - Homo sapiens (human),equivalentTo,wikipathways,WP186,Homologous recombination
-107,wikipathways,WP3853,ERK Pathway in Huntington's Disease,isPartOf,kegg,path:hsa05016,Huntington's disease - Homo sapiens (human)
-108,kegg,path:hsa04657,IL-17 signaling pathway - Homo sapiens (human),equivalentTo,wikipathways,WP2112,IL17 signaling pathway
-109,kegg,path:hsa04931,Insulin resistance - Homo sapiens (human),isPartOf,wikipathways,WP1584,Type II diabetes mellitus
-110,kegg,path:hsa04931,Insulin resistance - Homo sapiens (human),isPartOf,wikipathways,WP3635,Insulin signalling in human adipocytes (diabetic condition)
-111,kegg,path:hsa04910,Insulin signaling pathway - Homo sapiens (human),isPartOf,wikipathways,WP3634,Insulin signalling in human adipocytes (normal condition)
-112,kegg,path:hsa04910,Insulin signaling pathway - Homo sapiens (human),isPartOf,wikipathways,WP661,Glucose Homeostasis
-113,kegg,path:hsa00785,Lipoic acid metabolism - Homo sapiens (human),isPartOf,wikipathways,WP3965,Lipid Metabolism Pathway
-114,kegg,path:hsa00310,Lysine degradation - Homo sapiens (human),isPartOf,wikipathways,WP3925,Amino Acid metabolism
-115,kegg,path:hsa04010,MAPK signaling pathway - Homo sapiens (human),equivalentTo,wikipathways,WP382,MAPK Signaling Pathway
-116,wikipathways,WP400,p38 MAPK Signaling Pathway,isPartOf,kegg,path:hsa04010,MAPK signaling pathway - Homo sapiens (human)
-117,wikipathways,WP422,MAPK Cascade,isPartOf,kegg,path:hsa04010,MAPK signaling pathway - Homo sapiens (human)
-118,wikipathways,WP3633,Caffeine and Theobromine metabolism,isPartOf,kegg,path:hsa01100,Metabolic pathways - Homo sapiens (human)
-119,wikipathways,WP3645,NAD+ biosynthetic pathways,isPartOf,kegg,path:hsa01100,Metabolic pathways - Homo sapiens (human)
-120,wikipathways,WP2646,Lidocaine metabolism,isPartOf,kegg,path:hsa01100,Metabolic pathways - Homo sapiens (human)
-121,wikipathways,WP1946,Cori Cycle,isPartOf,kegg,path:hsa01100,Metabolic pathways - Homo sapiens (human)
-122,wikipathways,WP98,Prostaglandin Synthesis and Regulation,isPartOf,kegg,path:hsa01100,Metabolic pathways - Homo sapiens (human)
-123,wikipathways,WP465,Tryptophan metabolism,isPartOf,kegg,path:hsa01100,Metabolic pathways - Homo sapiens (human)
-124,wikipathways,WP357,Fatty Acid Biosynthesis,isPartOf,kegg,path:hsa01100,Metabolic pathways - Homo sapiens (human)
-125,wikipathways,WP2645,Heroin metabolism,isPartOf,kegg,path:hsa01100,Metabolic pathways - Homo sapiens (human)
-126,wikipathways,WP690,Polyol Pathway,isPartOf,kegg,path:hsa01100,Metabolic pathways - Homo sapiens (human)
-127,wikipathways,WP1423,Ganglio Sphingolipid Metabolism,isPartOf,kegg,path:hsa01100,Metabolic pathways - Homo sapiens (human)
-128,wikipathways,WP550,Biogenic Amine Synthesis,isPartOf,kegg,path:hsa01100,Metabolic pathways - Homo sapiens (human)
-129,wikipathways,WP3580,Methionine De Novo and Salvage Pathway,isPartOf,kegg,path:hsa01100,Metabolic pathways - Homo sapiens (human)
-130,wikipathways,WP694,Arylamine metabolism,isPartOf,kegg,path:hsa01100,Metabolic pathways - Homo sapiens (human)
-131,wikipathways,WP534,Glycolysis and Gluconeogenesis,isPartOf,kegg,path:hsa01100,Metabolic pathways - Homo sapiens (human)
-132,wikipathways,WP2436,Dopamine metabolism,isPartOf,kegg,path:hsa01100,Metabolic pathways - Homo sapiens (human)
-133,wikipathways,WP528,Acetylcholine Synthesis,isPartOf,kegg,path:hsa01100,Metabolic pathways - Homo sapiens (human)
-134,wikipathways,WP1604,Codeine and Morphine Metabolism,isPartOf,kegg,path:hsa01100,Metabolic pathways - Homo sapiens (human)
-135,wikipathways,WP311,Synthesis and Degradation of Ketone Bodies,isPartOf,kegg,path:hsa01100,Metabolic pathways - Homo sapiens (human)
-136,wikipathways,WP2525,Trans-sulfuration and one carbon metabolism,isPartOf,kegg,path:hsa01100,Metabolic pathways - Homo sapiens (human)
-137,wikipathways,WP100,Glutathione metabolism,isPartOf,kegg,path:hsa01100,Metabolic pathways - Homo sapiens (human)
-138,wikipathways,WP78,TCA Cycle,isPartOf,kegg,path:hsa01100,Metabolic pathways - Homo sapiens (human)
-139,wikipathways,WP496,Steroid Biosynthesis,isPartOf,kegg,path:hsa01100,Metabolic pathways - Homo sapiens (human)
-140,wikipathways,WP167,Eicosanoid Synthesis,isPartOf,kegg,path:hsa01100,Metabolic pathways - Homo sapiens (human)
-141,wikipathways,WP2485,NAD Biosynthesis II (from tryptophan),isPartOf,kegg,path:hsa01100,Metabolic pathways - Homo sapiens (human)
-142,wikipathways,WP561,Heme Biosynthesis,isPartOf,kegg,path:hsa01100,Metabolic pathways - Homo sapiens (human)
-143,wikipathways,WP2333,Trans-sulfuration pathway,isPartOf,kegg,path:hsa01100,Metabolic pathways - Homo sapiens (human)
-144,wikipathways,WP623,Oxidative phosphorylation,isPartOf,kegg,path:hsa01100,Metabolic pathways - Homo sapiens (human)
-145,wikipathways,WP4153,"Degradation pathway of sphingolipids, including diseases",isPartOf,kegg,path:hsa01100,Metabolic pathways - Homo sapiens (human)
-146,wikipathways,WP678,Arachidonate Epoxygenase / Epoxide Hydrolase,isPartOf,kegg,path:hsa01100,Metabolic pathways - Homo sapiens (human)
-147,wikipathways,WP2878,PPAR Alpha Pathway,isPartOf,kegg,path:hsa01100,Metabolic pathways - Homo sapiens (human)
-148,wikipathways,WP1941,Peroxisomal beta-oxidation of tetracosanoyl-CoA,isPartOf,kegg,path:hsa01100,Metabolic pathways - Homo sapiens (human)
-149,wikipathways,WP3644,NAD+ metabolism,isPartOf,kegg,path:hsa01100,Metabolic pathways - Homo sapiens (human)
-150,wikipathways,WP1422,Sphingolipid Metabolism,isPartOf,kegg,path:hsa01100,Metabolic pathways - Homo sapiens (human)
-151,wikipathways,WP2453,TCA Cycle and Deficiency of Pyruvate Dehydrogenase complex (PDHc),isPartOf,kegg,path:hsa01100,Metabolic pathways - Homo sapiens (human)
-152,wikipathways,WP704,Methylation Pathways,isPartOf,kegg,path:hsa01100,Metabolic pathways - Homo sapiens (human)
-153,wikipathways,WP1600,Nicotine Metabolism,isPartOf,kegg,path:hsa01100,Metabolic pathways - Homo sapiens (human)
-154,wikipathways,WP325,Triacylglyceride Synthesis,isPartOf,kegg,path:hsa01100,Metabolic pathways - Homo sapiens (human)
-155,wikipathways,WP229,Irinotecan Pathway,isPartOf,kegg,path:hsa01100,Metabolic pathways - Homo sapiens (human)
-156,wikipathways,WP404,Nucleotide Metabolism,isPartOf,kegg,path:hsa01100,Metabolic pathways - Homo sapiens (human)
-157,wikipathways,WP4156,"Biosynthesis and regeneration of tetrahydrobiopterin (BH4) and catabolism of phenylalanine, including diseases",isPartOf,kegg,path:hsa01100,Metabolic pathways - Homo sapiens (human)
-158,wikipathways,WP696,Benzo(a)pyrene metabolism,isPartOf,kegg,path:hsa01100,Metabolic pathways - Homo sapiens (human)
-159,wikipathways,WP368,Mitochondrial LC-Fatty Acid Beta-Oxidation,isPartOf,kegg,path:hsa01100,Metabolic pathways - Homo sapiens (human)
-160,wikipathways,WP3925,Amino Acid metabolism,isPartOf,kegg,path:hsa01100,Metabolic pathways - Homo sapiens (human)
-161,wikipathways,WP197,Cholesterol Biosynthesis,isPartOf,kegg,path:hsa01100,Metabolic pathways - Homo sapiens (human)
-162,wikipathways,WP2889,Oxytocin signaling,isPartOf,kegg,path:hsa01100,Metabolic pathways - Homo sapiens (human)
-163,wikipathways,WP206,Fatty Acid Omega Oxidation,isPartOf,kegg,path:hsa01100,Metabolic pathways - Homo sapiens (human)
-164,wikipathways,WP500,Glycogen Metabolism,isPartOf,kegg,path:hsa01100,Metabolic pathways - Homo sapiens (human)
-165,wikipathways,WP2536,Colchicine Metabolic Pathway,isPartOf,kegg,path:hsa01100,Metabolic pathways - Homo sapiens (human)
-166,wikipathways,WP3869,Cannabinoid receptor signaling,isPartOf,kegg,path:hsa01100,Metabolic pathways - Homo sapiens (human)
-167,wikipathways,WP3585,Cytosine methylation,isPartOf,kegg,path:hsa01100,Metabolic pathways - Homo sapiens (human)
-168,wikipathways,WP4210,Tryptophan catabolism leading to NAD+ production,isPartOf,kegg,path:hsa01100,Metabolic pathways - Homo sapiens (human)
-169,wikipathways,WP43,Oxidation by Cytochrome P450,isPartOf,kegg,path:hsa01100,Metabolic pathways - Homo sapiens (human)
-170,wikipathways,WP405,Eukaryotic Transcription Initiation,isPartOf,kegg,path:hsa01100,Metabolic pathways - Homo sapiens (human)
-171,wikipathways,WP3933,Kennedy pathway from Sphingolipids,isPartOf,kegg,path:hsa01100,Metabolic pathways - Homo sapiens (human)
-172,wikipathways,WP134,Pentose Phosphate Pathway,isPartOf,kegg,path:hsa01100,Metabolic pathways - Homo sapiens (human)
-173,wikipathways,WP691,Tamoxifen metabolism,isPartOf,kegg,path:hsa01100,Metabolic pathways - Homo sapiens (human)
-174,wikipathways,WP716,Vitamin A and Carotenoid Metabolism,isPartOf,kegg,path:hsa01100,Metabolic pathways - Homo sapiens (human)
-175,wikipathways,WP699,Aflatoxin B1 metabolism,isPartOf,kegg,path:hsa01100,Metabolic pathways - Homo sapiens (human)
-176,wikipathways,WP2190,One carbon donor,isPartOf,kegg,path:hsa01100,Metabolic pathways - Homo sapiens (human)
-177,wikipathways,WP2533,Glycerophospholipid Biosynthetic Pathway,isPartOf,kegg,path:hsa01100,Metabolic pathways - Homo sapiens (human)
-178,wikipathways,WP3940,One carbon metabolism and related pathways,isPartOf,kegg,path:hsa01100,Metabolic pathways - Homo sapiens (human)
-179,wikipathways,WP237,Glucocorticoid and Mineralcorticoid Metabolism,isPartOf,kegg,path:hsa01100,Metabolic pathways - Homo sapiens (human)
-180,wikipathways,WP241,One Carbon Metabolism,isPartOf,kegg,path:hsa01100,Metabolic pathways - Homo sapiens (human)
-181,wikipathways,WP1531,Vitamin D Metabolism,isPartOf,kegg,path:hsa01100,Metabolic pathways - Homo sapiens (human)
-182,wikipathways,WP1424,Globo Sphingolipid Metabolism,isPartOf,kegg,path:hsa01100,Metabolic pathways - Homo sapiens (human)
-183,wikipathways,WP4022,Pyrimidine metabolism,isPartOf,kegg,path:hsa01100,Metabolic pathways - Homo sapiens (human)
-184,wikipathways,WP106,Alanine and aspartate metabolism,isPartOf,kegg,path:hsa01100,Metabolic pathways - Homo sapiens (human)
-185,wikipathways,WP3965,Lipid Metabolism Pathway,isPartOf,kegg,path:hsa01100,Metabolic pathways - Homo sapiens (human)
-186,wikipathways,WP698,Glucuronidation,isPartOf,kegg,path:hsa01100,Metabolic pathways - Homo sapiens (human)
-187,wikipathways,WP497,Urea cycle and metabolism of amino groups,isPartOf,kegg,path:hsa01100,Metabolic pathways - Homo sapiens (human)
-188,wikipathways,WP2826,Cocaine metabolism,isPartOf,kegg,path:hsa01100,Metabolic pathways - Homo sapiens (human)
-189,wikipathways,WP4174,Metabolism of Tetrahydrocannabinol (THC),isPartOf,kegg,path:hsa01100,Metabolic pathways - Homo sapiens (human)
-190,wikipathways,WP111,Electron Transport Chain,isPartOf,kegg,path:hsa01100,Metabolic pathways - Homo sapiens (human)
-191,wikipathways,WP697,Estrogen metabolism,isPartOf,kegg,path:hsa01100,Metabolic pathways - Homo sapiens (human)
-192,wikipathways,WP2491,Diclofenac Metabolic Pathway,isPartOf,kegg,path:hsa01100,Metabolic pathways - Homo sapiens (human)
-193,wikipathways,WP4142,Metabolism of Spingolipids in ER and Golgi apparatus,isPartOf,kegg,path:hsa01100,Metabolic pathways - Homo sapiens (human)
-194,wikipathways,WP2816,Felbamate Metabolism,isPartOf,kegg,path:hsa01100,Metabolic pathways - Homo sapiens (human)
-195,wikipathways,WP143,Fatty Acid Beta Oxidation,isPartOf,kegg,path:hsa01100,Metabolic pathways - Homo sapiens (human)
-196,wikipathways,WP176,Folate Metabolism,isPartOf,kegg,path:hsa01100,Metabolic pathways - Homo sapiens (human)
-197,kegg,path:hsa03430,Mismatch repair - Homo sapiens (human),equivalentTo,wikipathways,WP531,Mismatch repair
-198,kegg,path:hsa05032,Morphine addiction - Homo sapiens (human),isPartOf,wikipathways,WP2636,Common Pathways Underlying Drug Addiction
-199,wikipathways,WP2513,Nanoparticle triggered regulated necrosis,isPartOf,kegg,path:hsa04217,Necroptosis - Homo sapiens (human)
-200,wikipathways,WP501,"GPCRs, Class C Metabotropic glutamate, pheromone",isPartOf,kegg,path:hsa04080,Neuroactive ligand-receptor interaction - Homo sapiens (human)
-201,wikipathways,WP334,"GPCRs, Class B Secretin-like",isPartOf,kegg,path:hsa04080,Neuroactive ligand-receptor interaction - Homo sapiens (human)
-202,wikipathways,WP247,Small Ligand GPCRs,isPartOf,kegg,path:hsa04080,Neuroactive ligand-receptor interaction - Homo sapiens (human)
-203,wikipathways,WP24,Peptide GPCRs,isPartOf,kegg,path:hsa04080,Neuroactive ligand-receptor interaction - Homo sapiens (human)
-204,wikipathways,WP58,Monoamine GPCRs,isPartOf,kegg,path:hsa04080,Neuroactive ligand-receptor interaction - Homo sapiens (human)
-205,wikipathways,WP455,"GPCRs, Class A Rhodopsin-like",isPartOf,kegg,path:hsa04080,Neuroactive ligand-receptor interaction - Homo sapiens (human)
-206,wikipathways,WP2485,NAD Biosynthesis II (from tryptophan),isPartOf,kegg,path:hsa00760,Nicotinate and nicotinamide metabolism - Homo sapiens (human)
-207,wikipathways,WP4210,Tryptophan catabolism leading to NAD+ production,isPartOf,kegg,path:hsa00760,Nicotinate and nicotinamide metabolism - Homo sapiens (human)
-208,wikipathways,WP3644,NAD+ metabolism,isPartOf,kegg,path:hsa00760,Nicotinate and nicotinamide metabolism - Homo sapiens (human)
-209,wikipathways,WP1600,Nicotine Metabolism,isPartOf,kegg,path:hsa00760,Nicotinate and nicotinamide metabolism - Homo sapiens (human)
-210,wikipathways,WP3645,NAD+ biosynthetic pathways,isPartOf,kegg,path:hsa00760,Nicotinate and nicotinamide metabolism - Homo sapiens (human)
-211,wikipathways,WP4159,GABA receptor Signaling,isPartOf,kegg,path:hsa05033,Nicotine addiction - Homo sapiens (human)
-212,wikipathways,WP1602,Nicotine Activity on Dopaminergic Neurons,isPartOf,kegg,path:hsa05033,Nicotine addiction - Homo sapiens (human)
-213,kegg,path:hsa03450,Non-homologous end-joining - Homo sapiens (human),equivalentTo,wikipathways,WP438,Non-homologous end joining
-214,kegg,path:hsa04330,Notch signaling pathway - Homo sapiens (human),equivalentTo,wikipathways,WP61,Notch Signaling Pathway
-215,kegg,path:hsa04330,Notch signaling pathway - Homo sapiens (human),equivalentTo,wikipathways,WP3845,Canonical  and Non-canonical Notch signaling
-216,wikipathways,WP186,Homologous recombination,isPartOf,kegg,path:hsa03420,Nucleotide excision repair - Homo sapiens (human)
-217,wikipathways,WP531,Mismatch repair,isPartOf,kegg,path:hsa03420,Nucleotide excision repair - Homo sapiens (human)
-218,kegg,path:hsa00670,One carbon pool by folate - Homo sapiens (human),isPartOf,wikipathways,WP3940,One carbon metabolism and related pathways
-219,kegg,path:hsa00670,One carbon pool by folate - Homo sapiens (human),isPartOf,wikipathways,WP2190,One carbon donor
-220,kegg,path:hsa00670,One carbon pool by folate - Homo sapiens (human),isPartOf,wikipathways,WP241,One Carbon Metabolism
-221,kegg,path:hsa00670,One carbon pool by folate - Homo sapiens (human),isPartOf,wikipathways,WP176,Folate Metabolism
-222,wikipathways,WP2018,RANKL/RANK (Receptor activator of NFKB (ligand)) Signaling Pathway,isPartOf,kegg,path:hsa04380,Osteoclast differentiation - Homo sapiens (human)
-223,kegg,path:hsa00190,Oxidative phosphorylation - Homo sapiens (human),equivalentTo,wikipathways,WP623,Oxidative phosphorylation
-224,kegg,path:hsa04921,Oxytocin signaling pathway - Homo sapiens (human),equivalentTo,wikipathways,WP2889,Oxytocin signaling
-225,kegg,path:hsa04151,PI3K-Akt signaling pathway - Homo sapiens (human),equivalentTo,wikipathways,WP4172,PI3K-Akt Signaling Pathway
-226,kegg,path:hsa03320,PPAR signaling pathway - Homo sapiens (human),equivalentTo,wikipathways,WP3942,PPAR signaling pathway
-227,wikipathways,WP3679,Cell-type Dependent Selectivity of CCK2R Signaling,isPartOf,kegg,path:hsa04972,Pancreatic secretion - Homo sapiens (human)
-228,kegg,path:hsa05012,Parkinson's disease - Homo sapiens (human),equivalentTo,wikipathways,WP2371,Parkinsons Disease Pathway
-229,kegg,path:hsa05130,Pathogenic Escherichia coli infection - Homo sapiens (human),equivalentTo,wikipathways,WP2272,Pathogenic Escherichia coli infection
-230,wikipathways,WP1971,Integrated Cancer Pathway,isPartOf,kegg,path:hsa05200,Pathways in cancer - Homo sapiens (human)
-231,wikipathways,WP2828,Bladder Cancer,isPartOf,kegg,path:hsa05200,Pathways in cancer - Homo sapiens (human)
-232,wikipathways,WP2261,Signaling Pathways in Glioblastoma,isPartOf,kegg,path:hsa05200,Pathways in cancer - Homo sapiens (human)
-233,kegg,path:hsa00040,Pentose and glucuronate interconversions - Homo sapiens (human),isPartOf,wikipathways,WP698,Glucuronidation
-234,kegg,path:hsa00030,Pentose phosphate pathway - Homo sapiens (human),equivalentTo,wikipathways,WP134,Pentose Phosphate Pathway
-235,kegg,path:hsa00030,Pentose phosphate pathway - Homo sapiens (human),isPartOf,wikipathways,WP534,Glycolysis and Gluconeogenesis
-236,wikipathways,WP1941,Peroxisomal beta-oxidation of tetracosanoyl-CoA,isPartOf,kegg,path:hsa04146,Peroxisome - Homo sapiens (human)
-237,kegg,path:hsa00360,Phenylalanine metabolism - Homo sapiens (human),isPartOf,wikipathways,WP3925,Amino Acid metabolism
-238,kegg,path:hsa00360,Phenylalanine metabolism - Homo sapiens (human),isPartOf,wikipathways,WP550,Biogenic Amine Synthesis
-239,kegg,path:hsa00400,"Phenylalanine, tyrosine and tryptophan biosynthesis - Homo sapiens (human)",isPartOf,wikipathways,WP550,Biogenic Amine Synthesis
-240,kegg,path:hsa05020,Prion diseases - Homo sapiens (human),equivalentTo,wikipathways,WP3995,Prion disease pathway
-241,kegg,path:hsa04917,Prolactin signaling pathway - Homo sapiens (human),equivalentTo,wikipathways,WP2037,Prolactin Signaling Pathway
-242,kegg,path:hsa03050,Proteasome - Homo sapiens (human),equivalentTo,wikipathways,WP183,Proteasome Degradation
-243,wikipathways,WP2359,Parkin-Ubiquitin Proteasomal System pathway,isPartOf,kegg,path:hsa03050,Proteasome - Homo sapiens (human)
-244,kegg,path:hsa00230,Purine metabolism - Homo sapiens (human),isPartOf,wikipathways,WP404,Nucleotide Metabolism
-245,kegg,path:hsa00230,Purine metabolism - Homo sapiens (human),isPartOf,wikipathways,WP466,DNA Replication
-246,kegg,path:hsa00230,Purine metabolism - Homo sapiens (human),isPartOf,wikipathways,WP186,Homologous recombination
-247,kegg,path:hsa00240,Pyrimidine metabolism - Homo sapiens (human),equivalentTo,wikipathways,WP4022,Pyrimidine metabolism
-248,kegg,path:hsa04622,RIG-I-like receptor signaling pathway - Homo sapiens (human),equivalentTo,wikipathways,WP3865,RIG-I-like Receptor Signaling
-249,kegg,path:hsa03020,RNA polymerase - Homo sapiens (human),isPartOf,wikipathways,WP405,Eukaryotic Transcription Initiation
-250,kegg,path:hsa04810,Regulation of actin cytoskeleton - Homo sapiens (human),equivalentTo,wikipathways,WP51,Regulation of Actin Cytoskeleton
-251,kegg,path:hsa04923,Regulation of lipolysis in adipocytes - Homo sapiens (human),isPartOf,wikipathways,WP3965,Lipid Metabolism Pathway
-252,wikipathways,WP4205,MET in type 1 papillary renal cell carcinoma,isPartOf,kegg,path:hsa05211,Renal cell carcinoma - Homo sapiens (human)
-253,wikipathways,WP554,ACE Inhibitor Pathway,isPartOf,kegg,path:hsa04614,Renin-angiotensin system - Homo sapiens (human)
-254,kegg,path:hsa04723,Retrograde endocannabinoid signaling - Homo sapiens (human),isPartOf,wikipathways,WP3869,Cannabinoid receptor signaling
-255,wikipathways,WP477,Cytoplasmic Ribosomal Proteins,isPartOf,kegg,path:hsa03010,Ribosome - Homo sapiens (human)
-256,kegg,path:hsa04130,SNARE interactions in vesicular transport - Homo sapiens (human),isPartOf,wikipathways,WP2267,Synaptic Vesicle Pathway
-257,kegg,path:hsa00450,Selenocompound metabolism - Homo sapiens (human),equivalentTo,wikipathways,WP28,Selenium Metabolism and Selenoproteins
-258,wikipathways,WP732,Serotonin Receptor 2 and ELK-SRF/GATA4 signaling,isPartOf,kegg,path:hsa04726,Serotonergic synapse - Homo sapiens (human)
-259,wikipathways,WP733,Serotonin Receptor 2 and STAT3 Signaling,isPartOf,kegg,path:hsa04726,Serotonergic synapse - Homo sapiens (human)
-260,wikipathways,WP3931,ESC Pluripotency Pathways,isPartOf,kegg,path:hsa04550,Signaling pathways regulating pluripotency of stem cells - Homo sapiens (human)
-261,kegg,path:hsa00600,Sphingolipid metabolism - Homo sapiens (human),equivalentTo,wikipathways,WP1422,Sphingolipid Metabolism
-262,kegg,path:hsa00600,Sphingolipid metabolism - Homo sapiens (human),isPartOf,wikipathways,WP1422,Sphingolipid Metabolism
-263,kegg,path:hsa04071,Sphingolipid signaling pathway - Homo sapiens (human),isPartOf,wikipathways,WP1422,Sphingolipid Metabolism
-264,kegg,path:hsa03040,Spliceosome - Homo sapiens (human),isPartOf,wikipathways,WP411,mRNA Processing
-265,kegg,path:hsa00100,Steroid biosynthesis - Homo sapiens (human),equivalentTo,wikipathways,WP496,Steroid Biosynthesis
-266,wikipathways,WP237,Glucocorticoid and Mineralcorticoid Metabolism,isPartOf,kegg,path:hsa00140,Steroid hormone biosynthesis - Homo sapiens (human)
-267,wikipathways,WP692,Sulfation Biotransformation Reaction,isPartOf,kegg,path:hsa00920,Sulfur metabolism - Homo sapiens (human)
-268,kegg,path:hsa04721,Synaptic vesicle cycle - Homo sapiens (human),equivalentTo,wikipathways,WP2267,Synaptic Vesicle Pathway
-269,kegg,path:hsa00072,Synthesis and degradation of ketone bodies - Homo sapiens (human),equivalentTo,wikipathways,WP311,Synthesis and Degradation of Ketone Bodies
-270,wikipathways,WP69,T-Cell antigen Receptor (TCR)  Signaling Pathway,isPartOf,kegg,path:hsa04660,T cell receptor signaling pathway - Homo sapiens (human)
-271,wikipathways,WP2583,T-Cell Receptor and Co-stimulatory Signaling,isPartOf,kegg,path:hsa04660,T cell receptor signaling pathway - Homo sapiens (human)
-272,kegg,path:hsa04350,TGF-beta signaling pathway - Homo sapiens (human),equivalentTo,wikipathways,WP366,TGF-beta Signaling Pathway
-273,kegg,path:hsa04659,Th17 cell differentiation - Homo sapiens (human),isPartOf,wikipathways,WP2112,IL17 signaling pathway
-274,kegg,path:hsa04659,Th17 cell differentiation - Homo sapiens (human),isPartOf,wikipathways,WP2029,Cell Differentiation - Index
-275,kegg,path:hsa04918,Thyroid hormone synthesis - Homo sapiens (human),equivalentTo,wikipathways,WP1981,Thyroxine (Thyroid Hormone) Production
-276,kegg,path:hsa04620,Toll-like receptor signaling pathway - Homo sapiens (human),equivalentTo,wikipathways,WP75,Toll-like Receptor Signaling Pathway
-277,kegg,path:hsa04620,Toll-like receptor signaling pathway - Homo sapiens (human),equivalentTo,wikipathways,WP3858,Toll-like Receptor Signaling
-278,kegg,path:hsa00380,Tryptophan metabolism - Homo sapiens (human),equivalentTo,wikipathways,WP465,Tryptophan metabolism
-279,kegg,path:hsa04930,Type II diabetes mellitus - Homo sapiens (human),equivalentTo,wikipathways,WP1584,Type II diabetes mellitus
-280,kegg,path:hsa00350,Tyrosine metabolism - Homo sapiens (human),isPartOf,wikipathways,WP3925,Amino Acid metabolism
-281,kegg,path:hsa00350,Tyrosine metabolism - Homo sapiens (human),isPartOf,wikipathways,WP550,Biogenic Amine Synthesis
-282,kegg,path:hsa04120,Ubiquitin mediated proteolysis - Homo sapiens (human),isPartOf,wikipathways,WP2359,Parkin-Ubiquitin Proteasomal System pathway
-283,kegg,path:hsa04120,Ubiquitin mediated proteolysis - Homo sapiens (human),isPartOf,wikipathways,WP183,Proteasome Degradation
-284,wikipathways,WP3943,Robo4 and VEGF Signaling Pathways Crosstalk,isPartOf,kegg,path:hsa04370,VEGF signaling pathway - Homo sapiens (human)
-285,kegg,path:hsa04370,VEGF signaling pathway - Homo sapiens (human),isPartOf,wikipathways,WP3888,VEGFA-VEGFR2 Signaling Pathway
-286,wikipathways,WP3888,VEGFA-VEGFR2 Signaling Pathway,isPartOf,kegg,path:hsa04370,VEGF signaling pathway - Homo sapiens (human)
-287,kegg,path:hsa00290,"Valine, leucine and isoleucine biosynthesis - Homo sapiens (human)",isPartOf,wikipathways,WP3925,Amino Acid metabolism
-288,kegg,path:hsa00280,"Valine, leucine and isoleucine degradation - Homo sapiens (human)",isPartOf,wikipathways,WP3925,Amino Acid metabolism
-289,wikipathways,WP2197,Endothelin Pathways,isPartOf,kegg,path:hsa04270,Vascular smooth muscle contraction - Homo sapiens (human)
-290,wikipathways,WP1533,Vitamin B12 Metabolism,isPartOf,kegg,path:hsa04977,Vitamin digestion and absorption - Homo sapiens (human)
-291,kegg,path:hsa04310,Wnt signaling pathway - Homo sapiens (human),equivalentTo,wikipathways,WP428,Wnt Signaling Pathway
-292,wikipathways,WP399,Wnt Signaling Pathway and Pluripotency,isPartOf,kegg,path:hsa04310,Wnt signaling pathway - Homo sapiens (human)
-293,kegg,path:hsa00410,beta-Alanine metabolism - Homo sapiens (human),isPartOf,wikipathways,WP497,Urea cycle and metabolism of amino groups
-294,kegg,path:hsa00410,beta-Alanine metabolism - Homo sapiens (human),isPartOf,wikipathways,WP550,Biogenic Amine Synthesis
-295,kegg,path:hsa00410,beta-Alanine metabolism - Homo sapiens (human),isPartOf,wikipathways,WP106,Alanine and aspartate metabolism
-296,kegg,path:hsa00410,beta-Alanine metabolism - Homo sapiens (human),isPartOf,wikipathways,WP3925,Amino Acid metabolism
-297,kegg,path:hsa04150,mTOR signaling pathway - Homo sapiens (human),equivalentTo,wikipathways,WP1471,Target Of Rapamycin (TOR) Signaling
-298,kegg,path:hsa04150,mTOR signaling pathway - Homo sapiens (human),isPartOf,wikipathways,WP4172,PI3K-Akt Signaling Pathway
-299,kegg,path:hsa04150,mTOR signaling pathway - Homo sapiens (human),isPartOf,wikipathways,WP3844,PI3K-AKT-mTOR signaling pathway and therapeutic opportunities
-300,kegg,path:hsa04150,mTOR signaling pathway - Homo sapiens (human),isPartOf,wikipathways,WP3932,Focal Adhesion-PI3K-Akt-mTOR-signaling pathway
+Source Resource,Source ID,Source Name,Mapping Type,Target Resource,Target ID,Target Name
+kegg,path:hsa01210,2-Oxocarboxylic acid metabolism - Homo sapiens (human),isPartOf,wikipathways,WP3925,Amino Acid metabolism
+kegg,path:hsa04152,AMPK signaling pathway - Homo sapiens (human),equivalentTo,wikipathways,WP1403,AMP-activated Protein Kinase (AMPK) Signaling
+wikipathways,WP3934,Leptin and adiponectin,isPartOf,kegg,path:hsa04920,Adipocytokine signaling pathway - Homo sapiens (human)
+kegg,path:hsa00250,"Alanine, aspartate and glutamate metabolism - Homo sapiens (human)",isPartOf,wikipathways,WP3925,Amino Acid metabolism
+wikipathways,WP106,Alanine and aspartate metabolism,isPartOf,kegg,path:hsa00250,"Alanine, aspartate and glutamate metabolism - Homo sapiens (human)"
+kegg,path:hsa05034,Alcoholism - Homo sapiens (human),isPartOf,wikipathways,WP2636,Common Pathways Underlying Drug Addiction
+kegg,path:hsa04925,Aldosterone synthesis and secretion - Homo sapiens (human),isPartOf,wikipathways,WP237,Glucocorticoid and Mineralcorticoid Metabolism
+kegg,path:hsa05330,Allograft rejection - Homo sapiens (human),equivalentTo,wikipathways,WP2328,Allograft Rejection
+kegg,path:hsa05010,Alzheimer disease - Homo sapiens (human),equivalentTo,wikipathways,WP2059,Alzheimers Disease
+kegg,path:hsa05031,Amphetamine addiction - Homo sapiens (human),isPartOf,wikipathways,WP2636,Common Pathways Underlying Drug Addiction
+kegg,path:hsa05014,Amyotrophic lateral sclerosis (ALS) - Homo sapiens (human),equivalentTo,wikipathways,WP2447,Amyotrophic lateral sclerosis (ALS)
+kegg,path:hsa04210,Apoptosis - Homo sapiens (human),equivalentTo,wikipathways,WP254,Apoptosis
+wikipathways,WP384,Apoptosis Modulation by HSP70,isPartOf,kegg,path:hsa04210,Apoptosis - Homo sapiens (human)
+wikipathways,WP2507,Nanomaterial induced apoptosis,isPartOf,kegg,path:hsa04210,Apoptosis - Homo sapiens (human)
+wikipathways,WP1772,Apoptosis Modulation and Signaling,isPartOf,kegg,path:hsa04210,Apoptosis - Homo sapiens (human)
+wikipathways,WP2507,Nanomaterial induced apoptosis,isPartOf,kegg,path:hsa04215,Apoptosis - multiple species - Homo sapiens (human)
+wikipathways,WP384,Apoptosis Modulation by HSP70,isPartOf,kegg,path:hsa04215,Apoptosis - multiple species - Homo sapiens (human)
+wikipathways,WP1772,Apoptosis Modulation and Signaling,isPartOf,kegg,path:hsa04215,Apoptosis - multiple species - Homo sapiens (human)
+kegg,path:hsa00330,Arginine and proline metabolism - Homo sapiens (human),isPartOf,wikipathways,WP3925,Amino Acid metabolism
+kegg,path:hsa00330,Arginine and proline metabolism - Homo sapiens (human),isPartOf,wikipathways,WP497,Urea cycle and metabolism of amino groups
+kegg,path:hsa00220,Arginine biosynthesis - Homo sapiens (human),isPartOf,wikipathways,WP3925,Amino Acid metabolism
+kegg,path:hsa00220,Arginine biosynthesis - Homo sapiens (human),isPartOf,wikipathways,WP497,Urea cycle and metabolism of amino groups
+kegg,path:hsa05412,Arrhythmogenic right ventricular cardiomyopathy (ARVC) - Homo sapiens (human),equivalentTo,wikipathways,WP2118,Arrhythmogenic Right Ventricular Cardiomyopathy
+kegg,path:hsa04662,B cell receptor signaling pathway - Homo sapiens (human),equivalentTo,wikipathways,WP23,B Cell Receptor Signaling Pathway
+wikipathways,WP405,Eukaryotic Transcription Initiation,isPartOf,kegg,path:hsa03022,Basal transcription factors - Homo sapiens (human)
+wikipathways,WP2289,Drug Induction of Bile Acid Pathway,isPartOf,kegg,path:hsa04976,Bile secretion - Homo sapiens (human)
+wikipathways,WP106,Alanine and aspartate metabolism,isPartOf,kegg,path:hsa01230,Biosynthesis of amino acids - Homo sapiens (human)
+wikipathways,WP497,Urea cycle and metabolism of amino groups,isPartOf,kegg,path:hsa01230,Biosynthesis of amino acids - Homo sapiens (human)
+kegg,path:hsa01040,Biosynthesis of unsaturated fatty acids - Homo sapiens (human),isPartOf,wikipathways,WP357,Fatty Acid Biosynthesis
+kegg,path:hsa05219,Bladder cancer - Homo sapiens (human),equivalentTo,wikipathways,WP2828,Bladder Cancer
+kegg,path:hsa00232,Caffeine metabolism - Homo sapiens (human),isPartOf,wikipathways,WP3633,Caffeine and Theobromine metabolism
+wikipathways,WP1946,Cori Cycle,isPartOf,kegg,path:hsa01200,Carbon metabolism - Homo sapiens (human)
+wikipathways,WP134,Pentose Phosphate Pathway,isPartOf,kegg,path:hsa01200,Carbon metabolism - Homo sapiens (human)
+wikipathways,WP534,Glycolysis and Gluconeogenesis,isPartOf,kegg,path:hsa01200,Carbon metabolism - Homo sapiens (human)
+wikipathways,WP78,TCA Cycle,isPartOf,kegg,path:hsa01200,Carbon metabolism - Homo sapiens (human)
+wikipathways,WP241,One Carbon Metabolism,isPartOf,kegg,path:hsa01200,Carbon metabolism - Homo sapiens (human)
+kegg,path:hsa04110,Cell cycle - Homo sapiens (human),equivalentTo,wikipathways,WP179,Cell Cycle
+wikipathways,WP45,G1 to S cell cycle control,isPartOf,kegg,path:hsa04110,Cell cycle - Homo sapiens (human)
+kegg,path:hsa04062,Chemokine signaling pathway - Homo sapiens (human),equivalentTo,wikipathways,WP3929,Chemokine signaling pathway
+wikipathways,WP197,Cholesterol Biosynthesis,isPartOf,kegg,path:hsa04979,Cholesterol metabolism - Homo sapiens (human)
+wikipathways,WP3640,Imatinib and Chronic Myeloid Leukemia,isPartOf,kegg,path:hsa05220,Chronic myeloid leukemia - Homo sapiens (human)
+wikipathways,WP3594,Circadian rythm related genes,isPartOf,kegg,path:hsa04710,Circadian rhythm - Homo sapiens (human)
+kegg,path:hsa00020,Citrate cycle (TCA cycle) - Homo sapiens (human),equivalentTo,wikipathways,WP78,TCA Cycle
+wikipathways,WP2453,TCA Cycle and Deficiency of Pyruvate Dehydrogenase complex (PDHc),isPartOf,kegg,path:hsa00020,Citrate cycle (TCA cycle) - Homo sapiens (human)
+kegg,path:hsa05030,Cocaine addiction - Homo sapiens (human),isPartOf,wikipathways,WP2636,Common Pathways Underlying Drug Addiction
+kegg,path:hsa04610,Complement and coagulation cascades - Homo sapiens (human),equivalentTo,wikipathways,WP558,Complement and Coagulation Cascades
+wikipathways,WP545,Complement Activation,isPartOf,kegg,path:hsa04610,Complement and coagulation cascades - Homo sapiens (human)
+kegg,path:hsa04927,Cortisol synthesis and secretion - Homo sapiens (human),isPartOf,wikipathways,WP237,Glucocorticoid and Mineralcorticoid Metabolism
+kegg,path:hsa00270,Cysteine and methionine metabolism - Homo sapiens (human),isPartOf,wikipathways,WP3925,Amino Acid metabolism
+wikipathways,WP3580,Methionine De Novo and Salvage Pathway,isPartOf,kegg,path:hsa00270,Cysteine and methionine metabolism - Homo sapiens (human)
+kegg,path:hsa04060,Cytokine-cytokine receptor interaction - Homo sapiens (human),isPartOf,wikipathways,WP530,Cytokines and Inflammatory Response
+kegg,path:hsa04060,Cytokine-cytokine receptor interaction - Homo sapiens (human),isPartOf,wikipathways,WP453,Inflammatory Response Pathway
+kegg,path:hsa03030,DNA replication - Homo sapiens (human),equivalentTo,wikipathways,WP466,DNA Replication
+wikipathways,WP1602,Nicotine Activity on Dopaminergic Neurons,isPartOf,kegg,path:hsa04728,Dopaminergic synapse - Homo sapiens (human)
+wikipathways,WP2646,Lidocaine metabolism,isPartOf,kegg,path:hsa00982,Drug metabolism - cytochrome P450 - Homo sapiens (human)
+wikipathways,WP1604,Codeine and Morphine Metabolism,isPartOf,kegg,path:hsa00982,Drug metabolism - cytochrome P450 - Homo sapiens (human)
+wikipathways,WP3871,Valproic acid pathway,isPartOf,kegg,path:hsa00982,Drug metabolism - cytochrome P450 - Homo sapiens (human)
+wikipathways,WP1600,Nicotine Metabolism,isPartOf,kegg,path:hsa00982,Drug metabolism - cytochrome P450 - Homo sapiens (human)
+wikipathways,WP691,Tamoxifen metabolism,isPartOf,kegg,path:hsa00982,Drug metabolism - cytochrome P450 - Homo sapiens (human)
+wikipathways,WP2816,Felbamate Metabolism,isPartOf,kegg,path:hsa00982,Drug metabolism - cytochrome P450 - Homo sapiens (human)
+wikipathways,WP2491,Diclofenac Metabolic Pathway,isPartOf,kegg,path:hsa00982,Drug metabolism - cytochrome P450 - Homo sapiens (human)
+wikipathways,WP1604,Codeine and Morphine Metabolism,isPartOf,kegg,path:hsa00983,Drug metabolism - other enzymes - Homo sapiens (human)
+wikipathways,WP3633,Caffeine and Theobromine metabolism,isPartOf,kegg,path:hsa00983,Drug metabolism - other enzymes - Homo sapiens (human)
+wikipathways,WP698,Glucuronidation,isPartOf,kegg,path:hsa00983,Drug metabolism - other enzymes - Homo sapiens (human)
+wikipathways,WP694,Arylamine metabolism,isPartOf,kegg,path:hsa00983,Drug metabolism - other enzymes - Homo sapiens (human)
+wikipathways,WP2816,Felbamate Metabolism,isPartOf,kegg,path:hsa00983,Drug metabolism - other enzymes - Homo sapiens (human)
+wikipathways,WP2536,Colchicine Metabolic Pathway,isPartOf,kegg,path:hsa00983,Drug metabolism - other enzymes - Homo sapiens (human)
+wikipathways,WP2826,Cocaine metabolism,isPartOf,kegg,path:hsa00983,Drug metabolism - other enzymes - Homo sapiens (human)
+wikipathways,WP2645,Heroin metabolism,isPartOf,kegg,path:hsa00983,Drug metabolism - other enzymes - Homo sapiens (human)
+kegg,path:hsa04512,ECM-receptor interaction - Homo sapiens (human),isPartOf,wikipathways,WP306,Focal Adhesion
+kegg,path:hsa05213,Endometrial cancer - Homo sapiens (human),equivalentTo,wikipathways,WP4155,Endometrial cancer
+kegg,path:hsa04012,ErbB signaling pathway - Homo sapiens (human),equivalentTo,wikipathways,WP673,ErbB Signaling Pathway
+kegg,path:hsa04915,Estrogen signaling pathway - Homo sapiens (human),equivalentTo,wikipathways,WP712,Estrogen signaling pathway
+kegg,path:hsa00061,Fatty acid biosynthesis - Homo sapiens (human),equivalentTo,wikipathways,WP357,Fatty Acid Biosynthesis
+wikipathways,WP206,Fatty Acid Omega Oxidation,isPartOf,kegg,path:hsa00071,Fatty acid degradation - Homo sapiens (human)
+wikipathways,WP1941,Peroxisomal beta-oxidation of tetracosanoyl-CoA,isPartOf,kegg,path:hsa00071,Fatty acid degradation - Homo sapiens (human)
+wikipathways,WP368,Mitochondrial LC-Fatty Acid Beta-Oxidation,isPartOf,kegg,path:hsa00071,Fatty acid degradation - Homo sapiens (human)
+wikipathways,WP143,Fatty Acid Beta Oxidation,isPartOf,kegg,path:hsa00071,Fatty acid degradation - Homo sapiens (human)
+wikipathways,WP1941,Peroxisomal beta-oxidation of tetracosanoyl-CoA,isPartOf,kegg,path:hsa01212,Fatty acid metabolism - Homo sapiens (human)
+wikipathways,WP368,Mitochondrial LC-Fatty Acid Beta-Oxidation,isPartOf,kegg,path:hsa01212,Fatty acid metabolism - Homo sapiens (human)
+wikipathways,WP143,Fatty Acid Beta Oxidation,isPartOf,kegg,path:hsa01212,Fatty acid metabolism - Homo sapiens (human)
+wikipathways,WP357,Fatty Acid Biosynthesis,isPartOf,kegg,path:hsa01212,Fatty acid metabolism - Homo sapiens (human)
+kegg,path:hsa04510,Focal adhesion - Homo sapiens (human),equivalentTo,wikipathways,WP306,Focal Adhesion
+wikipathways,WP4156,"Biosynthesis and regeneration of tetrahydrobiopterin (BH4) and catabolism of phenylalanine, including diseases",isPartOf,kegg,path:hsa00790,Folate biosynthesis - Homo sapiens (human)
+kegg,path:hsa04727,GABAergic synapse - Homo sapiens (human),isPartOf,wikipathways,WP4159,GABA receptor Signaling
+kegg,path:hsa04971,Gastric acid secretion - Homo sapiens (human),equivalentTo,wikipathways,WP2597,Secretion of Hydrochloric Acid in Parietal Cells
+wikipathways,WP2363,Gastric Cancer Network 2,isPartOf,kegg,path:hsa05226,Gastric cancer - Homo sapiens (human)
+wikipathways,WP2361,Gastric Cancer Network 1,isPartOf,kegg,path:hsa05226,Gastric cancer - Homo sapiens (human)
+kegg,path:hsa04922,Glucagon signaling pathway - Homo sapiens (human),isPartOf,wikipathways,WP534,Glycolysis and Gluconeogenesis
+kegg,path:hsa04922,Glucagon signaling pathway - Homo sapiens (human),isPartOf,wikipathways,WP1541,Energy Metabolism
+kegg,path:hsa04922,Glucagon signaling pathway - Homo sapiens (human),isPartOf,wikipathways,WP500,Glycogen Metabolism
+kegg,path:hsa00480,Glutathione metabolism - Homo sapiens (human),equivalentTo,wikipathways,WP100,Glutathione metabolism
+wikipathways,WP2533,Glycerophospholipid Biosynthetic Pathway,isPartOf,kegg,path:hsa00561,Glycerolipid metabolism - Homo sapiens (human)
+wikipathways,WP4153,"Degradation pathway of sphingolipids, including diseases",isPartOf,kegg,path:hsa00561,Glycerolipid metabolism - Homo sapiens (human)
+wikipathways,WP325,Triacylglyceride Synthesis,isPartOf,kegg,path:hsa00561,Glycerolipid metabolism - Homo sapiens (human)
+wikipathways,WP2533,Glycerophospholipid Biosynthetic Pathway,isPartOf,kegg,path:hsa00564,Glycerophospholipid metabolism - Homo sapiens (human)
+wikipathways,WP325,Triacylglyceride Synthesis,isPartOf,kegg,path:hsa00564,Glycerophospholipid metabolism - Homo sapiens (human)
+kegg,path:hsa00260,"Glycine, serine and threonine metabolism - Homo sapiens (human)",isPartOf,wikipathways,WP497,Urea cycle and metabolism of amino groups
+kegg,path:hsa00260,"Glycine, serine and threonine metabolism - Homo sapiens (human)",isPartOf,wikipathways,WP3925,Amino Acid metabolism
+kegg,path:hsa00010,Glycolysis / Gluconeogenesis - Homo sapiens (human),equivalentTo,wikipathways,WP534,Glycolysis and Gluconeogenesis
+kegg,path:hsa00604,Glycosphingolipid biosynthesis - ganglio series - Homo sapiens (human),isPartOf,wikipathways,WP1423,Ganglio Sphingolipid Metabolism
+kegg,path:hsa00603,Glycosphingolipid biosynthesis - globo and isoglobo series - Homo sapiens (human),isPartOf,wikipathways,WP1424,Globo Sphingolipid Metabolism
+kegg,path:hsa05332,Graft-versus-host disease - Homo sapiens (human),isPartOf,wikipathways,WP2328,Allograft Rejection
+kegg,path:hsa04340,Hedgehog signaling pathway - Homo sapiens (human),equivalentTo,wikipathways,WP47,Hedgehog Signaling Pathway
+kegg,path:hsa05225,Hepatocellular carcinoma - Homo sapiens (human),isPartOf,wikipathways,WP3646,Hepatitis C and Hepatocellular Carcinoma
+kegg,path:hsa00340,Histidine metabolism - Homo sapiens (human),isPartOf,wikipathways,WP3925,Amino Acid metabolism
+kegg,path:hsa03440,Homologous recombination - Homo sapiens (human),equivalentTo,wikipathways,WP186,Homologous recombination
+wikipathways,WP3853,ERK Pathway in Huntington's Disease,isPartOf,kegg,path:hsa05016,Huntington's disease - Homo sapiens (human)
+kegg,path:hsa04657,IL-17 signaling pathway - Homo sapiens (human),equivalentTo,wikipathways,WP2112,IL17 signaling pathway
+kegg,path:hsa04931,Insulin resistance - Homo sapiens (human),isPartOf,wikipathways,WP1584,Type II diabetes mellitus
+kegg,path:hsa04931,Insulin resistance - Homo sapiens (human),isPartOf,wikipathways,WP3635,Insulin signalling in human adipocytes (diabetic condition)
+kegg,path:hsa04910,Insulin signaling pathway - Homo sapiens (human),isPartOf,wikipathways,WP3634,Insulin signalling in human adipocytes (normal condition)
+kegg,path:hsa04910,Insulin signaling pathway - Homo sapiens (human),isPartOf,wikipathways,WP661,Glucose Homeostasis
+kegg,path:hsa00785,Lipoic acid metabolism - Homo sapiens (human),isPartOf,wikipathways,WP3965,Lipid Metabolism Pathway
+kegg,path:hsa00310,Lysine degradation - Homo sapiens (human),isPartOf,wikipathways,WP3925,Amino Acid metabolism
+kegg,path:hsa04010,MAPK signaling pathway - Homo sapiens (human),equivalentTo,wikipathways,WP382,MAPK Signaling Pathway
+wikipathways,WP400,p38 MAPK Signaling Pathway,isPartOf,kegg,path:hsa04010,MAPK signaling pathway - Homo sapiens (human)
+wikipathways,WP422,MAPK Cascade,isPartOf,kegg,path:hsa04010,MAPK signaling pathway - Homo sapiens (human)
+wikipathways,WP3633,Caffeine and Theobromine metabolism,isPartOf,kegg,path:hsa01100,Metabolic pathways - Homo sapiens (human)
+wikipathways,WP3645,NAD+ biosynthetic pathways,isPartOf,kegg,path:hsa01100,Metabolic pathways - Homo sapiens (human)
+wikipathways,WP2646,Lidocaine metabolism,isPartOf,kegg,path:hsa01100,Metabolic pathways - Homo sapiens (human)
+wikipathways,WP1946,Cori Cycle,isPartOf,kegg,path:hsa01100,Metabolic pathways - Homo sapiens (human)
+wikipathways,WP98,Prostaglandin Synthesis and Regulation,isPartOf,kegg,path:hsa01100,Metabolic pathways - Homo sapiens (human)
+wikipathways,WP465,Tryptophan metabolism,isPartOf,kegg,path:hsa01100,Metabolic pathways - Homo sapiens (human)
+wikipathways,WP357,Fatty Acid Biosynthesis,isPartOf,kegg,path:hsa01100,Metabolic pathways - Homo sapiens (human)
+wikipathways,WP2645,Heroin metabolism,isPartOf,kegg,path:hsa01100,Metabolic pathways - Homo sapiens (human)
+wikipathways,WP690,Polyol Pathway,isPartOf,kegg,path:hsa01100,Metabolic pathways - Homo sapiens (human)
+wikipathways,WP1423,Ganglio Sphingolipid Metabolism,isPartOf,kegg,path:hsa01100,Metabolic pathways - Homo sapiens (human)
+wikipathways,WP550,Biogenic Amine Synthesis,isPartOf,kegg,path:hsa01100,Metabolic pathways - Homo sapiens (human)
+wikipathways,WP3580,Methionine De Novo and Salvage Pathway,isPartOf,kegg,path:hsa01100,Metabolic pathways - Homo sapiens (human)
+wikipathways,WP694,Arylamine metabolism,isPartOf,kegg,path:hsa01100,Metabolic pathways - Homo sapiens (human)
+wikipathways,WP534,Glycolysis and Gluconeogenesis,isPartOf,kegg,path:hsa01100,Metabolic pathways - Homo sapiens (human)
+wikipathways,WP2436,Dopamine metabolism,isPartOf,kegg,path:hsa01100,Metabolic pathways - Homo sapiens (human)
+wikipathways,WP528,Acetylcholine Synthesis,isPartOf,kegg,path:hsa01100,Metabolic pathways - Homo sapiens (human)
+wikipathways,WP1604,Codeine and Morphine Metabolism,isPartOf,kegg,path:hsa01100,Metabolic pathways - Homo sapiens (human)
+wikipathways,WP311,Synthesis and Degradation of Ketone Bodies,isPartOf,kegg,path:hsa01100,Metabolic pathways - Homo sapiens (human)
+wikipathways,WP2525,Trans-sulfuration and one carbon metabolism,isPartOf,kegg,path:hsa01100,Metabolic pathways - Homo sapiens (human)
+wikipathways,WP100,Glutathione metabolism,isPartOf,kegg,path:hsa01100,Metabolic pathways - Homo sapiens (human)
+wikipathways,WP78,TCA Cycle,isPartOf,kegg,path:hsa01100,Metabolic pathways - Homo sapiens (human)
+wikipathways,WP496,Steroid Biosynthesis,isPartOf,kegg,path:hsa01100,Metabolic pathways - Homo sapiens (human)
+wikipathways,WP167,Eicosanoid Synthesis,isPartOf,kegg,path:hsa01100,Metabolic pathways - Homo sapiens (human)
+wikipathways,WP2485,NAD Biosynthesis II (from tryptophan),isPartOf,kegg,path:hsa01100,Metabolic pathways - Homo sapiens (human)
+wikipathways,WP561,Heme Biosynthesis,isPartOf,kegg,path:hsa01100,Metabolic pathways - Homo sapiens (human)
+wikipathways,WP2333,Trans-sulfuration pathway,isPartOf,kegg,path:hsa01100,Metabolic pathways - Homo sapiens (human)
+wikipathways,WP623,Oxidative phosphorylation,isPartOf,kegg,path:hsa01100,Metabolic pathways - Homo sapiens (human)
+wikipathways,WP4153,"Degradation pathway of sphingolipids, including diseases",isPartOf,kegg,path:hsa01100,Metabolic pathways - Homo sapiens (human)
+wikipathways,WP678,Arachidonate Epoxygenase / Epoxide Hydrolase,isPartOf,kegg,path:hsa01100,Metabolic pathways - Homo sapiens (human)
+wikipathways,WP2878,PPAR Alpha Pathway,isPartOf,kegg,path:hsa01100,Metabolic pathways - Homo sapiens (human)
+wikipathways,WP1941,Peroxisomal beta-oxidation of tetracosanoyl-CoA,isPartOf,kegg,path:hsa01100,Metabolic pathways - Homo sapiens (human)
+wikipathways,WP3644,NAD+ metabolism,isPartOf,kegg,path:hsa01100,Metabolic pathways - Homo sapiens (human)
+wikipathways,WP1422,Sphingolipid Metabolism,isPartOf,kegg,path:hsa01100,Metabolic pathways - Homo sapiens (human)
+wikipathways,WP2453,TCA Cycle and Deficiency of Pyruvate Dehydrogenase complex (PDHc),isPartOf,kegg,path:hsa01100,Metabolic pathways - Homo sapiens (human)
+wikipathways,WP704,Methylation Pathways,isPartOf,kegg,path:hsa01100,Metabolic pathways - Homo sapiens (human)
+wikipathways,WP1600,Nicotine Metabolism,isPartOf,kegg,path:hsa01100,Metabolic pathways - Homo sapiens (human)
+wikipathways,WP325,Triacylglyceride Synthesis,isPartOf,kegg,path:hsa01100,Metabolic pathways - Homo sapiens (human)
+wikipathways,WP229,Irinotecan Pathway,isPartOf,kegg,path:hsa01100,Metabolic pathways - Homo sapiens (human)
+wikipathways,WP404,Nucleotide Metabolism,isPartOf,kegg,path:hsa01100,Metabolic pathways - Homo sapiens (human)
+wikipathways,WP4156,"Biosynthesis and regeneration of tetrahydrobiopterin (BH4) and catabolism of phenylalanine, including diseases",isPartOf,kegg,path:hsa01100,Metabolic pathways - Homo sapiens (human)
+wikipathways,WP696,Benzo(a)pyrene metabolism,isPartOf,kegg,path:hsa01100,Metabolic pathways - Homo sapiens (human)
+wikipathways,WP368,Mitochondrial LC-Fatty Acid Beta-Oxidation,isPartOf,kegg,path:hsa01100,Metabolic pathways - Homo sapiens (human)
+wikipathways,WP3925,Amino Acid metabolism,isPartOf,kegg,path:hsa01100,Metabolic pathways - Homo sapiens (human)
+wikipathways,WP197,Cholesterol Biosynthesis,isPartOf,kegg,path:hsa01100,Metabolic pathways - Homo sapiens (human)
+wikipathways,WP2889,Oxytocin signaling,isPartOf,kegg,path:hsa01100,Metabolic pathways - Homo sapiens (human)
+wikipathways,WP206,Fatty Acid Omega Oxidation,isPartOf,kegg,path:hsa01100,Metabolic pathways - Homo sapiens (human)
+wikipathways,WP500,Glycogen Metabolism,isPartOf,kegg,path:hsa01100,Metabolic pathways - Homo sapiens (human)
+wikipathways,WP2536,Colchicine Metabolic Pathway,isPartOf,kegg,path:hsa01100,Metabolic pathways - Homo sapiens (human)
+wikipathways,WP3869,Cannabinoid receptor signaling,isPartOf,kegg,path:hsa01100,Metabolic pathways - Homo sapiens (human)
+wikipathways,WP3585,Cytosine methylation,isPartOf,kegg,path:hsa01100,Metabolic pathways - Homo sapiens (human)
+wikipathways,WP4210,Tryptophan catabolism leading to NAD+ production,isPartOf,kegg,path:hsa01100,Metabolic pathways - Homo sapiens (human)
+wikipathways,WP43,Oxidation by Cytochrome P450,isPartOf,kegg,path:hsa01100,Metabolic pathways - Homo sapiens (human)
+wikipathways,WP405,Eukaryotic Transcription Initiation,isPartOf,kegg,path:hsa01100,Metabolic pathways - Homo sapiens (human)
+wikipathways,WP3933,Kennedy pathway from Sphingolipids,isPartOf,kegg,path:hsa01100,Metabolic pathways - Homo sapiens (human)
+wikipathways,WP134,Pentose Phosphate Pathway,isPartOf,kegg,path:hsa01100,Metabolic pathways - Homo sapiens (human)
+wikipathways,WP691,Tamoxifen metabolism,isPartOf,kegg,path:hsa01100,Metabolic pathways - Homo sapiens (human)
+wikipathways,WP716,Vitamin A and Carotenoid Metabolism,isPartOf,kegg,path:hsa01100,Metabolic pathways - Homo sapiens (human)
+wikipathways,WP699,Aflatoxin B1 metabolism,isPartOf,kegg,path:hsa01100,Metabolic pathways - Homo sapiens (human)
+wikipathways,WP2190,One carbon donor,isPartOf,kegg,path:hsa01100,Metabolic pathways - Homo sapiens (human)
+wikipathways,WP2533,Glycerophospholipid Biosynthetic Pathway,isPartOf,kegg,path:hsa01100,Metabolic pathways - Homo sapiens (human)
+wikipathways,WP3940,One carbon metabolism and related pathways,isPartOf,kegg,path:hsa01100,Metabolic pathways - Homo sapiens (human)
+wikipathways,WP237,Glucocorticoid and Mineralcorticoid Metabolism,isPartOf,kegg,path:hsa01100,Metabolic pathways - Homo sapiens (human)
+wikipathways,WP241,One Carbon Metabolism,isPartOf,kegg,path:hsa01100,Metabolic pathways - Homo sapiens (human)
+wikipathways,WP1531,Vitamin D Metabolism,isPartOf,kegg,path:hsa01100,Metabolic pathways - Homo sapiens (human)
+wikipathways,WP1424,Globo Sphingolipid Metabolism,isPartOf,kegg,path:hsa01100,Metabolic pathways - Homo sapiens (human)
+wikipathways,WP4022,Pyrimidine metabolism,isPartOf,kegg,path:hsa01100,Metabolic pathways - Homo sapiens (human)
+wikipathways,WP106,Alanine and aspartate metabolism,isPartOf,kegg,path:hsa01100,Metabolic pathways - Homo sapiens (human)
+wikipathways,WP3965,Lipid Metabolism Pathway,isPartOf,kegg,path:hsa01100,Metabolic pathways - Homo sapiens (human)
+wikipathways,WP698,Glucuronidation,isPartOf,kegg,path:hsa01100,Metabolic pathways - Homo sapiens (human)
+wikipathways,WP497,Urea cycle and metabolism of amino groups,isPartOf,kegg,path:hsa01100,Metabolic pathways - Homo sapiens (human)
+wikipathways,WP2826,Cocaine metabolism,isPartOf,kegg,path:hsa01100,Metabolic pathways - Homo sapiens (human)
+wikipathways,WP4174,Metabolism of Tetrahydrocannabinol (THC),isPartOf,kegg,path:hsa01100,Metabolic pathways - Homo sapiens (human)
+wikipathways,WP111,Electron Transport Chain,isPartOf,kegg,path:hsa01100,Metabolic pathways - Homo sapiens (human)
+wikipathways,WP697,Estrogen metabolism,isPartOf,kegg,path:hsa01100,Metabolic pathways - Homo sapiens (human)
+wikipathways,WP2491,Diclofenac Metabolic Pathway,isPartOf,kegg,path:hsa01100,Metabolic pathways - Homo sapiens (human)
+wikipathways,WP4142,Metabolism of Spingolipids in ER and Golgi apparatus,isPartOf,kegg,path:hsa01100,Metabolic pathways - Homo sapiens (human)
+wikipathways,WP2816,Felbamate Metabolism,isPartOf,kegg,path:hsa01100,Metabolic pathways - Homo sapiens (human)
+wikipathways,WP143,Fatty Acid Beta Oxidation,isPartOf,kegg,path:hsa01100,Metabolic pathways - Homo sapiens (human)
+wikipathways,WP176,Folate Metabolism,isPartOf,kegg,path:hsa01100,Metabolic pathways - Homo sapiens (human)
+kegg,path:hsa03430,Mismatch repair - Homo sapiens (human),equivalentTo,wikipathways,WP531,Mismatch repair
+kegg,path:hsa05032,Morphine addiction - Homo sapiens (human),isPartOf,wikipathways,WP2636,Common Pathways Underlying Drug Addiction
+wikipathways,WP2513,Nanoparticle triggered regulated necrosis,isPartOf,kegg,path:hsa04217,Necroptosis - Homo sapiens (human)
+wikipathways,WP501,"GPCRs, Class C Metabotropic glutamate, pheromone",isPartOf,kegg,path:hsa04080,Neuroactive ligand-receptor interaction - Homo sapiens (human)
+wikipathways,WP334,"GPCRs, Class B Secretin-like",isPartOf,kegg,path:hsa04080,Neuroactive ligand-receptor interaction - Homo sapiens (human)
+wikipathways,WP247,Small Ligand GPCRs,isPartOf,kegg,path:hsa04080,Neuroactive ligand-receptor interaction - Homo sapiens (human)
+wikipathways,WP24,Peptide GPCRs,isPartOf,kegg,path:hsa04080,Neuroactive ligand-receptor interaction - Homo sapiens (human)
+wikipathways,WP58,Monoamine GPCRs,isPartOf,kegg,path:hsa04080,Neuroactive ligand-receptor interaction - Homo sapiens (human)
+wikipathways,WP455,"GPCRs, Class A Rhodopsin-like",isPartOf,kegg,path:hsa04080,Neuroactive ligand-receptor interaction - Homo sapiens (human)
+wikipathways,WP2485,NAD Biosynthesis II (from tryptophan),isPartOf,kegg,path:hsa00760,Nicotinate and nicotinamide metabolism - Homo sapiens (human)
+wikipathways,WP4210,Tryptophan catabolism leading to NAD+ production,isPartOf,kegg,path:hsa00760,Nicotinate and nicotinamide metabolism - Homo sapiens (human)
+wikipathways,WP3644,NAD+ metabolism,isPartOf,kegg,path:hsa00760,Nicotinate and nicotinamide metabolism - Homo sapiens (human)
+wikipathways,WP1600,Nicotine Metabolism,isPartOf,kegg,path:hsa00760,Nicotinate and nicotinamide metabolism - Homo sapiens (human)
+wikipathways,WP3645,NAD+ biosynthetic pathways,isPartOf,kegg,path:hsa00760,Nicotinate and nicotinamide metabolism - Homo sapiens (human)
+wikipathways,WP4159,GABA receptor Signaling,isPartOf,kegg,path:hsa05033,Nicotine addiction - Homo sapiens (human)
+wikipathways,WP1602,Nicotine Activity on Dopaminergic Neurons,isPartOf,kegg,path:hsa05033,Nicotine addiction - Homo sapiens (human)
+kegg,path:hsa03450,Non-homologous end-joining - Homo sapiens (human),equivalentTo,wikipathways,WP438,Non-homologous end joining
+kegg,path:hsa04330,Notch signaling pathway - Homo sapiens (human),equivalentTo,wikipathways,WP61,Notch Signaling Pathway
+kegg,path:hsa04330,Notch signaling pathway - Homo sapiens (human),equivalentTo,wikipathways,WP3845,Canonical  and Non-canonical Notch signaling
+wikipathways,WP186,Homologous recombination,isPartOf,kegg,path:hsa03420,Nucleotide excision repair - Homo sapiens (human)
+wikipathways,WP531,Mismatch repair,isPartOf,kegg,path:hsa03420,Nucleotide excision repair - Homo sapiens (human)
+kegg,path:hsa00670,One carbon pool by folate - Homo sapiens (human),isPartOf,wikipathways,WP3940,One carbon metabolism and related pathways
+kegg,path:hsa00670,One carbon pool by folate - Homo sapiens (human),isPartOf,wikipathways,WP2190,One carbon donor
+kegg,path:hsa00670,One carbon pool by folate - Homo sapiens (human),isPartOf,wikipathways,WP241,One Carbon Metabolism
+kegg,path:hsa00670,One carbon pool by folate - Homo sapiens (human),isPartOf,wikipathways,WP176,Folate Metabolism
+wikipathways,WP2018,RANKL/RANK (Receptor activator of NFKB (ligand)) Signaling Pathway,isPartOf,kegg,path:hsa04380,Osteoclast differentiation - Homo sapiens (human)
+kegg,path:hsa00190,Oxidative phosphorylation - Homo sapiens (human),equivalentTo,wikipathways,WP623,Oxidative phosphorylation
+kegg,path:hsa04921,Oxytocin signaling pathway - Homo sapiens (human),equivalentTo,wikipathways,WP2889,Oxytocin signaling
+kegg,path:hsa04151,PI3K-Akt signaling pathway - Homo sapiens (human),equivalentTo,wikipathways,WP4172,PI3K-Akt Signaling Pathway
+kegg,path:hsa03320,PPAR signaling pathway - Homo sapiens (human),equivalentTo,wikipathways,WP3942,PPAR signaling pathway
+wikipathways,WP3679,Cell-type Dependent Selectivity of CCK2R Signaling,isPartOf,kegg,path:hsa04972,Pancreatic secretion - Homo sapiens (human)
+kegg,path:hsa05012,Parkinson's disease - Homo sapiens (human),equivalentTo,wikipathways,WP2371,Parkinsons Disease Pathway
+kegg,path:hsa05130,Pathogenic Escherichia coli infection - Homo sapiens (human),equivalentTo,wikipathways,WP2272,Pathogenic Escherichia coli infection
+wikipathways,WP1971,Integrated Cancer Pathway,isPartOf,kegg,path:hsa05200,Pathways in cancer - Homo sapiens (human)
+wikipathways,WP2828,Bladder Cancer,isPartOf,kegg,path:hsa05200,Pathways in cancer - Homo sapiens (human)
+wikipathways,WP2261,Signaling Pathways in Glioblastoma,isPartOf,kegg,path:hsa05200,Pathways in cancer - Homo sapiens (human)
+kegg,path:hsa00040,Pentose and glucuronate interconversions - Homo sapiens (human),isPartOf,wikipathways,WP698,Glucuronidation
+kegg,path:hsa00030,Pentose phosphate pathway - Homo sapiens (human),equivalentTo,wikipathways,WP134,Pentose Phosphate Pathway
+kegg,path:hsa00030,Pentose phosphate pathway - Homo sapiens (human),isPartOf,wikipathways,WP534,Glycolysis and Gluconeogenesis
+wikipathways,WP1941,Peroxisomal beta-oxidation of tetracosanoyl-CoA,isPartOf,kegg,path:hsa04146,Peroxisome - Homo sapiens (human)
+kegg,path:hsa00360,Phenylalanine metabolism - Homo sapiens (human),isPartOf,wikipathways,WP3925,Amino Acid metabolism
+kegg,path:hsa00360,Phenylalanine metabolism - Homo sapiens (human),isPartOf,wikipathways,WP550,Biogenic Amine Synthesis
+kegg,path:hsa00400,"Phenylalanine, tyrosine and tryptophan biosynthesis - Homo sapiens (human)",isPartOf,wikipathways,WP550,Biogenic Amine Synthesis
+kegg,path:hsa05020,Prion diseases - Homo sapiens (human),equivalentTo,wikipathways,WP3995,Prion disease pathway
+kegg,path:hsa04917,Prolactin signaling pathway - Homo sapiens (human),equivalentTo,wikipathways,WP2037,Prolactin Signaling Pathway
+kegg,path:hsa03050,Proteasome - Homo sapiens (human),equivalentTo,wikipathways,WP183,Proteasome Degradation
+wikipathways,WP2359,Parkin-Ubiquitin Proteasomal System pathway,isPartOf,kegg,path:hsa03050,Proteasome - Homo sapiens (human)
+kegg,path:hsa00230,Purine metabolism - Homo sapiens (human),isPartOf,wikipathways,WP404,Nucleotide Metabolism
+kegg,path:hsa00230,Purine metabolism - Homo sapiens (human),isPartOf,wikipathways,WP466,DNA Replication
+kegg,path:hsa00230,Purine metabolism - Homo sapiens (human),isPartOf,wikipathways,WP186,Homologous recombination
+kegg,path:hsa00240,Pyrimidine metabolism - Homo sapiens (human),equivalentTo,wikipathways,WP4022,Pyrimidine metabolism
+kegg,path:hsa04622,RIG-I-like receptor signaling pathway - Homo sapiens (human),equivalentTo,wikipathways,WP3865,RIG-I-like Receptor Signaling
+kegg,path:hsa03020,RNA polymerase - Homo sapiens (human),isPartOf,wikipathways,WP405,Eukaryotic Transcription Initiation
+kegg,path:hsa04810,Regulation of actin cytoskeleton - Homo sapiens (human),equivalentTo,wikipathways,WP51,Regulation of Actin Cytoskeleton
+kegg,path:hsa04923,Regulation of lipolysis in adipocytes - Homo sapiens (human),isPartOf,wikipathways,WP3965,Lipid Metabolism Pathway
+wikipathways,WP4205,MET in type 1 papillary renal cell carcinoma,isPartOf,kegg,path:hsa05211,Renal cell carcinoma - Homo sapiens (human)
+wikipathways,WP554,ACE Inhibitor Pathway,isPartOf,kegg,path:hsa04614,Renin-angiotensin system - Homo sapiens (human)
+kegg,path:hsa04723,Retrograde endocannabinoid signaling - Homo sapiens (human),isPartOf,wikipathways,WP3869,Cannabinoid receptor signaling
+wikipathways,WP477,Cytoplasmic Ribosomal Proteins,isPartOf,kegg,path:hsa03010,Ribosome - Homo sapiens (human)
+kegg,path:hsa04130,SNARE interactions in vesicular transport - Homo sapiens (human),isPartOf,wikipathways,WP2267,Synaptic Vesicle Pathway
+kegg,path:hsa00450,Selenocompound metabolism - Homo sapiens (human),equivalentTo,wikipathways,WP28,Selenium Metabolism and Selenoproteins
+wikipathways,WP732,Serotonin Receptor 2 and ELK-SRF/GATA4 signaling,isPartOf,kegg,path:hsa04726,Serotonergic synapse - Homo sapiens (human)
+wikipathways,WP733,Serotonin Receptor 2 and STAT3 Signaling,isPartOf,kegg,path:hsa04726,Serotonergic synapse - Homo sapiens (human)
+wikipathways,WP3931,ESC Pluripotency Pathways,isPartOf,kegg,path:hsa04550,Signaling pathways regulating pluripotency of stem cells - Homo sapiens (human)
+kegg,path:hsa00600,Sphingolipid metabolism - Homo sapiens (human),equivalentTo,wikipathways,WP1422,Sphingolipid Metabolism
+kegg,path:hsa00600,Sphingolipid metabolism - Homo sapiens (human),isPartOf,wikipathways,WP1422,Sphingolipid Metabolism
+kegg,path:hsa04071,Sphingolipid signaling pathway - Homo sapiens (human),isPartOf,wikipathways,WP1422,Sphingolipid Metabolism
+kegg,path:hsa03040,Spliceosome - Homo sapiens (human),isPartOf,wikipathways,WP411,mRNA Processing
+kegg,path:hsa00100,Steroid biosynthesis - Homo sapiens (human),equivalentTo,wikipathways,WP496,Steroid Biosynthesis
+wikipathways,WP237,Glucocorticoid and Mineralcorticoid Metabolism,isPartOf,kegg,path:hsa00140,Steroid hormone biosynthesis - Homo sapiens (human)
+wikipathways,WP692,Sulfation Biotransformation Reaction,isPartOf,kegg,path:hsa00920,Sulfur metabolism - Homo sapiens (human)
+kegg,path:hsa04721,Synaptic vesicle cycle - Homo sapiens (human),equivalentTo,wikipathways,WP2267,Synaptic Vesicle Pathway
+kegg,path:hsa00072,Synthesis and degradation of ketone bodies - Homo sapiens (human),equivalentTo,wikipathways,WP311,Synthesis and Degradation of Ketone Bodies
+wikipathways,WP69,T-Cell antigen Receptor (TCR)  Signaling Pathway,isPartOf,kegg,path:hsa04660,T cell receptor signaling pathway - Homo sapiens (human)
+wikipathways,WP2583,T-Cell Receptor and Co-stimulatory Signaling,isPartOf,kegg,path:hsa04660,T cell receptor signaling pathway - Homo sapiens (human)
+kegg,path:hsa04350,TGF-beta signaling pathway - Homo sapiens (human),equivalentTo,wikipathways,WP366,TGF-beta Signaling Pathway
+kegg,path:hsa04659,Th17 cell differentiation - Homo sapiens (human),isPartOf,wikipathways,WP2112,IL17 signaling pathway
+kegg,path:hsa04659,Th17 cell differentiation - Homo sapiens (human),isPartOf,wikipathways,WP2029,Cell Differentiation - Index
+kegg,path:hsa04918,Thyroid hormone synthesis - Homo sapiens (human),equivalentTo,wikipathways,WP1981,Thyroxine (Thyroid Hormone) Production
+kegg,path:hsa04620,Toll-like receptor signaling pathway - Homo sapiens (human),equivalentTo,wikipathways,WP75,Toll-like Receptor Signaling Pathway
+kegg,path:hsa04620,Toll-like receptor signaling pathway - Homo sapiens (human),equivalentTo,wikipathways,WP3858,Toll-like Receptor Signaling
+kegg,path:hsa00380,Tryptophan metabolism - Homo sapiens (human),equivalentTo,wikipathways,WP465,Tryptophan metabolism
+kegg,path:hsa04930,Type II diabetes mellitus - Homo sapiens (human),equivalentTo,wikipathways,WP1584,Type II diabetes mellitus
+kegg,path:hsa00350,Tyrosine metabolism - Homo sapiens (human),isPartOf,wikipathways,WP3925,Amino Acid metabolism
+kegg,path:hsa00350,Tyrosine metabolism - Homo sapiens (human),isPartOf,wikipathways,WP550,Biogenic Amine Synthesis
+kegg,path:hsa04120,Ubiquitin mediated proteolysis - Homo sapiens (human),isPartOf,wikipathways,WP2359,Parkin-Ubiquitin Proteasomal System pathway
+kegg,path:hsa04120,Ubiquitin mediated proteolysis - Homo sapiens (human),isPartOf,wikipathways,WP183,Proteasome Degradation
+wikipathways,WP3943,Robo4 and VEGF Signaling Pathways Crosstalk,isPartOf,kegg,path:hsa04370,VEGF signaling pathway - Homo sapiens (human)
+kegg,path:hsa04370,VEGF signaling pathway - Homo sapiens (human),isPartOf,wikipathways,WP3888,VEGFA-VEGFR2 Signaling Pathway
+wikipathways,WP3888,VEGFA-VEGFR2 Signaling Pathway,isPartOf,kegg,path:hsa04370,VEGF signaling pathway - Homo sapiens (human)
+kegg,path:hsa00290,"Valine, leucine and isoleucine biosynthesis - Homo sapiens (human)",isPartOf,wikipathways,WP3925,Amino Acid metabolism
+kegg,path:hsa00280,"Valine, leucine and isoleucine degradation - Homo sapiens (human)",isPartOf,wikipathways,WP3925,Amino Acid metabolism
+wikipathways,WP2197,Endothelin Pathways,isPartOf,kegg,path:hsa04270,Vascular smooth muscle contraction - Homo sapiens (human)
+wikipathways,WP1533,Vitamin B12 Metabolism,isPartOf,kegg,path:hsa04977,Vitamin digestion and absorption - Homo sapiens (human)
+kegg,path:hsa04310,Wnt signaling pathway - Homo sapiens (human),equivalentTo,wikipathways,WP428,Wnt Signaling Pathway
+wikipathways,WP399,Wnt Signaling Pathway and Pluripotency,isPartOf,kegg,path:hsa04310,Wnt signaling pathway - Homo sapiens (human)
+kegg,path:hsa00410,beta-Alanine metabolism - Homo sapiens (human),isPartOf,wikipathways,WP497,Urea cycle and metabolism of amino groups
+kegg,path:hsa00410,beta-Alanine metabolism - Homo sapiens (human),isPartOf,wikipathways,WP550,Biogenic Amine Synthesis
+kegg,path:hsa00410,beta-Alanine metabolism - Homo sapiens (human),isPartOf,wikipathways,WP106,Alanine and aspartate metabolism
+kegg,path:hsa00410,beta-Alanine metabolism - Homo sapiens (human),isPartOf,wikipathways,WP3925,Amino Acid metabolism
+kegg,path:hsa04150,mTOR signaling pathway - Homo sapiens (human),equivalentTo,wikipathways,WP1471,Target Of Rapamycin (TOR) Signaling
+kegg,path:hsa04150,mTOR signaling pathway - Homo sapiens (human),isPartOf,wikipathways,WP4172,PI3K-Akt Signaling Pathway
+kegg,path:hsa04150,mTOR signaling pathway - Homo sapiens (human),isPartOf,wikipathways,WP3844,PI3K-AKT-mTOR signaling pathway and therapeutic opportunities
+kegg,path:hsa04150,mTOR signaling pathway - Homo sapiens (human),isPartOf,wikipathways,WP3932,Focal Adhesion-PI3K-Akt-mTOR-signaling pathway
