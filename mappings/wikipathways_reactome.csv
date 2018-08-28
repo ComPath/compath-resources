@@ -28,7 +28,7 @@ reactome,R-HSA-5357769,Caspase activation via extrinsic apoptotic signalling pat
 reactome,R-HSA-6803207,TP53 Regulates Transcription of Caspase Activators and Caspases,isPartOf,wikipathways,WP1772,Apoptosis Modulation and Signaling;
 reactome,R-HSA-5218900,CASP8 activity is inhibited,isPartOf,wikipathways,WP1772,Apoptosis Modulation and Signaling;
 reactome,R-HSA-111471,Apoptotic factor-mediated response,isPartOf,wikipathways,WP1772,Apoptosis Modulation and Signaling;
-reactome,R-HSA-114294,Activation, translocation and oligomerization of BAX,isPartOf,wikipathways,WP1772,Apoptosis Modulation and Signaling;
+"reactome,R-HSA-114294,""Activation, translocation and oligomerization of BAX"",isPartOf,wikipathways,WP1772,Apoptosis Modulation and Signaling";
 reactome,R-HSA-111452,Activation and oligomerization of BAK protein,isPartOf,wikipathways,WP1772,Apoptosis Modulation and Signaling;
 reactome,R-HSA-111453,BH3-only proteins associate with and inactivate anti-apoptotic BCL-2 members,isPartOf,wikipathways,WP1772,Apoptosis Modulation and Signaling;
 wikipathways,WP1772,Apoptosis Modulation and Signaling,isPartOf,reactome,R-HSA-109581,Apoptosis;
