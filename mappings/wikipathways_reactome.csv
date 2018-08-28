@@ -72,7 +72,7 @@ wikipathways,WP3633,Caffeine and Theobromine metabolism,isPartOf,reactome,R-HSA-
 reactome,R-HSA-390648,Muscarinic acetylcholine receptors,isPartOf,wikipathways,WP536,Calcium Regulation in the Cardiac Cell;
 reactome,R-HSA-190827,Transport of connexins along the secretory pathway,isPartOf,wikipathways,WP536,Calcium Regulation in the Cardiac Cell;
 wikipathways,WP3869,Cannabinoid receptor signaling,isPartOf,reactome,R-HSA-162582,Signal Transduction;
-wikipathways,WP3845,Canonical  and Non-canonical Notch signaling,equivalentTo,reactome,R-HSA-9013694,Signaling by NOTCH;
+wikipathways,WP3845,Canonical  and Non-canonical Notch signaling,equivalentTo,reactome,RR-HSA-157118,Signaling by NOTCH;
 reactome,R-HSA-9012852,Signaling by NOTCH3,isPartOf,wikipathways,WP3845,Canonical  and Non-canonical Notch signaling;
 reactome,R-HSA-2979096,NOTCH2 Activation and Transmission of Signal to the Nucleus,isPartOf,wikipathways,WP3845,Canonical  and Non-canonical Notch signaling;
 reactome,R-HSA-9013694,Signaling by NOTCH4,isPartOf,wikipathways,WP3845,Canonical  and Non-canonical Notch signaling;
