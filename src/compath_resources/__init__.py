@@ -2,8 +2,6 @@
 
 """Export functions for ComPath's resources."""
 
-import os
-
 import click
 import pandas as pd
 
@@ -15,20 +13,17 @@ __all__ = [
     'get_bel',
 ]
 
-HERE = os.path.abspath(os.path.dirname(__file__))
-
-MAPPINGS_FOLDER = os.path.join(HERE, 'mappings')
-KEGG_WIKIPATHWAYS = os.path.abspath(os.path.join(MAPPINGS_FOLDER, 'kegg_wikipathways.csv'))
-KEGG_REACTOME = os.path.abspath(os.path.join(MAPPINGS_FOLDER, 'kegg_reactome.csv'))
-WIKIPATHWAYS_REACTOME = os.path.abspath(os.path.join(MAPPINGS_FOLDER, 'wikipathways_reactome.csv'))
+KEGG_WIKIPATHWAYS_URL = 'https://raw.githubusercontent.com/ComPath/resources/master/mappings/kegg_wikipathways.csv'
+KEGG_REACTOME_URL = 'https://raw.githubusercontent.com/ComPath/resources/master/mappings/kegg_reactome.csv'
+WIKIPATHWAYS_REACTOME_URL = 'https://raw.githubusercontent.com/ComPath/resources/master/mappings/wikipathways_reactome.csv'
 
 
 def get_df() -> pd.DataFrame:
     """Get all data in a frame."""
     return pd.concat([
-        pd.read_csv(KEGG_WIKIPATHWAYS),
-        pd.read_csv(KEGG_REACTOME),
-        pd.read_csv(WIKIPATHWAYS_REACTOME),
+        pd.read_csv(KEGG_WIKIPATHWAYS_URL),
+        pd.read_csv(KEGG_REACTOME_URL),
+        pd.read_csv(WIKIPATHWAYS_REACTOME_URL),
     ])
 
 
