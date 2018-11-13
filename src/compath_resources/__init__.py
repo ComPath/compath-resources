@@ -19,7 +19,7 @@ KEGG_WIKIPATHWAYS_URL = 'https://raw.githubusercontent.com/ComPath/resources/mas
 KEGG_REACTOME_URL = 'https://raw.githubusercontent.com/ComPath/resources/master/mappings/kegg_reactome.csv'
 WIKIPATHWAYS_REACTOME_URL = 'https://raw.githubusercontent.com/ComPath/resources/master/mappings/wikipathways_reactome.csv'
 SPECIAL_MAPPINGS_URL = 'https://raw.githubusercontent.com/ComPath/resources/master/mappings/special_mappings.csv'
-
+REACTOME_HIERARCHICAL_MAPPINGS_URL = 'https://raw.githubusercontent.com/ComPath/resources/master/mappings/reactome_hierarchy.csv'
 
 def get_df() -> pd.DataFrame:
     """Get all data in a frame."""
@@ -28,6 +28,7 @@ def get_df() -> pd.DataFrame:
         pd.read_csv(KEGG_REACTOME_URL),
         pd.read_csv(WIKIPATHWAYS_REACTOME_URL),
         pd.read_csv(SPECIAL_MAPPINGS_URL, usecols=list(range(7))),
+        pd.read_csv(REACTOME_HIERARCHICAL_MAPPINGS_URL),
     ])
 
 
