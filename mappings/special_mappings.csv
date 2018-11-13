@@ -1,18 +1,18 @@
 Source Resource,Source ID,Source Name,Mapping Type,Target Resource,Target ID,Target Name,Explanation,Curator
-Wnt signaling pathway,wikipathways,WP428,equivalentTo,Wnt signaling pathway,wikipathways,WP363,"There are two ""Wnt signaling pathway"" in WikiPathways",Daniel
-Notch Signaling Pathway,wikipathways,WP61,equivalentTo,Canonical  and Non-canonical Notch signaling,wikipathways,WP3845,Equivalent pathways,Daniel
-Alanine and aspartate metabolism,wikipathways,WP106,isPartOf,Amino Acid metabolism,wikipathways,WP3925,Two pathways have a hiearchical relationship,Daniel
-Apoptosis Modulation by HSP70,wikipathways,WP384,isPartOf,Apoptosis,wikipathways,WP254,Two pathways have a hiearchical relationship,Daniel
-Apoptosis Modulation and Signaling,wikipathways,WP1772,isPartOf,Apoptosis,wikipathways,WP254,Two pathways have a hiearchical relationship,Daniel
-Nanomaterial induced apoptosis,wikipathways,WP2507,isPartOf,Apoptosis,wikipathways,WP254,Two pathways have a hiearchical relationship,Daniel
-G1 to S cell cycle control,wikipathways,WP45,isPartOf,Cell cycle,wikipathways,WP179,part of the cell cycle,Daniel
-TCA Cycle and Deficiency of Pyruvate Dehydrogenase complex (PDHc),wikipathways,WP2453,isPartOf,TCA Cycle,wikipathways,WP78,Two pathways have a hiearchical relationship,Daniel
-Complement Activation,wikipathways,WP545,isPartOf,Complement and coagulation cascades,wikipathways,WP558,Two pathways have a hiearchical relationship,Daniel
-Toll-like Receptor Signaling Pathway,wikipathways,WP75,equivalentTo,Toll-like Receptor Signaling,wikipathways,WP3858,"There are two ""Toll like receptor signaling pathway"" in WikiPathways",Daniel
-"GPCRs, Class C Metabotropic glutamate, pheromone",wikipathways,WP501,isPartOf,"GPCRs, Other",wikipathways,WP117,Two pathways have a hiearchical relationship,Daniel
-"GPCRs, Class A Rhodopsin-like",wikipathways,WP455,isPartOf,"GPCRs, Other",wikipathways,WP117,Two pathways have a hiearchical relationship,Daniel
-"GPCRs, Class B Secretin-like",wikipathways,WP334,isPartOf,"GPCRs, Other",wikipathways,WP117,Two pathways have a hiearchical relationship,Daniel
-Monoamine GPCRs,wikipathways,WP58,isPartOf,"GPCRs, Class A Rhodopsin-like",wikipathways,WP455,Two pathways have a hiearchical relationship as described in the wikipathway description,Daniel
-MAPK Cascade,wikipathways,WP422,isPartOf,MAPK Signaling Pathway,wikipathways,WP382,"Two pathways have a hiearchical relationship, but could too considered as equivalentTo",Josep
-Aryl Hydrocarbon Receptor Pathway,wikipathways,WP2873,equivalentTo,Aryl Hydrocarbon Receptor,wikipathways,WP2586,Equivalent pathways,Josep
-Apoptosis - Homo sapiens (human),kegg,path:hsa04210,equivalentTo,Apoptosis - multiple species - Homo sapiens (human),kegg,path:hsa04215,Both pathways are associated to Apoptosis pathway of other databases.,
+wikipathways,WP428,Wnt signaling pathway,equivalentTo,wikipathways,WP363,Wnt signaling pathway,"There are two ""Wnt signaling pathway"" in WikiPathways",Daniel
+wikipathways,WP61,Notch Signaling Pathway,equivalentTo,wikipathways,WP3845,Canonical  and Non-canonical Notch signaling,Equivalent pathways,Daniel
+wikipathways,WP106,Alanine and aspartate metabolism,isPartOf,wikipathways,WP3925,Amino Acid metabolism,Two pathways have a hiearchical relationship,Daniel
+wikipathways,WP384,Apoptosis Modulation by HSP70,isPartOf,wikipathways,WP254,Apoptosis,Two pathways have a hiearchical relationship,Daniel
+wikipathways,WP1772,Apoptosis Modulation and Signaling,isPartOf,wikipathways,WP254,Apoptosis,Two pathways have a hiearchical relationship,Daniel
+wikipathways,WP2507,Nanomaterial induced apoptosis,isPartOf,wikipathways,WP254,Apoptosis,Two pathways have a hiearchical relationship,Daniel
+wikipathways,WP45,G1 to S cell cycle control,isPartOf,wikipathways,WP179,Cell cycle,part of the cell cycle,Daniel
+wikipathways,WP2453,TCA Cycle and Deficiency of Pyruvate Dehydrogenase complex (PDHc),isPartOf,wikipathways,WP78,TCA Cycle,Two pathways have a hiearchical relationship,Daniel
+wikipathways,WP545,Complement Activation,isPartOf,wikipathways,WP558,Complement and coagulation cascades,Two pathways have a hiearchical relationship,Daniel
+wikipathways,WP75,Toll-like Receptor Signaling Pathway,equivalentTo,wikipathways,WP3858,Toll-like Receptor Signaling,"There are two ""Toll like receptor signaling pathway"" in WikiPathways",Daniel
+wikipathways,WP501,"GPCRs, Class C Metabotropic glutamate, pheromone",isPartOf,wikipathways,WP117,"GPCRs, Other",Two pathways have a hiearchical relationship,Daniel
+wikipathways,WP455,"GPCRs, Class A Rhodopsin-like",isPartOf,wikipathways,WP117,"GPCRs, Other",Two pathways have a hiearchical relationship,Daniel
+wikipathways,WP334,"GPCRs, Class B Secretin-like",isPartOf,wikipathways,WP117,"GPCRs, Other",Two pathways have a hiearchical relationship,Daniel
+wikipathways,WP58,Monoamine GPCRs,isPartOf,wikipathways,WP455,"GPCRs, Class A Rhodopsin-like",Two pathways have a hiearchical relationship as described in the wikipathway description,Daniel
+wikipathways,WP422,MAPK Cascade,isPartOf,wikipathways,WP382,MAPK Signaling Pathway,"Two pathways have a hiearchical relationship, but could too considered as equivalentTo",Josep
+wikipathways,WP2873,Aryl Hydrocarbon Receptor Pathway,equivalentTo,wikipathways,WP2586,Aryl Hydrocarbon Receptor,Equivalent pathways,Josep
+kegg,path:hsa04210,Apoptosis - Homo sapiens (human),equivalentTo,kegg,path:hsa04215,Apoptosis - multiple species - Homo sapiens (human),Both pathways are associated to Apoptosis pathway of other databases.,
