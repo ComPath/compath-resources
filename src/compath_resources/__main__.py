@@ -2,7 +2,7 @@
 
 """ComPath Resources Main."""
 
-from .__init__ import main
+from compath_resources.cli import main
 
 if __name__ == '__main__':
     main()
