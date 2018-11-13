@@ -1,5 +1,5 @@
-ComPath Resources
-=================
+ComPath Resources |zenodo|
+==========================
 This repository contains the different resources derived or generated using `ComPath <https://github.com/ComPath>`_.
 Among these resources, there are `Jupyter notebooks <https://github.com/ComPath/resources/tree/master/notebooks>`_
 outlining possible analyses that can be made using ComPath plugins as well as the results of the curation effort
@@ -90,3 +90,5 @@ We have distinguished between two types of relationships between pathways (mappi
     :alt: Current version on PyPI
 .. |pypi_license| image:: https://img.shields.io/pypi/l/compath_resources.svg
     :alt: MIT License
+.. |zenodo| image:: https://zenodo.org/badge/132792765.svg
+   :target: https://zenodo.org/badge/latestdoi/132792765
