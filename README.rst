@@ -30,7 +30,7 @@ Download the most recent code from `GitHub <https://github.com/ComPath/resources
 
 .. code-block:: python
 
-   python3 -m pip install git+https://github.com/ComPath/resources.git@develop
+   python3 -m pip install git+https://github.com/ComPath/resources.git@master
     
 Curation (Pathway Mappings)
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~
