@@ -14,7 +14,7 @@ Domingo-Fernández, D., *et al.* (2018). ComPath: An ecosystem for exploring, an
 pathway databases. bioRxiv 353235.
 
 Installation |pypi_version| |python_versions| |pypi_license|
-============================================================
+------------------------------------------------------------
 
 Easiest
 ~~~~~~~
@@ -30,7 +30,7 @@ Download the most recent code from `GitHub <https://github.com/ComPath/resources
 
 .. code-block:: python
 
-   python3 -m pip install git+https://github.com/SmartDataAnalytics/PyKEEN.git@develop
+   python3 -m pip install git+https://github.com/ComPath/resources.git@develop
     
 Curation (Pathway Mappings)
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~
