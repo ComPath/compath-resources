@@ -2,6 +2,8 @@
 
 """Export functions for ComPath's resources."""
 
+import sys
+
 import click
 import pandas as pd
 
@@ -16,6 +18,7 @@ __all__ = [
 KEGG_WIKIPATHWAYS_URL = 'https://raw.githubusercontent.com/ComPath/resources/master/mappings/kegg_wikipathways.csv'
 KEGG_REACTOME_URL = 'https://raw.githubusercontent.com/ComPath/resources/master/mappings/kegg_reactome.csv'
 WIKIPATHWAYS_REACTOME_URL = 'https://raw.githubusercontent.com/ComPath/resources/master/mappings/wikipathways_reactome.csv'
+SPECIAL_MAPPINGS_URL = 'https://raw.githubusercontent.com/ComPath/resources/master/mappings/special_mappings.csv'
 
 
 def get_df() -> pd.DataFrame:
@@ -24,6 +27,7 @@ def get_df() -> pd.DataFrame:
         pd.read_csv(KEGG_WIKIPATHWAYS_URL),
         pd.read_csv(KEGG_REACTOME_URL),
         pd.read_csv(WIKIPATHWAYS_REACTOME_URL),
+        pd.read_csv(SPECIAL_MAPPINGS_URL, usecols=list(range(7))),
     ])
 
 
@@ -57,12 +61,13 @@ def get_bel() -> BELGraph:
 
 
 @click.command()
-@click.option('-o', '--output', type=click.File('w'), help='lol')
-@click.option('-f', '--fmt', type=click.Choice(['bel', 'rdf']))
+@click.option('-o', '--output', help='file path to write', required=True)
+@click.option('-f', '--fmt', type=click.Choice(['bel', 'rdf']), default='bel')
 def main(output, fmt):
     """"""
     if fmt == 'bel':
         graph = get_bel()
+        graph.summarize()
         to_pickle(graph, output)
 
     elif fmt == 'rdf':
