@@ -13,6 +13,25 @@ If you use ComPath in your work, please cite:
 Domingo-Fernández, D., *et al.* (2018). ComPath: An ecosystem for exploring, analyzing, and curating mappings across
 pathway databases. bioRxiv 353235.
 
+Installation |pypi_version| |python_versions| |pypi_license|
+============================================================
+
+Easiest
+~~~~~~~
+Download the latest stable code from `PyPI <https://pypi.python.org/pypi/compath_resources>`_ with:
+
+.. code-block:: python
+
+   python3 -m pip install compath_resources
+
+Get the Latest
+~~~~~~~~~~~~~~~
+Download the most recent code from `GitHub <https://github.com/ComPath/resources>`_ with:
+
+.. code-block:: python
+
+   python3 -m pip install git+https://github.com/SmartDataAnalytics/PyKEEN.git@develop
+    
 Curation (Pathway Mappings)
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~
 The aim of this exercise was to generate mapping files across pathway databases in order to establish relationships
@@ -64,3 +83,10 @@ We have distinguished between two types of relationships between pathways (mappi
   - Subset: The subject (pathway 1) is a subset of pathway 2 (e.g., Reactome pathway hierarchy). 
   - Similarity: same as above
   - Context: same as above
+  
+.. |python_versions| image:: https://img.shields.io/pypi/pyversions/compath_resources.svg
+    :alt: Stable Supported Python Versions
+.. |pypi_version| image:: https://img.shields.io/pypi/v/compath_resources.svg
+    :alt: Current version on PyPI
+.. |pypi_license| image:: https://img.shields.io/pypi/l/compath_resources.svg
+    :alt: MIT License
