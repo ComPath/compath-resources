@@ -14,22 +14,20 @@ __all__ = [
 ]
 
 
-def get_df(reactome=None) -> pd.DataFrame:
+def get_df(reactome: bool = False) -> pd.DataFrame:
     """Get all dataframes.
 
     :param reactome: includes reactome hiearchy
     :return: dataframe with ComPath dataset
     """
-    compath_dataset = pd.concat([
+    dfs = [
         pd.read_csv(KEGG_WIKIPATHWAYS_URL),
         pd.read_csv(KEGG_REACTOME_URL),
         pd.read_csv(WIKIPATHWAYS_REACTOME_URL),
         pd.read_csv(SPECIAL_MAPPINGS_URL, usecols=list(range(7))),
-    ])
+    ]
 
     if reactome:
-        pd.concat([
-            compath_dataset,
-            pd.read_csv(REACTOME_HIERARCHICAL_MAPPINGS_URL),
-        ])
-    return compath_dataset
+        dfs.append(pd.read_csv(REACTOME_HIERARCHICAL_MAPPINGS_URL))
+
+    return pd.concat(dfs)
