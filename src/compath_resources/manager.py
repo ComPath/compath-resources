@@ -3,10 +3,9 @@
 """Managerial and export functions for ComPath's resources."""
 
 from bio2bel.manager.bel_manager import BELManagerMixin
+from compath_resources.parser import get_df
 from pybel import BELGraph
 from pybel.dsl import BiologicalProcess
-
-from compath_resources.parser import get_df
 
 __all__ = [
     'Manager',
@@ -17,7 +16,7 @@ __all__ = [
 class Manager(BELManagerMixin):
     """Manager for ComPath resources."""
 
-    def __init__(self, *args, **kwargs):
+    def __init__(self, *args, **kwargs):  # noqa: D107
         pass
 
     def _get_connection(self):
