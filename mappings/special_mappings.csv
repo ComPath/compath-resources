@@ -15,4 +15,5 @@ wikipathways,WP334,"GPCRs, Class B Secretin-like",isPartOf,wikipathways,WP117,"G
 wikipathways,WP58,Monoamine GPCRs,isPartOf,wikipathways,WP455,"GPCRs, Class A Rhodopsin-like",Two pathways have a hiearchical relationship as described in the wikipathway description,Daniel
 wikipathways,WP422,MAPK Cascade,isPartOf,wikipathways,WP382,MAPK Signaling Pathway,"Two pathways have a hiearchical relationship, but could too considered as equivalentTo",Josep
 wikipathways,WP2873,Aryl Hydrocarbon Receptor Pathway,equivalentTo,wikipathways,WP2586,Aryl Hydrocarbon Receptor,Equivalent pathways,Josep
-kegg,path:hsa04210,Apoptosis - Homo sapiens (human),equivalentTo,kegg,path:hsa04215,Apoptosis - multiple species - Homo sapiens (human),Both pathways are associated to Apoptosis pathway of other databases.,
+kegg,path:hsa04210,Apoptosis - Homo sapiens (human),equivalentTo,kegg,path:hsa04215,Apoptosis - multiple species - Homo sapiens (human),Both pathways are associated to Apoptosis pathway of other databases.,Daniel
+wikipathways,WP47,Hedgehog Signaling Pathway,equivalentTo,wikipathways,WP4249,Hedgehog Signaling Pathway,Equivalent pathways,Daniel
