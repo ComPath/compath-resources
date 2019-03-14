@@ -3,6 +3,7 @@
 """Managerial and export functions for ComPath's resources."""
 
 from bio2bel.manager.bel_manager import BELManagerMixin
+from bio2bel.manager.cli_manager import CliMixin
 from compath_resources.parser import get_df
 from pybel import BELGraph
 from pybel.dsl import BiologicalProcess
@@ -13,18 +14,32 @@ __all__ = [
 ]
 
 
-class Manager(BELManagerMixin):
-    """Manager for ComPath resources."""
+class Manager(BELManagerMixin, CliMixin):
+    """Pathway-pathway equivalences and hierarchies."""
 
     def __init__(self, *args, **kwargs):  # noqa: D107
+        self.graph = get_bel()
+
+    @classmethod
+    def _get_connection(cls):
         pass
 
-    def _get_connection(self):
-        pass
+    def is_populated(self) -> bool:
+        return True
+
+    def summarize(self):
+        return dict(
+            pathways=self.graph.number_of_nodes(),
+            mappings=self.graph.number_of_edges(),
+        )
+
+    def count_relations(self) -> int:
+        """Count the numebr of ComPath mappings."""
+        return self.graph.number_of_edges()
 
     def to_bel(self) -> BELGraph:
         """Convert ComPath to BEL."""
-        return get_bel()
+        return self.graph
 
 
 def get_bel() -> BELGraph:
