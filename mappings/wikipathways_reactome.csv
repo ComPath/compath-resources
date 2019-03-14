@@ -623,3 +623,9 @@ reactome,R-HSA-72203,Processing of Capped Intron-Containing Pre-mRNA,isPartOf,wi
 reactome,R-HSA-77595,Processing of Intronless Pre-mRNAs,isPartOf,wikipathways,WP411,mRNA Processing
 wikipathways,WP2338,miRNA Biogenesis,equivalentTo,reactome,R-HSA-203927,MicroRNA (miRNA) biogenesis
 wikipathways,WP400,p38 MAPK Signaling Pathway,equivalentTo,reactome,R-HSA-171007,p38MAPK events
+wikipathways,WP4524,The alternative pathway of fetal androgen synthesis,isPartOf,reactome,R-HSA-193048,Androgen biosynthesis
+wikipathways,WP4297,Thiamine metabolic pathways,isPartOf,reactome,R-HSA-196819,Vitamin B1 (thiamin) metabolism
+wikipathways,WP4507,Molybdenum cofactor (Moco) biosynthesis,equivalentTo,reactome,R-HSA-947581,Molybdenum cofactor biosynthesis
+wikipathways,WP4506,Tyrosine Metabolism,equivalentTo,reactome,R-HSA-1430728,Metabolism
+wikipathways,WP4506,Tyrosine Metabolism,isPartOf,reactome,R-HSA-71291,Metabolism of amino acids and derivatives
+wikipathways,WP4537,Hippo-Yap signaling pathway,isPartOf,reactome,R-HSA-2028269,Signaling by Hippo
