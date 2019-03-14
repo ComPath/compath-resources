@@ -300,3 +300,12 @@ kegg,path:hsa04150,mTOR signaling pathway - Homo sapiens (human),equivalentTo,wi
 kegg,path:hsa04150,mTOR signaling pathway - Homo sapiens (human),isPartOf,wikipathways,WP4172,PI3K-Akt Signaling Pathway
 kegg,path:hsa04150,mTOR signaling pathway - Homo sapiens (human),isPartOf,wikipathways,WP3844,PI3K-AKT-mTOR signaling pathway and therapeutic opportunities
 kegg,path:hsa04150,mTOR signaling pathway - Homo sapiens (human),isPartOf,wikipathways,WP3932,Focal Adhesion-PI3K-Akt-mTOR-signaling pathway
+wikipathways,WP1495,Glycine Metabolism,isPartOf,kegg,path:hsa00260,Glycine, serine and threonine metabolism - Homo sapiens (human)
+kegg,path:hsa04714,Thermogenesis - Homo sapiens (human),equivalentTo,wikipathways,WP4321,Thermogenesis
+wikipathways,WP4545,Ferroptosis,isPartOf,kegg,path:hsa04979,Cholesterol metabolism - Homo sapiens (human)
+kegg,path:hsa04216,Ferroptosis - Homo sapiens (human),equivalentTo,wikipathways,WP4545,Oxysterols derived from cholesterol
+kegg,path:hsa00730,Thiamine metabolism - Homo sapiens (human),equivalentTo,wikipathways,WP4297,Thiamine metabolic pathways
+wikipathways,WP4504,Cysteine and methionine catabolism,isPartOf,kegg,path:hsa00270,Cysteine and methionine metabolism - Homo sapiens (human)
+wikipathways,WP4507,Molybdenum cofactor (Moco) biosynthesis,isPartOf,kegg,path:hsa00790,Folate biosynthesis - Homo sapiens (human)
+kegg,path:hsa00350,Tyrosine metabolism - Homo sapiens (human),equivalentTo,wikipathways,WP4506,Tyrosine Metabolism
+wikipathways,WP4537,Hippo-Yap signaling pathway,isPartOf,kegg,path:hsa04390,Hippo signaling pathway - Homo sapiens (human)
