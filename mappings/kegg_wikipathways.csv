@@ -300,7 +300,7 @@ kegg,path:hsa04150,mTOR signaling pathway - Homo sapiens (human),equivalentTo,wi
 kegg,path:hsa04150,mTOR signaling pathway - Homo sapiens (human),isPartOf,wikipathways,WP4172,PI3K-Akt Signaling Pathway
 kegg,path:hsa04150,mTOR signaling pathway - Homo sapiens (human),isPartOf,wikipathways,WP3844,PI3K-AKT-mTOR signaling pathway and therapeutic opportunities
 kegg,path:hsa04150,mTOR signaling pathway - Homo sapiens (human),isPartOf,wikipathways,WP3932,Focal Adhesion-PI3K-Akt-mTOR-signaling pathway
-wikipathways,WP1495,Glycine Metabolism,isPartOf,kegg,path:hsa00260,Glycine, serine and threonine metabolism - Homo sapiens (human)
+wikipathways,WP1495,Glycine Metabolism,isPartOf,kegg,path:hsa00260,"Glycine, serine and threonine metabolism - Homo sapiens (human)"
 kegg,path:hsa04714,Thermogenesis - Homo sapiens (human),equivalentTo,wikipathways,WP4321,Thermogenesis
 wikipathways,WP4545,Ferroptosis,isPartOf,kegg,path:hsa04979,Cholesterol metabolism - Homo sapiens (human)
 kegg,path:hsa04216,Ferroptosis - Homo sapiens (human),equivalentTo,wikipathways,WP4545,Oxysterols derived from cholesterol
