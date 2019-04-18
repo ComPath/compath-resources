@@ -11,3 +11,5 @@ Additionally, all the canonical mappings can be downloaded in the ComPath deploy
 and in `RDF <https://github.com/ComPath/curation/blob/master/mappings/compath_mappings.rdf>`_.
 
 *It is important to mention that even more mappings are stored in the database thanks to the ComPath inference system. For example, when a KEGG ot WikiPathways pathway is assigned as equivalent to a Reactome pathway, ComPath uses the Reactome hierarchy to infer new hierarchical mappings and map the super/sub pathways of the Reactome pathway to this corresponding equivalent pathway.*
+
+**Last mapping update, March 2019**
