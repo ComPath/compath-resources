@@ -86,6 +86,7 @@ We have distinguished between two types of relationships between pathways (mappi
 .. |python_versions| image:: https://img.shields.io/pypi/pyversions/compath_resources.svg
     :alt: Stable Supported Python Versions
 .. |pypi_version| image:: https://img.shields.io/pypi/v/compath_resources.svg
+    :target: https://pypi.python.org/pypi/compath_resources
     :alt: Current version on PyPI
 .. |pypi_license| image:: https://img.shields.io/pypi/l/compath_resources.svg
     :alt: MIT License
