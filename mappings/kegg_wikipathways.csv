@@ -173,7 +173,6 @@ wikipathways,WP134,Pentose Phosphate Pathway,isPartOf,kegg,path:hsa01100,Metabol
 wikipathways,WP691,Tamoxifen metabolism,isPartOf,kegg,path:hsa01100,Metabolic pathways - Homo sapiens (human)
 wikipathways,WP716,Vitamin A and Carotenoid Metabolism,isPartOf,kegg,path:hsa01100,Metabolic pathways - Homo sapiens (human)
 wikipathways,WP699,Aflatoxin B1 metabolism,isPartOf,kegg,path:hsa01100,Metabolic pathways - Homo sapiens (human)
-wikipathways,WP2190,One carbon donor,isPartOf,kegg,path:hsa01100,Metabolic pathways - Homo sapiens (human)
 wikipathways,WP2533,Glycerophospholipid Biosynthetic Pathway,isPartOf,kegg,path:hsa01100,Metabolic pathways - Homo sapiens (human)
 wikipathways,WP3940,One carbon metabolism and related pathways,isPartOf,kegg,path:hsa01100,Metabolic pathways - Homo sapiens (human)
 wikipathways,WP237,Glucocorticoid and Mineralcorticoid Metabolism,isPartOf,kegg,path:hsa01100,Metabolic pathways - Homo sapiens (human)
@@ -216,7 +215,6 @@ kegg,path:hsa04330,Notch signaling pathway - Homo sapiens (human),equivalentTo,w
 wikipathways,WP186,Homologous recombination,isPartOf,kegg,path:hsa03420,Nucleotide excision repair - Homo sapiens (human)
 wikipathways,WP531,Mismatch repair,isPartOf,kegg,path:hsa03420,Nucleotide excision repair - Homo sapiens (human)
 kegg,path:hsa00670,One carbon pool by folate - Homo sapiens (human),isPartOf,wikipathways,WP3940,One carbon metabolism and related pathways
-kegg,path:hsa00670,One carbon pool by folate - Homo sapiens (human),isPartOf,wikipathways,WP2190,One carbon donor
 kegg,path:hsa00670,One carbon pool by folate - Homo sapiens (human),isPartOf,wikipathways,WP241,One Carbon Metabolism
 kegg,path:hsa00670,One carbon pool by folate - Homo sapiens (human),isPartOf,wikipathways,WP176,Folate Metabolism
 wikipathways,WP2018,RANKL/RANK (Receptor activator of NFKB (ligand)) Signaling Pathway,isPartOf,kegg,path:hsa04380,Osteoclast differentiation - Homo sapiens (human)
