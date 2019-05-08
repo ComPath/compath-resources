@@ -82,7 +82,6 @@ wikipathways,WP368,Mitochondrial LC-Fatty Acid Beta-Oxidation,isPartOf,kegg,path
 wikipathways,WP143,Fatty Acid Beta Oxidation,isPartOf,kegg,path:hsa01212,Fatty acid metabolism - Homo sapiens (human)
 wikipathways,WP357,Fatty Acid Biosynthesis,isPartOf,kegg,path:hsa01212,Fatty acid metabolism - Homo sapiens (human)
 kegg,path:hsa04510,Focal adhesion - Homo sapiens (human),equivalentTo,wikipathways,WP306,Focal Adhesion
-wikipathways,WP4156,"Biosynthesis and regeneration of tetrahydrobiopterin (BH4) and catabolism of phenylalanine, including diseases",isPartOf,kegg,path:hsa00790,Folate biosynthesis - Homo sapiens (human)
 kegg,path:hsa04727,GABAergic synapse - Homo sapiens (human),isPartOf,wikipathways,WP4159,GABA receptor Signaling
 kegg,path:hsa04971,Gastric acid secretion - Homo sapiens (human),equivalentTo,wikipathways,WP2597,Secretion of Hydrochloric Acid in Parietal Cells
 wikipathways,WP2363,Gastric Cancer Network 2,isPartOf,kegg,path:hsa05226,Gastric cancer - Homo sapiens (human)
@@ -156,7 +155,6 @@ wikipathways,WP1600,Nicotine Metabolism,isPartOf,kegg,path:hsa01100,Metabolic pa
 wikipathways,WP325,Triacylglyceride Synthesis,isPartOf,kegg,path:hsa01100,Metabolic pathways - Homo sapiens (human)
 wikipathways,WP229,Irinotecan Pathway,isPartOf,kegg,path:hsa01100,Metabolic pathways - Homo sapiens (human)
 wikipathways,WP404,Nucleotide Metabolism,isPartOf,kegg,path:hsa01100,Metabolic pathways - Homo sapiens (human)
-wikipathways,WP4156,"Biosynthesis and regeneration of tetrahydrobiopterin (BH4) and catabolism of phenylalanine, including diseases",isPartOf,kegg,path:hsa01100,Metabolic pathways - Homo sapiens (human)
 wikipathways,WP696,Benzo(a)pyrene metabolism,isPartOf,kegg,path:hsa01100,Metabolic pathways - Homo sapiens (human)
 wikipathways,WP368,Mitochondrial LC-Fatty Acid Beta-Oxidation,isPartOf,kegg,path:hsa01100,Metabolic pathways - Homo sapiens (human)
 wikipathways,WP3925,Amino Acid metabolism,isPartOf,kegg,path:hsa01100,Metabolic pathways - Homo sapiens (human)
