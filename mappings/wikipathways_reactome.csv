@@ -56,10 +56,6 @@ reactome,R-HSA-209931,Serotonin and melatonin biosynthesis,isPartOf,wikipathways
 reactome,R-HSA-888590,"GABA synthesis, release, reuptake and degradation",isPartOf,wikipathways,WP550,Biogenic Amine Synthesis
 reactome,R-HSA-209905,Catecholamine biosynthesis,isPartOf,wikipathways,WP550,Biogenic Amine Synthesis
 wikipathways,WP550,Biogenic Amine Synthesis,isPartOf,reactome,R-HSA-1430728,Metabolism
-wikipathways,WP4156,"Biosynthesis and regeneration of tetrahydrobiopterin (BH4) and catabolism of phenylalanine, including diseases",isPartOf,reactome,R-HSA-8978934,Metabolism of cofactors
-wikipathways,WP4156,"Biosynthesis and regeneration of tetrahydrobiopterin (BH4) and catabolism of phenylalanine, including diseases",isPartOf,reactome,R-HSA-1474151,"Tetrahydrobiopterin (BH4) synthesis, recycling, salvage and regulation"
-wikipathways,WP4156,"Biosynthesis and regeneration of tetrahydrobiopterin (BH4) and catabolism of phenylalanine, including diseases",isPartOf,reactome,R-HSA-196854,Metabolism of vitamins and cofactors
-wikipathways,WP4156,"Biosynthesis and regeneration of tetrahydrobiopterin (BH4) and catabolism of phenylalanine, including diseases",isPartOf,reactome,R-HSA-1430728,Metabolism
 reactome,R-HSA-140834,Extrinsic Pathway of Fibrin Clot Formation,isPartOf,wikipathways,WP272,Blood Clotting Cascade
 reactome,R-HSA-75205,Dissolution of Fibrin Clot,isPartOf,wikipathways,WP272,Blood Clotting Cascade
 wikipathways,WP272,Blood Clotting Cascade,isPartOf,reactome,R-HSA-109582,Hemostasis
