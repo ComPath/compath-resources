@@ -17,6 +17,8 @@ __all__ = [
 class Manager(BELManagerMixin, CliMixin):
     """Pathway-pathway equivalences and hierarchies."""
 
+    module_name = 'compath'
+
     def __init__(self, *args, **kwargs):  # noqa: D107
         self.graph = get_bel()
 
