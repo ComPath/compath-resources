@@ -1,5 +1,5 @@
 Mapping Between Pathway Databases
----------------------------------
+=================================
 
 Three mapping files are stored in this package, one for each pairwise comparison:
 
