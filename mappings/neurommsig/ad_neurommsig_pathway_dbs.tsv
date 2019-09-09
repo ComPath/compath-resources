@@ -66,8 +66,8 @@ Interleukin signaling subgraph	NEUROMMSIG64				NEUROMMSIG130	NEUROMMSIG201
 JAK-STAT signaling subgraph	NEUROMMSIG65	hsa04630				
 Leptin subgraph	NEUROMMSIG66		R-HSA-2586552	WP2034		
 Lipid metabolism subgraph	NEUROMMSIG67		R-HSA-556833	WP3965	NEUROMMSIG160	
-MAPK-JNK subgraph	NEUROMMSIG68					NEUROMMSIG204
-MAPK-ERK subgraph	NEUROMMSIG69					
+MAPK-JNK subgraph	NEUROMMSIG68					
+MAPK-ERK subgraph	NEUROMMSIG69					NEUROMMSIG204
 Matrix metalloproteinase subgraph	NEUROMMSIG70			WP129	NEUROMMSIG162	
 Metabolism of steroid hormones subgraph	NEUROMMSIG71		R-HSA-196071			
 Mitochondrial translocation subgraph	NEUROMMSIG72					
@@ -109,7 +109,7 @@ Vascular endothelial growth factor subgraph	NEUROMMSIG107				NEUROMMSIG185
 Vitamin subgraph	NEUROMMSIG108				NEUROMMSIG186	
 Wnt signaling subgraph	NEUROMMSIG109	hsa04310	R-HSA-195721	WP428|WP363	NEUROMMSIG187	NEUROMMSIG218
 Androgen subgraph	NEUROMMSIG110					
-Energy metabolic pathway	NEUROMMSIG111			WP1541		NEUROMMSIG194
+Energy metabolic pathway	NEUROMMSIG111			WP1541	NEUROMMSIG152	NEUROMMSIG194
 Hydrogen peroxide subgraph	NEUROMMSIG112					
 p53 stabilization subgraph	NEUROMMSIG113		R-HSA-5633007			
 Ubiquitin degradation subgraph	NEUROMMSIG114	hsa04120				
