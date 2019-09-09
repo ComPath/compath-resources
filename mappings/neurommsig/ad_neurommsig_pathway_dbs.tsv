@@ -1,125 +1,125 @@
-NeuroMMSig Name	NeuroMMSig ID	KEGG ID	Reactome ID	WikiPathways ID	NeuroMMSig PD ID
-Amyloidogenic subgraph	NEUROMMSIG1				NEUROMMSIG135
-Chemokine signaling subgraph	NEUROMMSIG2	hsa04062		WP3929	
-Endosomal lysosomal subgraph	NEUROMMSIG3				
-Caspase subgraph	NEUROMMSIG4				NEUROMMSIG125
-Axonal guidance subgraph	NEUROMMSIG5				
-Low density lipoprotein subgraph	NEUROMMSIG6				
-Notch signaling subgraph	NEUROMMSIG7	hsa04330	R-HSA-157118	WP61|WP3845	NEUROMMSIG133
-XIAP subgraph	NEUROMMSIG8				
-Eicosanoids signaling subgraph	NEUROMMSIG9				
-Cyclin-CDK subgraph	NEUROMMSIG10				
-Acetylcholine signaling subgraph	NEUROMMSIG11				
-ADAM Metallopeptidase subgraph	NEUROMMSIG12				
-Akt subgraph	NEUROMMSIG13	hsa04151	R-HSA-198203	WP4172	NEUROMMSIG136
-Albumin subgraph	NEUROMMSIG14				
-Alcohol dehydrogenase subgraph	NEUROMMSIG15				
-Alpha 2 macroglobulin subgraph	NEUROMMSIG16				
-Amylin subgraph	NEUROMMSIG17				
-APOE subgraph	NEUROMMSIG18				NEUROMMSIG140
-Apoptosis signaling subgraph	NEUROMMSIG19	hsa04210	R-HSA-109581	WP254	NEUROMMSIG137
-ATP binding cassette transport subgraph	NEUROMMSIG20				
-Autophagy signaling subgraph	NEUROMMSIG21				NEUROMMSIG138
-Axonal transport subgraph	NEUROMMSIG22				
-Bcl-2 subgraph	NEUROMMSIG23				NEUROMMSIG141
-Beta secretase subgraph	NEUROMMSIG24				
-Beta-Catenin subgraph	NEUROMMSIG25				
-Beta-Oxidation of Fatty Acids pathway	NEUROMMSIG26				
-Binding and Uptake of Ligands by Scavenger Receptors	NEUROMMSIG27		R-HSA-2173782		
-Blood vessel dilation subgraph	NEUROMMSIG28				
-Calcium-dependent signal transduction	NEUROMMSIG29				NEUROMMSIG142
-Calpastatin-calpain subgraph	NEUROMMSIG30				
-Calsyntenin subgraph	NEUROMMSIG31				NEUROMMSIG143
-Cell adhesion subgraph	NEUROMMSIG32	hsa04514			
-Cell-cell communication subgraph	NEUROMMSIG33		R-HSA-1500931		
-Cell cycle subgraph	NEUROMMSIG34	hsa04110	R-HSA-1640170	WP179	NEUROMMSIG145
-Chaperone subgraph	NEUROMMSIG35		R-HSA-390466		NEUROMMSIG126
-Cholesterol metabolism subgraph	NEUROMMSIG36	hsa04979			NEUROMMSIG144
-Complement system subgraph	NEUROMMSIG37			WP2806	
-CREB subgraph	NEUROMMSIG38				
-Cortisol subgraph	NEUROMMSIG39	hsa04927			
-Cytokine signaling subgraph	NEUROMMSIG40		R-HSA-1280215	WP530	NEUROMMSIG147
-Disaccharide metabolism subgraph	NEUROMMSIG41				
-DNA synthesis	NEUROMMSIG42				NEUROMMSIG148
-Dopaminergic subgraph	NEUROMMSIG43				NEUROMMSIG149
-DYRK1A subgraph	NEUROMMSIG44				
-Endoplasmic reticulum-Golgi protein export	NEUROMMSIG45				NEUROMMSIG151
-Endothelin subgraph	NEUROMMSIG46				
-Estrogen subgraph	NEUROMMSIG47	hsa04915		WP712	NEUROMMSIG153
-G-protein-mediated signaling	NEUROMMSIG48		R-HSA-112040		NEUROMMSIG158
-GABA subgraph	NEUROMMSIG49		R-HSA-977443	WP4159	NEUROMMSIG156
-Galanin subgraph	NEUROMMSIG50				
-Gamma secretase subgraph	NEUROMMSIG51				
-Gap junctions subgraph	NEUROMMSIG52	hsa04540			
-Glucagon subgraph	NEUROMMSIG53	hsa04922			
-Glutamatergic subgraph	NEUROMMSIG54				
-Glutathione reductase subgraph	NEUROMMSIG55				
-Glycolysis subgraph	NEUROMMSIG56		R-HSA-70171		
-GSK3 subgraph	NEUROMMSIG57				NEUROMMSIG157
-Hypoxia response subgraph	NEUROMMSIG58		R-HSA-1234174		
-Immunoglobulin subgraph	NEUROMMSIG59				
-Inflammatory response subgraph	NEUROMMSIG60			WP453	NEUROMMSIG220
-Innate immune system subgraph	NEUROMMSIG61		R-HSA-168249		NEUROMMSIG159
-Insulin signal transduction	NEUROMMSIG62	hsa04910		WP481	NEUROMMSIG129
-Interferon signaling subgraph	NEUROMMSIG63		R-HSA-909733		NEUROMMSIG128
-Interleukin signaling subgraph	NEUROMMSIG64				NEUROMMSIG130
-JAK-STAT signaling subgraph	NEUROMMSIG65	hsa04630			
-Leptin subgraph	NEUROMMSIG66		R-HSA-2586552	WP2034	
-Lipid metabolism subgraph	NEUROMMSIG67		R-HSA-556833	WP3965	NEUROMMSIG160
-MAPK-JNK subgraph	NEUROMMSIG68				
-MAPK-ERK subgraph	NEUROMMSIG69				
-Matrix metalloproteinase subgraph	NEUROMMSIG70			WP129	NEUROMMSIG162
-Metabolism of steroid hormones subgraph	NEUROMMSIG71		R-HSA-196071		
-Mitochondrial translocation subgraph	NEUROMMSIG72				
-miRNA subgraph	NEUROMMSIG73				NEUROMMSIG132
-mTOR signaling subgraph	NEUROMMSIG74	hsa04150	R-HSA-165159	WP1471	NEUROMMSIG136
-Myeloperoxidase subgraph	NEUROMMSIG75				
-Neurotransmitter release subgraph	NEUROMMSIG76				
-Nerve growth factor subgraph	NEUROMMSIG77				
-Nitric oxide subgraph	NEUROMMSIG78				NEUROMMSIG169
-Non-amyloidogenic subgraph	NEUROMMSIG79				
-Nuclear factor Kappa beta subgraph	NEUROMMSIG80	hsa04064		WP4562	NEUROMMSIG167
-Nucleoside salvage subgraph	NEUROMMSIG81				
-Paroxetine subgraph	NEUROMMSIG82				
-Peroxisome proliferator activated receptor subgraph	NEUROMMSIG83	hsa03320		WP3942	
-Phosphatidylinositol 3 subgraph	NEUROMMSIG84				NEUROMMSIG171
-Plasminogen activator subgraph	NEUROMMSIG85				
-Prostaglandin subgraph	NEUROMMSIG86			WP98	
-Protein biosynthesis subgraph	NEUROMMSIG87				
-Regulation of actin cytoskeleton subgraph	NEUROMMSIG88	hsa04810		WP51	NEUROMMSIG174
-Renin-angiotensin subgraph	NEUROMMSIG89	hsa04614			
-Response DNA damage subgraph	NEUROMMSIG90			WP707	
-Response to oxidative stress	NEUROMMSIG91			WP408	NEUROMMSIG175
-Retinoblastoma subgraph	NEUROMMSIG92				
-Reactive oxygen species subgraph	NEUROMMSIG93				NEUROMMSIG176
-RhoA subgraph	NEUROMMSIG94				NEUROMMSIG134
-Serotonergic subgraph	NEUROMMSIG95	hsa04726			
-Smad subgraph	NEUROMMSIG96				
-Synapse assembly subgraph	NEUROMMSIG97				
-Synaptic vesicle endocytosis subgraph	NEUROMMSIG98				
-Synuclein subgraph	NEUROMMSIG99				NEUROMMSIG177
-T cells signaling	NEUROMMSIG100				
-Sphingolipid metabolic subgraph	NEUROMMSIG101	hsa00600	R-HSA-428157	WP1422	
-Tau protein subgraph	NEUROMMSIG102				NEUROMMSIG178
-TGF-Beta subgraph	NEUROMMSIG103	hsa04350	R-HSA-9006936	WP366	
-Toll like receptor subgraph	NEUROMMSIG104	hsa04620	R-HSA-168898	WP75|WP3858	NEUROMMSIG181
-Tumor necrosis factor subgraph	NEUROMMSIG105	hsa04668	R-HSA-75893		NEUROMMSIG182
-Unfolded protein response subgraph	NEUROMMSIG106		R-HSA-381119		NEUROMMSIG184
-Vascular endothelial growth factor subgraph	NEUROMMSIG107				NEUROMMSIG185
-Vitamin subgraph	NEUROMMSIG108				NEUROMMSIG186
-Wnt signaling subgraph	NEUROMMSIG109	hsa04310	R-HSA-195721	WP428|WP363	NEUROMMSIG187
-Androgen subgraph	NEUROMMSIG110				
-Energy metabolic pathway	NEUROMMSIG111			WP1541	
-Hydrogen peroxide subgraph	NEUROMMSIG112				
-p53 stabilization subgraph	NEUROMMSIG113		R-HSA-5633007		
-Ubiquitin degradation subgraph	NEUROMMSIG114	hsa04120			
-Neuroprotection subgraph	NEUROMMSIG115				
-Lipid peroxidation subgraph	NEUROMMSIG116				
-Free radical formation subgraph	NEUROMMSIG117				
-Reelin signaling subgraph	NEUROMMSIG118		R-HSA-8866376		
-CRH subgraph	NEUROMMSIG119				
-KANSL1 subgraph	NEUROMMSIG120				
-AD T2DM SNPs	NEUROMMSIG121				
-Syndecan subgraph	NEUROMMSIG122		R-HSA-3000170		
-Epigenetic modification subgraph	NEUROMMSIG123				
-DKK1 subgraph	NEUROMMSIG124				
+NeuroMMSig Name	NeuroMMSig ID	KEGG ID	Reactome ID	WikiPathways ID	NeuroMMSig PD ID	NeuroMMSig EP ID
+Amyloidogenic subgraph	NEUROMMSIG1				NEUROMMSIG135	
+Chemokine signaling subgraph	NEUROMMSIG2	hsa04062		WP3929		
+Endosomal lysosomal subgraph	NEUROMMSIG3					
+Caspase subgraph	NEUROMMSIG4				NEUROMMSIG125	
+Axonal guidance subgraph	NEUROMMSIG5					
+Low density lipoprotein subgraph	NEUROMMSIG6					
+Notch signaling subgraph	NEUROMMSIG7	hsa04330	R-HSA-157118	WP61|WP3845	NEUROMMSIG133	NEUROMMSIG210
+XIAP subgraph	NEUROMMSIG8					
+Eicosanoids signaling subgraph	NEUROMMSIG9					
+Cyclin-CDK subgraph	NEUROMMSIG10					
+Acetylcholine signaling subgraph	NEUROMMSIG11					
+ADAM Metallopeptidase subgraph	NEUROMMSIG12					
+Akt subgraph	NEUROMMSIG13	hsa04151	R-HSA-198203	WP4172	NEUROMMSIG136	
+Albumin subgraph	NEUROMMSIG14					
+Alcohol dehydrogenase subgraph	NEUROMMSIG15					
+Alpha 2 macroglobulin subgraph	NEUROMMSIG16					
+Amylin subgraph	NEUROMMSIG17					
+APOE subgraph	NEUROMMSIG18				NEUROMMSIG140	
+Apoptosis signaling subgraph	NEUROMMSIG19	hsa04210	R-HSA-109581	WP254	NEUROMMSIG137	NEUROMMSIG191
+ATP binding cassette transport subgraph	NEUROMMSIG20					
+Autophagy signaling subgraph	NEUROMMSIG21				NEUROMMSIG138	
+Axonal transport subgraph	NEUROMMSIG22					
+Bcl-2 subgraph	NEUROMMSIG23				NEUROMMSIG141	
+Beta secretase subgraph	NEUROMMSIG24					
+Beta-Catenin subgraph	NEUROMMSIG25					
+Beta-Oxidation of Fatty Acids pathway	NEUROMMSIG26					
+Binding and Uptake of Ligands by Scavenger Receptors	NEUROMMSIG27		R-HSA-2173782			
+Blood vessel dilation subgraph	NEUROMMSIG28					
+Calcium-dependent signal transduction	NEUROMMSIG29				NEUROMMSIG142	NEUROMMSIG193
+Calpastatin-calpain subgraph	NEUROMMSIG30					
+Calsyntenin subgraph	NEUROMMSIG31				NEUROMMSIG143	
+Cell adhesion subgraph	NEUROMMSIG32	hsa04514				
+Cell-cell communication subgraph	NEUROMMSIG33		R-HSA-1500931			
+Cell cycle subgraph	NEUROMMSIG34	hsa04110	R-HSA-1640170	WP179	NEUROMMSIG145	
+Chaperone subgraph	NEUROMMSIG35		R-HSA-390466		NEUROMMSIG126	
+Cholesterol metabolism subgraph	NEUROMMSIG36	hsa04979			NEUROMMSIG144	
+Complement system subgraph	NEUROMMSIG37			WP2806		
+CREB subgraph	NEUROMMSIG38					
+Cortisol subgraph	NEUROMMSIG39	hsa04927				
+Cytokine signaling subgraph	NEUROMMSIG40		R-HSA-1280215	WP530	NEUROMMSIG147	
+Disaccharide metabolism subgraph	NEUROMMSIG41					
+DNA synthesis	NEUROMMSIG42				NEUROMMSIG148	
+Dopaminergic subgraph	NEUROMMSIG43				NEUROMMSIG149	
+DYRK1A subgraph	NEUROMMSIG44					
+Endoplasmic reticulum-Golgi protein export	NEUROMMSIG45				NEUROMMSIG151	
+Endothelin subgraph	NEUROMMSIG46					
+Estrogen subgraph	NEUROMMSIG47	hsa04915		WP712	NEUROMMSIG153	
+G-protein-mediated signaling	NEUROMMSIG48		R-HSA-112040		NEUROMMSIG158	NEUROMMSIG195
+GABA subgraph	NEUROMMSIG49		R-HSA-977443	WP4159	NEUROMMSIG156	NEUROMMSIG196
+Galanin subgraph	NEUROMMSIG50					
+Gamma secretase subgraph	NEUROMMSIG51					
+Gap junctions subgraph	NEUROMMSIG52	hsa04540				
+Glucagon subgraph	NEUROMMSIG53	hsa04922				
+Glutamatergic subgraph	NEUROMMSIG54					NEUROMMSIG197
+Glutathione reductase subgraph	NEUROMMSIG55					
+Glycolysis subgraph	NEUROMMSIG56		R-HSA-70171			
+GSK3 subgraph	NEUROMMSIG57				NEUROMMSIG157	
+Hypoxia response subgraph	NEUROMMSIG58		R-HSA-1234174			
+Immunoglobulin subgraph	NEUROMMSIG59					
+Inflammatory response subgraph	NEUROMMSIG60			WP453	NEUROMMSIG220	NEUROMMSIG199
+Innate immune system subgraph	NEUROMMSIG61		R-HSA-168249		NEUROMMSIG159	NEUROMMSIG200
+Insulin signal transduction	NEUROMMSIG62	hsa04910		WP481	NEUROMMSIG129	
+Interferon signaling subgraph	NEUROMMSIG63		R-HSA-909733		NEUROMMSIG128	
+Interleukin signaling subgraph	NEUROMMSIG64				NEUROMMSIG130	NEUROMMSIG201
+JAK-STAT signaling subgraph	NEUROMMSIG65	hsa04630				
+Leptin subgraph	NEUROMMSIG66		R-HSA-2586552	WP2034		
+Lipid metabolism subgraph	NEUROMMSIG67		R-HSA-556833	WP3965	NEUROMMSIG160	
+MAPK-JNK subgraph	NEUROMMSIG68					NEUROMMSIG204
+MAPK-ERK subgraph	NEUROMMSIG69					
+Matrix metalloproteinase subgraph	NEUROMMSIG70			WP129	NEUROMMSIG162	
+Metabolism of steroid hormones subgraph	NEUROMMSIG71		R-HSA-196071			
+Mitochondrial translocation subgraph	NEUROMMSIG72					
+miRNA subgraph	NEUROMMSIG73				NEUROMMSIG132	NEUROMMSIG206
+mTOR signaling subgraph	NEUROMMSIG74	hsa04150	R-HSA-165159	WP1471	NEUROMMSIG136	NEUROMMSIG208
+Myeloperoxidase subgraph	NEUROMMSIG75					
+Neurotransmitter release subgraph	NEUROMMSIG76					NEUROMMSIG209
+Nerve growth factor subgraph	NEUROMMSIG77					
+Nitric oxide subgraph	NEUROMMSIG78				NEUROMMSIG169	
+Non-amyloidogenic subgraph	NEUROMMSIG79					
+Nuclear factor Kappa beta subgraph	NEUROMMSIG80	hsa04064		WP4562	NEUROMMSIG167	
+Nucleoside salvage subgraph	NEUROMMSIG81					
+Paroxetine subgraph	NEUROMMSIG82					
+Peroxisome proliferator activated receptor subgraph	NEUROMMSIG83	hsa03320		WP3942		
+Phosphatidylinositol 3 subgraph	NEUROMMSIG84				NEUROMMSIG171	
+Plasminogen activator subgraph	NEUROMMSIG85					
+Prostaglandin subgraph	NEUROMMSIG86			WP98		
+Protein biosynthesis subgraph	NEUROMMSIG87					
+Regulation of actin cytoskeleton subgraph	NEUROMMSIG88	hsa04810		WP51	NEUROMMSIG174	NEUROMMSIG214
+Renin-angiotensin subgraph	NEUROMMSIG89	hsa04614				
+Response DNA damage subgraph	NEUROMMSIG90			WP707		
+Response to oxidative stress	NEUROMMSIG91			WP408	NEUROMMSIG175	
+Retinoblastoma subgraph	NEUROMMSIG92					
+Reactive oxygen species subgraph	NEUROMMSIG93				NEUROMMSIG176	
+RhoA subgraph	NEUROMMSIG94				NEUROMMSIG134	
+Serotonergic subgraph	NEUROMMSIG95	hsa04726				
+Smad subgraph	NEUROMMSIG96					
+Synapse assembly subgraph	NEUROMMSIG97					
+Synaptic vesicle endocytosis subgraph	NEUROMMSIG98					
+Synuclein subgraph	NEUROMMSIG99				NEUROMMSIG177	
+T cells signaling	NEUROMMSIG100					
+Sphingolipid metabolic subgraph	NEUROMMSIG101	hsa00600	R-HSA-428157	WP1422		
+Tau protein subgraph	NEUROMMSIG102				NEUROMMSIG178	
+TGF-Beta subgraph	NEUROMMSIG103	hsa04350	R-HSA-9006936	WP366		
+Toll like receptor subgraph	NEUROMMSIG104	hsa04620	R-HSA-168898	WP75|WP3858	NEUROMMSIG181	
+Tumor necrosis factor subgraph	NEUROMMSIG105	hsa04668	R-HSA-75893		NEUROMMSIG182	
+Unfolded protein response subgraph	NEUROMMSIG106		R-HSA-381119		NEUROMMSIG184	
+Vascular endothelial growth factor subgraph	NEUROMMSIG107				NEUROMMSIG185	
+Vitamin subgraph	NEUROMMSIG108				NEUROMMSIG186	
+Wnt signaling subgraph	NEUROMMSIG109	hsa04310	R-HSA-195721	WP428|WP363	NEUROMMSIG187	NEUROMMSIG218
+Androgen subgraph	NEUROMMSIG110					
+Energy metabolic pathway	NEUROMMSIG111			WP1541		NEUROMMSIG194
+Hydrogen peroxide subgraph	NEUROMMSIG112					
+p53 stabilization subgraph	NEUROMMSIG113		R-HSA-5633007			
+Ubiquitin degradation subgraph	NEUROMMSIG114	hsa04120				
+Neuroprotection subgraph	NEUROMMSIG115					
+Lipid peroxidation subgraph	NEUROMMSIG116					
+Free radical formation subgraph	NEUROMMSIG117					
+Reelin signaling subgraph	NEUROMMSIG118		R-HSA-8866376			
+CRH subgraph	NEUROMMSIG119					
+KANSL1 subgraph	NEUROMMSIG120					
+AD T2DM SNPs	NEUROMMSIG121					
+Syndecan subgraph	NEUROMMSIG122		R-HSA-3000170			
+Epigenetic modification subgraph	NEUROMMSIG123					
+DKK1 subgraph	NEUROMMSIG124					
