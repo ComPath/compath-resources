@@ -44,6 +44,11 @@ between similar pathways in three of the major pathway databases:
 stable and might have been changed. However, the mapping file distributed by the website contains stable identifiers
 from all resources.*
 
+Update: March 2020
+~~~~~~~~~~~~~~~~~~
+
+Mappings between `PathBank <https://pathbank.org/>`_ and the above- mentioned databases are now available in ComPath.
+
 Mapping Between Pathway Databases
 ---------------------------------
 A total of 3 mapping files are stored in this package, one for each pairwise comparison:
