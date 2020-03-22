@@ -67,7 +67,7 @@ Curation Team
 The curation exercise was conducted under inter-curator agreement in a team formed by:
 
 - Carlos Bobis-Álvarez
-- Josep Marín-Llaó
+- `Josep Marín-Llaó <https://github.com/jmarinllao>`_
 - `Daniel Domingo-Fernández <https://github.com/ddomingof>`_
 
 Mapping Types
