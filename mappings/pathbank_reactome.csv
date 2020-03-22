@@ -38,7 +38,7 @@ pathbank,PW000145,Bile Acid Biosynthesis,isPartOf,reactome,R-HSA-194068,Bile aci
 pathbank,PW000145,Bile Acid Biosynthesis,isPartOf,reactome,R-HSA-192105,Synthesis of bile acids and bile salts 
 pathbank,PW000145,Bile Acid Biosynthesis,isPartOf,reactome,R-HSA-1430728,Metabolism
 pathbank,PW000013,Biotin Metabolism,isPartOf,reactome,R-HSA-196780,Biotin transport and metabolism 
-pathbank,PW122325,Bloch Pathway (Cholesterol Biosynthesis) ,equivalentTo,reactome,R-HSA-6807047,Cholesterol biosynthesis via desmosterol? 
+pathbank,PW122325,Bloch Pathway (Cholesterol Biosynthesis) ,equivalentTo,reactome,R-HSA-6807047,Cholesterol biosynthesis via desmosterol 
 pathbank,PW122325,Bloch Pathway (Cholesterol Biosynthesis) ,isPartOf,reactome,R-HSA-8957322,Metabolism of steroids 
 pathbank,PW122325,Bloch Pathway (Cholesterol Biosynthesis) ,isPartOf,reactome,R-HSA-191273,Cholesterol biosynthesis 
 pathbank,PW122325,Bloch Pathway (Cholesterol Biosynthesis) ,isPartOf,reactome,R-HSA-556833,Metabolism of lipids 
@@ -61,7 +61,7 @@ pathbank,PW000018,Cysteine Metabolism,isPartOf,reactome,R-HSA-1614635,Sulfur ami
 pathbank,PW000018,Cysteine Metabolism,isPartOf,reactome,R-HSA-71291,Metabolism of amino acids and derivatives 
 pathbank,PW000018,Cysteine Metabolism,isPartOf,reactome,R-HSA-1430728,Metabolism 
 pathbank,PW000019,D-Arginine and D-Ornithine Metabolism,isPartOf,reactome,R-HSA-1430728,Metabolism 
-pathbank,PW000456,DNA Replication Fork,isPartOf,reactome,R-HSA-69306,DNA Replication? 
+pathbank,PW000456,DNA Replication Fork,isPartOf,reactome,R-HSA-69306,DNA Replication 
 pathbank,PW016768,De Novo Triacylglycerol Biosynthesis,isPartOf,reactome,R-HSA-75109,Triglyceride biosynthesis 
 pathbank,PW016768,De Novo Triacylglycerol Biosynthesis,isPartOf,reactome,R-HSA-1430728,Metabolism 
 pathbank,PW064815,EGF Signalling Pathway,isPartOf,reactome,R-HSA-162582,Signal Transduction 
@@ -149,8 +149,8 @@ pathbank,PW000171,Mitochondrial Beta-Oxidation of Short Chain Saturated Fatty Ac
 pathbank,PW000171,Mitochondrial Beta-Oxidation of Short Chain Saturated Fatty Acids,isPartOf,reactome,R-HSA-1430728,Metabolism
 pathbank,PW000165,Mitochondrial Electron Transport Chain,equivalentTo,reactome,R-HSA-611105,Respiratory electron transport 
 pathbank,PW000165,Mitochondrial Electron Transport Chain,isPartOf,reactome,R-HSA-1428517,The citric acid (TCA) cycle and respiratory electron transport 
-pathbank,PW000165,Mitochondrial Electron Transport Chain,isPartOf,reactome,R-HSA-163200,"Respiratory electron transport,ATP synthesis by chemiosmotic coupling,and heat production by uncoupling proteins. "
-pathbank,PW064818,NF-kB Signaling Pathway,isPartOf,reactome,R-HSA-209560,NF-kB is activated and signals survival? 
+pathbank,PW000165,Mitochondrial Electron Transport Chain,isPartOf,reactome,R-HSA-163200,"Respiratory electron transport,ATP synthesis by chemiosmotic coupling,and heat production by uncoupling proteins."
+pathbank,PW064818,NF-kB Signaling Pathway,isPartOf,reactome,R-HSA-209560,NF-kB is activated and signals survival 
 pathbank,PW000151,Nicotinate and Nicotinamide Metabolism,isPartOf,reactome,R-HSA-1430728,Metabolism
 reactome,R-HSA-196807,Nicotinate metabolism ,isPartOf,pathbank,PW000151,Nicotinate and Nicotinamide Metabolism
 reactome,R-HSA-197264,Nicotinamide salvaging ,isPartOf,pathbank,PW000151,Nicotinate and Nicotinamide Metabolism
@@ -287,11 +287,11 @@ pathbank,PW000693,Thyroid Hormone Synthesis,equivalentTo,reactome,R-HSA-209968,T
 pathbank,PW064909,Toll-Like Receptor Pathway 1,isPartOf,reactome,R-HSA-168179,Toll Like Receptor TLR1:TLR2 Cascade 
 pathbank,PW070606,Toll-Like Receptor Pathway 2,isPartOf,reactome,R-HSA-168179,Toll Like Receptor TLR1:TLR2 Cascade 
 pathbank,PW000163,Tryptophan Metabolism,isPartOf,reactome,R-HSA-1430728,Metabolism 
-pathbank,PW000163,Tryptophan Metabolism,isPartOf,reactome,R-HSA-6788656,"Histidine,lysine,phenylalanine,tyrosine,proline and tryptophan catabolism "
+pathbank,PW000163,Tryptophan Metabolism,isPartOf,reactome,R-HSA-6788656,"Histidine,lysine,phenylalanine,tyrosine,proline and tryptophan catabolism"
 pathbank,PW000163,Tryptophan Metabolism,isPartOf,reactome,R-HSA-71291,Metabolism of amino acids and derivatives 
 pathbank,PW000163,Tryptophan Metabolism,isPartOf,reactome,R-HSA-70614,Amino acid synthesis and interconversion (transamination) 
 pathbank,PW000142,Tyrosine Metabolism,isPartOf,reactome,R-HSA-1430728,Metabolism 
-pathbank,PW000142,Tyrosine Metabolism,isPartOf,reactome,R-HSA-6788656,"Histidine,lysine,phenylalanine,tyrosine,proline and tryptophan catabolism "
+pathbank,PW000142,Tyrosine Metabolism,isPartOf,reactome,R-HSA-6788656,"Histidine,lysine,phenylalanine,tyrosine,proline and tryptophan catabolism"
 pathbank,PW000142,Tyrosine Metabolism,isPartOf,reactome,R-HSA-71291,Metabolism of amino acids and derivatives 
 pathbank,PW000142,Tyrosine Metabolism,isPartOf,reactome,R-HSA-70614,Amino acid synthesis and interconversion (transamination) 
 pathbank,PW000039,Ubiquinone Biosynthesis,isPartOf,reactome,R-HSA-1430728,Metabolism
