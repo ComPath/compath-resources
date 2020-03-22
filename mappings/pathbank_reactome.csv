@@ -303,10 +303,10 @@ pathbank,PW000051,"Valine,Leucine,and Isoleucine Degradation",isPartOf,reactome,
 pathbank,PW000051,"Valine,Leucine,and Isoleucine Degradation",isPartOf,reactome,R-HSA-71291,Metabolism of amino acids and derivatives
 pathbank,PW000447,Vasopressin Regulation of Water Homeostasis,equivalentTo,reactome,R-HSA-432040,Vasopressin regulates renal water homeostasis via Aquaporins 
 pathbank,PW000053,Vitamin B6 Metabolism,isPartOf,reactome,R-HSA-196849,Metabolism of water-soluble vitamins and cofactors 
-pathbank,PW000053,Vitamin B6 Metabolism,isPartOf,reactome,R-HSA-1430728 ,Metabolism
+pathbank,PW000053,Vitamin B6 Metabolism,isPartOf,reactome,R-HSA-1430728,Metabolism
 pathbank,PW000047,Vitamin K Metabolism,isPartOf,reactome,R-HSA-196854,Metabolism of vitamins and cofactors
-pathbank,PW000047,Vitamin K Metabolism,isPartOf,reactome,R-HSA-1430728 ,Metabolism
+pathbank,PW000047,Vitamin K Metabolism,isPartOf,reactome,R-HSA-1430728,Metabolism
 pathbank,PW078607,WNT Signaling Pathway,equivalentTo,reactome,R-HSA-195721,Signaling by WNT
 pathbank,PW000011,beta-Alanine Metabolism,isPartOf,reactome,R-HSA-71291,Metabolism of amino acids and derivatives 
-pathbank,PW000011,beta-Alanine Metabolism,isPartOf,reactome,R-HSA-1430728 ,Metabolism
+pathbank,PW000011,beta-Alanine Metabolism,isPartOf,reactome,R-HSA-1430728,Metabolism
 pathbank,PW090995,g-Secretase Mediated ErbB4 Signalling Pathway,isPartOf,reactome,R-HSA-1236394,Signaling by ERBB4
