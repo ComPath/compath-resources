@@ -69,6 +69,7 @@ The curation exercise was conducted under inter-curator agreement in a team form
 - Carlos Bobis-Álvarez
 - `Josep Marín-Llaó <https://github.com/jmarinllao>`_
 - `Daniel Domingo-Fernández <https://github.com/ddomingof>`_
+- `Yojana Gadiya <https://github.com/YojanaGadiya>`_
 
 Mapping Types
 -------------
