@@ -2,21 +2,21 @@ Source Resource,Source ID,Source Name,Mapping Type,Target Resource,Target ID,Tar
 pathbank,PW122411,2-Amino-3-carboxymuconate semialdehyde Degradation,isPartOf,reactome,R-HSA-1430728,Metabolism
 pathbank,PW000726,Activation of PKC Through G Protein-Coupled Receptor,isPartOf,reactome,R-HSA-372790,Signaling by GPCR 
 pathbank,PW000726,Activation of PKC Through G Protein-Coupled Receptor,isPartOf,reactome,R-HSA-388396,GPCR downstream signalling 
-pathbank,PW064756,"Activation of cAMP-dependent protein kinase,PKA",isPartOf,reactome,R-HSA-170660,Adenylate cyclase activating pathway
+pathbank,PW064756,Activation of cAMP-dependent protein kinase,PKA,isPartOf,reactome,R-HSA-170660,Adenylate cyclase activating pathway
 pathbank,PW064763,Ahr Signal Transduction Pathway,equivalentTo,reactome,R-HSA-8937144,Aryl hydrocarbon receptor signalling 
 pathbank,PW064763,Ahr Signal Transduction Pathway,isPartOf,reactome,R-HSA-162582,Signal Transduction 
 pathbank,PW000001,Alanine Metabolism,isPartOf,reactome,R-HSA-70614,Amino acid synthesis and interconversion (transamination) 
 pathbank,PW000001,Alanine Metabolism,isPartOf,reactome,R-HSA-71291,Metabolism of amino acids and derivatives 
 pathbank,PW000001,Alanine Metabolism,isPartOf,reactome,R-HSA-1430728,Metabolism
-pathbank,PW122401,Aldosterone from Steroidogenesis ,isPartOf,reactome,R-HSA-1430728,Metabolism
+pathbank,PW122401,Aldosterone from Steroidogenesis,isPartOf,reactome,R-HSA-1430728,Metabolism
 pathbank,PW000006,Alpha Linolenic Acid and Linoleic Acid Metabolism,isPartOf,reactome,R-HSA-556833,Metabolism of lipids 
 pathbank,PW000006,Alpha Linolenic Acid and Linoleic Acid Metabolism,isPartOf,reactome,R-HSA-1430728,Metabolism
-reactome,R-HSA-2046106,alpha-linolenic acid (ALA) metabolism ,isPartOf,pathbank,PW000006,Alpha Linolenic Acid and Linoleic Acid Metabolism
+reactome,R-HSA-2046106,alpha-linolenic acid (ALA) metabolism,isPartOf,pathbank,PW000006,Alpha Linolenic Acid and Linoleic Acid Metabolism
 pathbank,PW064820,Alternative Complement Pathway,equivalentTo,reactome,R-HSA-173736,Alternative complement activation 
 pathbank,PW064820,Alternative Complement Pathway,isPartOf,reactome,R-HSA-166658,Complement cascade 
 pathbank,PW000008,Amino Sugar Metabolism,isPartOf,reactome,R-HSA-1430728,Metabolism
 pathbank,PW000045,Androgen and Estrogen Metabolism,isPartOf,reactome,R-HSA-1430728,Metabolism
-reactome,R-HSA-2022377,Metabolism of Angiotensinogen to Angiotensins ,isPartOf,pathbank,PW000563,Angiotensin Metabolism
+reactome,R-HSA-2022377,Metabolism of Angiotensinogen to Angiotensins,isPartOf,pathbank,PW000563,Angiotensin Metabolism
 pathbank,PW000044,Arachidonic Acid Metabolism,equivalentTo,reactome,R-HSA-2142753,Arachidonic acid metabolism 
 pathbank,PW000010,Arginine and Proline Metabolism,isPartOf,reactome,R-HSA-70614,Amino acid synthesis and interconversion (transamination) 
 pathbank,PW000010,Arginine and Proline Metabolism,isPartOf,reactome,R-HSA-71291,Metabolism of amino acids and derivatives 
@@ -38,23 +38,23 @@ pathbank,PW000145,Bile Acid Biosynthesis,isPartOf,reactome,R-HSA-194068,Bile aci
 pathbank,PW000145,Bile Acid Biosynthesis,isPartOf,reactome,R-HSA-192105,Synthesis of bile acids and bile salts 
 pathbank,PW000145,Bile Acid Biosynthesis,isPartOf,reactome,R-HSA-1430728,Metabolism
 pathbank,PW000013,Biotin Metabolism,isPartOf,reactome,R-HSA-196780,Biotin transport and metabolism 
-pathbank,PW122325,Bloch Pathway (Cholesterol Biosynthesis) ,equivalentTo,reactome,R-HSA-6807047,Cholesterol biosynthesis via desmosterol 
-pathbank,PW122325,Bloch Pathway (Cholesterol Biosynthesis) ,isPartOf,reactome,R-HSA-8957322,Metabolism of steroids 
-pathbank,PW122325,Bloch Pathway (Cholesterol Biosynthesis) ,isPartOf,reactome,R-HSA-191273,Cholesterol biosynthesis 
-pathbank,PW122325,Bloch Pathway (Cholesterol Biosynthesis) ,isPartOf,reactome,R-HSA-556833,Metabolism of lipids 
-pathbank,PW122325,Bloch Pathway (Cholesterol Biosynthesis) ,isPartOf,reactome,R-HSA-1430728,Metabolism
+pathbank,PW122325,Bloch Pathway (Cholesterol Biosynthesis),equivalentTo,reactome,R-HSA-6807047,Cholesterol biosynthesis via desmosterol 
+pathbank,PW122325,Bloch Pathway (Cholesterol Biosynthesis),isPartOf,reactome,R-HSA-8957322,Metabolism of steroids 
+pathbank,PW122325,Bloch Pathway (Cholesterol Biosynthesis),isPartOf,reactome,R-HSA-191273,Cholesterol biosynthesis 
+pathbank,PW122325,Bloch Pathway (Cholesterol Biosynthesis),isPartOf,reactome,R-HSA-556833,Metabolism of lipids 
+pathbank,PW122325,Bloch Pathway (Cholesterol Biosynthesis),isPartOf,reactome,R-HSA-1430728,Metabolism
 pathbank,PW000014,Butyrate Metabolism,isPartOf,reactome,R-HSA-1430728,Metabolism 
 pathbank,PW000015,Caffeine Metabolism,isPartOf,reactome,R-HSA-211981,Xenobiotics 
-reactome,R-HSA-211957,Aromatic amines can be N-hydroxylated or N-dealkylated by CYP1A2 ,isPartOf,pathbank,PW000015,Caffeine Metabolism
+reactome,R-HSA-211957,Aromatic amines can be N-hydroxylated or N-dealkylated by CYP1A2,isPartOf,pathbank,PW000015,Caffeine Metabolism
 pathbank,PW000015,Caffeine Metabolism,isPartOf,reactome,R-HSA-1430728,Metabolism 
-pathbank,PW000016,Carnitine Synthesis,equivalentTo,reactome,R-HSA-71262 ,Carnitine synthesis
+pathbank,PW000016,Carnitine Synthesis,equivalentTo,reactome,R-HSA-71262,Carnitine synthesis
 pathbank,PW000017,Catecholamine Biosynthesis,equivalentTo,reactome,R-HSA-209905,Catecholamine biosynthesis 
 pathbank,PW000005,Citric Acid Cycle,equivalentTo,reactome,R-HSA-71403,Citric acid cycle (TCA cycle) 
 pathbank,PW000005,Citric Acid Cycle,isPartOf,reactome,R-HSA-71406,Pyruvate metabolism and Citric Acid (TCA) cycle 
 pathbank,PW000005,Citric Acid Cycle,isPartOf,reactome,R-HSA-1428517,The citric acid (TCA) cycle and respiratory electron transport 
 pathbank,PW065057,Classical Complement Pathway,equivalentTo,reactome,R-HSA-166658,Complement cascade 
-pathbank,PW000562,Coagulation ,isPartOf,reactome,R-HSA-140875,Common Pathway of Fibrin Clot Formation 
-pathbank,PW000562,Coagulation ,equivalentTo,reactome,R-HSA-140877,Formation of Fibrin Clot (Clotting Cascade) 
+pathbank,PW000562,Coagulation,isPartOf,reactome,R-HSA-140875,Common Pathway of Fibrin Clot Formation 
+pathbank,PW000562,Coagulation,equivalentTo,reactome,R-HSA-140877,Formation of Fibrin Clot (Clotting Cascade) 
 pathbank,PW064819,Complement Pathway,equivalentTo,reactome,R-HSA-166658,Complement cascade 
 pathbank,PW000442,Corticotropin Activation of Cortisol Production,isPartOf,reactome,R-HSA-1430728,Metabolism 
 pathbank,PW000018,Cysteine Metabolism,isPartOf,reactome,R-HSA-1614635,Sulfur amino acid metabolism 
@@ -88,7 +88,7 @@ pathbank,PW000024,Folate Metabolism,isPartOf,reactome,R-HSA-196849,Metabolism of
 pathbank,PW000024,Folate Metabolism,isPartOf,reactome,R-HSA-196854,Metabolism of vitamins and cofactors 
 pathbank,PW000024,Folate Metabolism,isPartOf,reactome,R-HSA-1430728,Metabolism
 pathbank,PW000025,Fructose and Mannose Degradation,isPartOf,reactome,R-HSA-1430728,Metabolism
-reactome,R-HSA-5652084,Fructose metabolism ,isPartOf,pathbank,PW000025,Fructose and Mannose Degradation
+reactome,R-HSA-5652084,Fructose metabolism,isPartOf,pathbank,PW000025,Fructose and Mannose Degradation
 pathbank,PW000152,Gluconeogenesis,equivalentTo,reactome,R-HSA-70263,Gluconeogenesis 
 pathbank,PW000152,Gluconeogenesis,isPartOf,reactome,R-HSA-71387,Metabolism of carbohydrates 
 pathbank,PW000152,Gluconeogenesis,isPartOf,reactome,R-HSA-1430728,Metabolism
@@ -122,9 +122,9 @@ pathbank,PW122328,Kandutsch-Russell Pathway (Cholesterol Biosynthesis),isPartOf,
 pathbank,PW122328,Kandutsch-Russell Pathway (Cholesterol Biosynthesis),isPartOf,reactome,R-HSA-1430728,Metabolism
 pathbank,PW000028,Ketone Body Metabolism,equivalentTo,reactome,R-HSA-74182,Ketone body metabolism 
 pathbank,PW000028,Ketone Body Metabolism,isPartOf,reactome,R-HSA-1430728,Metabolism
-pathbank,PW064906,Lectin-Induced Complement Pathway ,equivalentTo,reactome,R-HSA-166662,Lectin pathway of complement activation 
-pathbank,PW064906,Lectin-Induced Complement Pathway ,isPartOf,reactome,R-HSA-168256,Immune System 
-pathbank,PW064906,Lectin-Induced Complement Pathway ,isPartOf,reactome,R-HSA-166658,Complement cascade 
+pathbank,PW064906,Lectin-Induced Complement Pathway,equivalentTo,reactome,R-HSA-166662,Lectin pathway of complement activation 
+pathbank,PW064906,Lectin-Induced Complement Pathway,isPartOf,reactome,R-HSA-168256,Immune System 
+pathbank,PW064906,Lectin-Induced Complement Pathway,isPartOf,reactome,R-HSA-166658,Complement cascade 
 pathbank,PW000659,Leucine Stimulation on Insulin Signaling,isPartOf,reactome,R-HSA-162582,Signal Transduction 
 pathbank,PW000659,Leucine Stimulation on Insulin Signaling,isPartOf,reactome,R-HSA-74751,Insulin receptor signalling cascade 
 pathbank,PW000659,Leucine Stimulation on Insulin Signaling,isPartOf,reactome,R-HSA-74752,Signaling by Insulin receptor 
@@ -149,27 +149,27 @@ pathbank,PW000171,Mitochondrial Beta-Oxidation of Short Chain Saturated Fatty Ac
 pathbank,PW000171,Mitochondrial Beta-Oxidation of Short Chain Saturated Fatty Acids,isPartOf,reactome,R-HSA-1430728,Metabolism
 pathbank,PW000165,Mitochondrial Electron Transport Chain,equivalentTo,reactome,R-HSA-611105,Respiratory electron transport 
 pathbank,PW000165,Mitochondrial Electron Transport Chain,isPartOf,reactome,R-HSA-1428517,The citric acid (TCA) cycle and respiratory electron transport 
-pathbank,PW000165,Mitochondrial Electron Transport Chain,isPartOf,reactome,R-HSA-163200,"Respiratory electron transport,ATP synthesis by chemiosmotic coupling,and heat production by uncoupling proteins."
+pathbank,PW000165,Mitochondrial Electron Transport Chain,isPartOf,reactome,R-HSA-163200,Respiratory electron transport,ATP synthesis by chemiosmotic coupling,and heat production by uncoupling proteins
 pathbank,PW064818,NF-kB Signaling Pathway,isPartOf,reactome,R-HSA-209560,NF-kB is activated and signals survival 
 pathbank,PW000151,Nicotinate and Nicotinamide Metabolism,isPartOf,reactome,R-HSA-1430728,Metabolism
-reactome,R-HSA-196807,Nicotinate metabolism ,isPartOf,pathbank,PW000151,Nicotinate and Nicotinamide Metabolism
-reactome,R-HSA-197264,Nicotinamide salvaging ,isPartOf,pathbank,PW000151,Nicotinate and Nicotinamide Metabolism
-pathbank,PW000457,Nucleotide Excision Repair ,equivalentTo,reactome,R-HSA-5696398,Nucleotide Excision Repair 
+reactome,R-HSA-196807,Nicotinate metabolism,isPartOf,pathbank,PW000151,Nicotinate and Nicotinamide Metabolism
+reactome,R-HSA-197264,Nicotinamide salvaging,isPartOf,pathbank,PW000151,Nicotinate and Nicotinamide Metabolism
+pathbank,PW000457,Nucleotide Excision Repair,equivalentTo,reactome,R-HSA-5696398,Nucleotide Excision Repair 
 pathbank,PW000031,Nucleotide Sugars Metabolism,isPartOf,reactome,R-HSA-15869,Metabolism of nucleotides 
 pathbank,PW000031,Nucleotide Sugars Metabolism,isPartOf,reactome,R-HSA-1430728,Metabolism
-reactome,R-HSA-6803205,TP53 regulates transcription of several additional cell death genes whose specific roles in p53-dependent apoptosis remain uncertain ,isPartOf,pathbank,PW064774,P53 Signaling Pathway
-reactome,R-HSA-6804116,TP53 Regulates Transcription of Genes Involved in G1 Cell Cycle Arrest ,isPartOf,pathbank,PW064774,P53 Signaling Pathway
-reactome,R-HSA-6803204,TP53 Regulates Transcription of Genes Involved in Cytochrome C Release ,isPartOf,pathbank,PW064774,P53 Signaling Pathway
-reactome,R-HSA-6803211,TP53 Regulates Transcription of Death Receptors and Ligands ,isPartOf,pathbank,PW064774,P53 Signaling Pathway
-reactome,R-HSA-6791312,TP53 Regulates Transcription of Cell Cycle Genes ,isPartOf,pathbank,PW064774,P53 Signaling Pathway
-reactome,R-HSA-6803207,TP53 Regulates Transcription of Caspase Activators and Caspases ,isPartOf,pathbank,PW064774,P53 Signaling Pathway
-reactome,R-HSA-5628897,TP53 Regulates Metabolic Genes ,isPartOf,pathbank,PW064774,P53 Signaling Pathway
-reactome,R-HSA-6806003,Regulation of TP53 Expression and Degradation ,isPartOf,pathbank,PW064774,P53 Signaling Pathway
-reactome,R-HSA-6804754,Regulation of TP53 Expression ,isPartOf,pathbank,PW064774,P53 Signaling Pathway
-reactome,R-HSA-6804757,Regulation of TP53 Degradation ,isPartOf,pathbank,PW064774,P53 Signaling Pathway
-reactome,R-HSA-6804760,Regulation of TP53 Activity through Methylation ,isPartOf,pathbank,PW064774,P53 Signaling Pathway
-reactome,R-HSA-196783,Coenzyme A biosynthesis ,isPartOf,pathbank,PW000032,Pantothenate and CoA Biosynthesis
-reactome,R-HSA-199220,Vitamin B5 (pantothenate) metabolism ,isPartOf,pathbank,PW000032,Pantothenate and CoA Biosynthesis
+reactome,R-HSA-6803205,TP53 regulates transcription of several additional cell death genes whose specific roles in p53-dependent apoptosis remain uncertain,isPartOf,pathbank,PW064774,P53 Signaling Pathway
+reactome,R-HSA-6804116,TP53 Regulates Transcription of Genes Involved in G1 Cell Cycle Arrest,isPartOf,pathbank,PW064774,P53 Signaling Pathway
+reactome,R-HSA-6803204,TP53 Regulates Transcription of Genes Involved in Cytochrome C Release,isPartOf,pathbank,PW064774,P53 Signaling Pathway
+reactome,R-HSA-6803211,TP53 Regulates Transcription of Death Receptors and Ligands,isPartOf,pathbank,PW064774,P53 Signaling Pathway
+reactome,R-HSA-6791312,TP53 Regulates Transcription of Cell Cycle Genes,isPartOf,pathbank,PW064774,P53 Signaling Pathway
+reactome,R-HSA-6803207,TP53 Regulates Transcription of Caspase Activators and Caspases,isPartOf,pathbank,PW064774,P53 Signaling Pathway
+reactome,R-HSA-5628897,TP53 Regulates Metabolic Genes,isPartOf,pathbank,PW064774,P53 Signaling Pathway
+reactome,R-HSA-6806003,Regulation of TP53 Expression and Degradation,isPartOf,pathbank,PW064774,P53 Signaling Pathway
+reactome,R-HSA-6804754,Regulation of TP53 Expression,isPartOf,pathbank,PW064774,P53 Signaling Pathway
+reactome,R-HSA-6804757,Regulation of TP53 Degradation,isPartOf,pathbank,PW064774,P53 Signaling Pathway
+reactome,R-HSA-6804760,Regulation of TP53 Activity through Methylation,isPartOf,pathbank,PW064774,P53 Signaling Pathway
+reactome,R-HSA-196783,Coenzyme A biosynthesis,isPartOf,pathbank,PW000032,Pantothenate and CoA Biosynthesis
+reactome,R-HSA-199220,Vitamin B5 (pantothenate) metabolism,isPartOf,pathbank,PW000032,Pantothenate and CoA Biosynthesis
 pathbank,PW000032,Pantothenate and CoA Biosynthesis,isPartOf,reactome,R-HSA-196854,Metabolism of vitamins and cofactors
 pathbank,PW000032,Pantothenate and CoA Biosynthesis,isPartOf,reactome,R-HSA-1430728,Metabolism
 pathbank,PW000055,Pentose Phosphate Pathway,equivalentTo,reactome,R-HSA-71336,Pentose phosphate pathway 
@@ -252,7 +252,7 @@ pathbank,PW000054,Pyruvate Metabolism,isPartOf,reactome,R-HSA-1430728,Metabolism
 pathbank,PW000054,Pyruvate Metabolism,isPartOf,reactome,R-HSA-71406,Pyruvate metabolism and Citric Acid (TCA) cycle 
 pathbank,PW000054,Pyruvate Metabolism,equivalentTo,reactome,R-HSA-70268,Pyruvate metabolism 
 pathbank,PW064787,Rac 1 Cell Motility Signaling Pathway,isPartOf,reactome,R-HSA-162582,Signal Transduction 
-pathbank,PW064776,Ras Signaling Pathway ,isPartOf,reactome,R-HSA-162582,Signal Transduction 
+pathbank,PW064776,Ras Signaling Pathway,isPartOf,reactome,R-HSA-162582,Signal Transduction 
 pathbank,PW000164,Retinol Metabolism,isPartOf,reactome,R-HSA-196854,Metabolism of vitamins and cofactors 
 pathbank,PW000164,Retinol Metabolism,isPartOf,reactome,R-HSA-1430728,Metabolism 
 pathbank,PW000164,Retinol Metabolism,isPartOf,reactome,R-HSA-211916,Vitamins 
@@ -276,8 +276,8 @@ pathbank,PW085652,Succinate Signalling During Inflammation,isPartOf,reactome,R-H
 pathbank,PW000040,Sulfate/Sulfite Metabolism,equivalentTo,reactome,R-HSA-1614635,Sulfur amino acid metabolism 
 pathbank,PW000040,Sulfate/Sulfite Metabolism,isPartOf,reactome,R-HSA-1430728,Metabolism 
 pathbank,PW000040,Sulfate/Sulfite Metabolism,isPartOf,reactome,R-HSA-71291,Metabolism of amino acids and derivatives 
-pathbank,PW067987,T Cell Receptor Signaling Pathway ,isPartOf,reactome,R-HSA-168256,Immune System 
-pathbank,PW067987,T Cell Receptor Signaling Pathway ,isPartOf,reactome,R-HSA-1280218,Adaptive Immune System 
+pathbank,PW067987,T Cell Receptor Signaling Pathway,isPartOf,reactome,R-HSA-168256,Immune System 
+pathbank,PW067987,T Cell Receptor Signaling Pathway,isPartOf,reactome,R-HSA-1280218,Adaptive Immune System 
 pathbank,PW064784,TNF/Stress Related Signaling,equivalentTo,reactome,R-HSA-75893,TNF signaling 
 pathbank,PW000038,Taurine and Hypotaurine Metabolism,isPartOf,reactome,R-HSA-1430728,Metabolism 
 pathbank,PW000036,Thiamine Metabolism,equivalentTo,reactome,R-HSA-196819,Vitamin B1 (thiamin) metabolism 
@@ -287,20 +287,20 @@ pathbank,PW000693,Thyroid Hormone Synthesis,equivalentTo,reactome,R-HSA-209968,T
 pathbank,PW064909,Toll-Like Receptor Pathway 1,isPartOf,reactome,R-HSA-168179,Toll Like Receptor TLR1:TLR2 Cascade 
 pathbank,PW070606,Toll-Like Receptor Pathway 2,isPartOf,reactome,R-HSA-168179,Toll Like Receptor TLR1:TLR2 Cascade 
 pathbank,PW000163,Tryptophan Metabolism,isPartOf,reactome,R-HSA-1430728,Metabolism 
-pathbank,PW000163,Tryptophan Metabolism,isPartOf,reactome,R-HSA-6788656,"Histidine,lysine,phenylalanine,tyrosine,proline and tryptophan catabolism"
+pathbank,PW000163,Tryptophan Metabolism,isPartOf,reactome,R-HSA-6788656,,Histidine,lysine,phenylalanine,tyrosine,proline and tryptophan catabolism,
 pathbank,PW000163,Tryptophan Metabolism,isPartOf,reactome,R-HSA-71291,Metabolism of amino acids and derivatives 
 pathbank,PW000163,Tryptophan Metabolism,isPartOf,reactome,R-HSA-70614,Amino acid synthesis and interconversion (transamination) 
 pathbank,PW000142,Tyrosine Metabolism,isPartOf,reactome,R-HSA-1430728,Metabolism 
-pathbank,PW000142,Tyrosine Metabolism,isPartOf,reactome,R-HSA-6788656,"Histidine,lysine,phenylalanine,tyrosine,proline and tryptophan catabolism"
+pathbank,PW000142,Tyrosine Metabolism,isPartOf,reactome,R-HSA-6788656,,Histidine,lysine,phenylalanine,tyrosine,proline and tryptophan catabolism,
 pathbank,PW000142,Tyrosine Metabolism,isPartOf,reactome,R-HSA-71291,Metabolism of amino acids and derivatives 
 pathbank,PW000142,Tyrosine Metabolism,isPartOf,reactome,R-HSA-70614,Amino acid synthesis and interconversion (transamination) 
 pathbank,PW000039,Ubiquinone Biosynthesis,isPartOf,reactome,R-HSA-1430728,Metabolism
 pathbank,PW000039,Ubiquinone Biosynthesis,isPartOf,reactome,R-HSA-196854,Metabolism of vitamins and cofactors 
 pathbank,PW064821,Ubiquitin-Proteasome Pathway,isPartOf,reactome,R-HSA-5689880,Ub-specific processing proteases 
 pathbank,PW000162,Urea Cycle,equivalentTo,reactome,R-HSA-70635,Urea cycle 
-pathbank,PW000051,"Valine,Leucine,and Isoleucine Degradation",isPartOf,reactome,R-HSA-70895,Branched-chain amino acid catabolism
-pathbank,PW000051,"Valine,Leucine,and Isoleucine Degradation",isPartOf,reactome,R-HSA-1430728,Metabolism
-pathbank,PW000051,"Valine,Leucine,and Isoleucine Degradation",isPartOf,reactome,R-HSA-71291,Metabolism of amino acids and derivatives
+pathbank,PW000051,,Valine,Leucine,and Isoleucine Degradation,,isPartOf,reactome,R-HSA-70895,Branched-chain amino acid catabolism
+pathbank,PW000051,,Valine,Leucine,and Isoleucine Degradation,,isPartOf,reactome,R-HSA-1430728,Metabolism
+pathbank,PW000051,,Valine,Leucine,and Isoleucine Degradation,,isPartOf,reactome,R-HSA-71291,Metabolism of amino acids and derivatives
 pathbank,PW000447,Vasopressin Regulation of Water Homeostasis,equivalentTo,reactome,R-HSA-432040,Vasopressin regulates renal water homeostasis via Aquaporins 
 pathbank,PW000053,Vitamin B6 Metabolism,isPartOf,reactome,R-HSA-196849,Metabolism of water-soluble vitamins and cofactors 
 pathbank,PW000053,Vitamin B6 Metabolism,isPartOf,reactome,R-HSA-1430728,Metabolism

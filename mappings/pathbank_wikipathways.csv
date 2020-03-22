@@ -18,7 +18,7 @@ pathbank,PW000002,Aspartate Metabolism,isPartOf,wikipathways,WP3925,Amino Acid m
 pathbank,PW000002,Aspartate Metabolism,isPartOf,wikipathways,WP497,Urea cycle and metabolism of amino groups 
 pathbank,PW070885,BCR Signaling Pathway,equivalentTo,wikipathways,WP23,B Cell Receptor Signaling Pathway 
 pathbank,PW000161,Beta Oxidation of Very Long Chain Fatty Acids,isPartOf,wikipathways,WP143,Fatty Acid Beta Oxidation 
-wikipathways,WP1941,Peroxisomal beta-oxidation of tetracosanoyl-CoA�,isPartOf,pathbank,PW000161,Beta Oxidation of Very Long Chain Fatty Acids
+wikipathways,WP1941,Peroxisomal beta-oxidation of tetracosanoyl-CoA,isPartOf,pathbank,PW000161,Beta Oxidation of Very Long Chain Fatty Acids
 wikipathways,WP2289,Drug Induction of Bile Acid Pathway,isPartOf,pathbank,PW000145,Bile Acid Biosynthesis
 pathbank,PW122325,Bloch Pathway (Cholesterol Biosynthesis),isPartOf,wikipathways,WP197,Cholesterol Biosynthesis 
 pathbank,PW122325,Bloch Pathway (Cholesterol Biosynthesis),isPartOf,wikipathways,WP496,Steroid Biosynthesis 
@@ -28,10 +28,10 @@ pathbank,PW000017,Catecholamine Biosynthesis,isPartOf,wikipathways,WP550,Biogeni
 wikipathways,WP727,Monoamine Transport,isPartOf,pathbank,PW000017,Catecholamine Biosynthesis
 wikipathways,WP3594,Circadian rythm related genes,isPartOf,pathbank,PW091851,Circadian Rhythms
 pathbank,PW000005,Citric Acid Cycle,equivalentTo,wikipathways,WP78,TCA Cycle 
-pathbank,PW065057,Classical Complement Pathway,equivalentTo,wikipathways,WP545,Complement Activation� 
+pathbank,PW065057,Classical Complement Pathway,equivalentTo,wikipathways,WP545,Complement Activation
 pathbank,PW065057,Classical Complement Pathway,isPartOf,wikipathways,WP558,Complement and Coagulation Cascades 
 pathbank,PW000562,Coagulation,isPartOf,wikipathways,WP558,Complement and Coagulation Cascades 
-pathbank,PW064819,Complement Pathway,equivalentTo,wikipathways,WP545,Complement Activation� 
+pathbank,PW064819,Complement Pathway,equivalentTo,wikipathways,WP545,Complement Activation
 pathbank,PW064819,Complement Pathway,isPartOf,wikipathways,WP558,Complement and Coagulation Cascades 
 pathbank,PW000442,Corticotropin Activation of Cortisol Production,isPartOf,wikipathways,WP237,Glucocorticoid and Mineralcorticoid Metabolism 
 pathbank,PW000018,Cysteine Metabolism,isPartOf,wikipathways,WP3925,Amino Acid metabolism 
@@ -45,11 +45,11 @@ pathbank,PW000024,Folate Metabolism,equivalentTo,wikipathways,WP176,Folate Metab
 wikipathways,WP2597,Secretion of Hydrochloric Acid in Parietal Cells,isPartOf,pathbank,PW000565,Gastric Acid Production
 pathbank,PW000152,Gluconeogenesis,isPartOf,wikipathways,WP534,Glycolysis and Gluconeogenesis 
 pathbank,PW000003,Glutamate Metabolism,isPartOf,wikipathways,WP497,Urea cycle and metabolism of amino groups 
-pathbank,PW000003,Glutamate Metabolism,isPartOf,wikipathways,WP3925,Amino Acid metabolism� 
-pathbank,PW002366,Glutaminolysis and Cancer,isPartOf,wikipathways,WP1971,Integrated Cancer Pathway� 
+pathbank,PW000003,Glutamate Metabolism,isPartOf,wikipathways,WP3925,Amino Acid metabolism
+pathbank,PW002366,Glutaminolysis and Cancer,isPartOf,wikipathways,WP1971,Integrated Cancer Pathway
 pathbank,PW000004,Glutathione Metabolism,equivalentTo,wikipathways,WP100,Glutathione metabolism 
 pathbank,PW000157,Glycine and Serine Metabolism,isPartOf,wikipathways,WP497,Urea cycle and metabolism of amino groups 
-pathbank,PW000157,Glycine and Serine Metabolism,isPartOf,wikipathways,WP3925,Amino Acid metabolism� 
+pathbank,PW000157,Glycine and Serine Metabolism,isPartOf,wikipathways,WP3925,Amino Acid metabolism
 pathbank,PW000146,Glycolysis,isPartOf,wikipathways,WP534,Glycolysis and Gluconeogenesis 
 pathbank,PW064811,Growth Hormone Signaling Pathway,isPartOf,wikipathways,WP2657,Growth hormone receptor signaling (Homo sapiens)
 pathbank,PW000043,Histidine Metabolism,isPartOf,wikipathways,WP3925,Amino Acid metabolism 
@@ -150,7 +150,7 @@ pathbank,PW000142,Tyrosine Metabolism,isPartOf,wikipathways,WP3925,Amino Acid me
 pathbank,PW000142,Tyrosine Metabolism,isPartOf,wikipathways,WP550,Biogenic Amine Synthesis 
 pathbank,PW064821,Ubiquitin-Proteasome Pathway,isPartOf,wikipathways,WP183,Proteasome Degradation 
 pathbank,PW000162,Urea Cycle,isPartOf,wikipathways,WP497,Urea cycle and metabolism of amino groups 
-pathbank,PW000051,"Valine,Leucine,and Isoleucine Degradation",isPartOf,wikipathways,WP3925,Amino Acid metabolism
+pathbank,PW000051,Valine,Leucine,and Isoleucine Degradation,isPartOf,wikipathways,WP3925,Amino Acid metabolism
 pathbank,PW078607,WNT Signaling Pathway,equivalentTo,wikipathways,WP428,Wnt Signaling Pathway 
 pathbank,PW000011,beta-Alanine Metabolism,isPartOf,wikipathways,WP3925,Amino Acid metabolism 
 pathbank,PW000011,beta-Alanine Metabolism,isPartOf,wikipathways,WP106,Alanine and aspartate metabolism 
