@@ -3,8 +3,9 @@ ComPath Resources |zenodo|
 This repository contains the different resources derived or generated using `ComPath <https://github.com/ComPath>`_.
 Among these resources, there are `Jupyter notebooks <https://github.com/ComPath/resources/tree/master/notebooks>`_
 outlining possible analyses that can be made using ComPath plugins as well as the results of the curation effort
-`('mappings' folder) <https://github.com/ComPath/resources/tree/master/mappings>`_ where we generated pathway mappings
-between three of the major pathway databases (see below).
+(see the `mappings <https://github.com/ComPath/resources/tree/master/mappings>`_ folder) where pathway mappings between
+three of the major pathway databases (see below) are stored. As of March 2020, `PathBank <https://pathbank.org/>`_
+mappings are now available in ComPath.
 
 Citation
 --------
@@ -47,20 +48,20 @@ from all resources.*
 Update: March 2020
 ~~~~~~~~~~~~~~~~~~
 
-Mappings between `PathBank <https://pathbank.org/>`_ and the above- mentioned databases are now available in ComPath.
+Mappings between `PathBank <https://pathbank.org/>`_ and the above-mentioned databases are now available in ComPath.
 
 Mapping Between Pathway Databases
 ---------------------------------
-A total of 3 mapping files are stored in this package, one for each pairwise comparison:
+A total of 6 mapping files are stored in this package, one for each pairwise comparison:
 
-- `KEGG - WikiPathways <https://github.com/ComPath/curation/blob/master/mappings/kegg_wikipathways.xlsx>`_
-- `KEGG - Reactome <https://github.com/ComPath/curation/blob/master/mappings/kegg_reactome.xlsx>`_
-- `WikiPathways - Reactome <https://github.com/ComPath/curation/blob/master/mappings/wikipathways_reactome.xlsx>`_
+- `KEGG - WikiPathways <https://github.com/ComPath/resources/blob/master/mappings/kegg_wikipathways.csv>`_ [2]_
+- `KEGG - Reactome <https://github.com/ComPath/resources/blob/master/mappings/kegg_reactome.csv>`_ [2]_
+- `WikiPathways - Reactome <https://github.com/ComPath/resources/blob/master/mappings/wikipathways_reactome.csv>`_ [2]_
+- `PathBank - KEGG <https://github.com/ComPath/resources/blob/master/mappings/pathbank_kegg.csv>`_
+- `PathBank - Reactome <https://github.com/ComPath/resources/blob/master/mappings/pathbank_reactome.csv>`_
+- `PathBank - WikiPathways <https://github.com/ComPath/resources/blob/master/mappings/pathbank_wikipathways.csv>`_
 
-*It is important to mention that even more mappings are stored in the database thanks to the ComPath inference system.
-For example, when a KEGG to WikiPathways pathway is assigned as equivalent to a Reactome pathway, ComPath uses the
-Reactome hierarchy to infer new hierarchical mappings and map the super/sub pathways of the Reactome pathway to this
-corresponding equivalent pathway.*
+.. [2] Last updated in March 2019.
 
 Curation Team
 -------------

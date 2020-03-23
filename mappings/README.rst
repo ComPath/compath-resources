@@ -1,15 +1,17 @@
 Mapping Between Pathway Databases
-=================================
+==================================
 
-Three mapping files are stored in this package, one for each pairwise comparison:
+Here you can find pairwise mappings between pathway databases. As of March 2020, `PathBank <https://pathbank.org/>`_
+mappings are now available in ComPath.
 
-- `KEGG - WikiPathways <https://github.com/ComPath/curation/blob/master/mappings/kegg_wikipathways.xlsx>`_
-- `KEGG - Reactome <https://github.com/ComPath/curation/blob/master/mappings/kegg_reactome.xlsx>`_
-- `WikiPathways - Reactome <https://github.com/ComPath/curation/blob/master/mappings/wikipathways_reactome.xlsx>`_
+Each file corresponds to a pairwise mapping between the following databases:
 
-Additionally, all the canonical mappings can be downloaded in the ComPath deployed version (http://compath.scai.fraunhofer.de/export_mappings)
-and in `RDF <https://github.com/ComPath/curation/blob/master/mappings/compath_mappings.rdf>`_.
+- `KEGG - WikiPathways <https://github.com/ComPath/resources/blob/master/mappings/kegg_wikipathways.csv>`_ [1]_
+- `KEGG - Reactome <https://github.com/ComPath/resources/blob/master/mappings/kegg_reactome.csv>`_ [1]_
+- `WikiPathways - Reactome <https://github.com/ComPath/resources/blob/master/mappings/wikipathways_reactome.csv>`_ [1]_
+- `PathBank - KEGG <https://github.com/ComPath/resources/blob/master/mappings/pathbank_kegg.csv>`_
+- `PathBank - Reactome <https://github.com/ComPath/resources/blob/master/mappings/pathbank_reactome.csv>`_
+- `PathBank - WikiPathways <https://github.com/ComPath/resources/blob/master/mappings/pathbank_wikipathways.csv>`_
 
-*It is important to mention that even more mappings are stored in the database thanks to the ComPath inference system. For example, when a KEGG ot WikiPathways pathway is assigned as equivalent to a Reactome pathway, ComPath uses the Reactome hierarchy to infer new hierarchical mappings and map the super/sub pathways of the Reactome pathway to this corresponding equivalent pathway.*
+.. [1] Last updated in March 2019.
 
-**Last mapping update, March 2019**
