@@ -2,7 +2,7 @@ Source Resource,Source ID,Source Name,Mapping Type,Target Resource,Target ID,Tar
 pathbank,PW122411,2-Amino-3-carboxymuconate semialdehyde Degradation,isPartOf,reactome,R-HSA-1430728,Metabolism
 pathbank,PW000726,Activation of PKC Through G Protein-Coupled Receptor,isPartOf,reactome,R-HSA-372790,Signaling by GPCR 
 pathbank,PW000726,Activation of PKC Through G Protein-Coupled Receptor,isPartOf,reactome,R-HSA-388396,GPCR downstream signalling 
-pathbank,PW064756,Activation of cAMP-dependent protein kinase,PKA,isPartOf,reactome,R-HSA-170660,Adenylate cyclase activating pathway
+pathbank,PW064756,"Activation of cAMP-dependent protein kinase, PKA",isPartOf,reactome,R-HSA-170660,Adenylate cyclase activating pathway
 pathbank,PW064763,Ahr Signal Transduction Pathway,equivalentTo,reactome,R-HSA-8937144,Aryl hydrocarbon receptor signalling 
 pathbank,PW064763,Ahr Signal Transduction Pathway,isPartOf,reactome,R-HSA-162582,Signal Transduction 
 pathbank,PW000001,Alanine Metabolism,isPartOf,reactome,R-HSA-70614,Amino acid synthesis and interconversion (transamination) 
@@ -149,7 +149,7 @@ pathbank,PW000171,Mitochondrial Beta-Oxidation of Short Chain Saturated Fatty Ac
 pathbank,PW000171,Mitochondrial Beta-Oxidation of Short Chain Saturated Fatty Acids,isPartOf,reactome,R-HSA-1430728,Metabolism
 pathbank,PW000165,Mitochondrial Electron Transport Chain,equivalentTo,reactome,R-HSA-611105,Respiratory electron transport 
 pathbank,PW000165,Mitochondrial Electron Transport Chain,isPartOf,reactome,R-HSA-1428517,The citric acid (TCA) cycle and respiratory electron transport 
-pathbank,PW000165,Mitochondrial Electron Transport Chain,isPartOf,reactome,R-HSA-163200,Respiratory electron transport,ATP synthesis by chemiosmotic coupling,and heat production by uncoupling proteins
+pathbank,PW000165,Mitochondrial Electron Transport Chain,isPartOf,reactome,R-HSA-163200,"Respiratory electron transport, ATP synthesis by chemiosmotic coupling, and heat production by uncoupling proteins"
 pathbank,PW064818,NF-kB Signaling Pathway,isPartOf,reactome,R-HSA-209560,NF-kB is activated and signals survival 
 pathbank,PW000151,Nicotinate and Nicotinamide Metabolism,isPartOf,reactome,R-HSA-1430728,Metabolism
 reactome,R-HSA-196807,Nicotinate metabolism,isPartOf,pathbank,PW000151,Nicotinate and Nicotinamide Metabolism
@@ -287,20 +287,20 @@ pathbank,PW000693,Thyroid Hormone Synthesis,equivalentTo,reactome,R-HSA-209968,T
 pathbank,PW064909,Toll-Like Receptor Pathway 1,isPartOf,reactome,R-HSA-168179,Toll Like Receptor TLR1:TLR2 Cascade 
 pathbank,PW070606,Toll-Like Receptor Pathway 2,isPartOf,reactome,R-HSA-168179,Toll Like Receptor TLR1:TLR2 Cascade 
 pathbank,PW000163,Tryptophan Metabolism,isPartOf,reactome,R-HSA-1430728,Metabolism 
-pathbank,PW000163,Tryptophan Metabolism,isPartOf,reactome,R-HSA-6788656,,Histidine,lysine,phenylalanine,tyrosine,proline and tryptophan catabolism,
+pathbank,PW000163,Tryptophan Metabolism,isPartOf,reactome,R-HSA-6788656,"Histidine, lysine, phenylalanine, tyrosine, proline and tryptophan catabolism"
 pathbank,PW000163,Tryptophan Metabolism,isPartOf,reactome,R-HSA-71291,Metabolism of amino acids and derivatives 
-pathbank,PW000163,Tryptophan Metabolism,isPartOf,reactome,R-HSA-70614,Amino acid synthesis and interconversion (transamination) 
+pathbank,PW000163,Tryptophan Metabolism,isPartOf,reactome,R-HSA-70614,Amino acid synthesis and interconversion (transamination)
 pathbank,PW000142,Tyrosine Metabolism,isPartOf,reactome,R-HSA-1430728,Metabolism 
-pathbank,PW000142,Tyrosine Metabolism,isPartOf,reactome,R-HSA-6788656,,Histidine,lysine,phenylalanine,tyrosine,proline and tryptophan catabolism,
+pathbank,PW000142,Tyrosine Metabolism,isPartOf,reactome,R-HSA-6788656,"Histidine, lysine, phenylalanine, tyrosine, proline and tryptophan catabolism"
 pathbank,PW000142,Tyrosine Metabolism,isPartOf,reactome,R-HSA-71291,Metabolism of amino acids and derivatives 
 pathbank,PW000142,Tyrosine Metabolism,isPartOf,reactome,R-HSA-70614,Amino acid synthesis and interconversion (transamination) 
 pathbank,PW000039,Ubiquinone Biosynthesis,isPartOf,reactome,R-HSA-1430728,Metabolism
 pathbank,PW000039,Ubiquinone Biosynthesis,isPartOf,reactome,R-HSA-196854,Metabolism of vitamins and cofactors 
 pathbank,PW064821,Ubiquitin-Proteasome Pathway,isPartOf,reactome,R-HSA-5689880,Ub-specific processing proteases 
 pathbank,PW000162,Urea Cycle,equivalentTo,reactome,R-HSA-70635,Urea cycle 
-pathbank,PW000051,,Valine,Leucine,and Isoleucine Degradation,,isPartOf,reactome,R-HSA-70895,Branched-chain amino acid catabolism
-pathbank,PW000051,,Valine,Leucine,and Isoleucine Degradation,,isPartOf,reactome,R-HSA-1430728,Metabolism
-pathbank,PW000051,,Valine,Leucine,and Isoleucine Degradation,,isPartOf,reactome,R-HSA-71291,Metabolism of amino acids and derivatives
+pathbank,PW000051,"Valine,Leucine,and Isoleucine Degradation",isPartOf,reactome,R-HSA-70895,Branched-chain amino acid catabolism
+pathbank,PW000051,"Valine,Leucine,and Isoleucine Degradation",isPartOf,reactome,R-HSA-1430728,Metabolism
+pathbank,PW000051,"Valine,Leucine,and Isoleucine Degradation",isPartOf,reactome,R-HSA-71291,Metabolism of amino acids and derivatives
 pathbank,PW000447,Vasopressin Regulation of Water Homeostasis,equivalentTo,reactome,R-HSA-432040,Vasopressin regulates renal water homeostasis via Aquaporins 
 pathbank,PW000053,Vitamin B6 Metabolism,isPartOf,reactome,R-HSA-196849,Metabolism of water-soluble vitamins and cofactors 
 pathbank,PW000053,Vitamin B6 Metabolism,isPartOf,reactome,R-HSA-1430728,Metabolism

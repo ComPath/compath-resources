@@ -1,7 +1,7 @@
 Source Resource,Source ID,Source Name,Mapping Type,Target Resource,Target ID,Target Name
 pathbank,PW000001,Alanine Metabolism,isPartOf,kegg,path:hsa01100,Metabolic pathways - Homo sapiens (human)
 pathbank,PW000001,Alanine Metabolism,isPartOf,kegg,path:hsa01230,Biosynthesis of amino acids - Homo sapiens (human) 
-pathbank,PW000001,Alanine Metabolism,isPartOf,kegg,path:hsa00250,Alanine,aspartate and glutamate metabolism - Homo sapiens (human)
+pathbank,PW000001,Alanine Metabolism,isPartOf,kegg,path:hsa00250,"Alanine,aspartate and glutamate metabolism - Homo sapiens (human)"
 pathbank,PW122401,Aldosterone from Steroidogenesis,isPartOf,kegg,path:hsa04925,Aldosterone synthesis and secretion - Homo sapiens (human) 
 pathbank,PW122401,Aldosterone from Steroidogenesis,isPartOf,kegg,path:hsa01100,Metabolic pathways - Homo sapiens (human)
 kegg,path:hsa00592,alpha-Linolenic acid metabolism - Homo sapiens (human),isPartOf,pathbank,PW000006,Alpha Linolenic Acid and Linoleic Acid Metabolism
@@ -14,7 +14,7 @@ pathbank,PW000010,Arginine and Proline Metabolism,isPartOf,kegg,path:hsa01100,Me
 pathbank,PW000010,Arginine and Proline Metabolism,isPartOf,kegg,path:hsa01230,Biosynthesis of amino acids - Homo sapiens (human) 
 pathbank,PW000002,Aspartate Metabolism,isPartOf,kegg,path:hsa01100,Metabolic pathways - Homo sapiens (human)
 pathbank,PW000002,Aspartate Metabolism,isPartOf,kegg,path:hsa01230,Biosynthesis of amino acids - Homo sapiens (human) 
-pathbank,PW000002,Aspartate Metabolism,isPartOf,kegg,path:hsa00250,Alanine,aspartate and glutamate metabolism - Homo sapiens (human)
+pathbank,PW000002,Aspartate Metabolism,isPartOf,kegg,path:hsa00250,"Alanine,aspartate and glutamate metabolism - Homo sapiens (human)"
 pathbank,PW070885,BCR Signaling Pathway,equivalentTo,kegg,path:hsa04662,B cell receptor signaling pathway - Homo sapiens (human) 
 pathbank,PW000161,Beta Oxidation of Very Long Chain Fatty Acids,isPartOf,kegg,path:hsa01212,Fatty acid metabolism - Homo sapiens (human) 
 pathbank,PW000161,Beta Oxidation of Very Long Chain Fatty Acids,isPartOf,kegg,path:hsa00071,Fatty acid degradation - Homo sapiens (human) 
@@ -60,14 +60,14 @@ pathbank,PW000152,Gluconeogenesis,isPartOf,kegg,path:hsa01100,Metabolic pathways
 pathbank,PW000152,Gluconeogenesis,isPartOf,kegg,path:hsa01200,Carbon metabolism - Homo sapiens (human) 
 pathbank,PW000152,Gluconeogenesis,isPartOf,kegg,path:hsa00010,Glycolysis / Gluconeogenesis - Homo sapiens (human) 
 pathbank,PW000003,Glutamate Metabolism,isPartOf,kegg,path:hsa00471,D-Glutamine and D-glutamate metabolism - Homo sapiens (human) 
-pathbank,PW000003,Glutamate Metabolism,isPartOf,kegg,path:hsa00250,Alanine,aspartate and glutamate metabolism - Homo sapiens (human)
+pathbank,PW000003,Glutamate Metabolism,isPartOf,kegg,path:hsa00250,"Alanine,aspartate and glutamate metabolism - Homo sapiens (human)"
 pathbank,PW000003,Glutamate Metabolism,isPartOf,kegg,path:hsa01100,Metabolic pathways - Homo sapiens (human)
 pathbank,PW002366,Glutaminolysis and Cancer,isPartOf,kegg,path:hsa05200,Pathways in cancer - Homo sapiens (human) 
 pathbank,PW000004,Glutathione Metabolism,equivalentTo,kegg,path:hsa00480,Glutathione metabolism - Homo sapiens (human) 
 pathbank,PW000004,Glutathione Metabolism,isPartOf,kegg,path:hsa01100,Metabolic pathways - Homo sapiens (human)
 pathbank,PW000144,Glycerolipid Metabolism,equivalentTo,kegg,path:hsa00561,Glycerolipid metabolism - Homo sapiens (human) 
 pathbank,PW000144,Glycerolipid Metabolism,isPartOf,kegg,path:hsa01100,Metabolic pathways - Homo sapiens (human)
-pathbank,PW000157,Glycine and Serine Metabolism,isPartOf,kegg,path:hsa00260,Glycine,serine and threonine metabolism
+pathbank,PW000157,Glycine and Serine Metabolism,isPartOf,kegg,path:hsa00260,"Glycine,serine and threonine metabolism"
 pathbank,PW000157,Glycine and Serine Metabolism,isPartOf,kegg,path:hsa01100,Metabolic pathways - Homo sapiens (human)
 pathbank,PW000146,Glycolysis,isPartOf,kegg,path:hsa01100,Metabolic pathways - Homo sapiens (human)
 pathbank,PW000146,Glycolysis,isPartOf,kegg,path:hsa01200,Carbon metabolism - Homo sapiens (human) 
@@ -116,7 +116,7 @@ pathbank,PW000158,Porphyrin Metabolism,isPartOf,kegg,path:hsa00860,Porphyrin and
 pathbank,PW000158,Porphyrin Metabolism,isPartOf,kegg,path:hsa01100,Metabolic pathways - Homo sapiens (human)
 pathbank,PW000149,Propanoate Metabolism,equivalentTo,kegg,path:hsa00640,Propanoate metabolism - Homo sapiens (human) 
 pathbank,PW000149,Propanoate Metabolism,isPartOf,kegg,path:hsa01100,Metabolic pathways - Homo sapiens (human)
-pathbank,PW101384,Protein Synthesis: Alanine,isPartOf,kegg,path:hsa00250,Alanine,aspartate and glutamate metabolism - Homo sapiens (human)
+pathbank,PW101384,Protein Synthesis: Alanine,isPartOf,kegg,path:hsa00250,"Alanine,aspartate and glutamate metabolism - Homo sapiens (human)"
 pathbank,PW101384,Protein Synthesis: Alanine,isPartOf,kegg,path:hsa01230,Biosynthesis of amino acids - Homo sapiens (human) 
 pathbank,PW101384,Protein Synthesis: Alanine,isPartOf,kegg,path:hsa01100,Metabolic pathways - Homo sapiens (human)
 pathbank,PW112896,Protein Synthesis: Arginine,equivalentTo,kegg,path:hsa00220,Arginine biosynthesis - Homo sapiens (human) 
@@ -126,29 +126,29 @@ pathbank,PW112896,Protein Synthesis: Arginine,isPartOf,kegg,path:hsa01230,Biosyn
 pathbank,PW112896,Protein Synthesis: Arginine,isPartOf,kegg,path:hsa01100,Metabolic pathways - Homo sapiens (human)
 pathbank,PW112910,Protein Synthesis: Asparagine,isPartOf,kegg,path:hsa01230,Biosynthesis of amino acids - Homo sapiens (human) 
 pathbank,PW112910,Protein Synthesis: Asparagine,isPartOf,kegg,path:hsa01100,Metabolic pathways - Homo sapiens (human)
-pathbank,PW112916,Protein Synthesis: Aspartic Acid,isPartOf,kegg,path:hsa00250,Alanine,aspartate and glutamate metabolism - Homo sapiens (human)
+pathbank,PW112916,Protein Synthesis: Aspartic Acid,isPartOf,kegg,path:hsa00250,"Alanine,aspartate and glutamate metabolism - Homo sapiens (human)"
 pathbank,PW112916,Protein Synthesis: Aspartic Acid,isPartOf,kegg,path:hsa01230,Biosynthesis of amino acids - Homo sapiens (human) 
 pathbank,PW112916,Protein Synthesis: Aspartic Acid,isPartOf,kegg,path:hsa01100,Metabolic pathways - Homo sapiens (human)
 pathbank,PW112918,Protein Synthesis: Cysteine,isPartOf,kegg,path:hsa00270,Cysteine and methionine metabolism - Homo sapiens (human) 
 pathbank,PW112918,Protein Synthesis: Cysteine,isPartOf,kegg,path:hsa01230,Biosynthesis of amino acids - Homo sapiens (human) 
 pathbank,PW112918,Protein Synthesis: Cysteine,isPartOf,kegg,path:hsa01100,Metabolic pathways - Homo sapiens (human)
 pathbank,PW112922,Protein Synthesis: Glutamic Acid,isPartOf,kegg,path:hsa00471,D-Glutamine and D-glutamate metabolism - Homo sapiens (human) 
-pathbank,PW112922,Protein Synthesis: Glutamic Acid,isPartOf,kegg,path:hsa00250,Alanine,aspartate and glutamate metabolism - Homo sapiens (human)
+pathbank,PW112922,Protein Synthesis: Glutamic Acid,isPartOf,kegg,path:hsa00250,"Alanine,aspartate and glutamate metabolism - Homo sapiens (human)"
 pathbank,PW112922,Protein Synthesis: Glutamic Acid,isPartOf,kegg,path:hsa01230,Biosynthesis of amino acids - Homo sapiens (human) 
 pathbank,PW112922,Protein Synthesis: Glutamic Acid,isPartOf,kegg,path:hsa01100,Metabolic pathways - Homo sapiens (human)
 pathbank,PW112920,Protein Synthesis: Glutamine,isPartOf,kegg,path:hsa00471,D-Glutamine and D-glutamate metabolism - Homo sapiens (human) 
 pathbank,PW112920,Protein Synthesis: Glutamine,isPartOf,kegg,path:hsa01230,Biosynthesis of amino acids - Homo sapiens (human) 
 pathbank,PW112920,Protein Synthesis: Glutamine,isPartOf,kegg,path:hsa01100,Metabolic pathways - Homo sapiens (human)
-pathbank,PW112928,Protein Synthesis: Glycine,isPartOf,kegg,path:hsa00260,Glycine,serine and threonine metabolism - Homo sapiens (human)
+pathbank,PW112928,Protein Synthesis: Glycine,isPartOf,kegg,path:hsa00260,"Glycine,serine and threonine metabolism - Homo sapiens (human)"
 pathbank,PW112928,Protein Synthesis: Glycine,isPartOf,kegg,path:hsa01230,Biosynthesis of amino acids - Homo sapiens (human) 
 pathbank,PW112928,Protein Synthesis: Glycine,isPartOf,kegg,path:hsa01100,Metabolic pathways - Homo sapiens (human)
 pathbank,PW112929,Protein Synthesis: Histidine,isPartOf,kegg,path:hsa00340,Histidine metabolism - Homo sapiens (human) 
 pathbank,PW112929,Protein Synthesis: Histidine,isPartOf,kegg,path:hsa01230,Biosynthesis of amino acids - Homo sapiens (human) 
 pathbank,PW112929,Protein Synthesis: Histidine,isPartOf,kegg,path:hsa01100,Metabolic pathways - Homo sapiens (human)
-pathbank,PW112930,Protein Synthesis: Isoleucine,isPartOf,kegg,path:hsa00290,Valine,leucine and isoleucine biosynthesis - Homo sapiens (human)
+pathbank,PW112930,Protein Synthesis: Isoleucine,isPartOf,kegg,path:hsa00290,"Valine,leucine and isoleucine biosynthesis - Homo sapiens (human)"
 pathbank,PW112930,Protein Synthesis: Isoleucine,isPartOf,kegg,path:hsa01230,Biosynthesis of amino acids - Homo sapiens (human) 
 pathbank,PW112930,Protein Synthesis: Isoleucine,isPartOf,kegg,path:hsa01100,Metabolic pathways - Homo sapiens (human)
-pathbank,PW112931,Protein Synthesis: Leucine,isPartOf,kegg,path:hsa00290,Valine,leucine and isoleucine biosynthesis - Homo sapiens (human)
+pathbank,PW112931,Protein Synthesis: Leucine,isPartOf,kegg,path:hsa00290,"Valine,leucine and isoleucine biosynthesis - Homo sapiens (human)"
 pathbank,PW112931,Protein Synthesis: Leucine,isPartOf,kegg,path:hsa01230,Biosynthesis of amino acids - Homo sapiens (human) 
 pathbank,PW112931,Protein Synthesis: Leucine,isPartOf,kegg,path:hsa01100,Metabolic pathways - Homo sapiens (human)
 pathbank,PW112932,Protein Synthesis: Lysine,isPartOf,kegg,path:hsa01230,Biosynthesis of amino acids - Homo sapiens (human) 
@@ -156,28 +156,28 @@ pathbank,PW112932,Protein Synthesis: Lysine,isPartOf,kegg,path:hsa01100,Metaboli
 pathbank,PW112933,Protein Synthesis: Methionine,isPartOf,kegg,path:hsa00270,Cysteine and methionine metabolism - Homo sapiens (human) 
 pathbank,PW112933,Protein Synthesis: Methionine,isPartOf,kegg,path:hsa01230,Biosynthesis of amino acids - Homo sapiens (human) 
 pathbank,PW112933,Protein Synthesis: Methionine,isPartOf,kegg,path:hsa01100,Metabolic pathways - Homo sapiens (human)
-pathbank,PW112934,Protein Synthesis: Phenylalanine,isPartOf,kegg,path:hsa00400,Phenylalanine,tyrosine and tryptophan biosynthesis - Homo sapiens (human)
+pathbank,PW112934,Protein Synthesis: Phenylalanine,isPartOf,kegg,path:hsa00400,"Phenylalanine,tyrosine and tryptophan biosynthesis - Homo sapiens (human)"
 pathbank,PW112934,Protein Synthesis: Phenylalanine,isPartOf,kegg,path:hsa00360,Phenylalanine metabolism - Homo sapiens (human) 
 pathbank,PW112934,Protein Synthesis: Phenylalanine,isPartOf,kegg,path:hsa01230,Biosynthesis of amino acids - Homo sapiens (human) 
 pathbank,PW112934,Protein Synthesis: Phenylalanine,isPartOf,kegg,path:hsa01100,Metabolic pathways - Homo sapiens (human)
 pathbank,PW113695,Protein Synthesis: Proline,isPartOf,kegg,path:hsa00330,Arginine and proline metabolism - Homo sapiens (human) 
 pathbank,PW113695,Protein Synthesis: Proline,isPartOf,kegg,path:hsa01230,Biosynthesis of amino acids - Homo sapiens (human) 
 pathbank,PW113695,Protein Synthesis: Proline,isPartOf,kegg,path:hsa01100,Metabolic pathways - Homo sapiens (human)
-pathbank,PW120517,Protein Synthesis: Serine,isPartOf,kegg,path:hsa00260,Glycine,serine and threonine metabolism - Homo sapiens (human)
+pathbank,PW120517,Protein Synthesis: Serine,isPartOf,kegg,path:hsa00260,"Glycine,serine and threonine metabolism - Homo sapiens (human)"
 pathbank,PW120517,Protein Synthesis: Serine,isPartOf,kegg,path:hsa01230,Biosynthesis of amino acids - Homo sapiens (human) 
 pathbank,PW120517,Protein Synthesis: Serine,isPartOf,kegg,path:hsa01100,Metabolic pathways - Homo sapiens (human)
-pathbank,PW120525,Protein Synthesis: Threonine,isPartOf,kegg,path:hsa00260,Glycine,serine and threonine metabolism - Homo sapiens (human)
+pathbank,PW120525,Protein Synthesis: Threonine,isPartOf,kegg,path:hsa00260,"Glycine,serine and threonine metabolism - Homo sapiens (human)"
 pathbank,PW120525,Protein Synthesis: Threonine,isPartOf,kegg,path:hsa01230,Biosynthesis of amino acids - Homo sapiens (human) 
 pathbank,PW120525,Protein Synthesis: Threonine,isPartOf,kegg,path:hsa01100,Metabolic pathways - Homo sapiens (human)
-pathbank,PW120526,Protein Synthesis: Tryptophan,isPartOf,kegg,path:hsa00400,Phenylalanine,tyrosine and tryptophan biosynthesis - Homo sapiens (human)
+pathbank,PW120526,Protein Synthesis: Tryptophan,isPartOf,kegg,path:hsa00400,"Phenylalanine,tyrosine and tryptophan biosynthesis - Homo sapiens (human)"
 pathbank,PW120526,Protein Synthesis: Tryptophan,isPartOf,kegg,path:hsa00380,Tryptophan metabolism - Homo sapiens (human) 
 pathbank,PW120526,Protein Synthesis: Tryptophan,isPartOf,kegg,path:hsa01230,Biosynthesis of amino acids - Homo sapiens (human) 
 pathbank,PW120526,Protein Synthesis: Tryptophan,isPartOf,kegg,path:hsa01100,Metabolic pathways - Homo sapiens (human)
-pathbank,PW120527,Protein Synthesis: Tyrosine,isPartOf,kegg,path:hsa00400,Phenylalanine,tyrosine and tryptophan biosynthesis - Homo sapiens (human)
+pathbank,PW120527,Protein Synthesis: Tyrosine,isPartOf,kegg,path:hsa00400,"Phenylalanine,tyrosine and tryptophan biosynthesis - Homo sapiens (human)"
 pathbank,PW120527,Protein Synthesis: Tyrosine,isPartOf,kegg,path:hsa00350,Tyrosine metabolism - Homo sapiens (human) 
 pathbank,PW120527,Protein Synthesis: Tyrosine,isPartOf,kegg,path:hsa01230,Biosynthesis of amino acids - Homo sapiens (human) 
 pathbank,PW120527,Protein Synthesis: Tyrosine,isPartOf,kegg,path:hsa01100,Metabolic pathways - Homo sapiens (human)
-pathbank,PW120528,Protein Synthesis: Valine,isPartOf,kegg,path:hsa00290,Valine,leucine and isoleucine biosynthesis - Homo sapiens (human)
+pathbank,PW120528,Protein Synthesis: Valine,isPartOf,kegg,path:hsa00290,"Valine,leucine and isoleucine biosynthesis - Homo sapiens (human)"
 pathbank,PW120528,Protein Synthesis: Valine,isPartOf,kegg,path:hsa01230,Biosynthesis of amino acids - Homo sapiens (human) 
 pathbank,PW120528,Protein Synthesis: Valine,isPartOf,kegg,path:hsa01100,Metabolic pathways - Homo sapiens (human)
 pathbank,PW000052,Purine Metabolism,isPartOf,kegg,path:hsa01100,Metabolic pathways - Homo sapiens (human)
@@ -223,7 +223,7 @@ pathbank,PW000039,Ubiquinone Biosynthesis,isPartOf,kegg,path:hsa00130,Ubiquinone
 pathbank,PW064821,Ubiquitin-Proteasome Pathway,isPartOf,kegg,path:hsa03050,Proteasome - Homo sapiens (human) 
 pathbank,PW064821,Ubiquitin-Proteasome Pathway,equivalentTo,kegg,path:hsa04120,Ubiquitin mediated proteolysis - Homo sapiens (human) 
 pathbank,PW000162,Urea Cycle,isPartOf,kegg,path:hsa01230,Biosynthesis of amino acids - Homo sapiens (human) 
-pathbank,PW000051,Valine,Leucine,and Isoleucine Degradation,equivalentTo,kegg,path:hsa00280,Valine,leucine and isoleucine degradation - Homo sapiens (human)
+pathbank,PW000051,"Valine,Leucine,and Isoleucine Degradation",equivalentTo,kegg,path:hsa00280,"Valine,leucine and isoleucine degradation - Homo sapiens (human)"
 pathbank,PW000447,Vasopressin Regulation of Water Homeostasis,equivalentTo,kegg,path:hsa04962,Vasopressin-regulated water reabsorption - Homo sapiens (human) 
 pathbank,PW000053,Vitamin B6 Metabolism,isPartOf,kegg,path:hsa01100,Metabolic pathways - Homo sapiens (human) 
 pathbank,PW000053,Vitamin B6 Metabolism,equivalentTo,kegg,path:hsa00750,Vitamin B6 metabolism - Homo sapiens (human) 

@@ -150,7 +150,7 @@ pathbank,PW000142,Tyrosine Metabolism,isPartOf,wikipathways,WP3925,Amino Acid me
 pathbank,PW000142,Tyrosine Metabolism,isPartOf,wikipathways,WP550,Biogenic Amine Synthesis 
 pathbank,PW064821,Ubiquitin-Proteasome Pathway,isPartOf,wikipathways,WP183,Proteasome Degradation 
 pathbank,PW000162,Urea Cycle,isPartOf,wikipathways,WP497,Urea cycle and metabolism of amino groups 
-pathbank,PW000051,Valine,Leucine,and Isoleucine Degradation,isPartOf,wikipathways,WP3925,Amino Acid metabolism
+pathbank,PW000051,"Valine,Leucine,and Isoleucine Degradation",isPartOf,wikipathways,WP3925,Amino Acid metabolism
 pathbank,PW078607,WNT Signaling Pathway,equivalentTo,wikipathways,WP428,Wnt Signaling Pathway 
 pathbank,PW000011,beta-Alanine Metabolism,isPartOf,wikipathways,WP3925,Amino Acid metabolism 
 pathbank,PW000011,beta-Alanine Metabolism,isPartOf,wikipathways,WP106,Alanine and aspartate metabolism 
