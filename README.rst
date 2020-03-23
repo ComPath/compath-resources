@@ -52,16 +52,17 @@ Mappings between `PathBank <https://pathbank.org/>`_ and the above-mentioned dat
 
 Mapping Between Pathway Databases
 ---------------------------------
-A total of 6 mapping files are stored in this package, one for each pairwise comparison:
+A total of 6 mapping files are stored in this package, one for each pairwise comparison [*]_:
 
-- `KEGG - WikiPathways <https://github.com/ComPath/resources/blob/master/mappings/kegg_wikipathways.csv>`_ [2]_
-- `KEGG - Reactome <https://github.com/ComPath/resources/blob/master/mappings/kegg_reactome.csv>`_ [2]_
-- `WikiPathways - Reactome <https://github.com/ComPath/resources/blob/master/mappings/wikipathways_reactome.csv>`_ [2]_
+- `KEGG - WikiPathways <https://github.com/ComPath/resources/blob/master/mappings/kegg_wikipathways.csv>`_
+- `KEGG - Reactome <https://github.com/ComPath/resources/blob/master/mappings/kegg_reactome.csv>`_
+- `WikiPathways - Reactome <https://github.com/ComPath/resources/blob/master/mappings/wikipathways_reactome.csv>`_
 - `PathBank - KEGG <https://github.com/ComPath/resources/blob/master/mappings/pathbank_kegg.csv>`_
 - `PathBank - Reactome <https://github.com/ComPath/resources/blob/master/mappings/pathbank_reactome.csv>`_
 - `PathBank - WikiPathways <https://github.com/ComPath/resources/blob/master/mappings/pathbank_wikipathways.csv>`_
 
-.. [2] Last updated in March 2019.
+.. [*] Pairwise mappings between KEGG, Reactome and WikiPathways were last updated in March of 2019. PathBank mappings
+    were last updated in March of 2020.
 
 Curation Team
 -------------
