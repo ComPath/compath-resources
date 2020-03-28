@@ -1,9 +1,9 @@
 ComPath Resources |zenodo|
 ==========================
 This repository contains the different resources derived or generated using `ComPath <https://github.com/ComPath>`_.
-Among these resources, there are `Jupyter notebooks <https://github.com/ComPath/resources/tree/master/notebooks>`_
+Among these resources, there are `Jupyter notebooks <https://github.com/ComPath/compath-resources/tree/master/notebooks>`_
 outlining possible analyses that can be made using ComPath plugins as well as the results of the curation effort
-(see the `mappings <https://github.com/ComPath/resources/tree/master/mappings>`_ folder) where pathway mappings between
+(see the `mappings <https://github.com/ComPath/compath-resources/tree/master/mappings>`_ folder) where pathway mappings between
 three of the major pathway databases (see below) are stored. As of March 2020, `PathBank <https://pathbank.org/>`_
 mappings are now available in ComPath.
 
@@ -26,11 +26,11 @@ Download the latest stable code from `PyPI <https://pypi.python.org/pypi/compath
 
 Get the Latest
 ~~~~~~~~~~~~~~~
-Download the most recent code from `GitHub <https://github.com/ComPath/resources>`_ with:
+Download the most recent code from `GitHub <https://github.com/ComPath/compath-resources>`_ with:
 
 .. code-block:: python
 
-   python3 -m pip install git+https://github.com/ComPath/resources.git@master
+   python3 -m pip install git+https://github.com/ComPath/compath-resources.git@master
     
 Curation (Pathway Mappings)
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~
@@ -54,12 +54,12 @@ Mapping Between Pathway Databases
 ---------------------------------
 A total of 6 mapping files are stored in this package, one for each pairwise comparison [*]_:
 
-- `KEGG - WikiPathways <https://github.com/ComPath/resources/blob/master/mappings/kegg_wikipathways.csv>`_
-- `KEGG - Reactome <https://github.com/ComPath/resources/blob/master/mappings/kegg_reactome.csv>`_
-- `WikiPathways - Reactome <https://github.com/ComPath/resources/blob/master/mappings/wikipathways_reactome.csv>`_
-- `PathBank - KEGG <https://github.com/ComPath/resources/blob/master/mappings/pathbank_kegg.csv>`_
-- `PathBank - Reactome <https://github.com/ComPath/resources/blob/master/mappings/pathbank_reactome.csv>`_
-- `PathBank - WikiPathways <https://github.com/ComPath/resources/blob/master/mappings/pathbank_wikipathways.csv>`_
+- `KEGG - WikiPathways <https://github.com/ComPath/compath-resources/blob/master/mappings/kegg_wikipathways.csv>`_
+- `KEGG - Reactome <https://github.com/ComPath/compath-resources/blob/master/mappings/kegg_reactome.csv>`_
+- `WikiPathways - Reactome <https://github.com/ComPath/compath-resources/blob/master/mappings/wikipathways_reactome.csv>`_
+- `PathBank - KEGG <https://github.com/ComPath/compath-resources/blob/master/mappings/pathbank_kegg.csv>`_
+- `PathBank - Reactome <https://github.com/ComPath/compath-resources/blob/master/mappings/pathbank_reactome.csv>`_
+- `PathBank - WikiPathways <https://github.com/ComPath/compath-resources/blob/master/mappings/pathbank_wikipathways.csv>`_
 
 .. [*] Pairwise mappings between KEGG, Reactome and WikiPathways were last updated in March of 2019. PathBank mappings
     were last updated in March of 2020.
