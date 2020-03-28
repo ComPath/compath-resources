@@ -17,7 +17,7 @@ def make_similarity_matricies() -> Mapping[Tuple[str, str], pd.DataFrame]:
         logger.info('loading %s', name)
         manager = manager_cls()
         logger.info('getting pathways from %s', name)
-        database[name] = manager.get_pathway_dicts()
+        database[name] = manager.get_pathway_id_to_symbols()
 
     rv = {}
     for (a_name, a_sets), (b_name, b_sets) in itt.combinations(database.items(), r=2):
