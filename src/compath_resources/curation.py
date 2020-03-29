@@ -39,9 +39,9 @@ def make_similarity_matricies(
         mappings[name] = manager.get_pathway_id_name_mapping()
 
     rv = {}
-    for (a_name, a_sets), (b_name, b_sets) in itt.combinations(database.items(), r=2):
-        logger.info('calculating similarities between %s and %s', a_name, b_name)
-        a_mappings, b_mappings = mappings[a_name], mappings[b_name]
+    for (a_database_name, a_sets), (b_database_name, b_sets) in itt.combinations(database.items(), r=2):
+        logger.info('calculating similarities between %s and %s', a_database_name, b_database_name)
+        a_pathway_id_to_name, b_pathway_id_to_name = mappings[a_database_name], mappings[b_database_name]
 
         rows = []
         it = itt.product(a_sets.items(), b_sets.items())
@@ -51,24 +51,27 @@ def make_similarity_matricies(
             if gene_similarity < minimum_gene_set_similarity:
                 continue
 
-            sequence_matcher = SequenceMatcher(None, a_name, b_name)
+            a_pathway_name = a_pathway_id_to_name[a_pathway_id]
+            b_pathway_name = b_pathway_id_to_name[b_pathway_id]
+
+            sequence_matcher = SequenceMatcher(None, a_pathway_name, b_pathway_name)
             string_similarity = sequence_matcher.ratio()
             if string_similarity < minimum_string_similarity:
                 continue
 
             rows.append((
-                a_pathway_id, a_mappings[a_pathway_id],
-                b_pathway_id, b_mappings[b_pathway_id],
-                gene_similarity, string_similarity,
+                a_pathway_id, a_pathway_name,
+                b_pathway_id, b_pathway_name,
+                round(gene_similarity, 3), round(string_similarity, 3),
             ))
 
-        rv[a_name, b_name] = df = pd.DataFrame(
+        rv[a_database_name, b_database_name] = df = pd.DataFrame(
             rows,
-            columns=[f'{a_name}_id', f'{a_name}_name', f'{b_name}_id',
-                     f'{b_name}_name', 'gene_set_similarity', 'string_similarity'],
-        ).sort_values([f'{a_name}_id', 'gene_set_similarity'], ascending=False)
+            columns=[f'{a_database_name}_id', f'{a_database_name}_name', f'{b_database_name}_id',
+                     f'{b_database_name}_name', 'gene_set_similarity', 'string_similarity'],
+        ).sort_values([f'{a_database_name}_name', 'gene_set_similarity'], ascending=False)
 
-        path = os.path.join(directory, f'{a_name}_{b_name}.tsv')
+        path = os.path.join(directory, f'{a_database_name}_{b_database_name}.tsv')
         df.to_csv(path, sep='\t', index=False)
 
     return rv
