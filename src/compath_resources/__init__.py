@@ -2,5 +2,6 @@
 
 """Utilities for ComPath's resources."""
 
-from compath_resources.manager import Manager, get_bel  # noqa: F401
-from compath_resources.parser import get_df  # noqa: F401
+from .exporters import get_bel, get_rdf  # noqa: F401
+from .manager import Manager  # noqa: F401
+from .parser import get_df  # noqa: F401
