@@ -1,3 +1,7 @@
+# -*- coding: utf-8 -*-
+
+"""Curation utilities."""
+
 import itertools as itt
 import logging
 import os
@@ -14,16 +18,14 @@ from compath_resources.constants import COMPATH_HOME
 logger = logging.getLogger(__name__)
 
 
-def make_similarity_matricies(
+def make_similarity_matrices(
     minimum_gene_set_similarity: float = 0.8,
     minimum_string_similarity: float = 0.00,
 ) -> Mapping[Tuple[str, str], pd.DataFrame]:
-    """
+    """Make similarity matricies.
 
-    :param directory:
     :param minimum_gene_set_similarity:
     :param minimum_string_similarity:
-    :return:
     """
     database = {}
     mappings = {}
@@ -76,13 +78,11 @@ def make_similarity_matricies(
     return rv
 
 
-def calculate_jaccard(set_1, set_2):
-    """calculates jaccard similarity between two sets
+def calculate_jaccard(set_1, set_2) -> float:
+    """Calculate the jaccard similarity between two sets.
 
     :param set set_1: set 1
     :param set set_2: set 2
-    :returns similarity
-    :rtype: float
     """
     intersection = len(set_1.intersection(set_2))
     smaller_set = min(len(set_1), len(set_2))
@@ -91,9 +91,9 @@ def calculate_jaccard(set_1, set_2):
 
 
 @click.command()
-def main():
-    make_similarity_matricies()
+def _main():
+    make_similarity_matrices()
 
 
 if __name__ == '__main__':
-    main()
+    _main()

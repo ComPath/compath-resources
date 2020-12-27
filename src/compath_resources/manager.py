@@ -24,10 +24,10 @@ class Manager(BELManagerMixin, CliMixin):
     def _get_connection(cls):
         pass
 
-    def is_populated(self) -> bool:
+    def is_populated(self) -> bool:  # noqa:D102
         return True
 
-    def summarize(self):
+    def summarize(self):  # noqa:D102
         return dict(
             pathways=self.graph.number_of_nodes(),
             mappings=self.graph.number_of_edges(),
