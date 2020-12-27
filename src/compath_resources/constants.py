@@ -2,6 +2,10 @@
 
 """Constants for ComPath's resources."""
 
+import pystow
+
+COMPATH_HOME = pystow.get('compath')
+
 _BASE_URL = 'https://raw.githubusercontent.com/ComPath/resources/master/mappings'
 
 # Inter-database mappings

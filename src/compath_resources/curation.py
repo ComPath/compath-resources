@@ -1,19 +1,20 @@
+import itertools as itt
 import logging
 import os
 from difflib import SequenceMatcher
 from typing import Mapping, Tuple
 
-import itertools as itt
+import click
 import pandas as pd
 from tqdm import tqdm
 
 from bio2bel.compath import get_compath_manager_classes
+from compath_resources.constants import COMPATH_HOME
 
 logger = logging.getLogger(__name__)
 
 
 def make_similarity_matricies(
-    directory: str,
     minimum_gene_set_similarity: float = 0.8,
     minimum_string_similarity: float = 0.00,
 ) -> Mapping[Tuple[str, str], pd.DataFrame]:
@@ -24,8 +25,6 @@ def make_similarity_matricies(
     :param minimum_string_similarity:
     :return:
     """
-    os.makedirs(directory, exist_ok=True)
-
     database = {}
     mappings = {}
     for name, manager_cls in get_compath_manager_classes().items():
@@ -71,7 +70,7 @@ def make_similarity_matricies(
                      f'{b_database_name}_name', 'gene_set_similarity', 'string_similarity'],
         ).sort_values([f'{a_database_name}_name', 'gene_set_similarity'], ascending=False)
 
-        path = os.path.join(directory, f'{a_database_name}_{b_database_name}.tsv')
+        path = os.path.join(COMPATH_HOME, f'{a_database_name}_{b_database_name}.tsv')
         df.to_csv(path, sep='\t', index=False)
 
     return rv
@@ -91,5 +90,10 @@ def calculate_jaccard(set_1, set_2):
     return intersection / smaller_set
 
 
+@click.command()
+def main():
+    make_similarity_matricies()
+
+
 if __name__ == '__main__':
-    make_similarity_matricies(os.path.join(os.path.expanduser('~'), 'Desktop', 'compath-mappings'))
+    main()
