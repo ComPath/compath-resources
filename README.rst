@@ -1,5 +1,7 @@
-ComPath Resources |zenodo|
-==========================
+ComPath Resources
+=================
+|tests| |pypi_version| |python_versions| |pypi_license| |zenodo|
+
 This repository contains the different resources derived or generated using `ComPath <https://github.com/ComPath>`_.
 Among these resources, there are `Jupyter notebooks <https://github.com/ComPath/compath-resources/tree/master/notebooks>`_
 outlining possible analyses that can be made using ComPath plugins as well as the results of the curation effort
@@ -13,9 +15,8 @@ If you use ComPath in your work, please consider citing:
 
 .. [1] Domingo-Fernández, D., *et al.* (2018). `ComPath: An ecosystem for exploring, analyzing, and curating mappings across pathway databases <https://doi.org/10.1038/s41540-018-0078-8>`_. *npj Syst Biol Appl.*, 4(1):43.
 
-Installation |pypi_version| |python_versions| |pypi_license|
-------------------------------------------------------------
-
+Installation
+------------
 Easiest
 ~~~~~~~
 Download the latest stable code from `PyPI <https://pypi.python.org/pypi/compath_resources>`_ with:
@@ -47,7 +48,6 @@ from all resources.*
 
 Update: March 2020
 ~~~~~~~~~~~~~~~~~~
-
 Mappings between `PathBank <https://pathbank.org/>`_ and the above-mentioned databases are now available in ComPath.
 
 Mapping Between Pathway Databases
@@ -100,3 +100,5 @@ We have distinguished between two types of relationships between pathways (mappi
     :alt: MIT License
 .. |zenodo| image:: https://zenodo.org/badge/132792765.svg
    :target: https://zenodo.org/badge/latestdoi/132792765
+.. |tests| image:: https://github.com/ComPath/compath-resources/workflows/Tests/badge.svg
+   :target: https://github.com/ComPath/compath-resources/actions?query=workflow%3ATests
