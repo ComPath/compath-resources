@@ -2,6 +2,7 @@ graft src
 prune notebooks
 
 recursive-include mappings *.csv
+recursive-include mappings *.tsv
 recursive-exclude mappings *.rdf
 recursive-exclude mappings *.rst
 recursive-exclude mappings *.xlsx
