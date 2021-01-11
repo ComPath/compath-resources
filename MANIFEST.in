@@ -1,5 +1,6 @@
 graft src
 prune notebooks
+prune docs
 
 recursive-include mappings *.csv
 recursive-include mappings *.tsv
