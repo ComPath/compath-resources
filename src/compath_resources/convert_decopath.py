@@ -21,7 +21,9 @@ def _fix_kegg_identifier(prefix, identifier) -> str:
     return identifier
 
 
-def _fix(df: pd.DataFrame) -> None:
+def _fix_kegg_entries(df: pd.DataFrame) -> None:
+    df['Source Resource'] = df['Source Resource'].map(lambda s: s.replace('kegg', 'kegg.pathway'))
+    df['Target Resource'] = df['Target Resource'].map(lambda s: s.replace('kegg', 'kegg.pathway'))
     df['Source ID'] = [
         _fix_kegg_identifier(prefix, identifier)
         for prefix, identifier in df[['Source Resource', 'Source ID']].values
@@ -39,10 +41,7 @@ def get_decopath_df() -> pd.DataFrame:
     for sheet_name in excel_file.sheet_names:
         df = excel_file.parse(sheet_name, usecols=list(range(7)))
         df = df.dropna()
-        # TODO fix in upstream
-        df['Source Resource'] = df['Source Resource'].map(lambda s: s.replace('kegg', 'kegg.pathway'))
-        df['Target Resource'] = df['Target Resource'].map(lambda s: s.replace('kegg', 'kegg.pathway'))
-        _fix(df)
+        _fix_kegg_entries(df)  # TODO fix in upstream
         dfs.append(df)
     return pd.concat(dfs)
 
