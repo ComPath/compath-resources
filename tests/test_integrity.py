@@ -30,16 +30,20 @@ class TestIntegrity(unittest.TestCase):
 
     def test_prefixes(self):
         """Test correct prefixes."""
+        rows = ['Source Resource', 'Source ID', 'Target Resource', 'Target ID']
         for name, df in self.x.items():
             with self.subTest(name=name):
-                source_prefixes = df['Source Resource'].unique()
-                for prefix in source_prefixes:
-                    self.assertIn(prefix, self.registry)
-                    self.assertFalse(bioregistry.is_deprecated(prefix), msg=f'deprecated source prefix: {prefix}')
-                target_prefixes = df['Target Resource'].unique()
-                for prefix in target_prefixes:
-                    self.assertIn(prefix, self.registry)
-                    self.assertFalse(bioregistry.is_deprecated(prefix), msg=f'deprecated target prefix: {prefix}')
+                for i, (source_prefix, source_id, target_prefix, target_id) in enumerate(df[rows].values):
+                    self.assertIn(source_prefix, self.registry.keys())
+                    self.assertFalse(
+                        bioregistry.is_deprecated(source_prefix),
+                        msg=f'[{name}, row {i}] deprecated source prefix: {source_prefix}',
+                    )
+                    self.assertIn(target_prefix, self.registry.keys())
+                    self.assertFalse(
+                        bioregistry.is_deprecated(target_prefix),
+                        msg=f'[{name}, row {i}] deprecated target prefix: {target_prefix}',
+                    )
 
     def test_decopath_export(self):
         """Test the exported data is the same as the excel."""
