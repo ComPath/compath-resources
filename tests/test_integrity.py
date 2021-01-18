@@ -17,7 +17,7 @@ class TestIntegrity(unittest.TestCase):
     """Test case for checking data integrity."""
 
     def setUp(self) -> None:
-        """Setup integrity tests."""
+        """Set up integrity tests."""
         self.registry = bioregistry.read_bioregistry()
         self.x = {}
         for name in os.listdir(MAPPINGS_DIRECTORY):
