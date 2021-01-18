@@ -20,93 +20,93 @@ decopath	DC1-1-16	Glutathione metabolism	BFO:0000050	decopath	DC1-1	Amino acid m
 decopath	DC1-1-17	Beta-Alanine metabolism	BFO:0000050	decopath	DC1-1	Amino acid metabolism and derivatives
 decopath	DC1-1-18	Cysteine formation from homocysteine	BFO:0000050	decopath	DC1-1	Amino acid metabolism and derivatives
 decopath	DC1-1-19	Sulfur metabolism	BFO:0000050	decopath	DC1-1	Amino acid metabolism and derivatives
-kegg.pathway	path:hsa01230	Biosynthesis of amino acids - Homo sapiens (human)	BFO:0000050	decopath	DC1-1	Amino acid metabolism and derivatives
+kegg.pathway	hsa01230	Biosynthesis of amino acids - Homo sapiens (human)	BFO:0000050	decopath	DC1-1	Amino acid metabolism and derivatives
 reactome	R-HSA-70895	Branched-chain amino acid catabolism	BFO:0000050	decopath	DC1-1	Amino acid metabolism and derivatives
-kegg.pathway	path:hsa01210	2-Oxocarboxylic acid metabolism - Homo sapiens (human)	BFO:0000050	decopath	DC1-1	Amino acid metabolism and derivatives
+kegg.pathway	hsa01210	2-Oxocarboxylic acid metabolism - Homo sapiens (human)	BFO:0000050	decopath	DC1-1	Amino acid metabolism and derivatives
 wikipathways	WP3925	Amino Acid metabolism (Homo sapiens)	skos:exactMatch	reactome	R-HSA-71291	Metabolism of amino acids and derivatives 
 wikipathways	WP3925	Amino Acid metabolism (Homo sapiens)	BFO:0000050	decopath	DC1-1	Amino acid metabolism and derivatives
 reactome	R-HSA-71291	Metabolism of amino acids and derivatives 	BFO:0000050	decopath	DC1-1	Amino acid metabolism and derivatives
-kegg.pathway	path:hsa00250	Alanine, aspartate and glutamate metabolism - Homo sapiens (human)	BFO:0000050	decopath	DC1-1-1	Alanine, aspartate and glutamate metabolism
+kegg.pathway	hsa00250	Alanine, aspartate and glutamate metabolism - Homo sapiens (human)	BFO:0000050	decopath	DC1-1-1	Alanine, aspartate and glutamate metabolism
 wikipathways	WP3580	Methionine De Novo and Salvage Pathway	skos:exactMatch	reactome	R-HSA-1237112	Methionine salvage pathway
 wikipathways	WP3580	Methionine De Novo and Salvage Pathway	BFO:0000050	decopath	DC1-1-2-1	Methionine salvage pathway
 reactome	R-HSA-1237112	Methionine salvage pathway	BFO:0000050	decopath	DC1-1-2-1	Methionine salvage pathway
 decopath	DC1-1-2-1	Methionine salvage pathway	BFO:0000050	decopath	DC1-1-2	Cysteine and methionine metabolism
-kegg.pathway	path:hsa00270	Cysteine and methionine metabolism - Homo sapiens (human)	BFO:0000050	decopath	DC1-1-2	Cysteine and methionine metabolism
+kegg.pathway	hsa00270	Cysteine and methionine metabolism - Homo sapiens (human)	BFO:0000050	decopath	DC1-1-2	Cysteine and methionine metabolism
 wikipathways	WP2333	Trans-sulfuration pathway	skos:exactMatch	reactome	R-HSA-1614603	Cysteine formation from homocysteine
 wikipathways	WP2333	Trans-sulfuration pathway	BFO:0000050	decopath	DC1-1-18	Cysteine formation from homocysteine
 reactome	R-HSA-1614603	Cysteine formation from homocysteine	BFO:0000050	decopath	DC1-1-18	Cysteine formation from homocysteine
-pathbank	PW000019	D-Arginine and D-Ornithine Metabolism	skos:exactMatch	kegg.pathway	path:hsa00472	D-Arginine and D-ornithine metabolism - Homo sapiens (human)
-kegg.pathway	path:hsa00472	D-Arginine and D-ornithine metabolism - Homo sapiens (human)	BFO:0000050	decopath	DC1-1-3	D-Arginine and D-ornithine metabolism
+pathbank	PW000019	D-Arginine and D-Ornithine Metabolism	skos:exactMatch	kegg.pathway	hsa00472	D-Arginine and D-ornithine metabolism - Homo sapiens (human)
+kegg.pathway	hsa00472	D-Arginine and D-ornithine metabolism - Homo sapiens (human)	BFO:0000050	decopath	DC1-1-3	D-Arginine and D-ornithine metabolism
 pathbank	PW000019	D-Arginine and D-Ornithine Metabolism	BFO:0000050	decopath	DC1-1-3	D-Arginine and D-ornithine metabolism
-pathbank	PW112896	Protein Synthesis: Arginine	skos:exactMatch	kegg.pathway	path:hsa00220	Arginine biosynthesis - Homo sapiens (human)
+pathbank	PW112896	Protein Synthesis: Arginine	skos:exactMatch	kegg.pathway	hsa00220	Arginine biosynthesis - Homo sapiens (human)
 pathbank	PW112896	Protein Synthesis: Arginine	BFO:0000050	decopath	DC1-1-12	Arginine biosynthesis
-kegg.pathway	path:hsa00220	Arginine biosynthesis - Homo sapiens (human)	BFO:0000050	decopath	DC1-1-12	Arginine biosynthesis
-pathbank	PW000011	beta-Alanine Metabolism	skos:exactMatch	kegg.pathway	path:hsa00410	beta-Alanine metabolism - Homo sapiens (human)
-kegg.pathway	path:hsa00410	beta-Alanine metabolism - Homo sapiens (human)	BFO:0000050	decopath	DC1-1-17	Beta-Alanine metabolism
+kegg.pathway	hsa00220	Arginine biosynthesis - Homo sapiens (human)	BFO:0000050	decopath	DC1-1-12	Arginine biosynthesis
+pathbank	PW000011	beta-Alanine Metabolism	skos:exactMatch	kegg.pathway	hsa00410	beta-Alanine metabolism - Homo sapiens (human)
+kegg.pathway	hsa00410	beta-Alanine metabolism - Homo sapiens (human)	BFO:0000050	decopath	DC1-1-17	Beta-Alanine metabolism
 pathbank	PW000011	beta-Alanine Metabolism	BFO:0000050	decopath	DC1-1-17	Beta-Alanine metabolism
 reactome	R-HSA-156590	Glutathione conjugation	BFO:0000050	wikipathways	WP100	Glutathione metabolism
-pathbank	PW000004	Glutathione Metabolism	skos:exactMatch	kegg.pathway	path:hsa00480	Glutathione metabolism - Homo sapiens (human)
+pathbank	PW000004	Glutathione Metabolism	skos:exactMatch	kegg.pathway	hsa00480	Glutathione metabolism - Homo sapiens (human)
 pathbank	PW000004	Glutathione Metabolism	skos:exactMatch	wikipathways	WP100	Glutathione metabolism
 pathbank	PW000004	Glutathione Metabolism	skos:exactMatch	reactome	R-HSA-174403	Glutathione synthesis and recycling
-kegg.pathway	path:hsa00480	Glutathione metabolism - Homo sapiens (human)	skos:exactMatch	reactome	R-HSA-174403	Glutathione synthesis and recycling
-kegg.pathway	path:hsa00480	Glutathione metabolism - Homo sapiens (human)	skos:exactMatch	wikipathways	WP100	Glutathione metabolism
+kegg.pathway	hsa00480	Glutathione metabolism - Homo sapiens (human)	skos:exactMatch	reactome	R-HSA-174403	Glutathione synthesis and recycling
+kegg.pathway	hsa00480	Glutathione metabolism - Homo sapiens (human)	skos:exactMatch	wikipathways	WP100	Glutathione metabolism
 wikipathways	WP100	Glutathione metabolism	skos:exactMatch	reactome	R-HSA-174403	Glutathione synthesis and recycling
 wikipathways	WP100	Glutathione metabolism	BFO:0000050	decopath	DC1-1-16	Glutathione metabolism
-kegg.pathway	path:hsa00480	Glutathione metabolism - Homo sapiens (human)	BFO:0000050	decopath	DC1-1-16	Glutathione metabolism
+kegg.pathway	hsa00480	Glutathione metabolism - Homo sapiens (human)	BFO:0000050	decopath	DC1-1-16	Glutathione metabolism
 pathbank	PW000004	Glutathione Metabolism	BFO:0000050	decopath	DC1-1-16	Glutathione metabolism
 reactome	R-HSA-174403	Glutathione synthesis and recycling	BFO:0000050	decopath	DC1-1-16	Glutathione metabolism
-pathbank	PW000043	Histidine Metabolism	skos:exactMatch	kegg.pathway	path:hsa00340	Histidine metabolism - Homo sapiens (human)
+pathbank	PW000043	Histidine Metabolism	skos:exactMatch	kegg.pathway	hsa00340	Histidine metabolism - Homo sapiens (human)
 pathbank	PW000043	Histidine Metabolism	BFO:0000050	decopath	DC1-1-15	Histidine metabolism
-kegg.pathway	path:hsa00340	Histidine metabolism - Homo sapiens (human)	BFO:0000050	decopath	DC1-1-15	Histidine metabolism
-pathbank	PW000142	Tyrosine Metabolism	skos:exactMatch	kegg.pathway	path:hsa00350	Tyrosine metabolism - Homo sapiens (human)
-kegg.pathway	path:hsa00350	Tyrosine metabolism - Homo sapiens (human)	skos:exactMatch	wikipathways	WP4506	Tyrosine Metabolism
+kegg.pathway	hsa00340	Histidine metabolism - Homo sapiens (human)	BFO:0000050	decopath	DC1-1-15	Histidine metabolism
+pathbank	PW000142	Tyrosine Metabolism	skos:exactMatch	kegg.pathway	hsa00350	Tyrosine metabolism - Homo sapiens (human)
+kegg.pathway	hsa00350	Tyrosine metabolism - Homo sapiens (human)	skos:exactMatch	wikipathways	WP4506	Tyrosine Metabolism
 pathbank	PW000142	Tyrosine Metabolism	skos:exactMatch	wikipathways	WP4506	Tyrosine Metabolism
 pathbank	PW000142	Tyrosine Metabolism	BFO:0000050	decopath	DC1-1-13	Tyrosine metabolism
 wikipathways	WP4506	Tyrosine Metabolism	BFO:0000050	decopath	DC1-1-13	Tyrosine metabolism
-kegg.pathway	path:hsa00350	Tyrosine metabolism - Homo sapiens (human)	BFO:0000050	decopath	DC1-1-13	Tyrosine metabolism
+kegg.pathway	hsa00350	Tyrosine metabolism - Homo sapiens (human)	BFO:0000050	decopath	DC1-1-13	Tyrosine metabolism
 pathbank	PW000163	Tryptophan Metabolism	skos:exactMatch	wikipathways	WP465	Tryptophan metabolism
-pathbank	PW000163	Tryptophan Metabolism	skos:exactMatch	kegg.pathway	path:hsa00380	Tryptophan metabolism - Homo sapiens (human)
-kegg.pathway	path:hsa00380	Tryptophan metabolism - Homo sapiens (human)	skos:exactMatch	wikipathways	WP465	Tryptophan metabolism
+pathbank	PW000163	Tryptophan Metabolism	skos:exactMatch	kegg.pathway	hsa00380	Tryptophan metabolism - Homo sapiens (human)
+kegg.pathway	hsa00380	Tryptophan metabolism - Homo sapiens (human)	skos:exactMatch	wikipathways	WP465	Tryptophan metabolism
 pathbank	PW000163	Tryptophan Metabolism	BFO:0000050	decopath	DC1-1-14	Tryptophan metabolism
-kegg.pathway	path:hsa00380	Tryptophan metabolism - Homo sapiens (human)	BFO:0000050	decopath	DC1-1-14	Tryptophan metabolism
+kegg.pathway	hsa00380	Tryptophan metabolism - Homo sapiens (human)	BFO:0000050	decopath	DC1-1-14	Tryptophan metabolism
 wikipathways	WP465	Tryptophan metabolism	BFO:0000050	decopath	DC1-1-14	Tryptophan metabolism
-pathbank	PW000010	Arginine and Proline Metabolism	skos:exactMatch	kegg.pathway	path:hsa00330	Arginine and proline metabolism - Homo sapiens (human)
+pathbank	PW000010	Arginine and Proline Metabolism	skos:exactMatch	kegg.pathway	hsa00330	Arginine and proline metabolism - Homo sapiens (human)
 pathbank	PW000010	Arginine and Proline Metabolism	BFO:0000050	decopath	DC1-1-4	Arginine and proline metabolism
-kegg.pathway	path:hsa00330	Arginine and proline metabolism - Homo sapiens (human)	BFO:0000050	decopath	DC1-1-4	Arginine and proline metabolism
+kegg.pathway	hsa00330	Arginine and proline metabolism - Homo sapiens (human)	BFO:0000050	decopath	DC1-1-4	Arginine and proline metabolism
 wikipathways	WP497	Urea cycle and metabolism of amino groups	skos:exactMatch	reactome	R-HSA-70635	Urea cycle
 wikipathways	WP497	Urea cycle and metabolism of amino groups	BFO:0000050	decopath	DC1-1-11	Urea cycle
 reactome	R-HSA-70635	Urea cycle	BFO:0000050	decopath	DC1-1-11	Urea cycle
 pathbank	PW000029	Lysine Degradation	skos:exactMatch	reactome	R-HSA-71064	Lysine catabolism
-pathbank	PW000029	Lysine Degradation	skos:exactMatch	kegg.pathway	path:hsa00310	Lysine degradation - Homo sapiens (human)
-kegg.pathway	path:hsa00310	Lysine degradation - Homo sapiens (human)	skos:exactMatch	reactome	R-HSA-71064	Lysine catabolism
+pathbank	PW000029	Lysine Degradation	skos:exactMatch	kegg.pathway	hsa00310	Lysine degradation - Homo sapiens (human)
+kegg.pathway	hsa00310	Lysine degradation - Homo sapiens (human)	skos:exactMatch	reactome	R-HSA-71064	Lysine catabolism
 reactome	R-HSA-71064	Lysine catabolism	BFO:0000050	decopath	DC1-1-10	Lysine degradation
 pathbank	PW000029	Lysine Degradation	BFO:0000050	decopath	DC1-1-10	Lysine degradation
-kegg.pathway	path:hsa00310	Lysine degradation - Homo sapiens (human)	BFO:0000050	decopath	DC1-1-10	Lysine degradation
-pathbank	PW000051	Valine,Leucine,and Isoleucine Degradation	skos:exactMatch	kegg.pathway	path:hsa00280	Valine,leucine and isoleucine degradation - Homo sapiens (human)
-kegg.pathway	path:hsa00280	Valine, leucine and isoleucine degradation - Homo sapiens (human)	BFO:0000050	decopath	DC1-1-9	Valine,leucine and isoleucine degradation
+kegg.pathway	hsa00310	Lysine degradation - Homo sapiens (human)	BFO:0000050	decopath	DC1-1-10	Lysine degradation
+pathbank	PW000051	Valine,Leucine,and Isoleucine Degradation	skos:exactMatch	kegg.pathway	hsa00280	Valine,leucine and isoleucine degradation - Homo sapiens (human)
+kegg.pathway	hsa00280	Valine, leucine and isoleucine degradation - Homo sapiens (human)	BFO:0000050	decopath	DC1-1-9	Valine,leucine and isoleucine degradation
 pathbank	PW000051	Valine,Leucine,and Isoleucine Degradation	BFO:0000050	decopath	DC1-1-9	Valine,leucine and isoleucine degradation
-kegg.pathway	path:hsa00730	Thiamine metabolism - Homo sapiens (human)	skos:exactMatch	reactome	R-HSA-196819	Vitamin B1 (thiamin) metabolism
-kegg.pathway	path:hsa00730	Thiamine metabolism - Homo sapiens (human)	skos:exactMatch	wikipathways	WP4297	Thiamine metabolic pathways
+kegg.pathway	hsa00730	Thiamine metabolism - Homo sapiens (human)	skos:exactMatch	reactome	R-HSA-196819	Vitamin B1 (thiamin) metabolism
+kegg.pathway	hsa00730	Thiamine metabolism - Homo sapiens (human)	skos:exactMatch	wikipathways	WP4297	Thiamine metabolic pathways
 reactome	R-HSA-196819	Vitamin B1 (thiamin) metabolism	skos:exactMatch	wikipathways	WP4297	Thiamine metabolic pathways
-pathbank	PW000036	Thiamine Metabolism	skos:exactMatch	kegg.pathway	path:hsa00730	Thiamine metabolism - Homo sapiens (human)
+pathbank	PW000036	Thiamine Metabolism	skos:exactMatch	kegg.pathway	hsa00730	Thiamine metabolism - Homo sapiens (human)
 pathbank	PW000036	Thiamine Metabolism	skos:exactMatch	wikipathways	WP4297	Thiamine metabolic pathways
 pathbank	PW000036	Thiamine Metabolism	skos:exactMatch	reactome	R-HSA-196819	Vitamin B1 (thiamin) metabolism
 wikipathways	WP4297	Thiamine metabolic pathways	BFO:0000050	decopath	DC1-1-8	Thiamine metabolism
-kegg.pathway	path:hsa00730	Thiamine metabolism - Homo sapiens (human)	BFO:0000050	decopath	DC1-1-8	Thiamine metabolism
+kegg.pathway	hsa00730	Thiamine metabolism - Homo sapiens (human)	BFO:0000050	decopath	DC1-1-8	Thiamine metabolism
 pathbank	PW000036	Thiamine Metabolism	BFO:0000050	decopath	DC1-1-8	Thiamine metabolism
 reactome	R-HSA-196819	Vitamin B1 (thiamin) metabolism	BFO:0000050	decopath	DC1-1-8	Thiamine metabolism
-pathbank	PW000038	Taurine and Hypotaurine Metabolism	skos:exactMatch	kegg.pathway	path:hsa00430	Taurine and hypotaurine metabolism - Homo sapiens (human)
-kegg.pathway	path:hsa00430	Taurine and hypotaurine metabolism - Homo sapiens (human)	BFO:0000050	decopath	DC1-1-7	Taurine and hypotaurine metabolism
+pathbank	PW000038	Taurine and Hypotaurine Metabolism	skos:exactMatch	kegg.pathway	hsa00430	Taurine and hypotaurine metabolism - Homo sapiens (human)
+kegg.pathway	hsa00430	Taurine and hypotaurine metabolism - Homo sapiens (human)	BFO:0000050	decopath	DC1-1-7	Taurine and hypotaurine metabolism
 pathbank	PW000038	Taurine and Hypotaurine Metabolism	BFO:0000050	decopath	DC1-1-7	Taurine and hypotaurine metabolism
-kegg.pathway	path:hsa04916	Melanogenesis - Homo sapiens (human)	skos:exactMatch	reactome	R-HSA-5662702	Melanin biosynthesis
+kegg.pathway	hsa04916	Melanogenesis - Homo sapiens (human)	skos:exactMatch	reactome	R-HSA-5662702	Melanin biosynthesis
 reactome	R-HSA-5662702	Melanin biosynthesis	BFO:0000050	decopath	DC1-1-6	Melanin biosynthesis
-kegg.pathway	path:hsa04916	Melanogenesis - Homo sapiens (human)	BFO:0000050	decopath	DC1-1-6	Melanin biosynthesis
-pathbank	PW000007	Selenoamino Acid Metabolism	BFO:0000050	kegg.pathway	path:hsa00450	Selenocompound metabolism - Homo sapiens (human)
-kegg.pathway	path:hsa00450	Selenocompound metabolism - Homo sapiens (human)	skos:exactMatch	wikipathways	WP28	Selenium Metabolism and Selenoproteins
-kegg.pathway	path:hsa00450	Selenocompound metabolism - Homo sapiens (human)	BFO:0000050	decopath	DC1-1-5	Selenocompound metabolism
+kegg.pathway	hsa04916	Melanogenesis - Homo sapiens (human)	BFO:0000050	decopath	DC1-1-6	Melanin biosynthesis
+pathbank	PW000007	Selenoamino Acid Metabolism	BFO:0000050	kegg.pathway	hsa00450	Selenocompound metabolism - Homo sapiens (human)
+kegg.pathway	hsa00450	Selenocompound metabolism - Homo sapiens (human)	skos:exactMatch	wikipathways	WP28	Selenium Metabolism and Selenoproteins
+kegg.pathway	hsa00450	Selenocompound metabolism - Homo sapiens (human)	BFO:0000050	decopath	DC1-1-5	Selenocompound metabolism
 wikipathways	WP28	Selenium Metabolism and Selenoproteins	BFO:0000050	decopath	DC1-1-5	Selenocompound metabolism
-pathbank	PW000040	Sulfate/Sulfite Metabolism	skos:exactMatch	kegg.pathway	path:hsa00920	Sulfur metabolism - Homo sapiens (human)
-kegg.pathway	path:hsa00920	Sulfur metabolism - Homo sapiens (human)	BFO:0000050	decopath	DC1-1-19	Sulfur metabolism
+pathbank	PW000040	Sulfate/Sulfite Metabolism	skos:exactMatch	kegg.pathway	hsa00920	Sulfur metabolism - Homo sapiens (human)
+kegg.pathway	hsa00920	Sulfur metabolism - Homo sapiens (human)	BFO:0000050	decopath	DC1-1-19	Sulfur metabolism
 pathbank	PW000040	Sulfate/Sulfite Metabolism	BFO:0000050	decopath	DC1-1-19	Sulfur metabolism
 decopath	DC1-2	Carbon metabolism	BFO:0000050	decopath	DC1	Metabolism
 decopath	DC1-2-1	Pentose phosphate pathway	BFO:0000050	decopath	DC1-2	Carbon metabolism
@@ -121,66 +121,66 @@ decopath	DC1-2-6	Glycogen Metabolism	BFO:0000050	decopath	DC1-2	Carbon metabolis
 decopath	DC1-2-7	Propanoate metabolism	BFO:0000050	decopath	DC1-2	Carbon metabolism
 reactome	R-HSA-70326	Glucose metabolism	BFO:0000050	decopath	DC1-2	Carbon metabolism
 decopath	DC1-2-9-1	Glycolysis and Gluconeogenesis	BFO:0000050	reactome	R-HSA-70326	Glucose metabolism
-kegg.pathway	path:hsa01200	Carbon metabolism - Homo sapiens (human)	skos:exactMatch	reactome	R-HSA-71387	Metabolism of carbohydrates
-kegg.pathway	path:hsa01200	Carbon metabolism - Homo sapiens (human)	BFO:0000050	decopath	DC1-2	Carbon metabolism
+kegg.pathway	hsa01200	Carbon metabolism - Homo sapiens (human)	skos:exactMatch	reactome	R-HSA-71387	Metabolism of carbohydrates
+kegg.pathway	hsa01200	Carbon metabolism - Homo sapiens (human)	BFO:0000050	decopath	DC1-2	Carbon metabolism
 reactome	R-HSA-71387	Metabolism of carbohydrates	BFO:0000050	decopath	DC1-2	Carbon metabolism
 pathbank	PW000055	Pentose Phosphate Pathway	skos:exactMatch	wikipathways	WP134	Pentose Phosphate Pathway
-pathbank	PW000055	Pentose Phosphate Pathway	skos:exactMatch	kegg.pathway	path:hsa00030	Pentose phosphate pathway - Homo sapiens (human)
+pathbank	PW000055	Pentose Phosphate Pathway	skos:exactMatch	kegg.pathway	hsa00030	Pentose phosphate pathway - Homo sapiens (human)
 pathbank	PW000055	Pentose Phosphate Pathway	skos:exactMatch	reactome	R-HSA-71336	Pentose phosphate pathway (hexose monophosphate shunt)
 wikipathways	WP134	Pentose Phosphate Pathway	skos:exactMatch	reactome	R-HSA-71336	Pentose phosphate pathway (hexose monophosphate shunt)
-kegg.pathway	path:hsa00030	Pentose phosphate pathway - Homo sapiens (human)	skos:exactMatch	reactome	R-HSA-71336	Pentose phosphate pathway (hexose monophosphate shunt)
-kegg.pathway	path:hsa00030	Pentose phosphate pathway - Homo sapiens (human)	skos:exactMatch	wikipathways	WP134	Pentose Phosphate Pathway
+kegg.pathway	hsa00030	Pentose phosphate pathway - Homo sapiens (human)	skos:exactMatch	reactome	R-HSA-71336	Pentose phosphate pathway (hexose monophosphate shunt)
+kegg.pathway	hsa00030	Pentose phosphate pathway - Homo sapiens (human)	skos:exactMatch	wikipathways	WP134	Pentose Phosphate Pathway
 pathbank	PW000055	Pentose Phosphate Pathway	BFO:0000050	decopath	DC1-2-1	Pentose phosphate pathway
 wikipathways	WP134	Pentose Phosphate Pathway	BFO:0000050	decopath	DC1-2-1	Pentose phosphate pathway
-kegg.pathway	path:hsa00030	Pentose phosphate pathway - Homo sapiens (human)	BFO:0000050	decopath	DC1-2-1	Pentose phosphate pathway
+kegg.pathway	hsa00030	Pentose phosphate pathway - Homo sapiens (human)	BFO:0000050	decopath	DC1-2-1	Pentose phosphate pathway
 reactome	R-HSA-71336	Pentose phosphate pathway	BFO:0000050	decopath	DC1-2-1	Pentose phosphate pathway
 reactome	R-HSA-1428517	The citric acid (TCA) cycle and respiratory electron transport	BFO:0000050	reactome	R-HSA-71403	Citric acid cycle (TCA cycle)
-kegg.pathway	path:hsa00020	Citrate cycle (TCA cycle) - Homo sapiens (human)	skos:exactMatch	reactome	R-HSA-71403	Citric acid cycle (TCA cycle)
-kegg.pathway	path:hsa00020	Citrate cycle (TCA cycle) - Homo sapiens (human)	skos:exactMatch	wikipathways	WP78	TCA Cycle
-pathbank	PW000005	Citric Acid Cycle	skos:exactMatch	kegg.pathway	path:hsa00020	Citrate cycle (TCA cycle) - Homo sapiens (human)
+kegg.pathway	hsa00020	Citrate cycle (TCA cycle) - Homo sapiens (human)	skos:exactMatch	reactome	R-HSA-71403	Citric acid cycle (TCA cycle)
+kegg.pathway	hsa00020	Citrate cycle (TCA cycle) - Homo sapiens (human)	skos:exactMatch	wikipathways	WP78	TCA Cycle
+pathbank	PW000005	Citric Acid Cycle	skos:exactMatch	kegg.pathway	hsa00020	Citrate cycle (TCA cycle) - Homo sapiens (human)
 pathbank	PW000005	Citric Acid Cycle	skos:exactMatch	wikipathways	WP78	TCA Cycle
 wikipathways	WP78	TCA Cycle	skos:exactMatch	reactome	R-HSA-71403	Citric acid cycle (TCA cycle)
 pathbank	PW000005	Citric Acid Cycle	skos:exactMatch	reactome	R-HSA-71403	Citric acid cycle (TCA cycle)
-kegg.pathway	path:hsa00020	Citrate cycle (TCA cycle) - Homo sapiens (human)	BFO:0000050	decopath	DC1-2-2	Citric acid cycle (TCA)
+kegg.pathway	hsa00020	Citrate cycle (TCA cycle) - Homo sapiens (human)	BFO:0000050	decopath	DC1-2-2	Citric acid cycle (TCA)
 reactome	R-HSA-71403	Citric acid cycle (TCA cycle)	BFO:0000050	decopath	DC1-2-2	Citric acid cycle (TCA)
 pathbank	PW000005	Citric Acid Cycle	BFO:0000050	decopath	DC1-2-2	Citric acid cycle (TCA)
 wikipathways	WP78	TCA Cycle	BFO:0000050	decopath	DC1-2-2	Citric acid cycle (TCA)
-pathbank	PW000054	Pyruvate Metabolism	skos:exactMatch	kegg.pathway	path:hsa00620	Pyruvate metabolism - Homo sapiens (human)
-kegg.pathway	path:hsa00620	Pyruvate metabolism - Homo sapiens (human)	skos:exactMatch	reactome	R-HSA-70268	Pyruvate metabolism
+pathbank	PW000054	Pyruvate Metabolism	skos:exactMatch	kegg.pathway	hsa00620	Pyruvate metabolism - Homo sapiens (human)
+kegg.pathway	hsa00620	Pyruvate metabolism - Homo sapiens (human)	skos:exactMatch	reactome	R-HSA-70268	Pyruvate metabolism
 pathbank	PW000054	Pyruvate Metabolism	skos:exactMatch	reactome	R-HSA-70268	Pyruvate metabolism
 pathbank	PW000054	Pyruvate Metabolism	BFO:0000050	decopath	DC1-2-8-1	Pyruvate metabolism
-kegg.pathway	path:hsa00620	Pyruvate metabolism - Homo sapiens (human)	BFO:0000050	decopath	DC1-2-8-1	Pyruvate metabolism
+kegg.pathway	hsa00620	Pyruvate metabolism - Homo sapiens (human)	BFO:0000050	decopath	DC1-2-8-1	Pyruvate metabolism
 reactome	R-HSA-70268	Pyruvate metabolism	BFO:0000050	decopath	DC1-2-8-1	Pyruvate metabolism
-pathbank	PW000150	Starch and Sucrose Metabolism	skos:exactMatch	kegg.pathway	path:hsa00500	Starch and sucrose metabolism - Homo sapiens (human)
+pathbank	PW000150	Starch and Sucrose Metabolism	skos:exactMatch	kegg.pathway	hsa00500	Starch and sucrose metabolism - Homo sapiens (human)
 pathbank	PW000150	Starch and Sucrose Metabolism	BFO:0000050	decopath	DC1-2-5	Starch and sucrose metabolism
-kegg.pathway	path:hsa00500	Starch and sucrose metabolism - Homo sapiens (human)	BFO:0000050	decopath	DC1-2-5	Starch and sucrose metabolism
-pathbank	PW000159	Galactose Metabolism	skos:exactMatch	kegg.pathway	path:hsa00052	Galactose metabolism - Homo sapiens (human)
+kegg.pathway	hsa00500	Starch and sucrose metabolism - Homo sapiens (human)	BFO:0000050	decopath	DC1-2-5	Starch and sucrose metabolism
+pathbank	PW000159	Galactose Metabolism	skos:exactMatch	kegg.pathway	hsa00052	Galactose metabolism - Homo sapiens (human)
 pathbank	PW000159	Galactose Metabolism	BFO:0000050	decopath	DC1-2-4	Galactose metabolism
-kegg.pathway	path:hsa00052	Galactose metabolism - Homo sapiens (human)	BFO:0000050	decopath	DC1-2-4	Galactose metabolism
+kegg.pathway	hsa00052	Galactose metabolism - Homo sapiens (human)	BFO:0000050	decopath	DC1-2-4	Galactose metabolism
 wikipathways	WP500	Glycogen Metabolism	skos:exactMatch	reactome	R-HSA-8982491	Glycogen metabolism
 wikipathways	WP500	Glycogen Metabolism	BFO:0000050	decopath	DC1-2-6	Glycogen metabolism
 reactome	R-HSA-8982491	Glycogen metabolism	BFO:0000050	decopath	DC1-2-6	Glycogen metabolism
-kegg.pathway	path:hsa00010	Glycolysis / Gluconeogenesis - Homo sapiens (human)	skos:exactMatch	wikipathways	WP534	Glycolysis and Gluconeogenesis
-kegg.pathway	path:hsa00010	Glycolysis / Gluconeogenesis - Homo sapiens (human)	BFO:0000050	decopath	DC1-2-9-1	Glycolysis and Gluconeogenesis
+kegg.pathway	hsa00010	Glycolysis / Gluconeogenesis - Homo sapiens (human)	skos:exactMatch	wikipathways	WP534	Glycolysis and Gluconeogenesis
+kegg.pathway	hsa00010	Glycolysis / Gluconeogenesis - Homo sapiens (human)	BFO:0000050	decopath	DC1-2-9-1	Glycolysis and Gluconeogenesis
 wikipathways	WP534	Glycolysis and Gluconeogenesis	BFO:0000050	decopath	DC1-2-9-1	Glycolysis and Gluconeogenesis
 wikipathways	WP661	Glucose Homeostasis	BFO:0000050	reactome	R-HSA-70326	Glucose metabolism
-pathbank	PW000149	Propanoate Metabolism	skos:exactMatch	kegg.pathway	path:hsa00640	Propanoate metabolism - Homo sapiens (human)
+pathbank	PW000149	Propanoate Metabolism	skos:exactMatch	kegg.pathway	hsa00640	Propanoate metabolism - Homo sapiens (human)
 pathbank	PW000149	Propanoate Metabolism	BFO:0000050	decopath	DC1-2-7	Propanoate metabolism
-kegg.pathway	path:hsa00640	Propanoate metabolism - Homo sapiens (human)	BFO:0000050	decopath	DC1-2-7	Propanoate metabolism
+kegg.pathway	hsa00640	Propanoate metabolism - Homo sapiens (human)	BFO:0000050	decopath	DC1-2-7	Propanoate metabolism
 decopath	DC1-3	Lipid metabolism	BFO:0000050	decopath	DC1	Metabolism
-kegg.pathway	path:hsa01040	Biosynthesis of unsaturated fatty acids - Homo sapiens (human)	BFO:0000050	decopath	DC1-3	Lipid metabolism
+kegg.pathway	hsa01040	Biosynthesis of unsaturated fatty acids - Homo sapiens (human)	BFO:0000050	decopath	DC1-3	Lipid metabolism
 decopath	DC1-3-1	Alpha linolenic acid (ALA) metabolism	BFO:0000050	decopath	DC1-3	Lipid metabolism
-decopath	DC1-3-2	Cholesterol biosynthesis	BFO:0000050	kegg.pathway	path:hsa04979	Cholesterol metabolism - Homo sapiens (human)
+decopath	DC1-3-2	Cholesterol biosynthesis	BFO:0000050	kegg.pathway	hsa04979	Cholesterol metabolism - Homo sapiens (human)
 decopath	DC1-3-3	Fatty acid metabolism	BFO:0000050	decopath	DC1-3	Lipid metabolism
 decopath	DC1-3-3-1	Fatty acid biosynthesis	BFO:0000050	decopath	DC1-3-3	Fatty acid metabolism
 decopath	DC1-3-3-2	Fatty acid degradation	BFO:0000050	decopath	DC1-3-3	Fatty acid metabolism
-kegg.pathway	path:hsa00071	Fatty acid degradation - Homo sapiens (human)	BFO:0000050	decopath	DC1-3-3-2	Fatty acid degradation
+kegg.pathway	hsa00071	Fatty acid degradation - Homo sapiens (human)	BFO:0000050	decopath	DC1-3-3-2	Fatty acid degradation
 decopath	DC1-3-3-2-1	Fatty acid beta oxidation	BFO:0000050	decopath	DC1-3-3-2	Fatty acid degradation
 decopath	DC1-3-3-3	Arachidonic acid metabolism	BFO:0000050	decopath	DC1-3-3	Fatty acid metabolism
 decopath	DC1-3-3-4	Bile acid biosynthesis	BFO:0000050	decopath	DC1-3	Lipid metabolism
 decopath	DC1-3-3-5	Sphingolipid metabolism	BFO:0000050	decopath	DC1-3	Lipid metabolism
 decopath	DC1-3-4-1	Steroid biosynthesis	BFO:0000050	decopath	DC1-3-4	Steroid metabolism
-kegg.pathway	path:hsa04979	Cholesterol metabolism - Homo sapiens (human)	BFO:0000050	decopath	DC1-3-4	Steroid metabolism
+kegg.pathway	hsa04979	Cholesterol metabolism - Homo sapiens (human)	BFO:0000050	decopath	DC1-3-4	Steroid metabolism
 decopath	DC1-3-4	Steroid metabolism	BFO:0000050	decopath	DC1-3	Lipid metabolism
 decopath	DC1-3-5	Glycerolipid metabolism	BFO:0000050	decopath	DC1-3	Lipid metabolism
 decopath	DC1-3-5-1	Glycerophospholipid biosynthesis	BFO:0000050	decopath	DC1-3-5	Glycerophospholipid metabolism
@@ -192,13 +192,13 @@ decopath	DC1-3-10	Ether lipid metabolism	BFO:0000050	decopath	DC1-3	Lipid metabo
 wikipathways	WP3965	Lipid Metabolism Pathway (Homo sapiens)	skos:exactMatch	reactome	R-HSA-556833	Metabolism of lipids
 wikipathways	WP3965	Lipid Metabolism Pathway (Homo sapiens)	BFO:0000050	decopath	DC1-3	Lipid metabolism
 reactome	R-HSA-556833	Metabolism of lipids	BFO:0000050	decopath	DC1-3	Lipid metabolism
-kegg.pathway	path:hsa00591	Linoleic acid metabolism - Homo sapiens (human)	skos:exactMatch	reactome	R-HSA-2046105	Linoleic acid (LA) metabolism
-kegg.pathway	path:hsa00591	Linoleic acid metabolism - Homo sapiens (human)	BFO:0000050	reactome	R-HSA-2046106	alpha-linolenic acid (ALA) metabolism
+kegg.pathway	hsa00591	Linoleic acid metabolism - Homo sapiens (human)	skos:exactMatch	reactome	R-HSA-2046105	Linoleic acid (LA) metabolism
+kegg.pathway	hsa00591	Linoleic acid metabolism - Homo sapiens (human)	BFO:0000050	reactome	R-HSA-2046106	alpha-linolenic acid (ALA) metabolism
 reactome	R-HSA-2046105	Linoleic acid (LA) metabolism	BFO:0000050	reactome	R-HSA-2046106	alpha-linolenic acid (ALA) metabolism
-kegg.pathway	path:hsa00592	alpha-Linolenic acid metabolism - Homo sapiens (human)	skos:exactMatch	reactome	R-HSA-2046106	alpha-linolenic acid (ALA) metabolism
+kegg.pathway	hsa00592	alpha-Linolenic acid metabolism - Homo sapiens (human)	skos:exactMatch	reactome	R-HSA-2046106	alpha-linolenic acid (ALA) metabolism
 reactome	R-HSA-2046106	alpha-linolenic acid (ALA) metabolism	BFO:0000050	decopath	DC1-3-1	Alpha linolenic acid (ALA) metabolism
 reactome	R-HSA-2046104	alpha-linolenic (omega3) and linoleic (omega6) acid metabolism	BFO:0000050	decopath	DC1-3-1	Alpha linolenic acid (ALA) metabolism
-kegg.pathway	path:hsa00592	alpha-Linolenic acid metabolism - Homo sapiens (human)	BFO:0000050	decopath	DC1-3-1	Alpha linolenic acid (ALA) metabolism
+kegg.pathway	hsa00592	alpha-Linolenic acid metabolism - Homo sapiens (human)	BFO:0000050	decopath	DC1-3-1	Alpha linolenic acid (ALA) metabolism
 wikipathways	WP197	Cholesterol Biosynthesis	skos:exactMatch	reactome	R-HSA-191273	Cholesterol biosynthesis
 wikipathways	WP197	Cholesterol Biosynthesis	BFO:0000050	decopath	DC1-3-2	Cholesterol biosynthesis
 reactome	R-HSA-191273	Cholesterol biosynthesis	BFO:0000050	decopath	DC1-3-2	Cholesterol biosynthesis
@@ -211,86 +211,86 @@ pathbank	PW000173	Mitochondrial Beta-Oxidation of Long Chain Saturated Fatty Aci
 decopath	DC1-3-3-2-1-1	Mitochondrial LC-Fatty Acid Beta-Oxidation	BFO:0000050	reactome	R-HSA-77289	Mitochondrial Fatty Acid Beta-Oxidation
 reactome	R-HSA-77289	Mitochondrial Fatty Acid Beta-Oxidation	BFO:0000050	decopath	DC1-3-3-2-1	Fatty acid beta oxidation
 wikipathways	WP143	Fatty Acid Beta Oxidation	BFO:0000050	decopath	DC1-3-3-2-1	Fatty acid beta oxidation
-pathbank	PW000167	Fatty Acid Biosynthesis	skos:exactMatch	kegg.pathway	path:hsa00061	Fatty acid biosynthesis - Homo sapiens (human)
+pathbank	PW000167	Fatty Acid Biosynthesis	skos:exactMatch	kegg.pathway	hsa00061	Fatty acid biosynthesis - Homo sapiens (human)
 pathbank	PW000167	Fatty Acid Biosynthesis	skos:exactMatch	wikipathways	WP357	Fatty Acid Biosynthesis
-kegg.pathway	path:hsa00061	Fatty acid biosynthesis - Homo sapiens (human)	skos:exactMatch	wikipathways	WP357	Fatty Acid Biosynthesis
+kegg.pathway	hsa00061	Fatty acid biosynthesis - Homo sapiens (human)	skos:exactMatch	wikipathways	WP357	Fatty Acid Biosynthesis
 pathbank	PW000167	Fatty Acid Biosynthesis	BFO:0000050	decopath	DC1-3-3-1	Fatty acid biosynthesis
-kegg.pathway	path:hsa00061	Fatty acid biosynthesis - Homo sapiens (human)	BFO:0000050	decopath	DC1-3-3-1	Fatty acid biosynthesis
+kegg.pathway	hsa00061	Fatty acid biosynthesis - Homo sapiens (human)	BFO:0000050	decopath	DC1-3-3-1	Fatty acid biosynthesis
 wikipathways	WP357	Fatty Acid Biosynthesis	BFO:0000050	decopath	DC1-3-3-1	Fatty acid biosynthesis
-pathbank	PW000023	Fatty Acid Metabolism	skos:exactMatch	kegg.pathway	path:hsa01212	Fatty acid metabolism - Homo sapiens (human)
-kegg.pathway	path:hsa01212	Fatty acid metabolism - Homo sapiens (human)	skos:exactMatch	reactome	R-HSA-8978868	Fatty acid metabolism
+pathbank	PW000023	Fatty Acid Metabolism	skos:exactMatch	kegg.pathway	hsa01212	Fatty acid metabolism - Homo sapiens (human)
+kegg.pathway	hsa01212	Fatty acid metabolism - Homo sapiens (human)	skos:exactMatch	reactome	R-HSA-8978868	Fatty acid metabolism
 pathbank	PW000023	Fatty Acid Metabolism	skos:exactMatch	reactome	R-HSA-8978868	Fatty acid metabolism
-kegg.pathway	path:hsa01212	Fatty acid metabolism - Homo sapiens (human)	BFO:0000050	decopath	DC1-3-3	Fatty acid metabolism
+kegg.pathway	hsa01212	Fatty acid metabolism - Homo sapiens (human)	BFO:0000050	decopath	DC1-3-3	Fatty acid metabolism
 pathbank	PW000023	Fatty Acid Metabolism	BFO:0000050	decopath	DC1-3-3	Fatty acid metabolism
 reactome	R-HSA-8978868	Fatty acid metabolism	BFO:0000050	decopath	DC1-3-3	Fatty acid metabolism
-pathbank	PW000044	Arachidonic Acid Metabolism	skos:exactMatch	kegg.pathway	path:hsa00590	Arachidonic acid metabolism - Homo sapiens (human)
-kegg.pathway	path:hsa00590	Arachidonic acid metabolism - Homo sapiens (human)	skos:exactMatch	reactome	R-HSA-2142753	Arachidonic acid metabolism
+pathbank	PW000044	Arachidonic Acid Metabolism	skos:exactMatch	kegg.pathway	hsa00590	Arachidonic acid metabolism - Homo sapiens (human)
+kegg.pathway	hsa00590	Arachidonic acid metabolism - Homo sapiens (human)	skos:exactMatch	reactome	R-HSA-2142753	Arachidonic acid metabolism
 pathbank	PW000044	Arachidonic Acid Metabolism	skos:exactMatch	reactome	R-HSA-2142753	Arachidonic acid metabolism
 reactome	R-HSA-2142753	Arachidonic acid metabolism	BFO:0000050	decopath	DC1-3-3-3	Arachidonic acid metabolism
-kegg.pathway	path:hsa00590	Arachidonic acid metabolism - Homo sapiens (human)	BFO:0000050	decopath	DC1-3-3-3	Arachidonic acid metabolism
+kegg.pathway	hsa00590	Arachidonic acid metabolism - Homo sapiens (human)	BFO:0000050	decopath	DC1-3-3-3	Arachidonic acid metabolism
 pathbank	PW000044	Arachidonic Acid Metabolism	BFO:0000050	decopath	DC1-3-3-3	Arachidonic acid metabolism
-pathbank	PW000145	Bile Acid Biosynthesis	skos:exactMatch	kegg.pathway	path:hsa00120	Primary bile acid biosynthesis - Homo sapiens (human)
-kegg.pathway	path:hsa00120	Primary bile acid biosynthesis - Homo sapiens (human)	BFO:0000050	decopath	DC1-3-3-4	Bile acid biosynthesis
+pathbank	PW000145	Bile Acid Biosynthesis	skos:exactMatch	kegg.pathway	hsa00120	Primary bile acid biosynthesis - Homo sapiens (human)
+kegg.pathway	hsa00120	Primary bile acid biosynthesis - Homo sapiens (human)	BFO:0000050	decopath	DC1-3-3-4	Bile acid biosynthesis
 pathbank	PW000145	Bile Acid Biosynthesis	BFO:0000050	decopath	DC1-3-3-4	Bile acid biosynthesis
-pathbank	PW000148	Sphingolipid Metabolism	skos:exactMatch	kegg.pathway	path:hsa00600	Sphingolipid metabolism - Homo sapiens (human)
+pathbank	PW000148	Sphingolipid Metabolism	skos:exactMatch	kegg.pathway	hsa00600	Sphingolipid metabolism - Homo sapiens (human)
 pathbank	PW000148	Sphingolipid Metabolism	skos:exactMatch	wikipathways	WP1422	Sphingolipid Metabolism
 wikipathways	WP1422	Sphingolipid Metabolism	skos:exactMatch	reactome	R-HSA-428157	Sphingolipid metabolism
-kegg.pathway	path:hsa00600	Sphingolipid metabolism - Homo sapiens (human)	skos:exactMatch	reactome	R-HSA-428157	Sphingolipid metabolism
+kegg.pathway	hsa00600	Sphingolipid metabolism - Homo sapiens (human)	skos:exactMatch	reactome	R-HSA-428157	Sphingolipid metabolism
 pathbank	PW000148	Sphingolipid Metabolism	skos:exactMatch	reactome	R-HSA-428157	Sphingolipid metabolism
-kegg.pathway	path:hsa00600	Sphingolipid metabolism - Homo sapiens (human)	skos:exactMatch	wikipathways	WP1422	Sphingolipid Metabolism
+kegg.pathway	hsa00600	Sphingolipid metabolism - Homo sapiens (human)	skos:exactMatch	wikipathways	WP1422	Sphingolipid Metabolism
 wikipathways	WP1422	Sphingolipid Metabolism	BFO:0000050	decopath	DC1-3-3-5	Sphingolipid metabolism
 reactome	R-HSA-428157	Sphingolipid metabolism	BFO:0000050	decopath	DC1-3-3-5	Sphingolipid metabolism
 pathbank	PW000148	Sphingolipid Metabolism	BFO:0000050	decopath	DC1-3-3-5	Sphingolipid metabolism
-kegg.pathway	path:hsa00600	Sphingolipid metabolism - Homo sapiens (human)	BFO:0000050	decopath	DC1-3-3-5	Sphingolipid metabolism
-pathbank	PW000050	Steroid Biosynthesis	skos:exactMatch	kegg.pathway	path:hsa00100	Steroid biosynthesis - Homo sapiens (human)
-kegg.pathway	path:hsa00100	Steroid biosynthesis - Homo sapiens (human)	skos:exactMatch	wikipathways	WP496	Steroid Biosynthesis
+kegg.pathway	hsa00600	Sphingolipid metabolism - Homo sapiens (human)	BFO:0000050	decopath	DC1-3-3-5	Sphingolipid metabolism
+pathbank	PW000050	Steroid Biosynthesis	skos:exactMatch	kegg.pathway	hsa00100	Steroid biosynthesis - Homo sapiens (human)
+kegg.pathway	hsa00100	Steroid biosynthesis - Homo sapiens (human)	skos:exactMatch	wikipathways	WP496	Steroid Biosynthesis
 pathbank	PW000050	Steroid Biosynthesis	skos:exactMatch	wikipathways	WP496	Steroid Biosynthesis
 wikipathways	WP496	Steroid Biosynthesis	BFO:0000050	decopath	DC1-3-4-1	Steroid biosynthesis
-kegg.pathway	path:hsa00100	Steroid biosynthesis - Homo sapiens (human)	BFO:0000050	decopath	DC1-3-4-1	Steroid biosynthesis
+kegg.pathway	hsa00100	Steroid biosynthesis - Homo sapiens (human)	BFO:0000050	decopath	DC1-3-4-1	Steroid biosynthesis
 pathbank	PW000050	Steroid Biosynthesis	BFO:0000050	decopath	DC1-3-4-1	Steroid biosynthesis
 reactome	R-HSA-194068	Bile acid and bile salt metabolism	BFO:0000050	decopath	DC1-3-4	Steroid metabolism
 reactome	R-HSA-196071	Metabolism of steroid hormones	BFO:0000050	decopath	DC1-3-4	Steroid metabolism
-pathbank	PW000144	Glycerolipid Metabolism	skos:exactMatch	kegg.pathway	path:hsa00561	Glycerolipid metabolism - Homo sapiens (human)
-kegg.pathway	path:hsa00561	Glycerolipid metabolism - Homo sapiens (human)	BFO:0000050	decopath	DC1-3-5	Glycerolipid metabolism
+pathbank	PW000144	Glycerolipid Metabolism	skos:exactMatch	kegg.pathway	hsa00561	Glycerolipid metabolism - Homo sapiens (human)
+kegg.pathway	hsa00561	Glycerolipid metabolism - Homo sapiens (human)	BFO:0000050	decopath	DC1-3-5	Glycerolipid metabolism
 wikipathways	WP2533	Glycerophospholipid Biosynthetic Pathway	skos:exactMatch	reactome	R-HSA-1483206	Glycerophospholipid biosynthesis
 reactome	R-HSA-1483206	Glycerophospholipid biosynthesis	BFO:0000050	decopath	DC1-3-5-1	Glycerophospholipid biosynthesis
 wikipathways	WP2533	Glycerophospholipid Biosynthetic Pathway	BFO:0000050	decopath	DC1-3-5-1	Glycerophospholipid biosynthesis
-wikipathways	WP325	Triacylglyceride Synthesis	BFO:0000050	kegg.pathway	path:hsa00564	Glycerophospholipid metabolism - Homo sapiens (human)
-kegg.pathway	path:hsa00564	Glycerophospholipid metabolism - Homo sapiens (human)	BFO:0000050	decopath	DC1-3-6	Glycerophospholipid metabolism
+wikipathways	WP325	Triacylglyceride Synthesis	BFO:0000050	kegg.pathway	hsa00564	Glycerophospholipid metabolism - Homo sapiens (human)
+kegg.pathway	hsa00564	Glycerophospholipid metabolism - Homo sapiens (human)	BFO:0000050	decopath	DC1-3-6	Glycerophospholipid metabolism
 wikipathways	WP325	Triacylglyceride Synthesis	skos:exactMatch	reactome	R-HSA-75109	Triglyceride biosynthesis
 reactome	R-HSA-75109	Triglyceride biosynthesis	BFO:0000050	decopath	DC1-3-7	Triglyceride biosynthesis
 wikipathways	WP311	Synthesis and Degradation of Ketone Bodies	skos:exactMatch	reactome	R-HSA-74182	Ketone body metabolism
-pathbank	PW000028	Ketone Body Metabolism	skos:exactMatch	kegg.pathway	path:hsa00072	Synthesis and degradation of ketone bodies - Homo sapiens (human)
+pathbank	PW000028	Ketone Body Metabolism	skos:exactMatch	kegg.pathway	hsa00072	Synthesis and degradation of ketone bodies - Homo sapiens (human)
 pathbank	PW000028	Ketone Body Metabolism	skos:exactMatch	wikipathways	WP311	Synthesis and Degradation of Ketone Bodies
 pathbank	PW000028	Ketone Body Metabolism	skos:exactMatch	reactome	R-HSA-74182	Ketone body metabolism
-kegg.pathway	path:hsa00072	Synthesis and degradation of ketone bodies - Homo sapiens (human)	skos:exactMatch	reactome	R-HSA-74182	Ketone body metabolism
-kegg.pathway	path:hsa00072	Synthesis and degradation of ketone bodies - Homo sapiens (human)	skos:exactMatch	wikipathways	WP311	Synthesis and Degradation of Ketone Bodies
+kegg.pathway	hsa00072	Synthesis and degradation of ketone bodies - Homo sapiens (human)	skos:exactMatch	reactome	R-HSA-74182	Ketone body metabolism
+kegg.pathway	hsa00072	Synthesis and degradation of ketone bodies - Homo sapiens (human)	skos:exactMatch	wikipathways	WP311	Synthesis and Degradation of Ketone Bodies
 wikipathways	WP311	Synthesis and Degradation of Ketone Bodies	BFO:0000050	decopath	DC1-3-8	Ketone body metabolism
 pathbank	PW000028	Ketone Body Metabolism	BFO:0000050	decopath	DC1-3-8	Ketone body metabolism
-kegg.pathway	path:hsa00072	Synthesis and degradation of ketone bodies - Homo sapiens (human)	BFO:0000050	decopath	DC1-3-8	Ketone body metabolism
+kegg.pathway	hsa00072	Synthesis and degradation of ketone bodies - Homo sapiens (human)	BFO:0000050	decopath	DC1-3-8	Ketone body metabolism
 reactome	R-HSA-74182	Ketone body metabolism	BFO:0000050	decopath	DC1-3-8	Ketone body metabolism
-kegg.pathway	path:hsa00562	Inositol phosphate metabolism - Homo sapiens (human)	skos:exactMatch	reactome	R-HSA-1483249	Inositol phosphate metabolism
-pathbank	PW000156	Inositol Phosphate Metabolism	skos:exactMatch	kegg.pathway	path:hsa00562	Inositol phosphate metabolism - Homo sapiens (human)
+kegg.pathway	hsa00562	Inositol phosphate metabolism - Homo sapiens (human)	skos:exactMatch	reactome	R-HSA-1483249	Inositol phosphate metabolism
+pathbank	PW000156	Inositol Phosphate Metabolism	skos:exactMatch	kegg.pathway	hsa00562	Inositol phosphate metabolism - Homo sapiens (human)
 pathbank	PW000156	Inositol Phosphate Metabolism	skos:exactMatch	reactome	R-HSA-1483249	Inositol phosphate metabolism
-kegg.pathway	path:hsa00562	Inositol phosphate metabolism - Homo sapiens (human)	BFO:0000050	decopath	DC1-3-9	Inositol phosphate metabolism
+kegg.pathway	hsa00562	Inositol phosphate metabolism - Homo sapiens (human)	BFO:0000050	decopath	DC1-3-9	Inositol phosphate metabolism
 pathbank	PW000156	Inositol Phosphate Metabolism	BFO:0000050	decopath	DC1-3-9	Inositol phosphate metabolism
 reactome	R-HSA-1483249	Inositol phosphate metabolism	BFO:0000050	decopath	DC1-3-9	Inositol phosphate metabolism
-reactome	R-HSA-1483257	Phospholipid metabolism	BFO:0000050	kegg.pathway	path:hsa00565	Ether lipid metabolism - Homo sapiens (human)
-kegg.pathway	path:hsa00565	Ether lipid metabolism - Homo sapiens (human)	BFO:0000050	decopath	DC1-3-10	Ether lipid metabolism
+reactome	R-HSA-1483257	Phospholipid metabolism	BFO:0000050	kegg.pathway	hsa00565	Ether lipid metabolism - Homo sapiens (human)
+kegg.pathway	hsa00565	Ether lipid metabolism - Homo sapiens (human)	BFO:0000050	decopath	DC1-3-10	Ether lipid metabolism
 decopath	DC1-4	Nucleotide metabolism	BFO:0000050	decopath	DC1	Metabolism
 decopath	DC1-4-1	Purine metabolism	BFO:0000050	decopath	DC1-4	Nucleotide metabolism
 decopath	DC1-4-2	Pyrimidine metabolism	BFO:0000050	decopath	DC1-4	Nucleotide metabolism
 wikipathways	WP404	Nucleotide Metabolism	skos:exactMatch	reactome	R-HSA-15869	Metabolism of nucleotides
 reactome	R-HSA-15869	Metabolism of nucleotides	BFO:0000050	decopath	DC1-4	Nucleotide metabolism
 wikipathways	WP404	Nucleotide Metabolism	BFO:0000050	decopath	DC1-4	Nucleotide metabolism
-pathbank	PW000052	Purine Metabolism	skos:exactMatch	kegg.pathway	path:hsa00230	Purine metabolism - Homo sapiens (human)
+pathbank	PW000052	Purine Metabolism	skos:exactMatch	kegg.pathway	hsa00230	Purine metabolism - Homo sapiens (human)
 pathbank	PW000052	Purine Metabolism	BFO:0000050	decopath	DC1-4	Purine metabolism
-kegg.pathway	path:hsa00230	Purine metabolism - Homo sapiens (human)	BFO:0000050	decopath	DC1-4	Purine metabolism
-kegg.pathway	path:hsa00240	Pyrimidine metabolism - Homo sapiens (human)	skos:exactMatch	wikipathways	WP4022	Pyrimidine metabolism
-pathbank	PW000160	Pyrimidine Metabolism	skos:exactMatch	kegg.pathway	path:hsa00240	Pyrimidine metabolism - Homo sapiens (human)
+kegg.pathway	hsa00230	Purine metabolism - Homo sapiens (human)	BFO:0000050	decopath	DC1-4	Purine metabolism
+kegg.pathway	hsa00240	Pyrimidine metabolism - Homo sapiens (human)	skos:exactMatch	wikipathways	WP4022	Pyrimidine metabolism
+pathbank	PW000160	Pyrimidine Metabolism	skos:exactMatch	kegg.pathway	hsa00240	Pyrimidine metabolism - Homo sapiens (human)
 pathbank	PW000160	Pyrimidine Metabolism	skos:exactMatch	wikipathways	WP4022	Pyrimidine metabolism
 wikipathways	WP4022	Pyrimidine metabolism	BFO:0000050	decopath	DC1-4-2	Pyrimidine metabolism
-kegg.pathway	path:hsa00240	Pyrimidine metabolism - Homo sapiens (human)	BFO:0000050	decopath	DC1-4-2	Pyrimidine metabolism
+kegg.pathway	hsa00240	Pyrimidine metabolism - Homo sapiens (human)	BFO:0000050	decopath	DC1-4-2	Pyrimidine metabolism
 pathbank	PW000160	Pyrimidine Metabolism	BFO:0000050	decopath	DC1-4-2	Pyrimidine metabolism
 decopath	DC1-5	Vitamin metabolism	BFO:0000050	decopath	DC1	Metabolism
 decopath	DC1-5-1	Folate metabolism	BFO:0000050	decopath	DC1-5	Vitamin metabolism
@@ -300,38 +300,38 @@ decopath	DC1-5-4	Vitamin D metabolism	BFO:0000050	decopath	DC1-5	Vitamin metabol
 decopath	DC1-5-5	Vitamin B6 metabolism	BFO:0000050	decopath	DC1-5	Vitamin metabolism
 decopath	DC1-5-6	Vitamin A and Carotenoid Metabolism	BFO:0000050	decopath	DC1-5	Vitamin metabolism
 decopath	DC1-5-7	 Molybdenum cofactor biosynthesis	BFO:0000050	decopath	DC1-5	Vitamin metabolism
-kegg.pathway	path:hsa04977	Vitamin digestion and absorption - Homo sapiens (human)	BFO:0000050	decopath	DC1-5	Vitamin metabolism
+kegg.pathway	hsa04977	Vitamin digestion and absorption - Homo sapiens (human)	BFO:0000050	decopath	DC1-5	Vitamin metabolism
 wikipathways	WP716	Vitamin A and Carotenoid Metabolism	BFO:0000050	decopath	DC1-5	Vitamin metabolism
 reactome	R-HSA-196849	Metabolism of water-soluble vitamins and cofactors	BFO:0000050	decopath	DC1-5	Vitamin metabolism
 reactome	R-HSA-196780	Biotin transport and metabolism	BFO:0000050	decopath	DC1-5	Vitamin metabolism
-kegg.pathway	path:hsa00790	Folate biosynthesis - Homo sapiens (human)	skos:exactMatch	wikipathways	WP176	Folate Metabolism
-kegg.pathway	path:hsa00790	Folate biosynthesis - Homo sapiens (human)	skos:exactMatch	pathbank	PW000024	Folate Metabolism
+kegg.pathway	hsa00790	Folate biosynthesis - Homo sapiens (human)	skos:exactMatch	wikipathways	WP176	Folate Metabolism
+kegg.pathway	hsa00790	Folate biosynthesis - Homo sapiens (human)	skos:exactMatch	pathbank	PW000024	Folate Metabolism
 pathbank	PW000024	Folate Metabolism	skos:exactMatch	wikipathways	WP176	Folate Metabolism
-kegg.pathway	path:hsa00790	Folate biosynthesis - Homo sapiens (human)	BFO:0000050	decopath	DC1-5-1	Folate metabolism
+kegg.pathway	hsa00790	Folate biosynthesis - Homo sapiens (human)	BFO:0000050	decopath	DC1-5-1	Folate metabolism
 wikipathways	WP176	Folate Metabolism	BFO:0000050	decopath	DC1-5-1	Folate metabolism
 pathbank	PW000024	Folate Metabolism	BFO:0000050	decopath	DC1-5-1	Folate metabolism
-pathbank	PW000032	Pantothenate and CoA Biosynthesis	skos:exactMatch	kegg.pathway	path:hsa00770	Pantothenate and CoA biosynthesis - Homo sapiens (human)
+pathbank	PW000032	Pantothenate and CoA Biosynthesis	skos:exactMatch	kegg.pathway	hsa00770	Pantothenate and CoA biosynthesis - Homo sapiens (human)
 pathbank	PW000032	Pantothenate and CoA Biosynthesis	BFO:0000050	decopath	DC1-5-2	Pantothenate and CoA biosynthesis
-kegg.pathway	path:hsa00770	Pantothenate and CoA biosynthesis - Homo sapiens (human)	BFO:0000050	decopath	DC1-5-2	Pantothenate and CoA biosynthesis
-pathbank	PW000035	Riboflavin Metabolism	skos:exactMatch	kegg.pathway	path:hsa00740	Riboflavin metabolism - Homo sapiens (human)
-kegg.pathway	path:hsa00740	Riboflavin metabolism - Homo sapiens (human)	skos:exactMatch	reactome	R-HSA-196843	Vitamin B2 (riboflavin) metabolism
+kegg.pathway	hsa00770	Pantothenate and CoA biosynthesis - Homo sapiens (human)	BFO:0000050	decopath	DC1-5-2	Pantothenate and CoA biosynthesis
+pathbank	PW000035	Riboflavin Metabolism	skos:exactMatch	kegg.pathway	hsa00740	Riboflavin metabolism - Homo sapiens (human)
+kegg.pathway	hsa00740	Riboflavin metabolism - Homo sapiens (human)	skos:exactMatch	reactome	R-HSA-196843	Vitamin B2 (riboflavin) metabolism
 pathbank	PW000035	Riboflavin Metabolism	skos:exactMatch	reactome	R-HSA-196843	Vitamin B2 (riboflavin) metabolism
 pathbank	PW000035	Riboflavin Metabolism	BFO:0000050	decopath	DC1-5-3	Riboflavin metabolism
-kegg.pathway	path:hsa00740	Riboflavin metabolism - Homo sapiens (human)	BFO:0000050	decopath	DC1-5-3	Riboflavin metabolism
+kegg.pathway	hsa00740	Riboflavin metabolism - Homo sapiens (human)	BFO:0000050	decopath	DC1-5-3	Riboflavin metabolism
 reactome	R-HSA-196843	Vitamin B2 (riboflavin) metabolism	BFO:0000050	decopath	DC1-5-3	Riboflavin metabolism
-pathbank	PW000053	Vitamin B6 Metabolism	skos:exactMatch	kegg.pathway	path:hsa00750	Vitamin B6 metabolism - Homo sapiens (human)
+pathbank	PW000053	Vitamin B6 Metabolism	skos:exactMatch	kegg.pathway	hsa00750	Vitamin B6 metabolism - Homo sapiens (human)
 pathbank	PW000053	Vitamin B6 Metabolism	BFO:0000050	decopath	DC1-5-5	Vitamin B6 metabolism
-kegg.pathway	path:hsa00750	Vitamin B6 metabolism - Homo sapiens (human)	BFO:0000050	decopath	DC1-5-5	Vitamin B6 metabolism
+kegg.pathway	hsa00750	Vitamin B6 metabolism - Homo sapiens (human)	BFO:0000050	decopath	DC1-5-5	Vitamin B6 metabolism
 wikipathways	WP1531	Vitamin D Metabolism	skos:exactMatch	reactome	R-HSA-196791	Vitamin D (calciferol) metabolism
 reactome	R-HSA-196791	Vitamin D (calciferol) metabolism	BFO:0000050	decopath	DC1-5-4	Vitamin D metabolism
 wikipathways	WP1531	Vitamin D Metabolism	BFO:0000050	decopath	DC1-5-4	Vitamin D metabolism
-pathbank	PW000164	Retinol Metabolism	skos:exactMatch	kegg.pathway	path:hsa00830	Retinol metabolism - Homo sapiens (human)
+pathbank	PW000164	Retinol Metabolism	skos:exactMatch	kegg.pathway	hsa00830	Retinol metabolism - Homo sapiens (human)
 pathbank	PW000164	Retinol Metabolism	BFO:0000050	decopath	DC1-5-0-1	Retinol Metabolism
-kegg.pathway	path:hsa00830	Retinol metabolism - Homo sapiens (human)	BFO:0000050	decopath	DC1-5-0-1	Retinol Metabolism
+kegg.pathway	hsa00830	Retinol metabolism - Homo sapiens (human)	BFO:0000050	decopath	DC1-5-0-1	Retinol Metabolism
 decopath	DC1-5-0-1	Retinol Metabolism	BFO:0000050	wikipathways	WP716	Vitamin A and Carotenoid Metabolism
-pathbank	PW000013	Biotin Metabolism	skos:exactMatch	kegg.pathway	path:hsa00780	Biotin metabolism - Homo sapiens (human)
+pathbank	PW000013	Biotin Metabolism	skos:exactMatch	kegg.pathway	hsa00780	Biotin metabolism - Homo sapiens (human)
 pathbank	PW000013	Biotin Metabolism	BFO:0000050	decopath	DC1-5-0-2	Biotin Metabolism
-kegg.pathway	path:hsa00780	Biotin metabolism - Homo sapiens (human)	BFO:0000050	decopath	DC1-5-0-2	Biotin Metabolism
+kegg.pathway	hsa00780	Biotin metabolism - Homo sapiens (human)	BFO:0000050	decopath	DC1-5-0-2	Biotin Metabolism
 decopath	DC1-5-0-2	Biotin Metabolism	BFO:0000050	reactome	R-HSA-196780	Biotin transport and metabolism
 wikipathways	WP4507	Molybdenum cofactor (Moco) biosynthesis (Homo sapiens)	skos:exactMatch	reactome	R-HSA-947581	 Molybdenum cofactor biosynthesis (Homo sapiens)
 wikipathways	WP4507	Molybdenum cofactor (Moco) biosynthesis (Homo sapiens)	BFO:0000050	decopath	DC1-5-7	 Molybdenum cofactor biosynthesis
@@ -349,21 +349,21 @@ reactome	R-HSA-156580	Phase II - Conjugation of compounds	BFO:0000050	decopath	D
 pathbank	PW000565	Gastric Acid Production	BFO:0000050	decopath	DC1-6	Other metabolic pathways
 decopath	DC1-6-10	Proteasome	BFO:0000050	decopath	DC1-6	Other metabolic pathways
 decopath	DC1-6-11	Glycan biosynthesis and metabolism	BFO:0000050	decopath	DC1-6	Other metabolic pathways
-kegg.pathway	path:hsa00510	N-Glycan biosynthesis	BFO:0000050	decopath	DC1-6-11	Glycan biosynthesis and metabolism
-decopath	DC1-6-11-1-1	 Synthesis of glycosylphosphatidylinositol (GPI)	BFO:0000050	kegg.pathway	path:hsa00510	N-Glycan biosynthesis
+kegg.pathway	hsa00510	N-Glycan biosynthesis	BFO:0000050	decopath	DC1-6-11	Glycan biosynthesis and metabolism
+decopath	DC1-6-11-1-1	 Synthesis of glycosylphosphatidylinositol (GPI)	BFO:0000050	kegg.pathway	hsa00510	N-Glycan biosynthesis
 wikipathways	WP561	Heme Biosynthesis	skos:exactMatch	reactome	R-HSA-189451	Heme biosynthesis
 wikipathways	WP561	Heme Biosynthesis	BFO:0000050	decopath	DC1-6-1	Heme biosynthesis
 reactome	R-HSA-189451	Heme biosynthesis	BFO:0000050	decopath	DC1-6-1	Heme biosynthesis
-pathbank	PW000015	Caffeine Metabolism	skos:exactMatch	kegg.pathway	path:hsa00232	Caffeine metabolism - Homo sapiens (human)
-kegg.pathway	path:hsa00232	Caffeine metabolism - Homo sapiens (human)	BFO:0000050	decopath	DC1-6-2-1	Caffeine metabolism
+pathbank	PW000015	Caffeine Metabolism	skos:exactMatch	kegg.pathway	hsa00232	Caffeine metabolism - Homo sapiens (human)
+kegg.pathway	hsa00232	Caffeine metabolism - Homo sapiens (human)	BFO:0000050	decopath	DC1-6-2-1	Caffeine metabolism
 pathbank	PW000015	Caffeine Metabolism	BFO:0000050	decopath	DC1-6-2-1	Caffeine metabolism
-kegg.pathway	path:hsa00190	Oxidative phosphorylation - Homo sapiens (human)	skos:exactMatch	wikipathways	WP623	Oxidative phosphorylation
+kegg.pathway	hsa00190	Oxidative phosphorylation - Homo sapiens (human)	skos:exactMatch	wikipathways	WP623	Oxidative phosphorylation
 wikipathways	WP623	Oxidative phosphorylation	skos:exactMatch	reactome	R-HSA-163210	Formation of ATP by chemiosmotic coupling
-kegg.pathway	path:hsa00190	Oxidative phosphorylation - Homo sapiens (human)	skos:exactMatch	reactome	R-HSA-163210	Formation of ATP by chemiosmotic coupling
-kegg.pathway	path:hsa00190	Oxidative phosphorylation - Homo sapiens (human)	BFO:0000050	decopath	DC1-6-3	Oxidative phosphorylation
+kegg.pathway	hsa00190	Oxidative phosphorylation - Homo sapiens (human)	skos:exactMatch	reactome	R-HSA-163210	Formation of ATP by chemiosmotic coupling
+kegg.pathway	hsa00190	Oxidative phosphorylation - Homo sapiens (human)	BFO:0000050	decopath	DC1-6-3	Oxidative phosphorylation
 reactome	R-HSA-163210	Formation of ATP by chemiosmotic coupling	BFO:0000050	decopath	DC1-6-3	Oxidative phosphorylation
 wikipathways	WP623	Oxidative phosphorylation	BFO:0000050	decopath	DC1-6-3	Oxidative phosphorylation
-kegg.pathway	path:hsa04920	Adipocytokine signaling pathway - Homo sapiens (human)	BFO:0000050	decopath	DC1-6	Other metabolic pathways
+kegg.pathway	hsa04920	Adipocytokine signaling pathway - Homo sapiens (human)	BFO:0000050	decopath	DC1-6	Other metabolic pathways
 reactome	R-HSA-140179	Amine Oxidase reactions	BFO:0000050	wikipathways	WP2436	Dopamine metabolism
 wikipathways	WP2436	Dopamine metabolism	BFO:0000050	decopath	DC1-6	Other metabolic pathways
 pathbank	PW000165	Mitochondrial Electron Transport Chain	skos:exactMatch	wikipathways	WP111	Electron Transport Chain
@@ -372,81 +372,81 @@ reactome	R-HSA-611105	Respiratory electron transport	skos:exactMatch	pathbank	PW
 reactome	R-HSA-611105	Respiratory electron transport	BFO:0000050	decopath	DC1-6-4	Electron transport chain
 pathbank	PW000165	Mitochondrial Electron Transport Chain	BFO:0000050	decopath	DC1-6-4	Electron transport chain
 wikipathways	WP111	Electron Transport Chain	BFO:0000050	decopath	DC1-6-4	Electron transport chain
-kegg.pathway	path:hsa04714	Thermogenesis - Homo sapiens (human)	skos:exactMatch	wikipathways	WP4321	Thermogenesis
-kegg.pathway	path:hsa04714	Thermogenesis - Homo sapiens (human)	BFO:0000050	decopath	DC1-6-5	Thermogenesis
+kegg.pathway	hsa04714	Thermogenesis - Homo sapiens (human)	skos:exactMatch	wikipathways	WP4321	Thermogenesis
+kegg.pathway	hsa04714	Thermogenesis - Homo sapiens (human)	BFO:0000050	decopath	DC1-6-5	Thermogenesis
 wikipathways	WP4321	Thermogenesis	BFO:0000050	decopath	DC1-6-5	Thermogenesis
-pathbank	PW000693	Thyroid Hormone Synthesis	skos:exactMatch	kegg.pathway	path:hsa04918	Thyroid hormone synthesis - Homo sapiens (human)
+pathbank	PW000693	Thyroid Hormone Synthesis	skos:exactMatch	kegg.pathway	hsa04918	Thyroid hormone synthesis - Homo sapiens (human)
 pathbank	PW000693	Thyroid Hormone Synthesis	skos:exactMatch	wikipathways	WP1981	Thyroxine (Thyroid Hormone) Production
 pathbank	PW000693	Thyroid Hormone Synthesis	skos:exactMatch	reactome	R-HSA-209968	Thyroxine biosynthesis
-kegg.pathway	path:hsa04918	Thyroid hormone synthesis - Homo sapiens (human)	skos:exactMatch	reactome	R-HSA-209968	Thyroxine biosynthesis
-kegg.pathway	path:hsa04918	Thyroid hormone synthesis - Homo sapiens (human)	skos:exactMatch	wikipathways	WP1981	Thyroxine (Thyroid Hormone) Production
+kegg.pathway	hsa04918	Thyroid hormone synthesis - Homo sapiens (human)	skos:exactMatch	reactome	R-HSA-209968	Thyroxine biosynthesis
+kegg.pathway	hsa04918	Thyroid hormone synthesis - Homo sapiens (human)	skos:exactMatch	wikipathways	WP1981	Thyroxine (Thyroid Hormone) Production
 wikipathways	WP1981	Thyroxine (Thyroid Hormone) Production	skos:exactMatch	reactome	R-HSA-209968	Thyroxine biosynthesis
 pathbank	PW000693	Thyroid Hormone Synthesis	BFO:0000050	decopath	DC1-6-6	Thyroid hormone synthesis
-kegg.pathway	path:hsa04918	Thyroid hormone synthesis - Homo sapiens (human)	BFO:0000050	decopath	DC1-6-6	Thyroid hormone synthesis
+kegg.pathway	hsa04918	Thyroid hormone synthesis - Homo sapiens (human)	BFO:0000050	decopath	DC1-6-6	Thyroid hormone synthesis
 wikipathways	WP1981	Thyroxine (Thyroid Hormone) Production	BFO:0000050	decopath	DC1-6-6	Thyroid hormone synthesis
 reactome	R-HSA-209968	Thyroxine biosynthesis	BFO:0000050	decopath	DC1-6-6	Thyroid hormone synthesis
-pathbank	PW000447	Vasopressin Regulation of Water Homeostasis	skos:exactMatch	kegg.pathway	path:hsa04962	Vasopressin-regulated water reabsorption - Homo sapiens (human)
-kegg.pathway	path:hsa04962	Vasopressin-regulated water reabsorption - Homo sapiens (human)	skos:exactMatch	reactome	R-HSA-432040	Vasopressin regulates renal water homeostasis via Aquaporins
+pathbank	PW000447	Vasopressin Regulation of Water Homeostasis	skos:exactMatch	kegg.pathway	hsa04962	Vasopressin-regulated water reabsorption - Homo sapiens (human)
+kegg.pathway	hsa04962	Vasopressin-regulated water reabsorption - Homo sapiens (human)	skos:exactMatch	reactome	R-HSA-432040	Vasopressin regulates renal water homeostasis via Aquaporins
 pathbank	PW000447	Vasopressin Regulation of Water Homeostasis	skos:exactMatch	reactome	R-HSA-432040	Vasopressin regulates renal water homeostasis via Aquaporins
 pathbank	PW000447	Vasopressin Regulation of Water Homeostasis	BFO:0000050	decopath	DC1-6-7	Vasopressin-regulated water reabsorption
-kegg.pathway	path:hsa04962	Vasopressin-regulated water reabsorption - Homo sapiens (human)	BFO:0000050	decopath	DC1-6-7	Vasopressin-regulated water reabsorption
+kegg.pathway	hsa04962	Vasopressin-regulated water reabsorption - Homo sapiens (human)	BFO:0000050	decopath	DC1-6-7	Vasopressin-regulated water reabsorption
 reactome	R-HSA-432040	Vasopressin regulates renal water homeostasis via Aquaporins	BFO:0000050	decopath	DC1-6-7	Vasopressin-regulated water reabsorption
 wikipathways	WP698	Glucuronidation	skos:exactMatch	reactome	R-HSA-156588	Glucuronidation
 wikipathways	WP698	Glucuronidation	BFO:0000050	decopath	DC1-6-8	Glucuronidation
 reactome	R-HSA-156588	Glucuronidation	BFO:0000050	decopath	DC1-6-8	Glucuronidation
 decopath	DC1-6-8	Glucuronidation	BFO:0000050	reactome	R-HSA-156580	Phase II - Conjugation of compounds
-kegg.pathway	path:hsa04971	Gastric acid secretion - Homo sapiens (human)	skos:exactMatch	wikipathways	WP2597	Secretion of Hydrochloric Acid in Parietal Cells
-kegg.pathway	path:hsa04971	Gastric acid secretion - Homo sapiens (human)	BFO:0000050	decopath	DC1-6-0-1	Gastric acid secretion
+kegg.pathway	hsa04971	Gastric acid secretion - Homo sapiens (human)	skos:exactMatch	wikipathways	WP2597	Secretion of Hydrochloric Acid in Parietal Cells
+kegg.pathway	hsa04971	Gastric acid secretion - Homo sapiens (human)	BFO:0000050	decopath	DC1-6-0-1	Gastric acid secretion
 wikipathways	WP2597	Secretion of Hydrochloric Acid in Parietal Cells	BFO:0000050	decopath	DC1-6-0-1	Gastric acid secretion
 decopath	DC1-6-0-1	Gastric acid secretion	BFO:0000050	pathbank	PW000565	Gastric Acid Production
-pathbank	PW000151	Nicotinate and Nicotinamide Metabolism	skos:exactMatch	kegg.pathway	path:hsa00760	Nicotinate and nicotinamide metabolism - Homo sapiens (human)
+pathbank	PW000151	Nicotinate and Nicotinamide Metabolism	skos:exactMatch	kegg.pathway	hsa00760	Nicotinate and nicotinamide metabolism - Homo sapiens (human)
 pathbank	PW000151	Nicotinate and Nicotinamide Metabolism	BFO:0000050	decopath	DC1-6-9	Nicotinate and nicotinamide metabolism
-kegg.pathway	path:hsa00760	Nicotinate and nicotinamide metabolism - Homo sapiens (human)	BFO:0000050	decopath	DC1-6-9	Nicotinate and nicotinamide metabolism
+kegg.pathway	hsa00760	Nicotinate and nicotinamide metabolism - Homo sapiens (human)	BFO:0000050	decopath	DC1-6-9	Nicotinate and nicotinamide metabolism
 decopath	DC1-6-9	Nicotinate and nicotinamide metabolism	BFO:0000050	decopath	DC1-6	Other metabolic pathways
-kegg.pathway	path:hsa03050	Proteasome - Homo sapiens (human)	skos:exactMatch	wikipathways	WP183	Proteasome Degradation
-kegg.pathway	path:hsa03050	Proteasome - Homo sapiens (human)	BFO:0000050	decopath	DC1-6-10	Proteasome
+kegg.pathway	hsa03050	Proteasome - Homo sapiens (human)	skos:exactMatch	wikipathways	WP183	Proteasome Degradation
+kegg.pathway	hsa03050	Proteasome - Homo sapiens (human)	BFO:0000050	decopath	DC1-6-10	Proteasome
 wikipathways	WP183	Proteasome Degradation	BFO:0000050	decopath	DC1-6-10	Proteasome
-wikipathways	WP2359	Parkin-Ubiquitin Proteasomal System pathway	BFO:0000050	kegg.pathway	path:hsa03050	Proteasome - Homo sapiens (human)
+wikipathways	WP2359	Parkin-Ubiquitin Proteasomal System pathway	BFO:0000050	kegg.pathway	hsa03050	Proteasome - Homo sapiens (human)
 reactome	R-HSA-211897	Cytochrome P450 - arranged by substrate type	BFO:0000050	wikipathways	WP43	Oxidation by Cytochrome P450
-wikipathways	WP43	Oxidation by Cytochrome P450 (Homo sapiens)	BFO:0000050	kegg.pathway	path:hsa00982	Drug metabolism - cytochrome P450 - Homo sapiens (human)
-kegg.pathway	path:hsa00982	Drug metabolism - cytochrome P450 - Homo sapiens (human)	BFO:0000050	decopath	DC1-6	Other metabolic pathways
-kegg.pathway	path:hsa00563	Glycosylphosphatidylinositol (GPI)-anchor biosynthesis - Homo sapiens (human)	skos:exactMatch	reactome	R-HSA-162710	 Synthesis of glycosylphosphatidylinositol (GPI) (Homo sapiens)
-kegg.pathway	path:hsa00563	Glycosylphosphatidylinositol (GPI)-anchor biosynthesis - Homo sapiens (human)	BFO:0000050	decopath	DC1-6-11-1-1	 Synthesis of glycosylphosphatidylinositol (GPI)
+wikipathways	WP43	Oxidation by Cytochrome P450 (Homo sapiens)	BFO:0000050	kegg.pathway	hsa00982	Drug metabolism - cytochrome P450 - Homo sapiens (human)
+kegg.pathway	hsa00982	Drug metabolism - cytochrome P450 - Homo sapiens (human)	BFO:0000050	decopath	DC1-6	Other metabolic pathways
+kegg.pathway	hsa00563	Glycosylphosphatidylinositol (GPI)-anchor biosynthesis - Homo sapiens (human)	skos:exactMatch	reactome	R-HSA-162710	 Synthesis of glycosylphosphatidylinositol (GPI) (Homo sapiens)
+kegg.pathway	hsa00563	Glycosylphosphatidylinositol (GPI)-anchor biosynthesis - Homo sapiens (human)	BFO:0000050	decopath	DC1-6-11-1-1	 Synthesis of glycosylphosphatidylinositol (GPI)
 reactome	R-HSA-162710	 Synthesis of glycosylphosphatidylinositol (GPI) (Homo sapiens)	BFO:0000050	decopath	DC1-6-11-1-1	 Synthesis of glycosylphosphatidylinositol (GPI)
-kegg.pathway	path:hsa01100	Metabolic pathways - Homo sapiens (human)	skos:exactMatch	reactome	R-HSA-1430728	Metabolism (Homo sapiens)
-kegg.pathway	path:hsa01100	Metabolic pathways - Homo sapiens (human)	BFO:0000050	decopath	DC1	Metabolism
+kegg.pathway	hsa01100	Metabolic pathways - Homo sapiens (human)	skos:exactMatch	reactome	R-HSA-1430728	Metabolism (Homo sapiens)
+kegg.pathway	hsa01100	Metabolic pathways - Homo sapiens (human)	BFO:0000050	decopath	DC1	Metabolism
 reactome	R-HSA-1430728	Metabolism (Homo sapiens)	BFO:0000050	decopath	DC1	Metabolism
 decopath	DC2-1	Adaptive immune system	BFO:0000050	decopath	DC2	Immune system
 decopath	DC2-1-1	BCR Signaling Pathway 	BFO:0000050	decopath	DC2-1	Adaptive immune system
 decopath	DC2-1-2	Allograft Rejection 	BFO:0000050	decopath	DC2-1	Adaptive immune system
 decopath	DC2-1-3	Rap1 signalling 	BFO:0000050	decopath	DC2-1	Adaptive immune system
 decopath	DC2-1-4	T Cell Receptor Signaling Pathway 	BFO:0000050	decopath	DC2-1	Adaptive immune system
-kegg.pathway	path:hsa05330	Allograft rejection - Homo sapiens (human)	skos:exactMatch	wikipathways	WP2328	Allograft Rejection
+kegg.pathway	hsa05330	Allograft rejection - Homo sapiens (human)	skos:exactMatch	wikipathways	WP2328	Allograft Rejection
 wikipathways	WP2328	Allograft Rejection	BFO:0000050	decopath	DC2-1-2	Allograft Rejection 
-kegg.pathway	path:hsa05330	Allograft rejection - Homo sapiens (human)	BFO:0000050	decopath	DC2-1-2	Allograft Rejection 
-kegg.pathway	path:hsa04612	Antigen processing and presentation - Homo sapiens (human)	skos:exactMatch	reactome	R-HSA-1236975	Antigen processing-Cross presentation
-kegg.pathway	path:hsa04612	Antigen processing and presentation - Homo sapiens (human)	BFO:0000050	decopath	DC2-1-5	Antigen processing-Cross presentation 
+kegg.pathway	hsa05330	Allograft rejection - Homo sapiens (human)	BFO:0000050	decopath	DC2-1-2	Allograft Rejection 
+kegg.pathway	hsa04612	Antigen processing and presentation - Homo sapiens (human)	skos:exactMatch	reactome	R-HSA-1236975	Antigen processing-Cross presentation
+kegg.pathway	hsa04612	Antigen processing and presentation - Homo sapiens (human)	BFO:0000050	decopath	DC2-1-5	Antigen processing-Cross presentation 
 reactome	R-HSA-1236975	Antigen processing-Cross presentation	BFO:0000050	decopath	DC2-1-5	Antigen processing-Cross presentation 
 reactome	R-HSA-983169	Class I MHC mediated antigen processing & presentation	BFO:0000050	decopath	DC2-1-5	Antigen processing-Cross presentation 
-kegg.pathway	path:hsa04015	Rap1 signaling pathway - Homo sapiens (human)	skos:exactMatch	reactome	R-HSA-392517	Rap1 signalling
-kegg.pathway	path:hsa04015	Rap1 signaling pathway - Homo sapiens (human)	BFO:0000050	decopath	DC2-1-3	Rap1 signalling 
+kegg.pathway	hsa04015	Rap1 signaling pathway - Homo sapiens (human)	skos:exactMatch	reactome	R-HSA-392517	Rap1 signalling
+kegg.pathway	hsa04015	Rap1 signaling pathway - Homo sapiens (human)	BFO:0000050	decopath	DC2-1-3	Rap1 signalling 
 reactome	R-HSA-392517	Rap1 signalling	BFO:0000050	decopath	DC2-1-3	Rap1 signalling 
-wikipathways	WP2583	T-Cell Receptor and Co-stimulatory Signaling	BFO:0000050	kegg.pathway	path:hsa04660	T cell receptor signaling pathway - Homo sapiens (human)
-pathbank	PW067987	T Cell Receptor Signaling Pathway	skos:exactMatch	kegg.pathway	path:hsa04660	T cell receptor signaling pathway - Homo sapiens (human)
+wikipathways	WP2583	T-Cell Receptor and Co-stimulatory Signaling	BFO:0000050	kegg.pathway	hsa04660	T cell receptor signaling pathway - Homo sapiens (human)
+pathbank	PW067987	T Cell Receptor Signaling Pathway	skos:exactMatch	kegg.pathway	hsa04660	T cell receptor signaling pathway - Homo sapiens (human)
 pathbank	PW067987	T Cell Receptor Signaling Pathway	skos:exactMatch	wikipathways	WP69	T-Cell antigen Receptor (TCR) Signaling Pathway
-kegg.pathway	path:hsa04660	T cell receptor signaling pathway - Homo sapiens (human)	skos:exactMatch	wikipathways	WP69	T-Cell antigen Receptor (TCR) Signaling Pathway
+kegg.pathway	hsa04660	T cell receptor signaling pathway - Homo sapiens (human)	skos:exactMatch	wikipathways	WP69	T-Cell antigen Receptor (TCR) Signaling Pathway
 pathbank	PW067987	T Cell Receptor Signaling Pathway	BFO:0000050	decopath	DC2-1-4	T Cell Receptor Signaling Pathway 
-kegg.pathway	path:hsa04660	T cell receptor signaling pathway - Homo sapiens (human)	BFO:0000050	decopath	DC2-1-4	T Cell Receptor Signaling Pathway 
+kegg.pathway	hsa04660	T cell receptor signaling pathway - Homo sapiens (human)	BFO:0000050	decopath	DC2-1-4	T Cell Receptor Signaling Pathway 
 wikipathways	WP69	T-Cell antigen Receptor (TCR) Signaling Pathway	BFO:0000050	decopath	DC2-1-4	T Cell Receptor Signaling Pathway 
 reactome	R-HSA-983705	Signaling by the B Cell Receptor (BCR)	skos:exactMatch	pathbank	PW070885	BCR Signaling Pathway
 reactome	R-HSA-983705	Signaling by the B Cell Receptor (BCR)	skos:exactMatch	wikipathways	WP23	B Cell Receptor Signaling Pathway
-reactome	R-HSA-983705	Signaling by the B Cell Receptor (BCR)	skos:exactMatch	kegg.pathway	path:hsa04662	B cell receptor signaling pathway - Homo sapiens (human)
-pathbank	PW070885	BCR Signaling Pathway	skos:exactMatch	kegg.pathway	path:hsa04662	B cell receptor signaling pathway - Homo sapiens (human)
+reactome	R-HSA-983705	Signaling by the B Cell Receptor (BCR)	skos:exactMatch	kegg.pathway	hsa04662	B cell receptor signaling pathway - Homo sapiens (human)
+pathbank	PW070885	BCR Signaling Pathway	skos:exactMatch	kegg.pathway	hsa04662	B cell receptor signaling pathway - Homo sapiens (human)
 pathbank	PW070885	BCR Signaling Pathway	skos:exactMatch	wikipathways	WP23	B Cell Receptor Signaling Pathway
-kegg.pathway	path:hsa04662	B cell receptor signaling pathway - Homo sapiens (human)	skos:exactMatch	wikipathways	WP23	B Cell Receptor Signaling Pathway
+kegg.pathway	hsa04662	B cell receptor signaling pathway - Homo sapiens (human)	skos:exactMatch	wikipathways	WP23	B Cell Receptor Signaling Pathway
 pathbank	PW070885	BCR Signaling Pathway	BFO:0000050	decopath	DC2-1-1	BCR Signaling Pathway 
 reactome	R-HSA-983705	Signaling by the B Cell Receptor (BCR)	BFO:0000050	decopath	DC2-1-1	BCR Signaling Pathway 
-kegg.pathway	path:hsa04662	B cell receptor signaling pathway - Homo sapiens (human)	BFO:0000050	decopath	DC2-1-1	BCR Signaling Pathway 
+kegg.pathway	hsa04662	B cell receptor signaling pathway - Homo sapiens (human)	BFO:0000050	decopath	DC2-1-1	BCR Signaling Pathway 
 wikipathways	WP23	B Cell Receptor Signaling Pathway	BFO:0000050	decopath	DC2-1-1	BCR Signaling Pathway 
 decopath	DC2-2	Innate immune system	BFO:0000050	decopath	DC2	Immune system
 decopath	DC2-2-1	RIG-I-like receptor signaling pathway	BFO:0000050	decopath	DC2-2	Innate immune system
@@ -458,17 +458,17 @@ decopath	DC2-2-5	Fcgamma receptor (FCGR) dependent phagocytosis 	BFO:0000050	dec
 reactome	R-HSA-9612973	Autophagy	BFO:0000050	decopath	DC2-2	Innate immune system
 decopath	DC2-2-6-1	Macroautophagy	BFO:0000050	reactome	R-HSA-9612973	Autophagy
 decopath	DC2-2-6-2	Mitophagy	BFO:0000050	reactome	R-HSA-9612973	Autophagy
-kegg.pathway	path:hsa04622	RIG-I-like receptor signaling pathway - Homo sapiens (human)	skos:exactMatch	wikipathways	WP3865	RIG-I-like Receptor Signaling
-kegg.pathway	path:hsa04622	RIG-I-like receptor signaling pathway - Homo sapiens (human)	BFO:0000050	decopath	DC2-2-1	RIG-I-like receptor signaling pathway
+kegg.pathway	hsa04622	RIG-I-like receptor signaling pathway - Homo sapiens (human)	skos:exactMatch	wikipathways	WP3865	RIG-I-like Receptor Signaling
+kegg.pathway	hsa04622	RIG-I-like receptor signaling pathway - Homo sapiens (human)	BFO:0000050	decopath	DC2-2-1	RIG-I-like receptor signaling pathway
 wikipathways	WP3865	RIG-I-like Receptor Signaling	BFO:0000050	decopath	DC2-2-1	RIG-I-like receptor signaling pathway
 wikipathways	WP75	Toll-like Receptor Signaling Pathway	skos:exactMatch	reactome	R-HSA-168898	Toll-Like Receptors Cascades
-kegg.pathway	path:hsa04620	Toll-like receptor signaling pathway - Homo sapiens (human)	skos:exactMatch	reactome	R-HSA-168898	Toll-Like Receptors Cascades
-kegg.pathway	path:hsa04620	Toll-like receptor signaling pathway - Homo sapiens (human)	skos:exactMatch	wikipathways	WP75	Toll-like Receptor Signaling Pathway
+kegg.pathway	hsa04620	Toll-like receptor signaling pathway - Homo sapiens (human)	skos:exactMatch	reactome	R-HSA-168898	Toll-Like Receptors Cascades
+kegg.pathway	hsa04620	Toll-like receptor signaling pathway - Homo sapiens (human)	skos:exactMatch	wikipathways	WP75	Toll-like Receptor Signaling Pathway
 reactome	R-HSA-168898	Toll-Like Receptors Cascades	BFO:0000050	decopath	DC2-2-2	Toll-like receptor (TLR) signaling pathway
 wikipathways	WP75	Toll-like Receptor Signaling Pathway	BFO:0000050	decopath	DC2-2-2	Toll-like receptor (TLR) signaling pathway
-kegg.pathway	path:hsa04620	Toll-like receptor signaling pathway - Homo sapiens (human)	BFO:0000050	decopath	DC2-2-2	Toll-like receptor (TLR) signaling pathway
-kegg.pathway	path:hsa04610	Complement and coagulation cascades - Homo sapiens (human)	skos:exactMatch	wikipathways	WP558	Complement and Coagulation Cascades
-kegg.pathway	path:hsa04610	Complement and coagulation cascades - Homo sapiens (human)	BFO:0000050	decopath	DC2-2-3	Complement and coagulation cascades
+kegg.pathway	hsa04620	Toll-like receptor signaling pathway - Homo sapiens (human)	BFO:0000050	decopath	DC2-2-2	Toll-like receptor (TLR) signaling pathway
+kegg.pathway	hsa04610	Complement and coagulation cascades - Homo sapiens (human)	skos:exactMatch	wikipathways	WP558	Complement and Coagulation Cascades
+kegg.pathway	hsa04610	Complement and coagulation cascades - Homo sapiens (human)	BFO:0000050	decopath	DC2-2-3	Complement and coagulation cascades
 wikipathways	WP558	Complement and Coagulation Cascades	BFO:0000050	decopath	DC2-2-3	Complement and coagulation cascades
 wikipathways	WP545	Complement Activation	skos:exactMatch	reactome	R-HSA-166658	Complement cascade
 pathbank	PW064819	Complement Pathway	skos:exactMatch	wikipathways	WP545	Complement Activation
@@ -477,20 +477,20 @@ wikipathways	WP545	Complement Activation	BFO:0000050	decopath	DC2-2-3-1	Compleme
 reactome	R-HSA-166658	Complement cascade	BFO:0000050	decopath	DC2-2-3-1	Complement activation
 pathbank	PW064819	Complement Pathway	BFO:0000050	decopath	DC2-2-3-1	Complement activation
 pathbank	PW065057	Classical Complement Pathway	BFO:0000050	pathbank	PW064819	Complement Pathway
-pathbank	PW000453	Fc Epsilon Receptor I Signaling in Mast Cells	skos:exactMatch	kegg.pathway	path:hsa04664	Fc epsilon RI signaling pathway - Homo sapiens (human)
-kegg.pathway	path:hsa04664	Fc epsilon RI signaling pathway - Homo sapiens (human)	skos:exactMatch	reactome	R-HSA-2454202	Fc epsilon receptor (FCERI) signaling
+pathbank	PW000453	Fc Epsilon Receptor I Signaling in Mast Cells	skos:exactMatch	kegg.pathway	hsa04664	Fc epsilon RI signaling pathway - Homo sapiens (human)
+kegg.pathway	hsa04664	Fc epsilon RI signaling pathway - Homo sapiens (human)	skos:exactMatch	reactome	R-HSA-2454202	Fc epsilon receptor (FCERI) signaling
 pathbank	PW000453	Fc Epsilon Receptor I Signaling in Mast Cells	skos:exactMatch	reactome	R-HSA-2454202	Fc epsilon receptor (FCERI) signaling
 pathbank	PW000453	Fc Epsilon Receptor I Signaling in Mast Cells	BFO:0000050	decopath	DC2-2-4	Fc epsilon RI signaling pathway 
 reactome	R-HSA-2454202	Fc epsilon receptor (FCERI) signaling	BFO:0000050	decopath	DC2-2-4	Fc epsilon RI signaling pathway 
-kegg.pathway	path:hsa04664	Fc epsilon RI signaling pathway - Homo sapiens (human)	BFO:0000050	decopath	DC2-2-4	Fc epsilon RI signaling pathway 
-kegg.pathway	path:hsa04666	Fc gamma R-mediated phagocytosis - Homo sapiens (human)	skos:exactMatch	reactome	R-HSA-2029480	Fcgamma receptor (FCGR) dependent phagocytosis
-kegg.pathway	path:hsa04666	Fc gamma R-mediated phagocytosis - Homo sapiens (human)	BFO:0000050	decopath	DC2-2-5	Fcgamma receptor (FCGR) dependent phagocytosis 
+kegg.pathway	hsa04664	Fc epsilon RI signaling pathway - Homo sapiens (human)	BFO:0000050	decopath	DC2-2-4	Fc epsilon RI signaling pathway 
+kegg.pathway	hsa04666	Fc gamma R-mediated phagocytosis - Homo sapiens (human)	skos:exactMatch	reactome	R-HSA-2029480	Fcgamma receptor (FCGR) dependent phagocytosis
+kegg.pathway	hsa04666	Fc gamma R-mediated phagocytosis - Homo sapiens (human)	BFO:0000050	decopath	DC2-2-5	Fcgamma receptor (FCGR) dependent phagocytosis 
 reactome	R-HSA-2029480	Fcgamma receptor (FCGR) dependent phagocytosis	BFO:0000050	decopath	DC2-2-5	Fcgamma receptor (FCGR) dependent phagocytosis 
-kegg.pathway	path:hsa04136	Autophagy - other - Homo sapiens (human)	skos:exactMatch	reactome	R-HSA-1632852	Macroautophagy
-kegg.pathway	path:hsa04136	Autophagy - other - Homo sapiens (human)	BFO:0000050	decopath	DC2-2-6-1	Macroautophagy
+kegg.pathway	hsa04136	Autophagy - other - Homo sapiens (human)	skos:exactMatch	reactome	R-HSA-1632852	Macroautophagy
+kegg.pathway	hsa04136	Autophagy - other - Homo sapiens (human)	BFO:0000050	decopath	DC2-2-6-1	Macroautophagy
 reactome	R-HSA-1632852	Macroautophagy	BFO:0000050	decopath	DC2-2-6-1	Macroautophagy
-kegg.pathway	path:hsa04137	Mitophagy - animal - Homo sapiens (human)	skos:exactMatch	reactome	R-HSA-5205647	Mitophagy
-kegg.pathway	path:hsa04137	Mitophagy - animal - Homo sapiens (human)	BFO:0000050	decopath	DC2-2-6-2	Mitophagy
+kegg.pathway	hsa04137	Mitophagy - animal - Homo sapiens (human)	skos:exactMatch	reactome	R-HSA-5205647	Mitophagy
+kegg.pathway	hsa04137	Mitophagy - animal - Homo sapiens (human)	BFO:0000050	decopath	DC2-2-6-2	Mitophagy
 reactome	R-HSA-5205647	Mitophagy	BFO:0000050	decopath	DC2-2-6-2	Mitophagy
 decopath	DC2-3	Cytokine signaling in immune system	BFO:0000050	decopath	DC2	Immune system
 decopath	DC2-3-1	Interleukin signaling pathway	BFO:0000050	decopath	DC2-3	Cytokine signaling in immune system
@@ -508,10 +508,10 @@ decopath	DC2-3-1-5	IL-9 signaling pathway	BFO:0000050	decopath	DC2-3-1	Interleuk
 wikipathways	WP195	IL-1 signaling pathway	skos:exactMatch	reactome	R-HSA-446652	Interleukin-1 family signaling
 reactome	R-HSA-446652	Interleukin-1 family signaling	BFO:0000050	decopath	DC2-3-1-1	IL-1 signaling pathway
 wikipathways	WP195	IL-1 signaling pathway	BFO:0000050	decopath	DC2-3-1-1	IL-1 signaling pathway
-kegg.pathway	path:hsa04657	IL-17 signaling pathway - Homo sapiens (human)	skos:exactMatch	reactome	R-HSA-448424	Interleukin-17 signaling
-kegg.pathway	path:hsa04657	IL-17 signaling pathway - Homo sapiens (human)	skos:exactMatch	wikipathways	WP2112	IL17 signaling pathway
+kegg.pathway	hsa04657	IL-17 signaling pathway - Homo sapiens (human)	skos:exactMatch	reactome	R-HSA-448424	Interleukin-17 signaling
+kegg.pathway	hsa04657	IL-17 signaling pathway - Homo sapiens (human)	skos:exactMatch	wikipathways	WP2112	IL17 signaling pathway
 reactome	R-HSA-448424	Interleukin-17 signaling	skos:exactMatch	wikipathways	WP2112	IL17 signaling pathway
-kegg.pathway	path:hsa04657	IL-17 signaling pathway - Homo sapiens (human)	BFO:0000050	decopath	DC2-3-1-6	IL-17 signaling pathway
+kegg.pathway	hsa04657	IL-17 signaling pathway - Homo sapiens (human)	BFO:0000050	decopath	DC2-3-1-6	IL-17 signaling pathway
 reactome	R-HSA-448424	Interleukin-17 signaling	BFO:0000050	decopath	DC2-3-1-6	IL-17 signaling pathway
 wikipathways	WP2112	IL17 signaling pathway	BFO:0000050	decopath	DC2-3-1-6	IL-17 signaling pathway
 wikipathways	WP364	IL-6 signaling pathway	skos:exactMatch	reactome	R-HSA-1059683	Interleukin-6 signaling
@@ -529,8 +529,8 @@ reactome	R-HSA-8985947	Interleukin-9 signaling	BFO:0000050	decopath	DC2-3-1-5	IL
 wikipathways	WP619	Type II interferon signaling (IFNG)	skos:exactMatch	reactome	R-HSA-877300	Interferon gamma signaling
 wikipathways	WP619	Type II interferon signaling (IFNG)	BFO:0000050	decopath	DC2-3-2	Interferon gamma signaling 
 reactome	R-HSA-877300	Interferon gamma signaling	BFO:0000050	decopath	DC2-3-2	Interferon gamma signaling 
-kegg.pathway	path:hsa04062	Chemokine signaling pathway - Homo sapiens (human)	skos:exactMatch	wikipathways	WP3929	Chemokine signaling pathway
-kegg.pathway	path:hsa04062	Chemokine signaling pathway - Homo sapiens (human)	BFO:0000050	decopath	DC2-3-3	Chemokine signaling pathway
+kegg.pathway	hsa04062	Chemokine signaling pathway - Homo sapiens (human)	skos:exactMatch	wikipathways	WP3929	Chemokine signaling pathway
+kegg.pathway	hsa04062	Chemokine signaling pathway - Homo sapiens (human)	BFO:0000050	decopath	DC2-3-3	Chemokine signaling pathway
 wikipathways	WP3929	Chemokine signaling pathway	BFO:0000050	decopath	DC2-3-3	Chemokine signaling pathway
 decopath	DC3-1	Signaling by NOTCH 	BFO:0000050	decopath	DC3	Signaling
 decopath	DC3-2	Signaling by Hedgehog 	BFO:0000050	decopath	DC3	Signaling
@@ -566,62 +566,62 @@ decopath	DC3-32	NF-kappa B signaling pathway	BFO:0000050	decopath	DC3	Signaling
 decopath	DC3-33	Glucagon signaling pathway	BFO:0000050	decopath	DC3	Signaling
 decopath	DC3-34	GABA receptor activation pathway	BFO:0000050	decopath	DC3	Signaling
 wikipathways	WP268	Notch Signaling	skos:exactMatch	reactome	R-HSA-157118	Signaling by NOTCH
-kegg.pathway	path:hsa04330	Notch signaling pathway - Homo sapiens (human)	skos:exactMatch	reactome	R-HSA-157118	Signaling by NOTCH
-kegg.pathway	path:hsa04330	Notch signaling pathway - Homo sapiens (human)	skos:exactMatch	wikipathways	WP268	Notch Signaling Pathway
+kegg.pathway	hsa04330	Notch signaling pathway - Homo sapiens (human)	skos:exactMatch	reactome	R-HSA-157118	Signaling by NOTCH
+kegg.pathway	hsa04330	Notch signaling pathway - Homo sapiens (human)	skos:exactMatch	wikipathways	WP268	Notch Signaling Pathway
 wikipathways	WP268	Notch Signaling	BFO:0000050	decopath	DC3-1	Signaling by NOTCH 
 reactome	R-HSA-157118	Signaling by NOTCH	BFO:0000050	decopath	DC3-1	Signaling by NOTCH 
-kegg.pathway	path:hsa04330	Notch signaling pathway - Homo sapiens (human)	BFO:0000050	decopath	DC3-1	Signaling by NOTCH 
+kegg.pathway	hsa04330	Notch signaling pathway - Homo sapiens (human)	BFO:0000050	decopath	DC3-1	Signaling by NOTCH 
 wikipathways	WP3874	Canonical and Non-Canonical TGF-B signaling	skos:exactMatch	reactome	R-HSA-170834	Signaling by TGF-beta Receptor Complex
 wikipathways	WP3874	Canonical and Non-Canonical TGF-B signaling	BFO:0000050	decopath	DC3-22	Signaling by TGF-beta Receptor Complex
 reactome	R-HSA-170834	Signaling by TGF-beta Receptor Complex	BFO:0000050	decopath	DC3-22	Signaling by TGF-beta Receptor Complex
-kegg.pathway	path:hsa04340	Hedgehog signaling pathway - Homo sapiens (human)	skos:exactMatch	reactome	R-HSA-5358351	Signaling by Hedgehog
-kegg.pathway	path:hsa04340	Hedgehog signaling pathway - Homo sapiens (human)	skos:exactMatch	wikipathways	WP4249	Hedgehog Signaling Pathway
+kegg.pathway	hsa04340	Hedgehog signaling pathway - Homo sapiens (human)	skos:exactMatch	reactome	R-HSA-5358351	Signaling by Hedgehog
+kegg.pathway	hsa04340	Hedgehog signaling pathway - Homo sapiens (human)	skos:exactMatch	wikipathways	WP4249	Hedgehog Signaling Pathway
 wikipathways	WP4249	Hedgehog Signaling Pathway	skos:exactMatch	reactome	R-HSA-5358351	Signaling by Hedgehog
 reactome	R-HSA-5358351	Signaling by Hedgehog	BFO:0000050	decopath	DC3-2	Signaling by Hedgehog 
-kegg.pathway	path:hsa04340	Hedgehog signaling pathway - Homo sapiens (human)	BFO:0000050	decopath	DC3-2	Signaling by Hedgehog 
+kegg.pathway	hsa04340	Hedgehog signaling pathway - Homo sapiens (human)	BFO:0000050	decopath	DC3-2	Signaling by Hedgehog 
 wikipathways	WP4249	Hedgehog Signaling Pathway	BFO:0000050	decopath	DC3-2	Signaling by Hedgehog 
-kegg.pathway	path:hsa04390	Hippo signaling pathway - Homo sapiens (human)	skos:exactMatch	reactome	R-HSA-2028269	Signaling by Hippo
-kegg.pathway	path:hsa04390	Hippo signaling pathway - Homo sapiens (human)	BFO:0000050	decopath	DC3-3	Hippo signaling pathway
+kegg.pathway	hsa04390	Hippo signaling pathway - Homo sapiens (human)	skos:exactMatch	reactome	R-HSA-2028269	Signaling by Hippo
+kegg.pathway	hsa04390	Hippo signaling pathway - Homo sapiens (human)	BFO:0000050	decopath	DC3-3	Hippo signaling pathway
 reactome	R-HSA-2028269	Signaling by Hippo	BFO:0000050	decopath	DC3-3	Hippo signaling pathway
-wikipathways	WP3943	Robo4 and VEGF Signaling Pathways Crosstalk	BFO:0000050	kegg.pathway	path:hsa04370	VEGF signaling pathway - Homo sapiens (human)
-kegg.pathway	path:hsa04370	VEGF signaling pathway - Homo sapiens (human)	BFO:0000050	wikipathways	WP3888	VEGFA-VEGFR2 Signaling Pathway
+wikipathways	WP3943	Robo4 and VEGF Signaling Pathways Crosstalk	BFO:0000050	kegg.pathway	hsa04370	VEGF signaling pathway - Homo sapiens (human)
+kegg.pathway	hsa04370	VEGF signaling pathway - Homo sapiens (human)	BFO:0000050	wikipathways	WP3888	VEGFA-VEGFR2 Signaling Pathway
 wikipathways	WP3888	VEGFA-VEGFR2 Signaling Pathway	skos:exactMatch	reactome	R-HSA-4420097	VEGFA-VEGFR2 Pathway
 wikipathways	WP3888	VEGFA-VEGFR2 Signaling Pathway	BFO:0000050	decopath	DC3-7	VEGFA-VEGFR2 Pathway 
 reactome	R-HSA-4420097	VEGFA-VEGFR2 Pathway	BFO:0000050	decopath	DC3-7	VEGFA-VEGFR2 Pathway 
-pathbank	PW078607	WNT Signaling Pathway	skos:exactMatch	kegg.pathway	path:hsa04310	Wnt signaling pathway - Homo sapiens (human)
+pathbank	PW078607	WNT Signaling Pathway	skos:exactMatch	kegg.pathway	hsa04310	Wnt signaling pathway - Homo sapiens (human)
 pathbank	PW078607	WNT Signaling Pathway	skos:exactMatch	wikipathways	WP428	Wnt Signaling Pathway
 pathbank	PW078607	WNT Signaling Pathway	skos:exactMatch	reactome	R-HSA-195721	Signaling by WNT
-wikipathways	WP428	Wnt Signaling Pathway	skos:exactMatch	kegg.pathway	path:hsa04310	Wnt signaling pathway - Homo sapiens (human)
+wikipathways	WP428	Wnt Signaling Pathway	skos:exactMatch	kegg.pathway	hsa04310	Wnt signaling pathway - Homo sapiens (human)
 wikipathways	WP428	Wnt Signaling Pathway	skos:exactMatch	reactome	R-HSA-195721	Signaling by WNT
-kegg.pathway	path:hsa04310	Wnt signaling pathway - Homo sapiens (human)	skos:exactMatch	reactome	R-HSA-195721	Signaling by WNT
+kegg.pathway	hsa04310	Wnt signaling pathway - Homo sapiens (human)	skos:exactMatch	reactome	R-HSA-195721	Signaling by WNT
 reactome	R-HSA-195721	Signaling by WNT	BFO:0000050	decopath	DC3-11	Signaling by WNT 
 wikipathways	WP428	Wnt signaling pathway	BFO:0000050	decopath	DC3-11	Signaling by WNT 
-kegg.pathway	path:hsa04310	Wnt signaling pathway - Homo sapiens (human)	BFO:0000050	decopath	DC3-11	Signaling by WNT 
+kegg.pathway	hsa04310	Wnt signaling pathway - Homo sapiens (human)	BFO:0000050	decopath	DC3-11	Signaling by WNT 
 pathbank	PW078607	WNT Signaling Pathway	BFO:0000050	decopath	DC3-11	Signaling by WNT 
 wikipathways	WP2034	Leptin signaling pathway	skos:exactMatch	reactome	R-HSA-2586552	Signaling by Leptin
 reactome	R-HSA-2586552	Signaling by Leptin	BFO:0000050	decopath	DC3-10	Signaling by Leptin 
 wikipathways	WP2034	Leptin signaling pathway	BFO:0000050	decopath	DC3-10	Signaling by Leptin 
-kegg.pathway	path:hsa04150	mTOR signaling pathway - Homo sapiens (human)	skos:exactMatch	reactome	R-HSA-165159	mTOR signalling
-kegg.pathway	path:hsa04150	mTOR signaling pathway - Homo sapiens (human)	skos:exactMatch	wikipathways	WP1471	Target Of Rapamycin (TOR) Signaling
+kegg.pathway	hsa04150	mTOR signaling pathway - Homo sapiens (human)	skos:exactMatch	reactome	R-HSA-165159	mTOR signalling
+kegg.pathway	hsa04150	mTOR signaling pathway - Homo sapiens (human)	skos:exactMatch	wikipathways	WP1471	Target Of Rapamycin (TOR) Signaling
 reactome	R-HSA-165159	mTOR signalling	skos:exactMatch	wikipathways	WP1471	Target Of Rapamycin (TOR) Signaling
 reactome	R-HSA-165159	mTOR signalling	BFO:0000050	decopath	DC3-4	PI3K-AKT-mTOR signaling pathway 
-kegg.pathway	path:hsa04150	mTOR signaling pathway - Homo sapiens (human)	BFO:0000050	decopath	DC3-4	PI3K-AKT-mTOR signaling pathway 
+kegg.pathway	hsa04150	mTOR signaling pathway - Homo sapiens (human)	BFO:0000050	decopath	DC3-4	PI3K-AKT-mTOR signaling pathway 
 wikipathways	WP1471	Target Of Rapamycin (TOR) Signaling	BFO:0000050	decopath	DC3-4	PI3K-AKT-mTOR signaling pathway 
-kegg.pathway	path:hsa04668	TNF signaling pathway - Homo sapiens (human)	skos:exactMatch	reactome	R-HSA-75893	TNF signaling
-pathbank	PW064784	TNF/Stress Related Signaling	skos:exactMatch	kegg.pathway	path:hsa04668	TNF signaling pathway - Homo sapiens (human)
+kegg.pathway	hsa04668	TNF signaling pathway - Homo sapiens (human)	skos:exactMatch	reactome	R-HSA-75893	TNF signaling
+pathbank	PW064784	TNF/Stress Related Signaling	skos:exactMatch	kegg.pathway	hsa04668	TNF signaling pathway - Homo sapiens (human)
 pathbank	PW064784	TNF/Stress Related Signaling	skos:exactMatch	reactome	R-HSA-75893	TNF signaling
 reactome	R-HSA-75893	TNF signaling	BFO:0000050	decopath	DC3-5	TNF signaling pathway
-kegg.pathway	path:hsa04668	TNF signaling pathway - Homo sapiens (human)	BFO:0000050	decopath	DC3-5	TNF signaling pathway
+kegg.pathway	hsa04668	TNF signaling pathway - Homo sapiens (human)	BFO:0000050	decopath	DC3-5	TNF signaling pathway
 pathbank	PW064784	TNF/Stress Related Signaling	BFO:0000050	decopath	DC3-5	TNF signaling pathway
 reactome	R-HSA-73887	Death Receptor Signalling	BFO:0000050	decopath	DC3-5	TNF signaling pathway
 wikipathways	WP3859	TGF-B Signaling in Thyroid Cells for Epithelial-Mesenchymal Transition	skos:exactMatch	reactome	R-HSA-2173791	TGF-beta receptor signaling in EMT (epithelial to mesenchymal transition)
 wikipathways	WP3859	TGF-B Signaling in Thyroid Cells for Epithelial-Mesenchymal Transition	BFO:0000050	decopath	DC3-6-1	TGF-beta receptor signaling in Epithelial to Mesenchymal Transition (EMT) 
 reactome	R-HSA-2173791	TGF-beta receptor signaling in EMT (epithelial to mesenchymal transition)	BFO:0000050	decopath	DC3-6-1	TGF-beta receptor signaling in Epithelial to Mesenchymal Transition (EMT) 
 wikipathways	WP560	TGF-beta Receptor Signaling	skos:exactMatch	reactome	R-HSA-9006936	Signaling by TGF-beta family members
-kegg.pathway	path:hsa04350	TGF-beta signaling pathway - Homo sapiens (human)	skos:exactMatch	reactome	R-HSA-9006936	Signaling by TGF-beta family members
-kegg.pathway	path:hsa04350	TGF-beta signaling pathway - Homo sapiens (human)	skos:exactMatch	wikipathways	WP560	TGF-beta Receptor Signaling
+kegg.pathway	hsa04350	TGF-beta signaling pathway - Homo sapiens (human)	skos:exactMatch	reactome	R-HSA-9006936	Signaling by TGF-beta family members
+kegg.pathway	hsa04350	TGF-beta signaling pathway - Homo sapiens (human)	skos:exactMatch	wikipathways	WP560	TGF-beta Receptor Signaling
 wikipathways	WP560	TGF-beta Receptor Signaling	BFO:0000050	decopath	DC3-6	TGF-beta signaling pathway 
-kegg.pathway	path:hsa04350	TGF-beta signaling pathway - Homo sapiens (human)	BFO:0000050	decopath	DC3-6	TGF-beta signaling pathway 
+kegg.pathway	hsa04350	TGF-beta signaling pathway - Homo sapiens (human)	BFO:0000050	decopath	DC3-6	TGF-beta signaling pathway 
 reactome	R-HSA-9006936	Signaling by TGF-beta family members	BFO:0000050	decopath	DC3-6	TGF-beta signaling pathway 
 reactome	R-HSA-9006931	Signaling by Nuclear Receptors	BFO:0000050	decopath	DC3	Signaling
 reactome	R-HSA-167044	Signalling to RAS	BFO:0000050	reactome	R-HSA-187687	Signalling to ERKs
@@ -630,7 +630,7 @@ reactome	R-HSA-187037	Signaling by NTRK1 (TRKA)	BFO:0000050	reactome	R-HSA-16652
 reactome	R-HSA-166520	Signaling by NTRKs	BFO:0000050	reactome	R-HSA-9006934	Signaling by Receptor Tyrosine Kinases
 reactome	R-HSA-9006934	Signaling by Receptor Tyrosine Kinases	BFO:0000050	decopath	DC3	Signaling
 reactome	R-HSA-177929	Signaling by EGFR	BFO:0000050	reactome	R-HSA-9006934	Signaling by Receptor Tyrosine Kinases
-kegg.pathway	path:hsa04727	GABAergic synapse - Homo sapiens (human)	BFO:0000050	wikipathways	WP4159	GABA receptor Signaling
+kegg.pathway	hsa04727	GABAergic synapse - Homo sapiens (human)	BFO:0000050	wikipathways	WP4159	GABA receptor Signaling
 wikipathways	WP4159	GABA receptor Signaling	skos:exactMatch	reactome	R-HSA-977443	GABA receptor activation
 wikipathways	WP4159	GABA receptor Signaling	BFO:0000050	decopath	DC3-34	GABA receptor activation pathway
 reactome	R-HSA-977443	GABA receptor activation	BFO:0000050	decopath	DC3-34	GABA receptor activation pathway
@@ -641,55 +641,55 @@ pathbank	PW064763	Ahr Signal Transduction Pathway	BFO:0000050	decopath	DC3-8	Ary
 wikipathways	WP2586	Aryl Hydrocarbon Receptor Pathway	BFO:0000050	decopath	DC3-8	Aryl hydrocarbon receptor signaling pathway
 reactome	R-HSA-8937144	Aryl hydrocarbon receptor signalling	BFO:0000050	decopath	DC3-8	Aryl hydrocarbon receptor signaling pathway
 wikipathways	WP382	MAPK Signaling Pathway	skos:exactMatch	reactome	R-HSA-5683057	MAPK family signaling cascades
-kegg.pathway	path:hsa04010	MAPK signaling pathway - Homo sapiens (human)	skos:exactMatch	reactome	R-HSA-5683057	MAPK family signaling cascades
-kegg.pathway	path:hsa04010	MAPK signaling pathway - Homo sapiens (human)	skos:exactMatch	wikipathways	WP382	MAPK Signaling Pathway
-kegg.pathway	path:hsa04010	MAPK signaling pathway - Homo sapiens (human)	BFO:0000050	decopath	DC3-9	MAP kinse (MAPK) signaling pathway
+kegg.pathway	hsa04010	MAPK signaling pathway - Homo sapiens (human)	skos:exactMatch	reactome	R-HSA-5683057	MAPK family signaling cascades
+kegg.pathway	hsa04010	MAPK signaling pathway - Homo sapiens (human)	skos:exactMatch	wikipathways	WP382	MAPK Signaling Pathway
+kegg.pathway	hsa04010	MAPK signaling pathway - Homo sapiens (human)	BFO:0000050	decopath	DC3-9	MAP kinse (MAPK) signaling pathway
 wikipathways	WP382	MAPK Signaling Pathway	BFO:0000050	decopath	DC3-9	MAP kinse (MAPK) signaling pathway
 reactome	R-HSA-5683057	MAPK family signaling cascades	BFO:0000050	decopath	DC3-9	MAP kinse (MAPK) signaling pathway
-kegg.pathway	path:hsa04921	Oxytocin signaling pathway - Homo sapiens (human)	skos:exactMatch	wikipathways	WP2889	Oxytocin signaling
-kegg.pathway	path:hsa04921	Oxytocin signaling pathway - Homo sapiens (human)	BFO:0000050	decopath	DC3-12	Oxytocin signaling pathway
+kegg.pathway	hsa04921	Oxytocin signaling pathway - Homo sapiens (human)	skos:exactMatch	wikipathways	WP2889	Oxytocin signaling
+kegg.pathway	hsa04921	Oxytocin signaling pathway - Homo sapiens (human)	BFO:0000050	decopath	DC3-12	Oxytocin signaling pathway
 wikipathways	WP2889	Oxytocin signaling	BFO:0000050	decopath	DC3-12	Oxytocin signaling pathway
 wikipathways	WP400	p38 MAPK Signaling Pathway	skos:exactMatch	reactome	R-HSA-171007	p38MAPK events
 reactome	R-HSA-171007	p38MAPK events	BFO:0000050	decopath	DC3-9-1	p38 MAPK signaling pathway
 wikipathways	WP400	p38 MAPK Signaling Pathway	BFO:0000050	decopath	DC3-9-1	p38 MAPK signaling pathway
-pathbank	PW064774	P53 Signaling Pathway	skos:exactMatch	kegg.pathway	path:hsa04115	p53 signaling pathway - Homo sapiens (human)
+pathbank	PW064774	P53 Signaling Pathway	skos:exactMatch	kegg.pathway	hsa04115	p53 signaling pathway - Homo sapiens (human)
 pathbank	PW064774	P53 Signaling Pathway	BFO:0000050	decopath	DC3-13	p53 signaling pathway
-kegg.pathway	path:hsa04115	p53 signaling pathway - Homo sapiens (human)	BFO:0000050	decopath	DC3-13	p53 signaling pathway
-kegg.pathway	path:hsa04740	Olfactory transduction - Homo sapiens (human)	skos:exactMatch	reactome	R-HSA-381753	Olfactory Signaling Pathway
-kegg.pathway	path:hsa04740	Olfactory transduction - Homo sapiens (human)	BFO:0000050	decopath	DC3-14	Olfactory signaling pathway
+kegg.pathway	hsa04115	p53 signaling pathway - Homo sapiens (human)	BFO:0000050	decopath	DC3-13	p53 signaling pathway
+kegg.pathway	hsa04740	Olfactory transduction - Homo sapiens (human)	skos:exactMatch	reactome	R-HSA-381753	Olfactory Signaling Pathway
+kegg.pathway	hsa04740	Olfactory transduction - Homo sapiens (human)	BFO:0000050	decopath	DC3-14	Olfactory signaling pathway
 reactome	R-HSA-381753	Olfactory Signaling Pathway	BFO:0000050	decopath	DC3-14	Olfactory signaling pathway
 wikipathways	WP2037	Prolactin Signaling Pathway	skos:exactMatch	reactome	R-HSA-1170546	Prolactin receptor signaling
-kegg.pathway	path:hsa04917	Prolactin signaling pathway - Homo sapiens (human)	skos:exactMatch	reactome	R-HSA-1170546	Prolactin receptor signaling
-kegg.pathway	path:hsa04917	Prolactin signaling pathway - Homo sapiens (human)	skos:exactMatch	wikipathways	WP2037	Prolactin Signaling Pathway
-kegg.pathway	path:hsa04917	Prolactin signaling pathway - Homo sapiens (human)	BFO:0000050	decopath	DC3-15	Prolactin receptor signaling pathway
+kegg.pathway	hsa04917	Prolactin signaling pathway - Homo sapiens (human)	skos:exactMatch	reactome	R-HSA-1170546	Prolactin receptor signaling
+kegg.pathway	hsa04917	Prolactin signaling pathway - Homo sapiens (human)	skos:exactMatch	wikipathways	WP2037	Prolactin Signaling Pathway
+kegg.pathway	hsa04917	Prolactin signaling pathway - Homo sapiens (human)	BFO:0000050	decopath	DC3-15	Prolactin receptor signaling pathway
 wikipathways	WP2037	Prolactin Signaling Pathway	BFO:0000050	decopath	DC3-15	Prolactin receptor signaling pathway
 reactome	R-HSA-1170546	Prolactin receptor signaling	BFO:0000050	decopath	DC3-15	Prolactin receptor signaling pathway
-kegg.pathway	path:hsa04152	AMPK signaling pathway - Homo sapiens (human)	skos:exactMatch	wikipathways	WP1403	AMP-activated Protein Kinase (AMPK) Signaling
-kegg.pathway	path:hsa04152	AMPK signaling pathway - Homo sapiens (human)	BFO:0000050	decopath	DC3-16	AMP-activated protein kinase (AMPK) signaling pathway
+kegg.pathway	hsa04152	AMPK signaling pathway - Homo sapiens (human)	skos:exactMatch	wikipathways	WP1403	AMP-activated Protein Kinase (AMPK) Signaling
+kegg.pathway	hsa04152	AMPK signaling pathway - Homo sapiens (human)	BFO:0000050	decopath	DC3-16	AMP-activated protein kinase (AMPK) signaling pathway
 wikipathways	WP1403	AMP-activated Protein Kinase (AMPK) Signaling	BFO:0000050	decopath	DC3-16	AMP-activated protein kinase (AMPK) signaling pathway
-kegg.pathway	path:hsa03320	PPAR signaling pathway - Homo sapiens (human)	skos:exactMatch	wikipathways	WP3942	PPAR signaling pathway
-kegg.pathway	path:hsa03320	PPAR signaling pathway - Homo sapiens (human)	BFO:0000050	decopath	DC3-17	PPA receptor signaling pathway
+kegg.pathway	hsa03320	PPAR signaling pathway - Homo sapiens (human)	skos:exactMatch	wikipathways	WP3942	PPAR signaling pathway
+kegg.pathway	hsa03320	PPAR signaling pathway - Homo sapiens (human)	BFO:0000050	decopath	DC3-17	PPA receptor signaling pathway
 wikipathways	WP3942	PPAR signaling pathway	BFO:0000050	decopath	DC3-17	PPA receptor signaling pathway
 wikipathways	WP1425	Bone Morphogenic Protein (BMP) Signalling and Regulation	skos:exactMatch	reactome	R-HSA-201451	Signaling by BMP
 wikipathways	WP1425	Bone Morphogenic Protein (BMP) Signalling and Regulation	BFO:0000050	decopath	DC3-18	Bone morphogenic protein (BMP) signaling pathway
 reactome	R-HSA-201451	Signaling by BMP	BFO:0000050	decopath	DC3-18	Bone morphogenic protein (BMP) signaling pathway
-kegg.pathway	path:hsa04012	ErbB signaling pathway - Homo sapiens (human)	skos:exactMatch	wikipathways	WP673	ErbB Signaling Pathway
-kegg.pathway	path:hsa04012	ErbB signaling pathway - Homo sapiens (human)	BFO:0000050	decopath	DC3-19	ErbB signaling pathway
+kegg.pathway	hsa04012	ErbB signaling pathway - Homo sapiens (human)	skos:exactMatch	wikipathways	WP673	ErbB Signaling Pathway
+kegg.pathway	hsa04012	ErbB signaling pathway - Homo sapiens (human)	BFO:0000050	decopath	DC3-19	ErbB signaling pathway
 wikipathways	WP673	ErbB Signaling Pathway	BFO:0000050	decopath	DC3-19	ErbB signaling pathway
-kegg.pathway	path:hsa04915	Estrogen signaling pathway - Homo sapiens (human)	skos:exactMatch	wikipathways	WP712	Estrogen signaling pathway
-kegg.pathway	path:hsa04915	Estrogen signaling pathway - Homo sapiens (human)	BFO:0000050	decopath	DC3-25	Estrogen signaling pathway
+kegg.pathway	hsa04915	Estrogen signaling pathway - Homo sapiens (human)	skos:exactMatch	wikipathways	WP712	Estrogen signaling pathway
+kegg.pathway	hsa04915	Estrogen signaling pathway - Homo sapiens (human)	BFO:0000050	decopath	DC3-25	Estrogen signaling pathway
 wikipathways	WP712	Estrogen signaling pathway	BFO:0000050	decopath	DC3-25	Estrogen signaling pathway
-kegg.pathway	path:hsa04910	Insulin signaling pathway - Homo sapiens (human)	skos:exactMatch	wikipathways	WP3634	Insulin signalling in human adipocytes (normal condition)
-pathbank	PW000454	Insulin Signalling	skos:exactMatch	kegg.pathway	path:hsa04910	Insulin signaling pathway - Homo sapiens (human)
+kegg.pathway	hsa04910	Insulin signaling pathway - Homo sapiens (human)	skos:exactMatch	wikipathways	WP3634	Insulin signalling in human adipocytes (normal condition)
+pathbank	PW000454	Insulin Signalling	skos:exactMatch	kegg.pathway	hsa04910	Insulin signaling pathway - Homo sapiens (human)
 pathbank	PW000454	Insulin Signalling	skos:exactMatch	wikipathways	WP3634	Insulin signalling in human adipocytes (normal condition)
 pathbank	PW000454	Insulin Signalling	BFO:0000050	decopath	DC3-31	Insulin signaling pathway 
-kegg.pathway	path:hsa04910	Insulin signaling pathway - Homo sapiens (human)	BFO:0000050	decopath	DC3-31	Insulin signaling pathway 
+kegg.pathway	hsa04910	Insulin signaling pathway - Homo sapiens (human)	BFO:0000050	decopath	DC3-31	Insulin signaling pathway 
 wikipathways	WP3634	Insulin signalling in human adipocytes (normal condition)	BFO:0000050	decopath	DC3-31	Insulin signaling pathway 
-pathbank	PW064816	GnRH Signaling Pathway	skos:exactMatch	kegg.pathway	path:hsa04912	GnRH signaling pathway - Homo sapiens (human)
+pathbank	PW064816	GnRH Signaling Pathway	skos:exactMatch	kegg.pathway	hsa04912	GnRH signaling pathway - Homo sapiens (human)
 pathbank	PW064816	GnRH Signaling Pathway	BFO:0000050	decopath	DC3-26	GnRH signaling pathway
-kegg.pathway	path:hsa04912	GnRH signaling pathway - Homo sapiens (human)	BFO:0000050	decopath	DC3-26	GnRH signaling pathway
-kegg.pathway	path:hsa04744	Phototransduction - Homo sapiens (human)	skos:exactMatch	reactome	R-HSA-2187338	Visual phototransduction
-kegg.pathway	path:hsa04744	Phototransduction - Homo sapiens (human)	BFO:0000050	decopath	DC3-21-4-1	Visual phototransduction
+kegg.pathway	hsa04912	GnRH signaling pathway - Homo sapiens (human)	BFO:0000050	decopath	DC3-26	GnRH signaling pathway
+kegg.pathway	hsa04744	Phototransduction - Homo sapiens (human)	skos:exactMatch	reactome	R-HSA-2187338	Visual phototransduction
+kegg.pathway	hsa04744	Phototransduction - Homo sapiens (human)	BFO:0000050	decopath	DC3-21-4-1	Visual phototransduction
 reactome	R-HSA-2187338	Visual phototransduction	BFO:0000050	decopath	DC3-21-4-1	Visual phototransduction
 decopath	DC3-21-4-1	Visual phototransduction	BFO:0000050	reactome	R-HSA-418594	G alpha (i) signalling events
 reactome	R-HSA-418594	G alpha (i) signalling events	BFO:0000050	reactome	R-HSA-500792	GPCR ligand binding
@@ -711,19 +711,19 @@ wikipathways	WP3958	GPR40 Pathway	skos:exactMatch	reactome	R-HSA-434316	Fatty Ac
 wikipathways	WP3958	GPR40 Pathway	BFO:0000050	decopath	DC3-30	GPR40 signaling pathway
 reactome	R-HSA-434316	Fatty Acids bound to GPR40 (FFAR1) regulate insulin secretion	BFO:0000050	decopath	DC3-30	GPR40 signaling pathway
 wikipathways	WP4172	PI3K-Akt Signaling Pathway	skos:exactMatch	reactome	R-HSA-198203	PI3K/AKT activation
-kegg.pathway	path:hsa04151	PI3K-Akt signaling pathway - Homo sapiens (human)	skos:exactMatch	reactome	R-HSA-198203	PI3K/AKT activation
-kegg.pathway	path:hsa04151	PI3K-Akt signaling pathway - Homo sapiens (human)	skos:exactMatch	wikipathways	WP4172	PI3K-Akt Signaling Pathway
+kegg.pathway	hsa04151	PI3K-Akt signaling pathway - Homo sapiens (human)	skos:exactMatch	reactome	R-HSA-198203	PI3K/AKT activation
+kegg.pathway	hsa04151	PI3K-Akt signaling pathway - Homo sapiens (human)	skos:exactMatch	wikipathways	WP4172	PI3K-Akt Signaling Pathway
 wikipathways	WP4172	PI3K-Akt Signaling Pathway	BFO:0000050	decopath	DC3-4-1	PI3K-Akt Signaling Pathway 
 reactome	R-HSA-198203	PI3K/AKT activation	BFO:0000050	decopath	DC3-4-1	PI3K-Akt Signaling Pathway 
-kegg.pathway	path:hsa04151	PI3K-Akt signaling pathway - Homo sapiens (human)	BFO:0000050	decopath	DC3-4-1	PI3K-Akt Signaling Pathway 
-pathbank	PW064818	NF-kB Signaling Pathway	skos:exactMatch	kegg.pathway	path:hsa04064	NF-kappa B signaling pathway - Homo sapiens (human)
+kegg.pathway	hsa04151	PI3K-Akt signaling pathway - Homo sapiens (human)	BFO:0000050	decopath	DC3-4-1	PI3K-Akt Signaling Pathway 
+pathbank	PW064818	NF-kB Signaling Pathway	skos:exactMatch	kegg.pathway	hsa04064	NF-kappa B signaling pathway - Homo sapiens (human)
 pathbank	PW064818	NF-kB Signaling Pathway	BFO:0000050	decopath	DC3-32	NF-kappa B signaling pathway
-kegg.pathway	path:hsa04064	NF-kappa B signaling pathway - Homo sapiens (human)	BFO:0000050	decopath	DC3-32	NF-kappa B signaling pathway
-kegg.pathway	path:hsa04922	Glucagon signaling pathway - Homo sapiens (human)	skos:exactMatch	reactome	R-HSA-163359	Glucagon signaling in metabolic regulation
-kegg.pathway	path:hsa04922	Glucagon signaling pathway - Homo sapiens (human)	BFO:0000050	decopath	DC3-33	Glucagon signaling pathway
+kegg.pathway	hsa04064	NF-kappa B signaling pathway - Homo sapiens (human)	BFO:0000050	decopath	DC3-32	NF-kappa B signaling pathway
+kegg.pathway	hsa04922	Glucagon signaling pathway - Homo sapiens (human)	skos:exactMatch	reactome	R-HSA-163359	Glucagon signaling in metabolic regulation
+kegg.pathway	hsa04922	Glucagon signaling pathway - Homo sapiens (human)	BFO:0000050	decopath	DC3-33	Glucagon signaling pathway
 reactome	R-HSA-163359	Glucagon signaling in metabolic regulation	BFO:0000050	decopath	DC3-33	Glucagon signaling pathway
-pathbank	PW064776	Ras Signaling Pathway	skos:exactMatch	kegg.pathway	path:hsa04014	Ras signaling pathway - Homo sapiens (human)
-kegg.pathway	path:hsa04014	Ras signaling pathway - Homo sapiens (human)	BFO:0000050	decopath	DC3-20	Ras signaling pathway
+pathbank	PW064776	Ras Signaling Pathway	skos:exactMatch	kegg.pathway	hsa04014	Ras signaling pathway - Homo sapiens (human)
+kegg.pathway	hsa04014	Ras signaling pathway - Homo sapiens (human)	BFO:0000050	decopath	DC3-20	Ras signaling pathway
 pathbank	PW064776	Ras Signaling Pathway	BFO:0000050	decopath	DC3-20	Ras signaling pathway
 decopath	DC4-1	Cell-cell communication	BFO:0000050	decopath	DC4	Communication and transport
 reactome	R-HSA-421270	Cell-cell junction organization	BFO:0000050	decopath	DC4-1	Cell-cell communication
@@ -734,38 +734,38 @@ decopath	DC4-2	Transport-related pathways	BFO:0000050	decopath	DC4	Communication
 decopath	DC4-2-1	ABC transporters	BFO:0000050	decopath	DC4-2	Transport-related pathways
 reactome	R-HSA-382551	Transport of small molecules	BFO:0000050	decopath	DC4-2	Transport-related pathways
 reactome	R-HSA-5653656	Vesicle-mediated transport	BFO:0000050	decopath	DC4-2	Transport-related pathways
-kegg.pathway	path:hsa04510	Focal adhesion - Homo sapiens (human)	skos:exactMatch	wikipathways	WP306	Focal Adhesion
-kegg.pathway	path:hsa04510	Focal adhesion - Homo sapiens (human)	BFO:0000050	decopath	DC4-1-2	Focal Adhesion
+kegg.pathway	hsa04510	Focal adhesion - Homo sapiens (human)	skos:exactMatch	wikipathways	WP306	Focal Adhesion
+kegg.pathway	hsa04510	Focal adhesion - Homo sapiens (human)	BFO:0000050	decopath	DC4-1-2	Focal Adhesion
 wikipathways	WP306	Focal Adhesion	BFO:0000050	decopath	DC4-1-2	Focal Adhesion
-kegg.pathway	path:hsa04530	Tight junction - Homo sapiens (human)	skos:exactMatch	reactome	R-HSA-420029	Tight junction interactions
-kegg.pathway	path:hsa04530	Tight junction - Homo sapiens (human)	BFO:0000050	decopath	DC4-1-1-1	Tight junctions
+kegg.pathway	hsa04530	Tight junction - Homo sapiens (human)	skos:exactMatch	reactome	R-HSA-420029	Tight junction interactions
+kegg.pathway	hsa04530	Tight junction - Homo sapiens (human)	BFO:0000050	decopath	DC4-1-1-1	Tight junctions
 reactome	R-HSA-420029	Tight junction interactions	BFO:0000050	decopath	DC4-1-1-1	Tight junctions
-kegg.pathway	path:hsa04520	Adherens junction - Homo sapiens (human)	skos:exactMatch	reactome	R-HSA-418990	Adherens junctions interactions
-kegg.pathway	path:hsa04520	Adherens junction - Homo sapiens (human)	BFO:0000050	decopath	DC4-1-1-2	Adherens junctions interactions
+kegg.pathway	hsa04520	Adherens junction - Homo sapiens (human)	skos:exactMatch	reactome	R-HSA-418990	Adherens junctions interactions
+kegg.pathway	hsa04520	Adherens junction - Homo sapiens (human)	BFO:0000050	decopath	DC4-1-1-2	Adherens junctions interactions
 reactome	R-HSA-418990	Adherens junctions interactions	BFO:0000050	decopath	DC4-1-1-2	Adherens junctions interactions
-kegg.pathway	path:hsa04514	Cell adhesion molecules (CAMs) - Homo sapiens (human)	BFO:0000050	reactome	R-HSA-421270	Cell-cell junction organization
-kegg.pathway	path:hsa02010	ABC transporters - Homo sapiens (human)	skos:exactMatch	reactome	R-HSA-382556	ABC-family proteins mediated transport
-kegg.pathway	path:hsa02010	ABC transporters - Homo sapiens (human)	BFO:0000050	decopath	DC4-2-1	ABC transporters
+kegg.pathway	hsa04514	Cell adhesion molecules (CAMs) - Homo sapiens (human)	BFO:0000050	reactome	R-HSA-421270	Cell-cell junction organization
+kegg.pathway	hsa02010	ABC transporters - Homo sapiens (human)	skos:exactMatch	reactome	R-HSA-382556	ABC-family proteins mediated transport
+kegg.pathway	hsa02010	ABC transporters - Homo sapiens (human)	BFO:0000050	decopath	DC4-2-1	ABC transporters
 reactome	R-HSA-382556	ABC-family proteins mediated transport	BFO:0000050	decopath	DC4-2-1	ABC transporters
 reactome	R-HSA-445717	Aquaporin-mediated transport	BFO:0000050	reactome	R-HSA-382551	Transport of small molecules
 decopath	DC5-1	Necrosis pathway	BFO:0000050	decopath	DC5	Programmed cell death
 decopath	DC5-2	Apoptosis pathway	BFO:0000050	decopath	DC5	Programmed cell death
 decopath	DC5-3	Ferroptosis pathway	BFO:0000050	decopath	DC5	Programmed cell death
-kegg.pathway	path:hsa04217	Necroptosis - Homo sapiens (human)	skos:exactMatch	reactome	R-HSA-5675482	Regulation of necroptotic cell death
-kegg.pathway	path:hsa04217	Necroptosis - Homo sapiens (human)	BFO:0000050	decopath	DC5-1	Necrosis pathway
+kegg.pathway	hsa04217	Necroptosis - Homo sapiens (human)	skos:exactMatch	reactome	R-HSA-5675482	Regulation of necroptotic cell death
+kegg.pathway	hsa04217	Necroptosis - Homo sapiens (human)	BFO:0000050	decopath	DC5-1	Necrosis pathway
 reactome	R-HSA-5675482	Regulation of necroptotic cell death	BFO:0000050	decopath	DC5-1	Necrosis pathway
 reactome	R-HSA-5213460	RIPK1-mediated regulated necrosis	BFO:0000050	reactome	R-HSA-5218859	Regulated Necrosis
 reactome	R-HSA-5218859	Regulated Necrosis	BFO:0000050	decopath	DC5-1	Necrosis pathway
 reactome	R-HSA-169911	Regulation of Apoptosis	BFO:0000050	reactome	R-HSA-109581	Apoptosis
 wikipathways	WP254	Apoptosis	skos:exactMatch	reactome	R-HSA-109581	Apoptosis
-kegg.pathway	path:hsa04210	Apoptosis - Homo sapiens (human)	skos:exactMatch	reactome	R-HSA-109581	Apoptosis
-kegg.pathway	path:hsa04210	Apoptosis - Homo sapiens (human)	skos:exactMatch	wikipathways	WP254	Apoptosis
+kegg.pathway	hsa04210	Apoptosis - Homo sapiens (human)	skos:exactMatch	reactome	R-HSA-109581	Apoptosis
+kegg.pathway	hsa04210	Apoptosis - Homo sapiens (human)	skos:exactMatch	wikipathways	WP254	Apoptosis
 wikipathways	WP254	Apoptosis	BFO:0000050	decopath	DC5-2	Apoptosis pathway
 reactome	R-HSA-109581	Apoptosis	BFO:0000050	decopath	DC5-2	Apoptosis pathway
-kegg.pathway	path:hsa04210	Apoptosis - Homo sapiens (human)	BFO:0000050	decopath	DC5-2	Apoptosis pathway
-wikipathways	WP1772	Apoptosis Modulation and Signaling	BFO:0000050	kegg.pathway	path:hsa04210	Apoptosis - Homo sapiens (human)
-wikipathways	WP4545	Ferroptosis	skos:exactMatch	kegg.pathway	path:hsa04216	Ferroptosis - Homo sapiens (human)
-kegg.pathway	path:hsa04216	Ferroptosis - Homo sapiens (human)	BFO:0000050	decopath	DC5-3	Ferroptosis pathway
+kegg.pathway	hsa04210	Apoptosis - Homo sapiens (human)	BFO:0000050	decopath	DC5-2	Apoptosis pathway
+wikipathways	WP1772	Apoptosis Modulation and Signaling	BFO:0000050	kegg.pathway	hsa04210	Apoptosis - Homo sapiens (human)
+wikipathways	WP4545	Ferroptosis	skos:exactMatch	kegg.pathway	hsa04216	Ferroptosis - Homo sapiens (human)
+kegg.pathway	hsa04216	Ferroptosis - Homo sapiens (human)	BFO:0000050	decopath	DC5-3	Ferroptosis pathway
 wikipathways	WP4545	Ferroptosis	BFO:0000050	decopath	DC5-3	Ferroptosis pathway
 decopath	DC6-1	Type II diabetes mellitus	BFO:0000050	decopath	DC6	Disease pathways
 decopath	DC6-2	Influenza	BFO:0000050	decopath	DC6	Disease pathways
@@ -776,43 +776,43 @@ decopath	DC6-6	Arrhythmogenic right ventricular cardiomyopathy	BFO:0000050	decop
 decopath	DC6-7	Fanconi anemia	BFO:0000050	decopath	DC6	Disease pathways
 decopath	DC6-8	Parkinson's disease	BFO:0000050	decopath	DC6	Disease pathways
 decopath	DC6-9	Alzheimer's disease	BFO:0000050	decopath	DC6	Disease pathways
-kegg.pathway	path:hsa05200	Pathways in cancer - Homo sapiens (human)	BFO:0000050	decopath	DC6	Disease pathways
-decopath	DC6-10-1	Bladder cancer	BFO:0000050	kegg.pathway	path:hsa05200	Pathways in cancer - Homo sapiens (human)
-decopath	DC6-10-2	Endometrial cancer	BFO:0000050	kegg.pathway	path:hsa05200	Pathways in cancer - Homo sapiens (human)
-kegg.pathway	path:hsa04930	Type II diabetes mellitus - Homo sapiens (human)	skos:exactMatch	wikipathways	WP1584	Type II diabetes mellitus
-kegg.pathway	path:hsa04930	Type II diabetes mellitus - Homo sapiens (human)	BFO:0000050	decopath	DC6-1	Type II diabetes mellitus
+kegg.pathway	hsa05200	Pathways in cancer - Homo sapiens (human)	BFO:0000050	decopath	DC6	Disease pathways
+decopath	DC6-10-1	Bladder cancer	BFO:0000050	kegg.pathway	hsa05200	Pathways in cancer - Homo sapiens (human)
+decopath	DC6-10-2	Endometrial cancer	BFO:0000050	kegg.pathway	hsa05200	Pathways in cancer - Homo sapiens (human)
+kegg.pathway	hsa04930	Type II diabetes mellitus - Homo sapiens (human)	skos:exactMatch	wikipathways	WP1584	Type II diabetes mellitus
+kegg.pathway	hsa04930	Type II diabetes mellitus - Homo sapiens (human)	BFO:0000050	decopath	DC6-1	Type II diabetes mellitus
 wikipathways	WP1584	Type II diabetes mellitus	BFO:0000050	decopath	DC6-1	Type II diabetes mellitus
-kegg.pathway	path:hsa05219	Bladder cancer - Homo sapiens (human)	skos:exactMatch	wikipathways	WP2828	Bladder Cancer
+kegg.pathway	hsa05219	Bladder cancer - Homo sapiens (human)	skos:exactMatch	wikipathways	WP2828	Bladder Cancer
 wikipathways	WP2828	Bladder Cancer	BFO:0000050	decopath	DC6-10-1	Bladder cancer
-kegg.pathway	path:hsa05219	Bladder cancer - Homo sapiens (human)	BFO:0000050	decopath	DC6-10-1	Bladder cancer
-kegg.pathway	path:hsa05164	Influenza A - Homo sapiens (human)	BFO:0000050	decopath	DC6-2	Influenza
+kegg.pathway	hsa05219	Bladder cancer - Homo sapiens (human)	BFO:0000050	decopath	DC6-10-1	Bladder cancer
+kegg.pathway	hsa05164	Influenza A - Homo sapiens (human)	BFO:0000050	decopath	DC6-2	Influenza
 reactome	R-HSA-168255	Influenza Life Cycle	BFO:0000050	decopath	DC6-2	Influenza
 reactome	R-HSA-168254	Influenza Infection	BFO:0000050	decopath	DC6-2	Influenza
-kegg.pathway	path:hsa05012	Parkinson's disease - Homo sapiens (human)	skos:exactMatch	wikipathways	WP2371	Parkinsons Disease Pathway
-kegg.pathway	path:hsa05012	Parkinson's disease - Homo sapiens (human)	BFO:0000050	decopath	DC6-8	Parkinson's disease
+kegg.pathway	hsa05012	Parkinson's disease - Homo sapiens (human)	skos:exactMatch	wikipathways	WP2371	Parkinsons Disease Pathway
+kegg.pathway	hsa05012	Parkinson's disease - Homo sapiens (human)	BFO:0000050	decopath	DC6-8	Parkinson's disease
 wikipathways	WP2371	Parkinsons Disease Pathway	BFO:0000050	decopath	DC6-8	Parkinson's disease
-kegg.pathway	path:hsa05130	Pathogenic Escherichia coli infection - Homo sapiens (human)	skos:exactMatch	wikipathways	WP2272	Pathogenic Escherichia coli infection
-kegg.pathway	path:hsa05130	Pathogenic Escherichia coli infection - Homo sapiens (human)	BFO:0000050	decopath	DC6-3	Pathogenic Escherichia coli infection
+kegg.pathway	hsa05130	Pathogenic Escherichia coli infection - Homo sapiens (human)	skos:exactMatch	wikipathways	WP2272	Pathogenic Escherichia coli infection
+kegg.pathway	hsa05130	Pathogenic Escherichia coli infection - Homo sapiens (human)	BFO:0000050	decopath	DC6-3	Pathogenic Escherichia coli infection
 wikipathways	WP2272	Pathogenic Escherichia coli infection	BFO:0000050	decopath	DC6-3	Pathogenic Escherichia coli infection
 reactome	R-HSA-6783310	Fanconi Anemia Pathway	BFO:0000050	decopath	DC6-7	Fanconi anemia
-kegg.pathway	path:hsa03460	Fanconi anemia pathway - Homo sapiens (human)	BFO:0000050	decopath	DC6-7	Fanconi anemia
-kegg.pathway	path:hsa03460	Fanconi anemia pathway - Homo sapiens (human)	skos:exactMatch	reactome	R-HSA-6783310	Fanconi Anemia Pathway
-kegg.pathway	path:hsa05010	Alzheimer disease - Homo sapiens (human)	skos:exactMatch	wikipathways	WP2059	Alzheimers Disease
-kegg.pathway	path:hsa05010	Alzheimer disease - Homo sapiens (human)	BFO:0000050	decopath	DC6-9	Alzheimer's disease
+kegg.pathway	hsa03460	Fanconi anemia pathway - Homo sapiens (human)	BFO:0000050	decopath	DC6-7	Fanconi anemia
+kegg.pathway	hsa03460	Fanconi anemia pathway - Homo sapiens (human)	skos:exactMatch	reactome	R-HSA-6783310	Fanconi Anemia Pathway
+kegg.pathway	hsa05010	Alzheimer disease - Homo sapiens (human)	skos:exactMatch	wikipathways	WP2059	Alzheimers Disease
+kegg.pathway	hsa05010	Alzheimer disease - Homo sapiens (human)	BFO:0000050	decopath	DC6-9	Alzheimer's disease
 wikipathways	WP2059	Alzheimers Disease	BFO:0000050	decopath	DC6-9	Alzheimer's disease
-kegg.pathway	path:hsa05014	Amyotrophic lateral sclerosis (ALS) - Homo sapiens (human)	skos:exactMatch	wikipathways	WP2447	Amyotrophic lateral sclerosis (ALS)
-kegg.pathway	path:hsa05014	Amyotrophic lateral sclerosis (ALS) - Homo sapiens (human)	BFO:0000050	decopath	DC6-4	Amyotrophic lateral sclerosis
+kegg.pathway	hsa05014	Amyotrophic lateral sclerosis (ALS) - Homo sapiens (human)	skos:exactMatch	wikipathways	WP2447	Amyotrophic lateral sclerosis (ALS)
+kegg.pathway	hsa05014	Amyotrophic lateral sclerosis (ALS) - Homo sapiens (human)	BFO:0000050	decopath	DC6-4	Amyotrophic lateral sclerosis
 wikipathways	WP2447	Amyotrophic lateral sclerosis (ALS)	BFO:0000050	decopath	DC6-4	Amyotrophic lateral sclerosis
-kegg.pathway	path:hsa05020	Prion diseases - Homo sapiens (human)	skos:exactMatch	wikipathways	WP3995	Prion disease pathway
+kegg.pathway	hsa05020	Prion diseases - Homo sapiens (human)	skos:exactMatch	wikipathways	WP3995	Prion disease pathway
 wikipathways	WP3995	Prion disease pathway	BFO:0000050	decopath	DC6-5	Prion disease
-kegg.pathway	path:hsa05020	Prion diseases - Homo sapiens (human)	BFO:0000050	decopath	DC6-5	Prion disease
-kegg.pathway	path:hsa05412	Arrhythmogenic right ventricular cardiomyopathy (ARVC) - Homo sapiens (human)	skos:exactMatch	wikipathways	WP2118	Arrhythmogenic Right Ventricular Cardiomyopathy
-kegg.pathway	path:hsa05412	Arrhythmogenic right ventricular cardiomyopathy (ARVC) - Homo sapiens (human)	BFO:0000050	decopath	DC6-6	Arrhythmogenic right ventricular cardiomyopathy
+kegg.pathway	hsa05020	Prion diseases - Homo sapiens (human)	BFO:0000050	decopath	DC6-5	Prion disease
+kegg.pathway	hsa05412	Arrhythmogenic right ventricular cardiomyopathy (ARVC) - Homo sapiens (human)	skos:exactMatch	wikipathways	WP2118	Arrhythmogenic Right Ventricular Cardiomyopathy
+kegg.pathway	hsa05412	Arrhythmogenic right ventricular cardiomyopathy (ARVC) - Homo sapiens (human)	BFO:0000050	decopath	DC6-6	Arrhythmogenic right ventricular cardiomyopathy
 wikipathways	WP2118	Arrhythmogenic Right Ventricular Cardiomyopathy	BFO:0000050	decopath	DC6-6	Arrhythmogenic right ventricular cardiomyopathy
-reactome	R-HSA-5638302	Signaling by Overexpressed Wild-Type EGFR in Cancer	BFO:0000050	kegg.pathway	path:hsa05200	Pathways in cancer - Homo sapiens (human)
+reactome	R-HSA-5638302	Signaling by Overexpressed Wild-Type EGFR in Cancer	BFO:0000050	kegg.pathway	hsa05200	Pathways in cancer - Homo sapiens (human)
 reactome	R-HSA-5638303	Inhibition of Signaling by Overexpressed EGFR	BFO:0000050	reactome	R-HSA-5638302	Signaling by Overexpressed Wild-Type EGFR in Cancer
-kegg.pathway	path:hsa05213	Endometrial cancer - Homo sapiens (human)	skos:exactMatch	wikipathways	WP4155	Endometrial cancer
-kegg.pathway	path:hsa05213	Endometrial cancer - Homo sapiens (human)	BFO:0000050	decopath	DC6-10-2	Endometrial cancer
+kegg.pathway	hsa05213	Endometrial cancer - Homo sapiens (human)	skos:exactMatch	wikipathways	WP4155	Endometrial cancer
+kegg.pathway	hsa05213	Endometrial cancer - Homo sapiens (human)	BFO:0000050	decopath	DC6-10-2	Endometrial cancer
 wikipathways	WP4155	Endometrial cancer	BFO:0000050	decopath	DC6-10-2	Endometrial cancer
 reactome	R-HSA-6791465	Pentose phosphate pathway disease	BFO:0000050	reactome	R-HSA-5663084	Diseases of carbohydrate metabolism
 reactome	R-HSA-5663084	Diseases of carbohydrate metabolism	BFO:0000050	decopath	DC6	Disease pathways
@@ -825,34 +825,34 @@ decopath	DC7-1-4	Base excision repair	BFO:0000050	decopath	DC7-1	DNA repair
 reactome	R-HSA-5693532	DNA Double-Strand Break Repair	BFO:0000050	decopath	DC7-1	DNA repair
 decopath	DC7-1-5-1	Non-homologous end joining	BFO:0000050	reactome	R-HSA-5693532	DNA Double-Strand Break Repair
 wikipathways	WP531	Mismatch repair	skos:exactMatch	reactome	R-HSA-5358508	Mismatch Repair
-kegg.pathway	path:hsa03430	Mismatch repair - Homo sapiens (human)	skos:exactMatch	reactome	R-HSA-5358508	Mismatch Repair
-kegg.pathway	path:hsa03430	Mismatch repair - Homo sapiens (human)	skos:exactMatch	wikipathways	WP531	Mismatch repair
-kegg.pathway	path:hsa03430	Mismatch repair - Homo sapiens (human)	BFO:0000050	decopath	DC7-1-2	Mismatch repair
+kegg.pathway	hsa03430	Mismatch repair - Homo sapiens (human)	skos:exactMatch	reactome	R-HSA-5358508	Mismatch Repair
+kegg.pathway	hsa03430	Mismatch repair - Homo sapiens (human)	skos:exactMatch	wikipathways	WP531	Mismatch repair
+kegg.pathway	hsa03430	Mismatch repair - Homo sapiens (human)	BFO:0000050	decopath	DC7-1-2	Mismatch repair
 reactome	R-HSA-5358508	Mismatch Repair	BFO:0000050	decopath	DC7-1-2	Mismatch repair
 wikipathways	WP531	Mismatch repair	BFO:0000050	decopath	DC7-1-2	Mismatch repair
 wikipathways	WP438	Non-homologous end joining	skos:exactMatch	reactome	R-HSA-5693571	Nonhomologous End-Joining (NHEJ)
-kegg.pathway	path:hsa03450	Non-homologous end-joining - Homo sapiens (human)	skos:exactMatch	reactome	R-HSA-5693571	Nonhomologous End-Joining (NHEJ)
-kegg.pathway	path:hsa03450	Non-homologous end-joining - Homo sapiens (human)	skos:exactMatch	wikipathways	WP438	Non-homologous end joining
+kegg.pathway	hsa03450	Non-homologous end-joining - Homo sapiens (human)	skos:exactMatch	reactome	R-HSA-5693571	Nonhomologous End-Joining (NHEJ)
+kegg.pathway	hsa03450	Non-homologous end-joining - Homo sapiens (human)	skos:exactMatch	wikipathways	WP438	Non-homologous end joining
 wikipathways	WP438	Non-homologous end joining	BFO:0000050	decopath	DC7-1-5-1	Non-homologous end joining
-kegg.pathway	path:hsa03450	Non-homologous end-joining - Homo sapiens (human)	BFO:0000050	decopath	DC7-1-5-1	Non-homologous end joining
+kegg.pathway	hsa03450	Non-homologous end-joining - Homo sapiens (human)	BFO:0000050	decopath	DC7-1-5-1	Non-homologous end joining
 reactome	R-HSA-5693571	Nonhomologous End-Joining (NHEJ)	BFO:0000050	decopath	DC7-1-5-1	Non-homologous end joining
-kegg.pathway	path:hsa03440	Homologous recombination - Homo sapiens (human)	skos:exactMatch	wikipathways	WP186	Homologous recombination
-kegg.pathway	path:hsa03440	Homologous recombination - Homo sapiens (human)	BFO:0000050	decopath	DC7-1-3	Homologous recombination
+kegg.pathway	hsa03440	Homologous recombination - Homo sapiens (human)	skos:exactMatch	wikipathways	WP186	Homologous recombination
+kegg.pathway	hsa03440	Homologous recombination - Homo sapiens (human)	BFO:0000050	decopath	DC7-1-3	Homologous recombination
 wikipathways	WP186	Homologous recombination	BFO:0000050	decopath	DC7-1-3	Homologous recombination
-pathbank	PW000457	Nucleotide Excision Repair	skos:exactMatch	kegg.pathway	path:hsa03420	Nucleotide excision repair - Homo sapiens (human)
-kegg.pathway	path:hsa03420	Nucleotide excision repair - Homo sapiens (human)	skos:exactMatch	reactome	R-HSA-5696398	Nucleotide Excision Repair
+pathbank	PW000457	Nucleotide Excision Repair	skos:exactMatch	kegg.pathway	hsa03420	Nucleotide excision repair - Homo sapiens (human)
+kegg.pathway	hsa03420	Nucleotide excision repair - Homo sapiens (human)	skos:exactMatch	reactome	R-HSA-5696398	Nucleotide Excision Repair
 pathbank	PW000457	Nucleotide Excision Repair	skos:exactMatch	reactome	R-HSA-5696398	Nucleotide Excision Repair
 reactome	R-HSA-5696398	Nucleotide Excision Repair	BFO:0000050	decopath	DC7-1-1	Nucleotide excision repair
-kegg.pathway	path:hsa03420	Nucleotide excision repair - Homo sapiens (human)	BFO:0000050	decopath	DC7-1-1	Nucleotide excision repair
+kegg.pathway	hsa03420	Nucleotide excision repair - Homo sapiens (human)	BFO:0000050	decopath	DC7-1-1	Nucleotide excision repair
 pathbank	PW000457	Nucleotide Excision Repair	BFO:0000050	decopath	DC7-1-1	Nucleotide excision repair
-kegg.pathway	path:hsa03410	Base excision repair - Homo sapiens (human)	skos:exactMatch	reactome	R-HSA-73884	Base excision repair
+kegg.pathway	hsa03410	Base excision repair - Homo sapiens (human)	skos:exactMatch	reactome	R-HSA-73884	Base excision repair
 reactome	R-HSA-73884	Base Excision Repair	BFO:0000050	decopath	DC7-1-4	Base excision repair
-kegg.pathway	path:hsa03410	Base excision repair - Homo sapiens (human)	BFO:0000050	decopath	DC7-1-4	Base excision repair
+kegg.pathway	hsa03410	Base excision repair - Homo sapiens (human)	BFO:0000050	decopath	DC7-1-4	Base excision repair
 wikipathways	WP466	DNA Replication	skos:exactMatch	reactome	R-HSA-69306	DNA Replication
-kegg.pathway	path:hsa03030	DNA replication - Homo sapiens (human)	skos:exactMatch	reactome	R-HSA-69306	DNA Replication
-kegg.pathway	path:hsa03030	DNA replication - Homo sapiens (human)	skos:exactMatch	wikipathways	WP466	DNA Replication
+kegg.pathway	hsa03030	DNA replication - Homo sapiens (human)	skos:exactMatch	reactome	R-HSA-69306	DNA Replication
+kegg.pathway	hsa03030	DNA replication - Homo sapiens (human)	skos:exactMatch	wikipathways	WP466	DNA Replication
 wikipathways	WP466	DNA Replication	BFO:0000050	decopath	DC7-2	DNA replication
-kegg.pathway	path:hsa03030	DNA replication - Homo sapiens (human)	BFO:0000050	decopath	DC7-2	DNA replication
+kegg.pathway	hsa03030	DNA replication - Homo sapiens (human)	BFO:0000050	decopath	DC7-2	DNA replication
 reactome	R-HSA-69306	DNA Replication	BFO:0000050	decopath	DC7-2	DNA replication
 reactome	R-HSA-397014	Muscle contraction	BFO:0000050	decopath	DC8	Others
 decopath	DC8-1	Striated muscle contraction	BFO:0000050	reactome	R-HSA-397014	Muscle contraction
@@ -875,36 +875,36 @@ pathbank	PW000564	Striated Muscle Contraction	skos:exactMatch	reactome	R-HSA-390
 pathbank	PW000564	Striated Muscle Contraction	BFO:0000050	decopath	DC8-1	Striated muscle contraction
 wikipathways	WP383	Striated Muscle Contraction	BFO:0000050	decopath	DC8-1	Striated muscle contraction
 reactome	R-HSA-390522	Striated Muscle Contraction	BFO:0000050	decopath	DC8-1	Striated muscle contraction
-kegg.pathway	path:hsa04360	Axon guidance - Homo sapiens (human)	skos:exactMatch	reactome	R-HSA-422475	Axon guidance
-kegg.pathway	path:hsa04360	Axon guidance - Homo sapiens (human)	BFO:0000050	decopath	DC8-2-0-1	Axon guidance
+kegg.pathway	hsa04360	Axon guidance - Homo sapiens (human)	skos:exactMatch	reactome	R-HSA-422475	Axon guidance
+kegg.pathway	hsa04360	Axon guidance - Homo sapiens (human)	BFO:0000050	decopath	DC8-2-0-1	Axon guidance
 reactome	R-HSA-422475	Axon guidance	BFO:0000050	decopath	DC8-2-0-1	Axon guidance
 wikipathways	WP4149	White fat cell differentiation	BFO:0000050	decopath	DC8-2	Developmental biology and cell differentiation
 wikipathways	WP3599	Transcription factor regulation in adipogenesis	BFO:0000050	reactome	R-HSA-381340	Transcriptional regulation of white adipocyte differentiation
 wikipathways	WP4211	Transcriptional cascade regulating adipogenesis	BFO:0000050	reactome	R-HSA-381340	Transcriptional regulation of white adipocyte differentiation
 reactome	R-HSA-381340	Transcriptional regulation of white adipocyte differentiation	BFO:0000050	wikipathways	WP4149	White fat cell differentiation
-pathbank	PW064821	Ubiquitin-Proteasome Pathway	skos:exactMatch	kegg.pathway	path:hsa04120	Ubiquitin mediated proteolysis - Homo sapiens (human)
+pathbank	PW064821	Ubiquitin-Proteasome Pathway	skos:exactMatch	kegg.pathway	hsa04120	Ubiquitin mediated proteolysis - Homo sapiens (human)
 pathbank	PW064821	Ubiquitin-Proteasome Pathway	BFO:0000050	decopath	DC8-3	Ubiquitin-proteasome pathway
-kegg.pathway	path:hsa04120	Ubiquitin mediated proteolysis - Homo sapiens (human)	BFO:0000050	decopath	DC8-3	Ubiquitin-proteasome pathway
-kegg.pathway	path:hsa04810	Regulation of actin cytoskeleton - Homo sapiens (human)	skos:exactMatch	wikipathways	WP51	Regulation of Actin Cytoskeleton
-kegg.pathway	path:hsa04810	Regulation of actin cytoskeleton - Homo sapiens (human)	BFO:0000050	decopath	DC8-4	Regulation of actin cytoskeleton
+kegg.pathway	hsa04120	Ubiquitin mediated proteolysis - Homo sapiens (human)	BFO:0000050	decopath	DC8-3	Ubiquitin-proteasome pathway
+kegg.pathway	hsa04810	Regulation of actin cytoskeleton - Homo sapiens (human)	skos:exactMatch	wikipathways	WP51	Regulation of Actin Cytoskeleton
+kegg.pathway	hsa04810	Regulation of actin cytoskeleton - Homo sapiens (human)	BFO:0000050	decopath	DC8-4	Regulation of actin cytoskeleton
 wikipathways	WP51	Regulation of Actin Cytoskeleton	BFO:0000050	decopath	DC8-4	Regulation of actin cytoskeleton
-kegg.pathway	path:hsa04721	Synaptic vesicle cycle - Homo sapiens (human)	skos:exactMatch	wikipathways	WP2267	Synaptic Vesicle Pathway
-kegg.pathway	path:hsa04721	Synaptic vesicle cycle - Homo sapiens (human)	BFO:0000050	decopath	DC8-5-1	Synaptic vesicle cycle
+kegg.pathway	hsa04721	Synaptic vesicle cycle - Homo sapiens (human)	skos:exactMatch	wikipathways	WP2267	Synaptic Vesicle Pathway
+kegg.pathway	hsa04721	Synaptic vesicle cycle - Homo sapiens (human)	BFO:0000050	decopath	DC8-5-1	Synaptic vesicle cycle
 wikipathways	WP2267	Synaptic Vesicle Pathway	BFO:0000050	decopath	DC8-5-1	Synaptic vesicle cycle
 wikipathways	WP179	Cell Cycle	skos:exactMatch	reactome	R-HSA-1640170	Cell Cycle
-kegg.pathway	path:hsa04110	Cell cycle - Homo sapiens (human)	skos:exactMatch	reactome	R-HSA-1640170	Cell Cycle
-kegg.pathway	path:hsa04110	Cell cycle - Homo sapiens (human)	skos:exactMatch	wikipathways	WP179	Cell Cycle
+kegg.pathway	hsa04110	Cell cycle - Homo sapiens (human)	skos:exactMatch	reactome	R-HSA-1640170	Cell Cycle
+kegg.pathway	hsa04110	Cell cycle - Homo sapiens (human)	skos:exactMatch	wikipathways	WP179	Cell Cycle
 wikipathways	WP179	Cell Cycle	BFO:0000050	decopath	DC8-6	Cell cycle
-kegg.pathway	path:hsa04110	Cell cycle - Homo sapiens (human)	BFO:0000050	decopath	DC8-6	Cell cycle
+kegg.pathway	hsa04110	Cell cycle - Homo sapiens (human)	BFO:0000050	decopath	DC8-6	Cell cycle
 reactome	R-HSA-1640170	Cell Cycle	BFO:0000050	decopath	DC8-6	Cell cycle
-kegg.pathway	path:hsa04218	Cellular senescence - Homo sapiens (human)	skos:exactMatch	reactome	R-HSA-2559583	Cellular Senescence
+kegg.pathway	hsa04218	Cellular senescence - Homo sapiens (human)	skos:exactMatch	reactome	R-HSA-2559583	Cellular Senescence
 reactome	R-HSA-2559583	Cellular Senescence	BFO:0000050	decopath	DC8-7	Cellular senescence
-kegg.pathway	path:hsa04218	Cellular senescence - Homo sapiens (human)	BFO:0000050	decopath	DC8-7	Cellular senescence
-pathbank	PW091851	Circadian Rhythms	skos:exactMatch	kegg.pathway	path:hsa04710	Circadian rhythm - Homo sapiens (human)
+kegg.pathway	hsa04218	Cellular senescence - Homo sapiens (human)	BFO:0000050	decopath	DC8-7	Cellular senescence
+pathbank	PW091851	Circadian Rhythms	skos:exactMatch	kegg.pathway	hsa04710	Circadian rhythm - Homo sapiens (human)
 pathbank	PW091851	Circadian Rhythms	BFO:0000050	decopath	DC8-8	Circadian rhythms
-kegg.pathway	path:hsa04710	Circadian rhythm - Homo sapiens (human)	BFO:0000050	decopath	DC8-8	Circadian rhythms
-kegg.pathway	path:hsa04911	Insulin secretion - Homo sapiens (human)	skos:exactMatch	reactome	R-HSA-422356	Regulation of insulin secretion
-kegg.pathway	path:hsa04911	Insulin secretion - Homo sapiens (human)	BFO:0000050	decopath	DC8-9	Insulin secretion
+kegg.pathway	hsa04710	Circadian rhythm - Homo sapiens (human)	BFO:0000050	decopath	DC8-8	Circadian rhythms
+kegg.pathway	hsa04911	Insulin secretion - Homo sapiens (human)	skos:exactMatch	reactome	R-HSA-422356	Regulation of insulin secretion
+kegg.pathway	hsa04911	Insulin secretion - Homo sapiens (human)	BFO:0000050	decopath	DC8-9	Insulin secretion
 reactome	R-HSA-422356	Regulation of insulin secretion	BFO:0000050	decopath	DC8-9	Insulin secretion
 wikipathways	WP2338	miRNA Biogenesis	skos:exactMatch	reactome	R-HSA-203927	MicroRNA (miRNA) biogenesis
 wikipathways	WP2338	miRNA Biogenesis	BFO:0000050	decopath	DC8-10	miRNA biogenesis

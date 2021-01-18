@@ -15,6 +15,23 @@ DECOPATH_XLSX_PATH = MAPPINGS_DIRECTORY / 'decopath_ontology.xlsx'
 DECOPATH_TSV_PATH = MAPPINGS_DIRECTORY / 'decopath.tsv'
 
 
+def _fix_kegg_identifier(prefix, identifier) -> str:
+    if prefix == 'kegg.pathway' and identifier.startswith('path:'):
+        return identifier[len('path:'):]
+    return identifier
+
+
+def _fix(df: pd.DataFrame) -> None:
+    df['Source ID'] = [
+        _fix_kegg_identifier(prefix, identifier)
+        for prefix, identifier in df[['Source Resource', 'Source ID']].values
+    ]
+    df['Target ID'] = [
+        _fix_kegg_identifier(prefix, identifier)
+        for prefix, identifier in df[['Target Resource', 'Target ID']].values
+    ]
+
+
 def get_decopath_df() -> pd.DataFrame:
     """Get the decopath dataframe."""
     excel_file = pd.ExcelFile(DECOPATH_XLSX_PATH, engine='openpyxl')
@@ -25,6 +42,7 @@ def get_decopath_df() -> pd.DataFrame:
         # TODO fix in upstream
         df['Source Resource'] = df['Source Resource'].map(lambda s: s.replace('kegg', 'kegg.pathway'))
         df['Target Resource'] = df['Target Resource'].map(lambda s: s.replace('kegg', 'kegg.pathway'))
+        _fix(df)
         dfs.append(df)
     return pd.concat(dfs)
 
