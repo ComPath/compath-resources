@@ -10,7 +10,7 @@ import pystow
 COMPATH_HOME = pystow.get('compath')
 
 HERE = os.path.abspath(os.path.dirname(__file__))
-ROOT = Path(os.path.join(HERE, os.pardir, os.pardir))
+ROOT = Path(os.path.abspath(os.path.join(HERE, os.pardir, os.pardir)))
 MAPPINGS_DIRECTORY = ROOT / 'mappings'
 DOCS_DIRECTORY = ROOT / 'docs'
 IMG_DIRECTORY = DOCS_DIRECTORY / 'img'

@@ -3,14 +3,13 @@
 """Test data integrity."""
 
 import os
-import pathlib
 import unittest
 
 import bioregistry
 import pandas as pd
 
-HERE = pathlib.Path(os.path.dirname(__file__))
-MAPPINGS_DIRECTORY = os.path.abspath(os.path.join(HERE, os.pardir, 'mappings'))
+from compath_resources.constants import MAPPINGS_DIRECTORY
+from compath_resources.convert_decopath import DECOPATH_TSV_PATH, get_decopath_df
 
 
 class TestIntegrity(unittest.TestCase):
@@ -40,3 +39,9 @@ class TestIntegrity(unittest.TestCase):
                 for prefix in target_prefixes:
                     self.assertIn(prefix, self.registry)
                     self.assertFalse(bioregistry.is_deprecated(prefix), msg=f'deprecated target prefix: {prefix}')
+
+    def test_decopath_export(self):
+        """Test the exported data is the same as the excel."""
+        xlsx_df = get_decopath_df()
+        tsv_df = pd.read_csv(DECOPATH_TSV_PATH, sep='\t')
+        self.assertTrue((xlsx_df.values == tsv_df.values).all())
