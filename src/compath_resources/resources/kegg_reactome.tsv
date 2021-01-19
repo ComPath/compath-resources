@@ -1,0 +1,653 @@
+Source Resource	Source ID	Source Name	Mapping Type	Target Resource	Target ID	Target Name
+reactome	R-HSA-2978092	Abnormal conversion of 2-oxoglutarate to 2-hydroxyglutarate	BFO:0000050	kegg.pathway	hsa01210	2-Oxocarboxylic acid metabolism - Homo sapiens (human)
+reactome	R-HSA-71406	Pyruvate metabolism and Citric Acid (TCA) cycle	BFO:0000050	kegg.pathway	hsa01210	2-Oxocarboxylic acid metabolism - Homo sapiens (human)
+kegg.pathway	hsa02010	ABC transporters - Homo sapiens (human)	skos:exactMatch	reactome	R-HSA-1369007	Mitochondrial ABC transporters
+reactome	R-HSA-5683177	Defective ABCC8 can cause hypoglycemias and hyperglycemias	BFO:0000050	kegg.pathway	hsa02010	ABC transporters - Homo sapiens (human)
+reactome	R-HSA-5679001	Defective ABCC2 causes Dubin-Johnson syndrome	BFO:0000050	kegg.pathway	hsa02010	ABC transporters - Homo sapiens (human)
+reactome	R-HSA-5679096	Defective ABCG5 causes sitosterolemia	BFO:0000050	kegg.pathway	hsa02010	ABC transporters - Homo sapiens (human)
+reactome	R-HSA-5683329	Defective ABCD4 causes methylmalonic aciduria and homocystinuria, cblj type (MAHCJ)	BFO:0000050	kegg.pathway	hsa02010	ABC transporters - Homo sapiens (human)
+reactome	R-HSA-5678520	Defective ABCB11 causes progressive familial intrahepatic cholestasis 2 and benign recurrent intrahepatic cholestasis 2	BFO:0000050	kegg.pathway	hsa02010	ABC transporters - Homo sapiens (human)
+reactome	R-HSA-5690338	Defective ABCC6 causes pseudoxanthoma elasticum (PXE)	BFO:0000050	kegg.pathway	hsa02010	ABC transporters - Homo sapiens (human)
+reactome	R-HSA-5678420	Defective ABCC9 causes dilated cardiomyopathy 10, familial atrial fibrillation 12 and hypertrichotic osteochondrodysplasia	BFO:0000050	kegg.pathway	hsa02010	ABC transporters - Homo sapiens (human)
+reactome	R-HSA-5679090	Defective ABCG8 causes gallbladder disease 4 and sitosterolemia	BFO:0000050	kegg.pathway	hsa02010	ABC transporters - Homo sapiens (human)
+reactome	R-HSA-5678771	Defective ABCB4 causes progressive familial intrahepatic cholestasis 3, intrahepatic cholestasis of pregnancy 3 and gallbladder disease 1	BFO:0000050	kegg.pathway	hsa02010	ABC transporters - Homo sapiens (human)
+reactome	R-HSA-5684045	Defective ABCD1 causes adrenoleukodystrophy (ALD)	BFO:0000050	kegg.pathway	hsa02010	ABC transporters - Homo sapiens (human)
+reactome	R-HSA-5682294	Defective ABCA12 causes autosomal recessive congenital ichthyosis type 4B	BFO:0000050	kegg.pathway	hsa02010	ABC transporters - Homo sapiens (human)
+reactome	R-HSA-5683371	Defective ABCB6 causes isolated colobomatous microphthalmia 7 (MCOPCB7)	BFO:0000050	kegg.pathway	hsa02010	ABC transporters - Homo sapiens (human)
+reactome	R-HSA-5619084	ABC transporter disorders	BFO:0000050	kegg.pathway	hsa02010	ABC transporters - Homo sapiens (human)
+reactome	R-HSA-5682113	Defective ABCA1 causes Tangier disease	BFO:0000050	kegg.pathway	hsa02010	ABC transporters - Homo sapiens (human)
+reactome	R-HSA-5688399	Defective ABCA3 causes pulmonary surfactant metabolism dysfunction 3 (SMDP3)	BFO:0000050	kegg.pathway	hsa02010	ABC transporters - Homo sapiens (human)
+reactome	R-HSA-1369062	ABC transporters in lipid homeostasis	BFO:0000050	kegg.pathway	hsa02010	ABC transporters - Homo sapiens (human)
+reactome	R-HSA-5683678	Defective ABCA3 causes pulmonary surfactant metabolism dysfunction type 3 (SMDP3)	BFO:0000050	kegg.pathway	hsa02010	ABC transporters - Homo sapiens (human)
+reactome	R-HSA-382556	ABC-family proteins mediated transport	BFO:0000050	kegg.pathway	hsa02010	ABC transporters - Homo sapiens (human)
+reactome	R-HSA-163680	AMPK inhibits chREBP transcriptional activation activity	BFO:0000050	kegg.pathway	hsa04152	AMPK signaling pathway - Homo sapiens (human)
+kegg.pathway	hsa04520	Adherens junction - Homo sapiens (human)	skos:exactMatch	reactome	R-HSA-418990	Adherens junctions interactions
+reactome	R-HSA-2586552	Signaling by Leptin	BFO:0000050	kegg.pathway	hsa04920	Adipocytokine signaling pathway - Homo sapiens (human)
+kegg.pathway	hsa04920	Adipocytokine signaling pathway - Homo sapiens (human)	BFO:0000050	reactome	R-HSA-1430728	Metabolism
+kegg.pathway	hsa00250	Alanine, aspartate and glutamate metabolism - Homo sapiens (human)	BFO:0000050	reactome	R-HSA-71291	Metabolism of amino acids and derivatives
+kegg.pathway	hsa00250	Alanine, aspartate and glutamate metabolism - Homo sapiens (human)	BFO:0000050	reactome	R-HSA-1430728	Metabolism
+kegg.pathway	hsa04925	Aldosterone synthesis and secretion - Homo sapiens (human)	BFO:0000050	reactome	R-HSA-1430728	Metabolism
+kegg.pathway	hsa05330	Allograft rejection - Homo sapiens (human)	BFO:0000050	reactome	R-HSA-1280218	Adaptive Immune System
+kegg.pathway	hsa05330	Allograft rejection - Homo sapiens (human)	BFO:0000050	reactome	R-HSA-168256	Immune System
+reactome	R-HSA-8862803	Deregulated CDK5 triggers multiple neurodegenerative pathways in Alzheimer's disease models	BFO:0000050	kegg.pathway	hsa05010	Alzheimer disease - Homo sapiens (human)
+kegg.pathway	hsa00520	Amino sugar and nucleotide sugar metabolism - Homo sapiens (human)	BFO:0000050	reactome	R-HSA-1430728	Metabolism
+kegg.pathway	hsa00970	Aminoacyl-tRNA biosynthesis - Homo sapiens (human)	BFO:0000050	reactome	R-HSA-1430728	Metabolism
+reactome	R-HSA-379724	tRNA Aminoacylation	BFO:0000050	kegg.pathway	hsa00970	Aminoacyl-tRNA biosynthesis - Homo sapiens (human)
+reactome	R-HSA-379726	Mitochondrial tRNA aminoacylation	BFO:0000050	kegg.pathway	hsa00970	Aminoacyl-tRNA biosynthesis - Homo sapiens (human)
+reactome	R-HSA-379716	Cytosolic tRNA aminoacylation	BFO:0000050	kegg.pathway	hsa00970	Aminoacyl-tRNA biosynthesis - Homo sapiens (human)
+kegg.pathway	hsa04612	Antigen processing and presentation - Homo sapiens (human)	skos:exactMatch	reactome	R-HSA-1236975	Antigen processing-Cross presentation
+reactome	R-HSA-2132295	MHC class II antigen presentation	BFO:0000050	kegg.pathway	hsa04612	Antigen processing and presentation - Homo sapiens (human)
+reactome	R-HSA-983170	Antigen Presentation: Folding, assembly and peptide loading of class I MHC	BFO:0000050	kegg.pathway	hsa04612	Antigen processing and presentation - Homo sapiens (human)
+reactome	R-HSA-983169	Class I MHC mediated antigen processing & presentation	BFO:0000050	kegg.pathway	hsa04612	Antigen processing and presentation - Homo sapiens (human)
+kegg.pathway	hsa04210	Apoptosis - Homo sapiens (human)	skos:exactMatch	reactome	R-HSA-109581	Apoptosis
+reactome	R-HSA-109581	Apoptosis	BFO:0000050	kegg.pathway	hsa04215	Apoptosis - multiple species - Homo sapiens (human)
+kegg.pathway	hsa00590	Arachidonic acid metabolism - Homo sapiens (human)	skos:exactMatch	reactome	R-HSA-2142753	Arachidonic acid metabolism
+reactome	R-HSA-70688	Proline catabolism	BFO:0000050	kegg.pathway	hsa00330	Arginine and proline metabolism - Homo sapiens (human)
+kegg.pathway	hsa00330	Arginine and proline metabolism - Homo sapiens (human)	BFO:0000050	reactome	R-HSA-1430728	Metabolism
+kegg.pathway	hsa00330	Arginine and proline metabolism - Homo sapiens (human)	BFO:0000050	reactome	R-HSA-71291	Metabolism of amino acids and derivatives
+kegg.pathway	hsa00220	Arginine biosynthesis - Homo sapiens (human)	BFO:0000050	reactome	R-HSA-1430728	Metabolism
+kegg.pathway	hsa00220	Arginine biosynthesis - Homo sapiens (human)	BFO:0000050	reactome	R-HSA-71291	Metabolism of amino acids and derivatives
+kegg.pathway	hsa00220	Arginine biosynthesis - Homo sapiens (human)	BFO:0000050	reactome	R-HSA-70635	Urea cycle
+kegg.pathway	hsa00053	Ascorbate and aldarate metabolism - Homo sapiens (human)	BFO:0000050	reactome	R-HSA-1430728	Metabolism
+kegg.pathway	hsa04136	Autophagy - other - Homo sapiens (human)	skos:exactMatch	reactome	R-HSA-1632852	Macroautophagy
+kegg.pathway	hsa04136	Autophagy - other - Homo sapiens (human)	BFO:0000050	reactome	R-HSA-168256	Immune System
+reactome	R-HSA-8953897	Cellular responses to external stimuli	BFO:0000050	kegg.pathway	hsa04136	Autophagy - other - Homo sapiens (human)
+kegg.pathway	hsa04360	Axon guidance - Homo sapiens (human)	skos:exactMatch	reactome	R-HSA-422475	Axon guidance
+kegg.pathway	hsa04662	B cell receptor signaling pathway - Homo sapiens (human)	skos:exactMatch	reactome	R-HSA-983705	Signaling by the B Cell Receptor (BCR)
+kegg.pathway	hsa04662	B cell receptor signaling pathway - Homo sapiens (human)	BFO:0000050	reactome	R-HSA-1280218	Adaptive Immune System
+kegg.pathway	hsa04662	B cell receptor signaling pathway - Homo sapiens (human)	BFO:0000050	reactome	R-HSA-168256	Immune System
+reactome	R-HSA-6807505	RNA polymerase II transcribes snRNA genes	BFO:0000050	kegg.pathway	hsa03022	Basal transcription factors - Homo sapiens (human)
+reactome	R-HSA-674695	RNA Polymerase II Pre-transcription Events	BFO:0000050	kegg.pathway	hsa03022	Basal transcription factors - Homo sapiens (human)
+reactome	R-HSA-73776	RNA Polymerase II Promoter Escape	BFO:0000050	kegg.pathway	hsa03022	Basal transcription factors - Homo sapiens (human)
+reactome	R-HSA-167160	RNA Pol II CTD phosphorylation and interaction with CE during HIV infection	BFO:0000050	kegg.pathway	hsa03022	Basal transcription factors - Homo sapiens (human)
+kegg.pathway	hsa03022	Basal transcription factors - Homo sapiens (human)	BFO:0000050	reactome	R-HSA-73857	RNA Polymerase II Transcription
+reactome	R-HSA-77075	RNA Pol II CTD phosphorylation and interaction with CE	BFO:0000050	kegg.pathway	hsa03022	Basal transcription factors - Homo sapiens (human)
+kegg.pathway	hsa03022	Basal transcription factors - Homo sapiens (human)	BFO:0000050	reactome	R-HSA-212436	Generic Transcription Pathway
+reactome	R-HSA-75953	RNA Polymerase II Transcription Initiation	BFO:0000050	kegg.pathway	hsa03022	Basal transcription factors - Homo sapiens (human)
+reactome	R-HSA-167162	RNA Polymerase II HIV Promoter Escape	BFO:0000050	kegg.pathway	hsa03022	Basal transcription factors - Homo sapiens (human)
+kegg.pathway	hsa03022	Basal transcription factors - Homo sapiens (human)	BFO:0000050	reactome	R-HSA-8953854	Metabolism of RNA
+reactome	R-HSA-73863	RNA Polymerase I Transcription Termination	BFO:0000050	kegg.pathway	hsa03022	Basal transcription factors - Homo sapiens (human)
+reactome	R-HSA-73772	RNA Polymerase I Promoter Escape	BFO:0000050	kegg.pathway	hsa03022	Basal transcription factors - Homo sapiens (human)
+reactome	R-HSA-73857	RNA Polymerase II Transcription	BFO:0000050	kegg.pathway	hsa03022	Basal transcription factors - Homo sapiens (human)
+reactome	R-HSA-73779	RNA Polymerase II Transcription Pre-Initiation And Promoter Opening	BFO:0000050	kegg.pathway	hsa03022	Basal transcription factors - Homo sapiens (human)
+kegg.pathway	hsa03022	Basal transcription factors - Homo sapiens (human)	BFO:0000050	reactome	R-HSA-74160	Gene expression (Transcription)
+reactome	R-HSA-76042	RNA Polymerase II Transcription Initiation And Promoter Clearance	BFO:0000050	kegg.pathway	hsa03022	Basal transcription factors - Homo sapiens (human)
+kegg.pathway	hsa03410	Base excision repair - Homo sapiens (human)	skos:exactMatch	reactome	R-HSA-73884	Base Excision Repair
+kegg.pathway	hsa04976	Bile secretion - Homo sapiens (human)	BFO:0000050	reactome	R-HSA-8935690	Digestion
+reactome	R-HSA-70614	Amino acid synthesis and interconversion (transamination)	BFO:0000050	kegg.pathway	hsa01230	Biosynthesis of amino acids - Homo sapiens (human)
+reactome	R-HSA-1614603	Cysteine formation from homocysteine	BFO:0000050	kegg.pathway	hsa01230	Biosynthesis of amino acids - Homo sapiens (human)
+kegg.pathway	hsa01230	Biosynthesis of amino acids - Homo sapiens (human)	BFO:0000050	reactome	R-HSA-1430728	Metabolism
+reactome	R-HSA-70635	Urea cycle	BFO:0000050	kegg.pathway	hsa01230	Biosynthesis of amino acids - Homo sapiens (human)
+reactome	R-HSA-71182	Phenylalanine and tyrosine catabolism	BFO:0000050	kegg.pathway	hsa01230	Biosynthesis of amino acids - Homo sapiens (human)
+kegg.pathway	hsa01230	Biosynthesis of amino acids - Homo sapiens (human)	BFO:0000050	reactome	R-HSA-71291	Metabolism of amino acids and derivatives
+reactome	R-HSA-2046105	Linoleic acid (LA) metabolism	BFO:0000050	kegg.pathway	hsa01040	Biosynthesis of unsaturated fatty acids - Homo sapiens (human)
+reactome	R-HSA-75105	Fatty acyl-CoA biosynthesis	BFO:0000050	kegg.pathway	hsa01040	Biosynthesis of unsaturated fatty acids - Homo sapiens (human)
+reactome	R-HSA-75876	Synthesis of very long-chain fatty acyl-CoAs	BFO:0000050	kegg.pathway	hsa01040	Biosynthesis of unsaturated fatty acids - Homo sapiens (human)
+kegg.pathway	hsa01040	Biosynthesis of unsaturated fatty acids - Homo sapiens (human)	BFO:0000050	reactome	R-HSA-8978868	Fatty acid metabolism
+kegg.pathway	hsa01040	Biosynthesis of unsaturated fatty acids - Homo sapiens (human)	BFO:0000050	reactome	R-HSA-1430728	Metabolism
+reactome	R-HSA-2142688	Synthesis of 5-eicosatetraenoic acids	BFO:0000050	kegg.pathway	hsa01040	Biosynthesis of unsaturated fatty acids - Homo sapiens (human)
+kegg.pathway	hsa01040	Biosynthesis of unsaturated fatty acids - Homo sapiens (human)	BFO:0000050	reactome	R-HSA-556833	Metabolism of lipids
+kegg.pathway	hsa00780	Biotin metabolism - Homo sapiens (human)	BFO:0000050	reactome	R-HSA-196780	Biotin transport and metabolism
+reactome	R-HSA-77350	Beta oxidation of hexanoyl-CoA to butanoyl-CoA	BFO:0000050	kegg.pathway	hsa00650	Butanoate metabolism - Homo sapiens (human)
+reactome	R-HSA-77352	Beta oxidation of butanoyl-CoA to acetyl-CoA	BFO:0000050	kegg.pathway	hsa00650	Butanoate metabolism - Homo sapiens (human)
+kegg.pathway	hsa00650	Butanoate metabolism - Homo sapiens (human)	BFO:0000050	reactome	R-HSA-1430728	Metabolism
+kegg.pathway	hsa00232	Caffeine metabolism - Homo sapiens (human)	BFO:0000050	reactome	R-HSA-1430728	Metabolism
+reactome	R-HSA-139853	Elevation of cytosolic Ca2+ levels	BFO:0000050	kegg.pathway	hsa04020	Calcium signaling pathway - Homo sapiens (human)
+reactome	R-HSA-111997	CaM pathway	BFO:0000050	kegg.pathway	hsa04020	Calcium signaling pathway - Homo sapiens (human)
+reactome	R-HSA-418360	Platelet calcium homeostasis	BFO:0000050	kegg.pathway	hsa04020	Calcium signaling pathway - Homo sapiens (human)
+reactome	R-HSA-442745	Activation of CaMK IV	BFO:0000050	kegg.pathway	hsa04020	Calcium signaling pathway - Homo sapiens (human)
+reactome	R-HSA-418359	Reduction of cytosolic Ca++ levels	BFO:0000050	kegg.pathway	hsa04020	Calcium signaling pathway - Homo sapiens (human)
+reactome	R-HSA-8963676	Intestinal absorption	BFO:0000050	kegg.pathway	hsa04973	Carbohydrate digestion and absorption - Homo sapiens (human)
+reactome	R-HSA-189085	Digestion of dietary carbohydrate	BFO:0000050	kegg.pathway	hsa04973	Carbohydrate digestion and absorption - Homo sapiens (human)
+reactome	R-HSA-5659898	Intestinal saccharidase deficiencies	BFO:0000050	kegg.pathway	hsa04973	Carbohydrate digestion and absorption - Homo sapiens (human)
+reactome	R-HSA-8981373	Intestinal hexose absorption	BFO:0000050	kegg.pathway	hsa04973	Carbohydrate digestion and absorption - Homo sapiens (human)
+reactome	R-HSA-8963743	Digestion and absorption	BFO:0000050	kegg.pathway	hsa04973	Carbohydrate digestion and absorption - Homo sapiens (human)
+kegg.pathway	hsa01200	Carbon metabolism - Homo sapiens (human)	skos:exactMatch	reactome	R-HSA-71387	Metabolism of carbohydrates
+reactome	R-HSA-70326	Glucose metabolism	BFO:0000050	kegg.pathway	hsa01200	Carbon metabolism - Homo sapiens (human)
+reactome	R-HSA-5652084	Fructose metabolism	BFO:0000050	kegg.pathway	hsa01200	Carbon metabolism - Homo sapiens (human)
+kegg.pathway	hsa01200	Carbon metabolism - Homo sapiens (human)	BFO:0000050	reactome	R-HSA-1430728	Metabolism
+reactome	R-HSA-73843	5-Phosphoribose 1-diphosphate biosynthesis	BFO:0000050	kegg.pathway	hsa01200	Carbon metabolism - Homo sapiens (human)
+reactome	R-HSA-8982491	Glycogen metabolism	BFO:0000050	kegg.pathway	hsa01200	Carbon metabolism - Homo sapiens (human)
+reactome	R-HSA-71406	Pyruvate metabolism and Citric Acid (TCA) cycle	BFO:0000050	kegg.pathway	hsa01200	Carbon metabolism - Homo sapiens (human)
+kegg.pathway	hsa01200	Carbon metabolism - Homo sapiens (human)	BFO:0000050	reactome	R-HSA-6791465	Pentose phosphate pathway disease
+reactome	R-HSA-70171	Glycolysis	BFO:0000050	kegg.pathway	hsa01200	Carbon metabolism - Homo sapiens (human)
+kegg.pathway	hsa04260	Cardiac muscle contraction - Homo sapiens (human)	BFO:0000050	reactome	R-HSA-397014	Muscle contraction
+kegg.pathway	hsa04514	Cell adhesion molecules (CAMs) - Homo sapiens (human)	BFO:0000050	reactome	R-HSA-421270	Cell-cell junction organization
+reactome	R-HSA-447043	Neurofascin interactions	BFO:0000050	kegg.pathway	hsa04514	Cell adhesion molecules (CAMs) - Homo sapiens (human)
+reactome	R-HSA-421270	Cell-cell junction organization	BFO:0000050	kegg.pathway	hsa04514	Cell adhesion molecules (CAMs) - Homo sapiens (human)
+kegg.pathway	hsa04514	Cell adhesion molecules (CAMs) - Homo sapiens (human)	BFO:0000050	reactome	R-HSA-420029	Tight junction interactions
+kegg.pathway	hsa04110	Cell cycle - Homo sapiens (human)	skos:exactMatch	reactome	R-HSA-1640170	Cell Cycle
+kegg.pathway	hsa04218	Cellular senescence - Homo sapiens (human)	skos:exactMatch	reactome	R-HSA-2559583	Cellular Senescence
+reactome	R-HSA-380108	Chemokine receptors bind chemokines	BFO:0000050	kegg.pathway	hsa04062	Chemokine signaling pathway - Homo sapiens (human)
+reactome	R-HSA-8964041	LDL remodeling	BFO:0000050	kegg.pathway	hsa04979	Cholesterol metabolism - Homo sapiens (human)
+reactome	R-HSA-8963888	Chylomicron assembly	BFO:0000050	kegg.pathway	hsa04979	Cholesterol metabolism - Homo sapiens (human)
+kegg.pathway	hsa04979	Cholesterol metabolism - Homo sapiens (human)	BFO:0000050	reactome	R-HSA-1430728	Metabolism
+reactome	R-HSA-8964011	HDL clearance	BFO:0000050	kegg.pathway	hsa04979	Cholesterol metabolism - Homo sapiens (human)
+reactome	R-HSA-8964058	HDL remodeling	BFO:0000050	kegg.pathway	hsa04979	Cholesterol metabolism - Homo sapiens (human)
+reactome	R-HSA-8963901	Chylomicron remodeling	BFO:0000050	kegg.pathway	hsa04979	Cholesterol metabolism - Homo sapiens (human)
+reactome	R-HSA-8964043	Plasma lipoprotein clearance	BFO:0000050	kegg.pathway	hsa04979	Cholesterol metabolism - Homo sapiens (human)
+reactome	R-HSA-8963898	Plasma lipoprotein assembly	BFO:0000050	kegg.pathway	hsa04979	Cholesterol metabolism - Homo sapiens (human)
+reactome	R-HSA-8866423	VLDL assembly	BFO:0000050	kegg.pathway	hsa04979	Cholesterol metabolism - Homo sapiens (human)
+reactome	R-HSA-8964026	Chylomicron clearance	BFO:0000050	kegg.pathway	hsa04979	Cholesterol metabolism - Homo sapiens (human)
+reactome	R-HSA-8964038	LDL clearance	BFO:0000050	kegg.pathway	hsa04979	Cholesterol metabolism - Homo sapiens (human)
+reactome	R-HSA-390648	Muscarinic acetylcholine receptors	BFO:0000050	kegg.pathway	hsa04725	Cholinergic synapse - Homo sapiens (human)
+kegg.pathway	hsa00020	Citrate cycle (TCA cycle) - Homo sapiens (human)	skos:exactMatch	reactome	R-HSA-71403	Citric acid cycle (TCA cycle)
+reactome	R-HSA-5632927	Defective Mismatch Repair Associated With MSH3	BFO:0000050	kegg.pathway	hsa05210	Colorectal cancer - Homo sapiens (human)
+reactome	R-HSA-5632928	Defective Mismatch Repair Associated With MSH2	BFO:0000050	kegg.pathway	hsa05210	Colorectal cancer - Homo sapiens (human)
+reactome	R-HSA-5632968	Defective Mismatch Repair Associated With MSH6	BFO:0000050	kegg.pathway	hsa05210	Colorectal cancer - Homo sapiens (human)
+kegg.pathway	hsa04610	Complement and coagulation cascades - Homo sapiens (human)	BFO:0000050	reactome	R-HSA-168256	Immune System
+reactome	R-HSA-109582	Hemostasis	BFO:0000050	kegg.pathway	hsa04610	Complement and coagulation cascades - Homo sapiens (human)
+reactome	R-HSA-173736	Alternative complement activation	BFO:0000050	kegg.pathway	hsa04610	Complement and coagulation cascades - Homo sapiens (human)
+reactome	R-HSA-174577	Activation of C3 and C5	BFO:0000050	kegg.pathway	hsa04610	Complement and coagulation cascades - Homo sapiens (human)
+reactome	R-HSA-977606	Regulation of Complement cascade	BFO:0000050	kegg.pathway	hsa04610	Complement and coagulation cascades - Homo sapiens (human)
+reactome	R-HSA-166658	Complement cascade	BFO:0000050	kegg.pathway	hsa04610	Complement and coagulation cascades - Homo sapiens (human)
+reactome	R-HSA-140875	Common Pathway of Fibrin Clot Formation	BFO:0000050	kegg.pathway	hsa04610	Complement and coagulation cascades - Homo sapiens (human)
+reactome	R-HSA-140877	Formation of Fibrin Clot (Clotting Cascade)	BFO:0000050	kegg.pathway	hsa04610	Complement and coagulation cascades - Homo sapiens (human)
+reactome	R-HSA-75205	Dissolution of Fibrin Clot	BFO:0000050	kegg.pathway	hsa04610	Complement and coagulation cascades - Homo sapiens (human)
+reactome	R-HSA-166665	Terminal pathway of complement	BFO:0000050	kegg.pathway	hsa04610	Complement and coagulation cascades - Homo sapiens (human)
+reactome	R-HSA-140834	Extrinsic Pathway of Fibrin Clot Formation	BFO:0000050	kegg.pathway	hsa04610	Complement and coagulation cascades - Homo sapiens (human)
+reactome	R-HSA-140837	Intrinsic Pathway of Fibrin Clot Formation	BFO:0000050	kegg.pathway	hsa04610	Complement and coagulation cascades - Homo sapiens (human)
+reactome	R-HSA-193993	Mineralocorticoid biosynthesis	BFO:0000050	kegg.pathway	hsa04927	Cortisol synthesis and secretion - Homo sapiens (human)
+reactome	R-HSA-6807047	Cholesterol biosynthesis via desmosterol	BFO:0000050	kegg.pathway	hsa04927	Cortisol synthesis and secretion - Homo sapiens (human)
+reactome	R-HSA-6807062	Cholesterol biosynthesis via lathosterol	BFO:0000050	kegg.pathway	hsa04927	Cortisol synthesis and secretion - Homo sapiens (human)
+reactome	R-HSA-194002	Glucocorticoid biosynthesis	BFO:0000050	kegg.pathway	hsa04927	Cortisol synthesis and secretion - Homo sapiens (human)
+kegg.pathway	hsa04927	Cortisol synthesis and secretion - Homo sapiens (human)	BFO:0000050	reactome	R-HSA-1430728	Metabolism
+kegg.pathway	hsa00270	Cysteine and methionine metabolism - Homo sapiens (human)	BFO:0000050	reactome	R-HSA-1614635	Sulfur amino acid metabolism
+reactome	R-HSA-1614603	Cysteine formation from homocysteine	BFO:0000050	kegg.pathway	hsa00270	Cysteine and methionine metabolism - Homo sapiens (human)
+kegg.pathway	hsa00270	Cysteine and methionine metabolism - Homo sapiens (human)	BFO:0000050	reactome	R-HSA-1430728	Metabolism
+kegg.pathway	hsa00270	Cysteine and methionine metabolism - Homo sapiens (human)	BFO:0000050	reactome	R-HSA-71291	Metabolism of amino acids and derivatives
+kegg.pathway	hsa04060	Cytokine-cytokine receptor interaction - Homo sapiens (human)	BFO:0000050	reactome	R-HSA-1280215	Cytokine Signaling in Immune system
+kegg.pathway	hsa04060	Cytokine-cytokine receptor interaction - Homo sapiens (human)	BFO:0000050	reactome	R-HSA-168256	Immune System
+reactome	R-HSA-6788467	IL-6-type cytokine receptor ligand interactions	BFO:0000050	kegg.pathway	hsa04060	Cytokine-cytokine receptor interaction - Homo sapiens (human)
+reactome	R-HSA-5669034	TNFs bind their physiological receptors	BFO:0000050	kegg.pathway	hsa04060	Cytokine-cytokine receptor interaction - Homo sapiens (human)
+reactome	R-HSA-380108	Chemokine receptors bind chemokines	BFO:0000050	kegg.pathway	hsa04060	Cytokine-cytokine receptor interaction - Homo sapiens (human)
+kegg.pathway	hsa04060	Cytokine-cytokine receptor interaction - Homo sapiens (human)	BFO:0000050	reactome	R-HSA-5632681	Ligand-receptor interactions
+kegg.pathway	hsa04623	Cytosolic DNA-sensing pathway - Homo sapiens (human)	BFO:0000050	reactome	R-HSA-1834949	Cytosolic sensors of pathogen-associated DNA
+kegg.pathway	hsa00472	D-Arginine and D-ornithine metabolism - Homo sapiens (human)	BFO:0000050	reactome	R-HSA-1430728	Metabolism
+kegg.pathway	hsa00472	D-Arginine and D-ornithine metabolism - Homo sapiens (human)	BFO:0000050	reactome	R-HSA-71291	Metabolism of amino acids and derivatives
+kegg.pathway	hsa00471	D-Glutamine and D-glutamate metabolism - Homo sapiens (human)	BFO:0000050	reactome	R-HSA-71291	Metabolism of amino acids and derivatives
+kegg.pathway	hsa00471	D-Glutamine and D-glutamate metabolism - Homo sapiens (human)	BFO:0000050	reactome	R-HSA-1430728	Metabolism
+kegg.pathway	hsa00471	D-Glutamine and D-glutamate metabolism - Homo sapiens (human)	BFO:0000050	reactome	R-HSA-70614	Amino acid synthesis and interconversion (transamination)
+kegg.pathway	hsa03030	DNA replication - Homo sapiens (human)	skos:exactMatch	reactome	R-HSA-69306	DNA Replication
+reactome	R-HSA-390651	Dopamine receptors	BFO:0000050	kegg.pathway	hsa04728	Dopaminergic synapse - Homo sapiens (human)
+reactome	R-HSA-379397	Enzymatic degradation of dopamine by COMT	BFO:0000050	kegg.pathway	hsa04728	Dopaminergic synapse - Homo sapiens (human)
+reactome	R-HSA-399710	Activation of AMPA receptors	BFO:0000050	kegg.pathway	hsa04728	Dopaminergic synapse - Homo sapiens (human)
+reactome	R-HSA-379398	Enzymatic degradation of Dopamine by monoamine oxidase	BFO:0000050	kegg.pathway	hsa04728	Dopaminergic synapse - Homo sapiens (human)
+reactome	R-HSA-141333	Biogenic amines are oxidatively deaminated to aldehydes by MAOA and MAOB	BFO:0000050	kegg.pathway	hsa04728	Dopaminergic synapse - Homo sapiens (human)
+reactome	R-HSA-379401	Dopamine clearance from the synaptic cleft	BFO:0000050	kegg.pathway	hsa04728	Dopaminergic synapse - Homo sapiens (human)
+reactome	R-HSA-71384	Ethanol oxidation	BFO:0000050	kegg.pathway	hsa00982	Drug metabolism - cytochrome P450 - Homo sapiens (human)
+reactome	R-HSA-141333	Biogenic amines are oxidatively deaminated to aldehydes by MAOA and MAOB	BFO:0000050	kegg.pathway	hsa00982	Drug metabolism - cytochrome P450 - Homo sapiens (human)
+kegg.pathway	hsa00982	Drug metabolism - cytochrome P450 - Homo sapiens (human)	BFO:0000050	reactome	R-HSA-1430728	Metabolism
+reactome	R-HSA-211999	CYP2E1 reactions	BFO:0000050	kegg.pathway	hsa00982	Drug metabolism - cytochrome P450 - Homo sapiens (human)
+kegg.pathway	hsa00983	Drug metabolism - other enzymes - Homo sapiens (human)	BFO:0000050	reactome	R-HSA-1430728	Metabolism
+reactome	R-HSA-3000178	ECM proteoglycans	BFO:0000050	kegg.pathway	hsa04512	ECM-receptor interaction - Homo sapiens (human)
+kegg.pathway	hsa04512	ECM-receptor interaction - Homo sapiens (human)	BFO:0000050	reactome	R-HSA-1474244	Extracellular matrix organization
+reactome	R-HSA-3000157	Laminin interactions	BFO:0000050	kegg.pathway	hsa04512	ECM-receptor interaction - Homo sapiens (human)
+reactome	R-HSA-917729	Endosomal Sorting Complex Required For Transport (ESCRT)	BFO:0000050	kegg.pathway	hsa04144	Endocytosis - Homo sapiens (human)
+reactome	R-HSA-8856825	Cargo recognition for clathrin-mediated endocytosis	BFO:0000050	kegg.pathway	hsa04144	Endocytosis - Homo sapiens (human)
+reactome	R-HSA-8856828	Clathrin-mediated endocytosis	BFO:0000050	kegg.pathway	hsa04144	Endocytosis - Homo sapiens (human)
+reactome	R-HSA-1250342	PI3K events in ERBB4 signaling	BFO:0000050	kegg.pathway	hsa04012	ErbB signaling pathway - Homo sapiens (human)
+reactome	R-HSA-1236394	Signaling by ERBB4	BFO:0000050	kegg.pathway	hsa04012	ErbB signaling pathway - Homo sapiens (human)
+reactome	R-HSA-1963640	GRB2 events in ERBB2 signaling	BFO:0000050	kegg.pathway	hsa04012	ErbB signaling pathway - Homo sapiens (human)
+reactome	R-HSA-6785631	ERBB2 Regulates Cell Motility	BFO:0000050	kegg.pathway	hsa04012	ErbB signaling pathway - Homo sapiens (human)
+reactome	R-HSA-1963642	PI3K events in ERBB2 signaling	BFO:0000050	kegg.pathway	hsa04012	ErbB signaling pathway - Homo sapiens (human)
+reactome	R-HSA-8847993	ERBB2 Activates PTK6 Signaling	BFO:0000050	kegg.pathway	hsa04012	ErbB signaling pathway - Homo sapiens (human)
+reactome	R-HSA-1306955	GRB7 events in ERBB2 signaling	BFO:0000050	kegg.pathway	hsa04012	ErbB signaling pathway - Homo sapiens (human)
+reactome	R-HSA-1358803	Downregulation of ERBB2:ERBB3 signaling	BFO:0000050	kegg.pathway	hsa04012	ErbB signaling pathway - Homo sapiens (human)
+reactome	R-HSA-1253288	Downregulation of ERBB4 signaling	BFO:0000050	kegg.pathway	hsa04012	ErbB signaling pathway - Homo sapiens (human)
+reactome	R-HSA-8863795	Downregulation of ERBB2 signaling	BFO:0000050	kegg.pathway	hsa04012	ErbB signaling pathway - Homo sapiens (human)
+reactome	R-HSA-1250347	SHC1 events in ERBB4 signaling	BFO:0000050	kegg.pathway	hsa04012	ErbB signaling pathway - Homo sapiens (human)
+reactome	R-HSA-1227986	Signaling by ERBB2	BFO:0000050	kegg.pathway	hsa04012	ErbB signaling pathway - Homo sapiens (human)
+reactome	R-HSA-1251985	Nuclear signaling by ERBB4	BFO:0000050	kegg.pathway	hsa04012	ErbB signaling pathway - Homo sapiens (human)
+reactome	R-HSA-1250196	SHC1 events in ERBB2 signaling	BFO:0000050	kegg.pathway	hsa04012	ErbB signaling pathway - Homo sapiens (human)
+reactome	R-HSA-1251932	PLCG1 events in ERBB2 signaling	BFO:0000050	kegg.pathway	hsa04012	ErbB signaling pathway - Homo sapiens (human)
+kegg.pathway	hsa00565	Ether lipid metabolism - Homo sapiens (human)	BFO:0000050	reactome	R-HSA-556833	Metabolism of lipids
+reactome	R-HSA-1483257	Phospholipid metabolism	BFO:0000050	kegg.pathway	hsa00565	Ether lipid metabolism - Homo sapiens (human)
+kegg.pathway	hsa00565	Ether lipid metabolism - Homo sapiens (human)	BFO:0000050	reactome	R-HSA-1430728	Metabolism
+kegg.pathway	hsa03460	Fanconi anemia pathway - Homo sapiens (human)	skos:exactMatch	reactome	R-HSA-6783310	Fanconi Anemia Pathway
+reactome	R-HSA-192456	Digestion of dietary lipid	BFO:0000050	kegg.pathway	hsa04975	Fat digestion and absorption - Homo sapiens (human)
+reactome	R-HSA-8963678	Intestinal lipid absorption	BFO:0000050	kegg.pathway	hsa04975	Fat digestion and absorption - Homo sapiens (human)
+kegg.pathway	hsa04975	Fat digestion and absorption - Homo sapiens (human)	BFO:0000050	reactome	R-HSA-8963676	Intestinal absorption
+kegg.pathway	hsa04975	Fat digestion and absorption - Homo sapiens (human)	BFO:0000050	reactome	R-HSA-8963743	Digestion and absorption
+kegg.pathway	hsa00061	Fatty acid biosynthesis - Homo sapiens (human)	BFO:0000050	reactome	R-HSA-1430728	Metabolism
+reactome	R-HSA-75105	Fatty acyl-CoA biosynthesis	BFO:0000050	kegg.pathway	hsa00061	Fatty acid biosynthesis - Homo sapiens (human)
+reactome	R-HSA-77346	Beta oxidation of decanoyl-CoA to octanoyl-CoA-CoA	BFO:0000050	kegg.pathway	hsa00071	Fatty acid degradation - Homo sapiens (human)
+reactome	R-HSA-77350	Beta oxidation of hexanoyl-CoA to butanoyl-CoA	BFO:0000050	kegg.pathway	hsa00071	Fatty acid degradation - Homo sapiens (human)
+reactome	R-HSA-77348	Beta oxidation of octanoyl-CoA to hexanoyl-CoA	BFO:0000050	kegg.pathway	hsa00071	Fatty acid degradation - Homo sapiens (human)
+kegg.pathway	hsa00071	Fatty acid degradation - Homo sapiens (human)	BFO:0000050	reactome	R-HSA-556833	Metabolism of lipids
+reactome	R-HSA-77286	mitochondrial fatty acid beta-oxidation of saturated fatty acids	BFO:0000050	kegg.pathway	hsa00071	Fatty acid degradation - Homo sapiens (human)
+kegg.pathway	hsa00071	Fatty acid degradation - Homo sapiens (human)	BFO:0000050	reactome	R-HSA-8978868	Fatty acid metabolism
+kegg.pathway	hsa00071	Fatty acid degradation - Homo sapiens (human)	BFO:0000050	reactome	R-HSA-1430728	Metabolism
+reactome	R-HSA-77285	Beta oxidation of myristoyl-CoA to lauroyl-CoA	BFO:0000050	kegg.pathway	hsa00071	Fatty acid degradation - Homo sapiens (human)
+reactome	R-HSA-77288	mitochondrial fatty acid beta-oxidation of unsaturated fatty acids	BFO:0000050	kegg.pathway	hsa00071	Fatty acid degradation - Homo sapiens (human)
+reactome	R-HSA-77310	Beta oxidation of lauroyl-CoA to decanoyl-CoA-CoA	BFO:0000050	kegg.pathway	hsa00071	Fatty acid degradation - Homo sapiens (human)
+reactome	R-HSA-77305	Beta oxidation of palmitoyl-CoA to myristoyl-CoA	BFO:0000050	kegg.pathway	hsa00071	Fatty acid degradation - Homo sapiens (human)
+kegg.pathway	hsa00062	Fatty acid elongation - Homo sapiens (human)	BFO:0000050	reactome	R-HSA-1430728	Metabolism
+kegg.pathway	hsa00062	Fatty acid elongation - Homo sapiens (human)	BFO:0000050	reactome	R-HSA-556833	Metabolism of lipids
+kegg.pathway	hsa00062	Fatty acid elongation - Homo sapiens (human)	BFO:0000050	reactome	R-HSA-8978868	Fatty acid metabolism
+kegg.pathway	hsa00062	Fatty acid elongation - Homo sapiens (human)	BFO:0000050	reactome	R-HSA-211935	Fatty acids
+kegg.pathway	hsa01212	Fatty acid metabolism - Homo sapiens (human)	skos:exactMatch	reactome	R-HSA-8978868	Fatty acid metabolism
+kegg.pathway	hsa01212	Fatty acid metabolism - Homo sapiens (human)	BFO:0000050	reactome	R-HSA-556833	Metabolism of lipids
+kegg.pathway	hsa01212	Fatty acid metabolism - Homo sapiens (human)	BFO:0000050	reactome	R-HSA-1430728	Metabolism
+kegg.pathway	hsa04664	Fc epsilon RI signaling pathway - Homo sapiens (human)	skos:exactMatch	reactome	R-HSA-2454202	Fc epsilon receptor (FCERI) signaling
+reactome	R-HSA-111995	phospho-PLA2 pathway	BFO:0000050	kegg.pathway	hsa04664	Fc epsilon RI signaling pathway - Homo sapiens (human)
+reactome	R-HSA-2454202	Fc epsilon receptor (FCERI) signaling	BFO:0000050	kegg.pathway	hsa04664	Fc epsilon RI signaling pathway - Homo sapiens (human)
+kegg.pathway	hsa04666	Fc gamma R-mediated phagocytosis - Homo sapiens (human)	skos:exactMatch	reactome	R-HSA-2029480	Fcgamma receptor (FCGR) dependent phagocytosis
+reactome	R-HSA-5619048	Defective SLC11A2 causes hypochromic microcytic anemia, with iron overload 1 (AHMIO1)	BFO:0000050	kegg.pathway	hsa04216	Ferroptosis - Homo sapiens (human)
+reactome	R-HSA-5578999	Defective GCLC causes Hemolytic anemia due to gamma-glutamylcysteine synthetase deficiency (HAGGSD)	BFO:0000050	kegg.pathway	hsa04216	Ferroptosis - Homo sapiens (human)
+reactome	R-HSA-3000157	Laminin interactions	BFO:0000050	kegg.pathway	hsa04510	Focal adhesion - Homo sapiens (human)
+reactome	R-HSA-446343	Localization of the PINCH-ILK-PARVIN complex to focal adhesions	BFO:0000050	kegg.pathway	hsa04510	Focal adhesion - Homo sapiens (human)
+reactome	R-HSA-9006921	Integrin signaling	BFO:0000050	kegg.pathway	hsa04510	Focal adhesion - Homo sapiens (human)
+reactome	R-HSA-3000171	Non-integrin membrane-ECM interactions	BFO:0000050	kegg.pathway	hsa04510	Focal adhesion - Homo sapiens (human)
+reactome	R-HSA-354192	Integrin alphaIIb beta3 signaling	BFO:0000050	kegg.pathway	hsa04510	Focal adhesion - Homo sapiens (human)
+kegg.pathway	hsa00790	Folate biosynthesis - Homo sapiens (human)	BFO:0000050	reactome	R-HSA-1430728	Metabolism
+reactome	R-HSA-947581	Molybdenum cofactor biosynthesis	BFO:0000050	kegg.pathway	hsa00790	Folate biosynthesis - Homo sapiens (human)
+kegg.pathway	hsa00790	Folate biosynthesis - Homo sapiens (human)	BFO:0000050	reactome	R-HSA-196849	Metabolism of water-soluble vitamins and cofactors
+kegg.pathway	hsa00790	Folate biosynthesis - Homo sapiens (human)	BFO:0000050	reactome	R-HSA-196854	Metabolism of vitamins and cofactors
+kegg.pathway	hsa00790	Folate biosynthesis - Homo sapiens (human)	BFO:0000050	reactome	R-HSA-1430728	Metabolism
+reactome	R-HSA-211163	AKT-mediated inactivation of FOXO1A	BFO:0000050	kegg.pathway	hsa04068	FoxO signaling pathway - Homo sapiens (human)
+reactome	R-HSA-5652227	Fructose biosynthesis	BFO:0000050	kegg.pathway	hsa00051	Fructose and mannose metabolism - Homo sapiens (human)
+reactome	R-HSA-446205	Synthesis of GDP-mannose	BFO:0000050	kegg.pathway	hsa00051	Fructose and mannose metabolism - Homo sapiens (human)
+kegg.pathway	hsa00051	Fructose and mannose metabolism - Homo sapiens (human)	BFO:0000050	reactome	R-HSA-1430728	Metabolism
+reactome	R-HSA-70350	Fructose catabolism	BFO:0000050	kegg.pathway	hsa00051	Fructose and mannose metabolism - Homo sapiens (human)
+reactome	R-HSA-5652084	Fructose metabolism	BFO:0000050	kegg.pathway	hsa00051	Fructose and mannose metabolism - Homo sapiens (human)
+reactome	R-HSA-977443	GABA receptor activation	BFO:0000050	kegg.pathway	hsa04727	GABAergic synapse - Homo sapiens (human)
+reactome	R-HSA-977444	GABA B receptor activation	BFO:0000050	kegg.pathway	hsa04727	GABAergic synapse - Homo sapiens (human)
+reactome	R-HSA-977442	GABA A (rho) receptor activation	BFO:0000050	kegg.pathway	hsa04727	GABAergic synapse - Homo sapiens (human)
+reactome	R-HSA-977441	GABA A receptor activation	BFO:0000050	kegg.pathway	hsa04727	GABAergic synapse - Homo sapiens (human)
+reactome	R-HSA-70370	Galactose catabolism	BFO:0000050	kegg.pathway	hsa00052	Galactose metabolism - Homo sapiens (human)
+reactome	R-HSA-190873	Gap junction degradation	BFO:0000050	kegg.pathway	hsa04540	Gap junction - Homo sapiens (human)
+reactome	R-HSA-191647	c-src mediated regulation of Cx43 function and closure of gap junctions	BFO:0000050	kegg.pathway	hsa04540	Gap junction - Homo sapiens (human)
+reactome	R-HSA-190828	Gap junction trafficking	BFO:0000050	kegg.pathway	hsa04540	Gap junction - Homo sapiens (human)
+reactome	R-HSA-196025	Formation of annular gap junctions	BFO:0000050	kegg.pathway	hsa04540	Gap junction - Homo sapiens (human)
+reactome	R-HSA-190861	Gap junction assembly	BFO:0000050	kegg.pathway	hsa04540	Gap junction - Homo sapiens (human)
+reactome	R-HSA-157858	Gap junction trafficking and regulation	BFO:0000050	kegg.pathway	hsa04540	Gap junction - Homo sapiens (human)
+reactome	R-HSA-191650	Regulation of gap junction activity	BFO:0000050	kegg.pathway	hsa04540	Gap junction - Homo sapiens (human)
+kegg.pathway	hsa04922	Glucagon signaling pathway - Homo sapiens (human)	skos:exactMatch	reactome	R-HSA-163359	Glucagon signaling in metabolic regulation
+reactome	R-HSA-451326	Activation of kainate receptors upon glutamate binding	BFO:0000050	kegg.pathway	hsa04724	Glutamatergic synapse - Homo sapiens (human)
+kegg.pathway	hsa04724	Glutamatergic synapse - Homo sapiens (human)	BFO:0000050	reactome	R-HSA-112313	Neurotransmitter uptake and metabolism In glial cells
+reactome	R-HSA-438066	Unblocking of NMDA receptor, glutamate binding and activation	BFO:0000050	kegg.pathway	hsa04724	Glutamatergic synapse - Homo sapiens (human)
+reactome	R-HSA-399710	Activation of AMPA receptors	BFO:0000050	kegg.pathway	hsa04724	Glutamatergic synapse - Homo sapiens (human)
+reactome	R-HSA-500657	Presynaptic function of Kainate receptors	BFO:0000050	kegg.pathway	hsa04724	Glutamatergic synapse - Homo sapiens (human)
+reactome	R-HSA-210500	Glutamate Neurotransmitter Release Cycle	BFO:0000050	kegg.pathway	hsa04724	Glutamatergic synapse - Homo sapiens (human)
+reactome	R-HSA-112313	Neurotransmitter uptake and metabolism In glial cells	BFO:0000050	kegg.pathway	hsa04724	Glutamatergic synapse - Homo sapiens (human)
+kegg.pathway	hsa00480	Glutathione metabolism - Homo sapiens (human)	skos:exactMatch	reactome	R-HSA-174403	Glutathione synthesis and recycling
+kegg.pathway	hsa00561	Glycerolipid metabolism - Homo sapiens (human)	BFO:0000050	reactome	R-HSA-556833	Metabolism of lipids
+kegg.pathway	hsa00561	Glycerolipid metabolism - Homo sapiens (human)	BFO:0000050	reactome	R-HSA-1430728	Metabolism
+reactome	R-HSA-1482883	Acyl chain remodeling of DAG and TAG	BFO:0000050	kegg.pathway	hsa00561	Glycerolipid metabolism - Homo sapiens (human)
+reactome	R-HSA-6814848	Glycerophospholipid catabolism	BFO:0000050	kegg.pathway	hsa00561	Glycerolipid metabolism - Homo sapiens (human)
+reactome	R-HSA-1482922	Acyl chain remodelling of PI	BFO:0000050	kegg.pathway	hsa00564	Glycerophospholipid metabolism - Homo sapiens (human)
+reactome	R-HSA-1483101	Synthesis of PS	BFO:0000050	kegg.pathway	hsa00564	Glycerophospholipid metabolism - Homo sapiens (human)
+kegg.pathway	hsa00564	Glycerophospholipid metabolism - Homo sapiens (human)	BFO:0000050	reactome	R-HSA-556833	Metabolism of lipids
+reactome	R-HSA-1483213	Synthesis of PE	BFO:0000050	kegg.pathway	hsa00564	Glycerophospholipid metabolism - Homo sapiens (human)
+reactome	R-HSA-1483206	Glycerophospholipid biosynthesis	BFO:0000050	kegg.pathway	hsa00564	Glycerophospholipid metabolism - Homo sapiens (human)
+kegg.pathway	hsa00564	Glycerophospholipid metabolism - Homo sapiens (human)	BFO:0000050	reactome	R-HSA-1430728	Metabolism
+reactome	R-HSA-192456	Digestion of dietary lipid	BFO:0000050	kegg.pathway	hsa00564	Glycerophospholipid metabolism - Homo sapiens (human)
+reactome	R-HSA-6814848	Glycerophospholipid catabolism	BFO:0000050	kegg.pathway	hsa00564	Glycerophospholipid metabolism - Homo sapiens (human)
+reactome	R-HSA-1482788	Acyl chain remodelling of PC	BFO:0000050	kegg.pathway	hsa00564	Glycerophospholipid metabolism - Homo sapiens (human)
+kegg.pathway	hsa00260	Glycine, serine and threonine metabolism - Homo sapiens (human)	BFO:0000050	reactome	R-HSA-1430728	Metabolism
+kegg.pathway	hsa00260	Glycine, serine and threonine metabolism - Homo sapiens (human)	BFO:0000050	reactome	R-HSA-140179	Amine Oxidase reactions
+reactome	R-HSA-6783984	Glycine degradation	BFO:0000050	kegg.pathway	hsa00260	Glycine, serine and threonine metabolism - Homo sapiens (human)
+kegg.pathway	hsa00260	Glycine, serine and threonine metabolism - Homo sapiens (human)	BFO:0000050	reactome	R-HSA-70614	Amino acid synthesis and interconversion (transamination)
+kegg.pathway	hsa00260	Glycine, serine and threonine metabolism - Homo sapiens (human)	BFO:0000050	reactome	R-HSA-71291	Metabolism of amino acids and derivatives
+kegg.pathway	hsa00010	Glycolysis / Gluconeogenesis - Homo sapiens (human)	BFO:0000050	reactome	R-HSA-70326	Glucose metabolism
+reactome	R-HSA-70263	Gluconeogenesis	BFO:0000050	kegg.pathway	hsa00010	Glycolysis / Gluconeogenesis - Homo sapiens (human)
+kegg.pathway	hsa00010	Glycolysis / Gluconeogenesis - Homo sapiens (human)	BFO:0000050	reactome	R-HSA-1430728	Metabolism
+kegg.pathway	hsa00010	Glycolysis / Gluconeogenesis - Homo sapiens (human)	BFO:0000050	reactome	R-HSA-71387	Metabolism of carbohydrates
+reactome	R-HSA-70171	Glycolysis	BFO:0000050	kegg.pathway	hsa00010	Glycolysis / Gluconeogenesis - Homo sapiens (human)
+kegg.pathway	hsa00532	Glycosaminoglycan biosynthesis - chondroitin sulfate / dermatan sulfate - Homo sapiens (human)	BFO:0000050	reactome	R-HSA-1430728	Metabolism
+reactome	R-HSA-2022870	Chondroitin sulfate biosynthesis	BFO:0000050	kegg.pathway	hsa00532	Glycosaminoglycan biosynthesis - chondroitin sulfate / dermatan sulfate - Homo sapiens (human)
+reactome	R-HSA-1630316	Glycosaminoglycan metabolism	BFO:0000050	kegg.pathway	hsa00532	Glycosaminoglycan biosynthesis - chondroitin sulfate / dermatan sulfate - Homo sapiens (human)
+reactome	R-HSA-1793185	Chondroitin sulfate/dermatan sulfate metabolism	BFO:0000050	kegg.pathway	hsa00532	Glycosaminoglycan biosynthesis - chondroitin sulfate / dermatan sulfate - Homo sapiens (human)
+reactome	R-HSA-2022923	Dermatan sulfate biosynthesis	BFO:0000050	kegg.pathway	hsa00532	Glycosaminoglycan biosynthesis - chondroitin sulfate / dermatan sulfate - Homo sapiens (human)
+kegg.pathway	hsa00534	Glycosaminoglycan biosynthesis - heparan sulfate / heparin - Homo sapiens (human)	BFO:0000050	reactome	R-HSA-1430728	Metabolism
+kegg.pathway	hsa00534	Glycosaminoglycan biosynthesis - heparan sulfate / heparin - Homo sapiens (human)	BFO:0000050	reactome	R-HSA-1630316	Glycosaminoglycan metabolism
+reactome	R-HSA-1638091	Heparan sulfate/heparin (HS-GAG) metabolism	BFO:0000050	kegg.pathway	hsa00534	Glycosaminoglycan biosynthesis - heparan sulfate / heparin - Homo sapiens (human)
+kegg.pathway	hsa00533	Glycosaminoglycan biosynthesis - keratan sulfate - Homo sapiens (human)	BFO:0000050	reactome	R-HSA-1630316	Glycosaminoglycan metabolism
+kegg.pathway	hsa00533	Glycosaminoglycan biosynthesis - keratan sulfate - Homo sapiens (human)	BFO:0000050	reactome	R-HSA-1430728	Metabolism
+reactome	R-HSA-2022854	Keratan sulfate biosynthesis	BFO:0000050	kegg.pathway	hsa00533	Glycosaminoglycan biosynthesis - keratan sulfate - Homo sapiens (human)
+kegg.pathway	hsa00531	Glycosaminoglycan degradation - Homo sapiens (human)	BFO:0000050	reactome	R-HSA-1430728	Metabolism
+kegg.pathway	hsa00531	Glycosaminoglycan degradation - Homo sapiens (human)	BFO:0000050	reactome	R-HSA-1630316	Glycosaminoglycan metabolism
+kegg.pathway	hsa00603	Glycosphingolipid biosynthesis - globo and isoglobo series - Homo sapiens (human)	BFO:0000050	reactome	R-HSA-428157	Sphingolipid metabolism
+kegg.pathway	hsa00603	Glycosphingolipid biosynthesis - globo and isoglobo series - Homo sapiens (human)	BFO:0000050	reactome	R-HSA-1660662	Glycosphingolipid metabolism
+kegg.pathway	hsa00603	Glycosphingolipid biosynthesis - globo and isoglobo series - Homo sapiens (human)	BFO:0000050	reactome	R-HSA-556833	Metabolism of lipids
+kegg.pathway	hsa00601	Glycosphingolipid biosynthesis - lacto and neolacto series - Homo sapiens (human)	BFO:0000050	reactome	R-HSA-556833	Metabolism of lipids
+kegg.pathway	hsa00601	Glycosphingolipid biosynthesis - lacto and neolacto series - Homo sapiens (human)	BFO:0000050	reactome	R-HSA-1660662	Glycosphingolipid metabolism
+kegg.pathway	hsa00601	Glycosphingolipid biosynthesis - lacto and neolacto series - Homo sapiens (human)	BFO:0000050	reactome	R-HSA-428157	Sphingolipid metabolism
+kegg.pathway	hsa00563	Glycosylphosphatidylinositol (GPI)-anchor biosynthesis - Homo sapiens (human)	skos:exactMatch	reactome	R-HSA-162710	Synthesis of glycosylphosphatidylinositol (GPI)
+reactome	R-HSA-162710	Synthesis of glycosylphosphatidylinositol (GPI)	BFO:0000050	kegg.pathway	hsa00563	Glycosylphosphatidylinositol (GPI)-anchor biosynthesis - Homo sapiens (human)
+reactome	R-HSA-163125	Post-translational modification: synthesis of GPI-anchored proteins	BFO:0000050	kegg.pathway	hsa00563	Glycosylphosphatidylinositol (GPI)-anchor biosynthesis - Homo sapiens (human)
+reactome	R-HSA-389661	Glyoxylate metabolism and glycine degradation	BFO:0000050	kegg.pathway	hsa00630	Glyoxylate and dicarboxylate metabolism - Homo sapiens (human)
+kegg.pathway	hsa00630	Glyoxylate and dicarboxylate metabolism - Homo sapiens (human)	BFO:0000050	reactome	R-HSA-1430728	Metabolism
+kegg.pathway	hsa00630	Glyoxylate and dicarboxylate metabolism - Homo sapiens (human)	BFO:0000050	reactome	R-HSA-71291	Metabolism of amino acids and derivatives
+kegg.pathway	hsa05332	Graft-versus-host disease - Homo sapiens (human)	BFO:0000050	reactome	R-HSA-1280218	Adaptive Immune System
+kegg.pathway	hsa05332	Graft-versus-host disease - Homo sapiens (human)	BFO:0000050	reactome	R-HSA-168256	Immune System
+kegg.pathway	hsa04340	Hedgehog signaling pathway - Homo sapiens (human)	skos:exactMatch	reactome	R-HSA-5358351	Signaling by Hedgehog
+reactome	R-HSA-5632684	Hedgehog 'on' state	BFO:0000050	kegg.pathway	hsa04340	Hedgehog signaling pathway - Homo sapiens (human)
+reactome	R-HSA-5358346	Hedgehog ligand biogenesis	BFO:0000050	kegg.pathway	hsa04340	Hedgehog signaling pathway - Homo sapiens (human)
+reactome	R-HSA-5358351	Signaling by Hedgehog	BFO:0000050	kegg.pathway	hsa04340	Hedgehog signaling pathway - Homo sapiens (human)
+reactome	R-HSA-5610787	Hedgehog 'off' state	BFO:0000050	kegg.pathway	hsa04340	Hedgehog signaling pathway - Homo sapiens (human)
+kegg.pathway	hsa04390	Hippo signaling pathway - Homo sapiens (human)	skos:exactMatch	reactome	R-HSA-2028269	Signaling by Hippo
+kegg.pathway	hsa04392	Hippo signaling pathway - multiple species - Homo sapiens (human)	skos:exactMatch	reactome	R-HSA-2028269	Signaling by Hippo
+kegg.pathway	hsa00340	Histidine metabolism - Homo sapiens (human)	BFO:0000050	reactome	R-HSA-6788656	Histidine, lysine, phenylalanine, tyrosine, proline and tryptophan catabolism
+kegg.pathway	hsa00340	Histidine metabolism - Homo sapiens (human)	BFO:0000050	reactome	R-HSA-1430728	Metabolism
+kegg.pathway	hsa00340	Histidine metabolism - Homo sapiens (human)	BFO:0000050	reactome	R-HSA-140179	Amine Oxidase reactions
+kegg.pathway	hsa00340	Histidine metabolism - Homo sapiens (human)	BFO:0000050	reactome	R-HSA-71291	Metabolism of amino acids and derivatives
+reactome	R-HSA-70921	Histidine catabolism	BFO:0000050	kegg.pathway	hsa00340	Histidine metabolism - Homo sapiens (human)
+reactome	R-HSA-5693538	Homology Directed Repair	BFO:0000050	kegg.pathway	hsa03440	Homologous recombination - Homo sapiens (human)
+kegg.pathway	hsa04657	IL-17 signaling pathway - Homo sapiens (human)	skos:exactMatch	reactome	R-HSA-448424	Interleukin-17 signaling
+kegg.pathway	hsa04657	IL-17 signaling pathway - Homo sapiens (human)	BFO:0000050	reactome	R-HSA-1280215	Cytokine Signaling in Immune system
+kegg.pathway	hsa04657	IL-17 signaling pathway - Homo sapiens (human)	BFO:0000050	reactome	R-HSA-449147	Signaling by Interleukins
+kegg.pathway	hsa04657	IL-17 signaling pathway - Homo sapiens (human)	BFO:0000050	reactome	R-HSA-168256	Immune System
+reactome	R-HSA-168277	Influenza Virus Induced Apoptosis	BFO:0000050	kegg.pathway	hsa05164	Influenza A - Homo sapiens (human)
+reactome	R-HSA-168255	Influenza Life Cycle	BFO:0000050	kegg.pathway	hsa05164	Influenza A - Homo sapiens (human)
+kegg.pathway	hsa05164	Influenza A - Homo sapiens (human)	BFO:0000050	reactome	R-HSA-168255	Influenza Life Cycle
+kegg.pathway	hsa05164	Influenza A - Homo sapiens (human)	BFO:0000050	reactome	R-HSA-168254	Influenza Infection
+reactome	R-HSA-168254	Influenza Infection	BFO:0000050	kegg.pathway	hsa05164	Influenza A - Homo sapiens (human)
+kegg.pathway	hsa00562	Inositol phosphate metabolism - Homo sapiens (human)	skos:exactMatch	reactome	R-HSA-1483249	Inositol phosphate metabolism
+kegg.pathway	hsa04911	Insulin secretion - Homo sapiens (human)	skos:exactMatch	reactome	R-HSA-422356	Regulation of insulin secretion
+reactome	R-HSA-74752	Signaling by Insulin receptor	BFO:0000050	kegg.pathway	hsa04910	Insulin signaling pathway - Homo sapiens (human)
+reactome	R-HSA-74751	Insulin receptor signalling cascade	BFO:0000050	kegg.pathway	hsa04910	Insulin signaling pathway - Homo sapiens (human)
+kegg.pathway	hsa04672	Intestinal immune network for IgA production - Homo sapiens (human)	BFO:0000050	reactome	R-HSA-168256	Immune System
+kegg.pathway	hsa04672	Intestinal immune network for IgA production - Homo sapiens (human)	BFO:0000050	reactome	R-HSA-1280218	Adaptive Immune System
+reactome	R-HSA-877312	Regulation of IFNG signaling	BFO:0000050	kegg.pathway	hsa04630	Jak-STAT signaling pathway - Homo sapiens (human)
+reactome	R-HSA-9020958	Interleukin-21 signaling	BFO:0000050	kegg.pathway	hsa04630	Jak-STAT signaling pathway - Homo sapiens (human)
+reactome	R-HSA-8983432	Interleukin-15 signaling	BFO:0000050	kegg.pathway	hsa04630	Jak-STAT signaling pathway - Homo sapiens (human)
+reactome	R-HSA-8985947	Interleukin-9 signaling	BFO:0000050	kegg.pathway	hsa04630	Jak-STAT signaling pathway - Homo sapiens (human)
+reactome	R-HSA-1059683	Interleukin-6 signaling	BFO:0000050	kegg.pathway	hsa04630	Jak-STAT signaling pathway - Homo sapiens (human)
+reactome	R-HSA-8950505	Gene and protein expression by JAK-STAT signaling after Interleukin-12 stimulation	BFO:0000050	kegg.pathway	hsa04630	Jak-STAT signaling pathway - Homo sapiens (human)
+reactome	R-HSA-9020933	Interleukin-23 signaling	BFO:0000050	kegg.pathway	hsa04630	Jak-STAT signaling pathway - Homo sapiens (human)
+kegg.pathway	hsa00591	Linoleic acid metabolism - Homo sapiens (human)	skos:exactMatch	reactome	R-HSA-2046105	Linoleic acid (LA) metabolism
+kegg.pathway	hsa00591	Linoleic acid metabolism - Homo sapiens (human)	BFO:0000050	reactome	R-HSA-1430728	Metabolism
+kegg.pathway	hsa00591	Linoleic acid metabolism - Homo sapiens (human)	BFO:0000050	reactome	R-HSA-556833	Metabolism of lipids
+kegg.pathway	hsa00785	Lipoic acid metabolism - Homo sapiens (human)	BFO:0000050	reactome	R-HSA-8978868	Fatty acid metabolism
+kegg.pathway	hsa00785	Lipoic acid metabolism - Homo sapiens (human)	BFO:0000050	reactome	R-HSA-1430728	Metabolism
+kegg.pathway	hsa00310	Lysine degradation - Homo sapiens (human)	skos:exactMatch	reactome	R-HSA-71064	Lysine catabolism
+reactome	R-HSA-8853383	Lysosomal oligosaccharide catabolism	BFO:0000050	kegg.pathway	hsa04142	Lysosome - Homo sapiens (human)
+reactome	R-HSA-432720	Lysosome Vesicle Biogenesis	BFO:0000050	kegg.pathway	hsa04142	Lysosome - Homo sapiens (human)
+kegg.pathway	hsa04010	MAPK signaling pathway - Homo sapiens (human)	skos:exactMatch	reactome	R-HSA-5683057	MAPK family signaling cascades
+reactome	R-HSA-198753	ERK/MAPK targets	BFO:0000050	kegg.pathway	hsa04010	MAPK signaling pathway - Homo sapiens (human)
+reactome	R-HSA-5684996	MAPK1/MAPK3 signaling	BFO:0000050	kegg.pathway	hsa04010	MAPK signaling pathway - Homo sapiens (human)
+reactome	R-HSA-5675221	Negative regulation of MAPK pathway	BFO:0000050	kegg.pathway	hsa04010	MAPK signaling pathway - Homo sapiens (human)
+reactome	R-HSA-5674499	Negative feedback regulation of MAPK pathway	BFO:0000050	kegg.pathway	hsa04010	MAPK signaling pathway - Homo sapiens (human)
+reactome	R-HSA-450282	MAPK targets/ Nuclear events mediated by MAP kinases	BFO:0000050	kegg.pathway	hsa04010	MAPK signaling pathway - Homo sapiens (human)
+reactome	R-HSA-5684264	MAP3K8 (TPL2)-dependent MAPK1/3 activation	BFO:0000050	kegg.pathway	hsa04010	MAPK signaling pathway - Homo sapiens (human)
+reactome	R-HSA-2871796	FCERI mediated MAPK activation	BFO:0000050	kegg.pathway	hsa04010	MAPK signaling pathway - Homo sapiens (human)
+reactome	R-HSA-372708	p130Cas linkage to MAPK signaling for integrins	BFO:0000050	kegg.pathway	hsa04010	MAPK signaling pathway - Homo sapiens (human)
+reactome	R-HSA-112411	MAPK1 (ERK2) activation	BFO:0000050	kegg.pathway	hsa04010	MAPK signaling pathway - Homo sapiens (human)
+reactome	R-HSA-171007	p38MAPK events	BFO:0000050	kegg.pathway	hsa04010	MAPK signaling pathway - Homo sapiens (human)
+reactome	R-HSA-5674135	MAP2K and MAPK activation	BFO:0000050	kegg.pathway	hsa04010	MAPK signaling pathway - Homo sapiens (human)
+reactome	R-HSA-5687128	MAPK6/MAPK4 signaling	BFO:0000050	kegg.pathway	hsa04010	MAPK signaling pathway - Homo sapiens (human)
+reactome	R-HSA-450302	activated TAK1 mediates p38 MAPK activation	BFO:0000050	kegg.pathway	hsa04010	MAPK signaling pathway - Homo sapiens (human)
+reactome	R-HSA-112409	RAF-independent MAPK1/3 activation	BFO:0000050	kegg.pathway	hsa04010	MAPK signaling pathway - Homo sapiens (human)
+reactome	R-HSA-110056	MAPK3 (ERK1) activation	BFO:0000050	kegg.pathway	hsa04010	MAPK signaling pathway - Homo sapiens (human)
+reactome	R-HSA-881907	Gastrin-CREB signalling pathway via PKC and MAPK	BFO:0000050	kegg.pathway	hsa04010	MAPK signaling pathway - Homo sapiens (human)
+reactome	R-HSA-977068	Termination of O-glycan biosynthesis	BFO:0000050	kegg.pathway	hsa00515	Mannose type O-glycan biosynthesis - Homo sapiens (human)
+reactome	R-HSA-5173105	O-linked glycosylation	BFO:0000050	kegg.pathway	hsa00515	Mannose type O-glycan biosynthesis - Homo sapiens (human)
+reactome	R-HSA-5619073	Defective GCK causes maturity-onset diabetes of the young 2 (MODY2)	BFO:0000050	kegg.pathway	hsa04950	Maturity onset diabetes of the young - Homo sapiens (human)
+kegg.pathway	hsa04916	Melanogenesis - Homo sapiens (human)	skos:exactMatch	reactome	R-HSA-5662702	Melanin biosynthesis
+reactome	R-HSA-5662702	Melanin biosynthesis	BFO:0000050	kegg.pathway	hsa04916	Melanogenesis - Homo sapiens (human)
+kegg.pathway	hsa01100	Metabolic pathways - Homo sapiens (human)	skos:exactMatch	reactome	R-HSA-1430728	Metabolism
+kegg.pathway	hsa00980	Metabolism of xenobiotics by cytochrome P450 - Homo sapiens (human)	BFO:0000050	reactome	R-HSA-211981	Xenobiotics
+kegg.pathway	hsa04978	Mineral absorption - Homo sapiens (human)	BFO:0000050	reactome	R-HSA-8963676	Intestinal absorption
+kegg.pathway	hsa04978	Mineral absorption - Homo sapiens (human)	BFO:0000050	reactome	R-HSA-8963743	Digestion and absorption
+kegg.pathway	hsa04978	Mineral absorption - Homo sapiens (human)	BFO:0000050	reactome	R-HSA-382551	Transport of small molecules
+kegg.pathway	hsa03430	Mismatch repair - Homo sapiens (human)	skos:exactMatch	reactome	R-HSA-5358508	Mismatch Repair
+kegg.pathway	hsa04137	Mitophagy - animal - Homo sapiens (human)	skos:exactMatch	reactome	R-HSA-5205647	Mitophagy
+reactome	R-HSA-964739	N-glycan trimming and elongation in the cis-Golgi	BFO:0000050	kegg.pathway	hsa00510	N-Glycan biosynthesis - Homo sapiens (human)
+reactome	R-HSA-975577	N-Glycan antennae elongation	BFO:0000050	kegg.pathway	hsa00510	N-Glycan biosynthesis - Homo sapiens (human)
+reactome	R-HSA-975576	N-glycan antennae elongation in the medial/trans-Golgi	BFO:0000050	kegg.pathway	hsa00510	N-Glycan biosynthesis - Homo sapiens (human)
+reactome	R-HSA-5357956	TNFR1-induced NFkappaB signaling pathway	BFO:0000050	kegg.pathway	hsa04064	NF-kappa B signaling pathway - Homo sapiens (human)
+reactome	R-HSA-209560	NF-kB is activated and signals survival	BFO:0000050	kegg.pathway	hsa04064	NF-kappa B signaling pathway - Homo sapiens (human)
+kegg.pathway	hsa04650	Natural killer cell mediated cytotoxicity - Homo sapiens (human)	BFO:0000050	reactome	R-HSA-168256	Immune System
+kegg.pathway	hsa04217	Necroptosis - Homo sapiens (human)	skos:exactMatch	reactome	R-HSA-5675482	Regulation of necroptotic cell death
+kegg.pathway	hsa00524	Neomycin, kanamycin and gentamicin biosynthesis - Homo sapiens (human)	BFO:0000050	reactome	R-HSA-1430728	Metabolism
+reactome	R-HSA-205017	NFG and proNGF binds to p75NTR	BFO:0000050	kegg.pathway	hsa04722	Neurotrophin signaling pathway - Homo sapiens (human)
+kegg.pathway	hsa00760	Nicotinate and nicotinamide metabolism - Homo sapiens (human)	BFO:0000050	reactome	R-HSA-1430728	Metabolism
+reactome	R-HSA-196807	Nicotinate metabolism	BFO:0000050	kegg.pathway	hsa00760	Nicotinate and nicotinamide metabolism - Homo sapiens (human)
+reactome	R-HSA-197264	Nicotinamide salvaging	BFO:0000050	kegg.pathway	hsa00760	Nicotinate and nicotinamide metabolism - Homo sapiens (human)
+kegg.pathway	hsa00910	Nitrogen metabolism - Homo sapiens (human)	BFO:0000050	reactome	R-HSA-1430728	Metabolism
+kegg.pathway	hsa00910	Nitrogen metabolism - Homo sapiens (human)	BFO:0000050	reactome	R-HSA-70614	Amino acid synthesis and interconversion (transamination)
+kegg.pathway	hsa00910	Nitrogen metabolism - Homo sapiens (human)	BFO:0000050	reactome	R-HSA-71291	Metabolism of amino acids and derivatives
+kegg.pathway	hsa03450	Non-homologous end-joining - Homo sapiens (human)	skos:exactMatch	reactome	R-HSA-5693571	Nonhomologous End-Joining (NHEJ)
+kegg.pathway	hsa04330	Notch signaling pathway - Homo sapiens (human)	skos:exactMatch	reactome	R-HSA-157118	Signaling by NOTCH
+kegg.pathway	hsa03420	Nucleotide excision repair - Homo sapiens (human)	skos:exactMatch	reactome	R-HSA-5696398	Nucleotide Excision Repair
+kegg.pathway	hsa04740	Olfactory transduction - Homo sapiens (human)	skos:exactMatch	reactome	R-HSA-381753	Olfactory Signaling Pathway
+kegg.pathway	hsa00670	One carbon pool by folate - Homo sapiens (human)	BFO:0000050	reactome	R-HSA-196757	Metabolism of folate and pterines
+kegg.pathway	hsa00670	One carbon pool by folate - Homo sapiens (human)	BFO:0000050	reactome	R-HSA-1430728	Metabolism
+kegg.pathway	hsa00670	One carbon pool by folate - Homo sapiens (human)	BFO:0000050	reactome	R-HSA-196854	Metabolism of vitamins and cofactors
+kegg.pathway	hsa00511	Other glycan degradation - Homo sapiens (human)	BFO:0000050	reactome	R-HSA-1430728	Metabolism
+reactome	R-HSA-977068	Termination of O-glycan biosynthesis	BFO:0000050	kegg.pathway	hsa00514	Other types of O-glycan biosynthesis - Homo sapiens (human)
+reactome	R-HSA-193144	Estrogen biosynthesis	BFO:0000050	kegg.pathway	hsa04913	Ovarian steroidogenesis - Homo sapiens (human)
+reactome	R-HSA-193048	Androgen biosynthesis	BFO:0000050	kegg.pathway	hsa04913	Ovarian steroidogenesis - Homo sapiens (human)
+kegg.pathway	hsa04913	Ovarian steroidogenesis - Homo sapiens (human)	BFO:0000050	reactome	R-HSA-1430728	Metabolism
+kegg.pathway	hsa00190	Oxidative phosphorylation - Homo sapiens (human)	BFO:0000050	reactome	R-HSA-1430728	Metabolism
+reactome	R-HSA-71737	Pyrophosphate hydrolysis	BFO:0000050	kegg.pathway	hsa00190	Oxidative phosphorylation - Homo sapiens (human)
+kegg.pathway	hsa00190	Oxidative phosphorylation - Homo sapiens (human)	BFO:0000050	reactome	R-HSA-1428517	The citric acid (TCA) cycle and respiratory electron transport
+reactome	R-HSA-163210	Formation of ATP by chemiosmotic coupling	BFO:0000050	kegg.pathway	hsa00190	Oxidative phosphorylation - Homo sapiens (human)
+kegg.pathway	hsa04151	PI3K-Akt signaling pathway - Homo sapiens (human)	skos:exactMatch	reactome	R-HSA-198203	PI3K/AKT activation
+reactome	R-HSA-196783	Coenzyme A biosynthesis	BFO:0000050	kegg.pathway	hsa00770	Pantothenate and CoA biosynthesis - Homo sapiens (human)
+kegg.pathway	hsa00770	Pantothenate and CoA biosynthesis - Homo sapiens (human)	BFO:0000050	reactome	R-HSA-196854	Metabolism of vitamins and cofactors
+kegg.pathway	hsa00770	Pantothenate and CoA biosynthesis - Homo sapiens (human)	BFO:0000050	reactome	R-HSA-1430728	Metabolism
+reactome	R-HSA-199220	Vitamin B5 (pantothenate) metabolism	BFO:0000050	kegg.pathway	hsa00770	Pantothenate and CoA biosynthesis - Homo sapiens (human)
+reactome	R-HSA-5619081	Defective SLC6A3 causes Parkinsonism-dystonia infantile (PKDYS)	BFO:0000050	kegg.pathway	hsa05012	Parkinson's disease - Homo sapiens (human)
+reactome	R-HSA-111452	Activation and oligomerization of BAK protein	BFO:0000050	kegg.pathway	hsa05200	Pathways in cancer - Homo sapiens (human)
+reactome	R-HSA-5632928	Defective Mismatch Repair Associated With MSH2	BFO:0000050	kegg.pathway	hsa05200	Pathways in cancer - Homo sapiens (human)
+reactome	R-HSA-211163	AKT-mediated inactivation of FOXO1A	BFO:0000050	kegg.pathway	hsa05200	Pathways in cancer - Homo sapiens (human)
+reactome	R-HSA-111461	Cytochrome c-mediated apoptotic response	BFO:0000050	kegg.pathway	hsa05200	Pathways in cancer - Homo sapiens (human)
+reactome	R-HSA-1169092	Activation of RAS in B cells	BFO:0000050	kegg.pathway	hsa05200	Pathways in cancer - Homo sapiens (human)
+reactome	R-HSA-5632927	Defective Mismatch Repair Associated With MSH3	BFO:0000050	kegg.pathway	hsa05200	Pathways in cancer - Homo sapiens (human)
+reactome	R-HSA-2033519	Activated point mutants of FGFR2	BFO:0000050	kegg.pathway	hsa05200	Pathways in cancer - Homo sapiens (human)
+reactome	R-HSA-5661270	Catabolism of glucuronate to xylulose-5-phosphate	BFO:0000050	kegg.pathway	hsa00040	Pentose and glucuronate interconversions - Homo sapiens (human)
+kegg.pathway	hsa00040	Pentose and glucuronate interconversions - Homo sapiens (human)	BFO:0000050	reactome	R-HSA-1430728	Metabolism
+kegg.pathway	hsa00030	Pentose phosphate pathway - Homo sapiens (human)	skos:exactMatch	reactome	R-HSA-71336	Pentose phosphate pathway (hexose monophosphate shunt)
+reactome	R-HSA-390918	Peroxisomal lipid metabolism	BFO:0000050	kegg.pathway	hsa04146	Peroxisome - Homo sapiens (human)
+reactome	R-HSA-389542	NADPH regeneration	BFO:0000050	kegg.pathway	hsa04146	Peroxisome - Homo sapiens (human)
+kegg.pathway	hsa04146	Peroxisome - Homo sapiens (human)	BFO:0000050	reactome	R-HSA-1430728	Metabolism
+kegg.pathway	hsa04145	Phagosome - Homo sapiens (human)	BFO:0000050	reactome	R-HSA-1280218	Adaptive Immune System
+reactome	R-HSA-1236974	ER-Phagosome pathway	BFO:0000050	kegg.pathway	hsa04145	Phagosome - Homo sapiens (human)
+kegg.pathway	hsa04145	Phagosome - Homo sapiens (human)	BFO:0000050	reactome	R-HSA-168256	Immune System
+kegg.pathway	hsa04145	Phagosome - Homo sapiens (human)	BFO:0000050	reactome	R-HSA-168249	Innate Immune System
+kegg.pathway	hsa00360	Phenylalanine metabolism - Homo sapiens (human)	BFO:0000050	reactome	R-HSA-1430728	Metabolism
+kegg.pathway	hsa00360	Phenylalanine metabolism - Homo sapiens (human)	BFO:0000050	reactome	R-HSA-71291	Metabolism of amino acids and derivatives
+kegg.pathway	hsa00360	Phenylalanine metabolism - Homo sapiens (human)	BFO:0000050	reactome	R-HSA-70614	Amino acid synthesis and interconversion (transamination)
+kegg.pathway	hsa00360	Phenylalanine metabolism - Homo sapiens (human)	BFO:0000050	reactome	R-HSA-6788656	Histidine, lysine, phenylalanine, tyrosine, proline and tryptophan catabolism
+kegg.pathway	hsa00400	Phenylalanine, tyrosine and tryptophan biosynthesis - Homo sapiens (human)	BFO:0000050	reactome	R-HSA-1430728	Metabolism
+reactome	R-HSA-71182	Phenylalanine and tyrosine catabolism	BFO:0000050	kegg.pathway	hsa00400	Phenylalanine, tyrosine and tryptophan biosynthesis - Homo sapiens (human)
+kegg.pathway	hsa00400	Phenylalanine, tyrosine and tryptophan biosynthesis - Homo sapiens (human)	BFO:0000050	reactome	R-HSA-71291	Metabolism of amino acids and derivatives
+kegg.pathway	hsa00400	Phenylalanine, tyrosine and tryptophan biosynthesis - Homo sapiens (human)	BFO:0000050	reactome	R-HSA-70614	Amino acid synthesis and interconversion (transamination)
+kegg.pathway	hsa00400	Phenylalanine, tyrosine and tryptophan biosynthesis - Homo sapiens (human)	BFO:0000050	reactome	R-HSA-6788656	Histidine, lysine, phenylalanine, tyrosine, proline and tryptophan catabolism
+reactome	R-HSA-8847453	Synthesis of PIPs in the nucleus	BFO:0000050	kegg.pathway	hsa04070	Phosphatidylinositol signaling system - Homo sapiens (human)
+reactome	R-HSA-1660516	Synthesis of PIPs at the early endosome membrane	BFO:0000050	kegg.pathway	hsa04070	Phosphatidylinositol signaling system - Homo sapiens (human)
+reactome	R-HSA-1660517	Synthesis of PIPs at the late endosome membrane	BFO:0000050	kegg.pathway	hsa04070	Phosphatidylinositol signaling system - Homo sapiens (human)
+reactome	R-HSA-1483249	Inositol phosphate metabolism	BFO:0000050	kegg.pathway	hsa04070	Phosphatidylinositol signaling system - Homo sapiens (human)
+reactome	R-HSA-1855204	Synthesis of IP3 and IP4 in the cytosol	BFO:0000050	kegg.pathway	hsa04070	Phosphatidylinositol signaling system - Homo sapiens (human)
+kegg.pathway	hsa04070	Phosphatidylinositol signaling system - Homo sapiens (human)	BFO:0000050	reactome	R-HSA-1430728	Metabolism
+reactome	R-HSA-1483248	Synthesis of PIPs at the ER membrane	BFO:0000050	kegg.pathway	hsa04070	Phosphatidylinositol signaling system - Homo sapiens (human)
+reactome	R-HSA-1855183	Synthesis of IP2, IP, and Ins in the cytosol	BFO:0000050	kegg.pathway	hsa04070	Phosphatidylinositol signaling system - Homo sapiens (human)
+reactome	R-HSA-1660499	Synthesis of PIPs at the plasma membrane	BFO:0000050	kegg.pathway	hsa04070	Phosphatidylinositol signaling system - Homo sapiens (human)
+reactome	R-HSA-1855191	Synthesis of IPs in the nucleus	BFO:0000050	kegg.pathway	hsa04070	Phosphatidylinositol signaling system - Homo sapiens (human)
+reactome	R-HSA-1660514	Synthesis of PIPs at the Golgi membrane	BFO:0000050	kegg.pathway	hsa04070	Phosphatidylinositol signaling system - Homo sapiens (human)
+kegg.pathway	hsa00440	Phosphonate and phosphinate metabolism - Homo sapiens (human)	BFO:0000050	reactome	R-HSA-1430728	Metabolism
+kegg.pathway	hsa04744	Phototransduction - Homo sapiens (human)	skos:exactMatch	reactome	R-HSA-2187338	Visual phototransduction
+reactome	R-HSA-75892	Platelet Adhesion to exposed collagen	BFO:0000050	kegg.pathway	hsa04611	Platelet activation - Homo sapiens (human)
+kegg.pathway	hsa00860	Porphyrin and chlorophyll metabolism - Homo sapiens (human)	BFO:0000050	reactome	R-HSA-1430728	Metabolism
+reactome	R-HSA-189483	Heme degradation	BFO:0000050	kegg.pathway	hsa00860	Porphyrin and chlorophyll metabolism - Homo sapiens (human)
+reactome	R-HSA-189445	Metabolism of porphyrins	BFO:0000050	kegg.pathway	hsa00860	Porphyrin and chlorophyll metabolism - Homo sapiens (human)
+reactome	R-HSA-189451	Heme biosynthesis	BFO:0000050	kegg.pathway	hsa00860	Porphyrin and chlorophyll metabolism - Homo sapiens (human)
+kegg.pathway	hsa00120	Primary bile acid biosynthesis - Homo sapiens (human)	BFO:0000050	reactome	R-HSA-193368	Synthesis of bile acids and bile salts via 7alpha-hydroxycholesterol
+kegg.pathway	hsa00120	Primary bile acid biosynthesis - Homo sapiens (human)	BFO:0000050	reactome	R-HSA-1430728	Metabolism
+kegg.pathway	hsa00120	Primary bile acid biosynthesis - Homo sapiens (human)	BFO:0000050	reactome	R-HSA-192105	Synthesis of bile acids and bile salts
+kegg.pathway	hsa00120	Primary bile acid biosynthesis - Homo sapiens (human)	BFO:0000050	reactome	R-HSA-193775	Synthesis of bile acids and bile salts via 24-hydroxycholesterol
+kegg.pathway	hsa00120	Primary bile acid biosynthesis - Homo sapiens (human)	BFO:0000050	reactome	R-HSA-194068	Bile acid and bile salt metabolism
+kegg.pathway	hsa04917	Prolactin signaling pathway - Homo sapiens (human)	skos:exactMatch	reactome	R-HSA-1170546	Prolactin receptor signaling
+reactome	R-HSA-71032	Propionyl-CoA catabolism	BFO:0000050	kegg.pathway	hsa00640	Propanoate metabolism - Homo sapiens (human)
+kegg.pathway	hsa00640	Propanoate metabolism - Homo sapiens (human)	BFO:0000050	reactome	R-HSA-1430728	Metabolism
+reactome	R-HSA-5610785	GLI3 is processed to GLI3R by the proteasome	BFO:0000050	kegg.pathway	hsa03050	Proteasome - Homo sapiens (human)
+reactome	R-HSA-5689880	Ub-specific processing proteases	BFO:0000050	kegg.pathway	hsa03050	Proteasome - Homo sapiens (human)
+reactome	R-HSA-211733	Regulation of activated PAK-2p34 by proteasome mediated degradation	BFO:0000050	kegg.pathway	hsa03050	Proteasome - Homo sapiens (human)
+kegg.pathway	hsa03050	Proteasome - Homo sapiens (human)	BFO:0000050	reactome	R-HSA-392499	Metabolism of proteins
+reactome	R-HSA-5610780	Degradation of GLI1 by the proteasome	BFO:0000050	kegg.pathway	hsa03050	Proteasome - Homo sapiens (human)
+reactome	R-HSA-5610783	Degradation of GLI2 by the proteasome	BFO:0000050	kegg.pathway	hsa03050	Proteasome - Homo sapiens (human)
+reactome	R-HSA-349425	Autodegradation of the E3 ubiquitin ligase COP1	BFO:0000050	kegg.pathway	hsa03050	Proteasome - Homo sapiens (human)
+reactome	R-HSA-983168	Antigen processing: Ubiquitination & Proteasome degradation	BFO:0000050	kegg.pathway	hsa03050	Proteasome - Homo sapiens (human)
+kegg.pathway	hsa04974	Protein digestion and absorption - Homo sapiens (human)	BFO:0000050	reactome	R-HSA-8963676	Intestinal absorption
+kegg.pathway	hsa04974	Protein digestion and absorption - Homo sapiens (human)	BFO:0000050	reactome	R-HSA-8963743	Digestion and absorption
+kegg.pathway	hsa04974	Protein digestion and absorption - Homo sapiens (human)	BFO:0000050	reactome	R-HSA-392499	Metabolism of proteins
+kegg.pathway	hsa04141	Protein processing in endoplasmic reticulum - Homo sapiens (human)	BFO:0000050	reactome	R-HSA-392499	Metabolism of proteins
+reactome	R-HSA-1912399	Pre-NOTCH Processing in the Endoplasmic Reticulum	BFO:0000050	kegg.pathway	hsa04141	Protein processing in endoplasmic reticulum - Homo sapiens (human)
+kegg.pathway	hsa00230	Purine metabolism - Homo sapiens (human)	BFO:0000050	reactome	R-HSA-8956319	Nucleobase catabolism
+reactome	R-HSA-74259	Purine catabolism	BFO:0000050	kegg.pathway	hsa00230	Purine metabolism - Homo sapiens (human)
+reactome	R-HSA-73817	Purine ribonucleoside monophosphate biosynthesis	BFO:0000050	kegg.pathway	hsa00230	Purine metabolism - Homo sapiens (human)
+reactome	R-HSA-74217	Purine salvage	BFO:0000050	kegg.pathway	hsa00230	Purine metabolism - Homo sapiens (human)
+kegg.pathway	hsa00230	Purine metabolism - Homo sapiens (human)	BFO:0000050	reactome	R-HSA-15869	Metabolism of nucleotides
+reactome	R-HSA-73621	Pyrimidine catabolism	BFO:0000050	kegg.pathway	hsa00240	Pyrimidine metabolism - Homo sapiens (human)
+reactome	R-HSA-73614	Pyrimidine salvage	BFO:0000050	kegg.pathway	hsa00240	Pyrimidine metabolism - Homo sapiens (human)
+kegg.pathway	hsa00240	Pyrimidine metabolism - Homo sapiens (human)	BFO:0000050	reactome	R-HSA-15869	Metabolism of nucleotides
+reactome	R-HSA-500753	Pyrimidine biosynthesis	BFO:0000050	kegg.pathway	hsa00240	Pyrimidine metabolism - Homo sapiens (human)
+kegg.pathway	hsa00620	Pyruvate metabolism - Homo sapiens (human)	skos:exactMatch	reactome	R-HSA-70268	Pyruvate metabolism
+kegg.pathway	hsa04622	RIG-I-like receptor signaling pathway - Homo sapiens (human)	BFO:0000050	reactome	R-HSA-168256	Immune System
+kegg.pathway	hsa04622	RIG-I-like receptor signaling pathway - Homo sapiens (human)	BFO:0000050	reactome	R-HSA-168249	Innate Immune System
+reactome	R-HSA-429958	mRNA decay by 3' to 5' exoribonuclease	BFO:0000050	kegg.pathway	hsa03018	RNA degradation - Homo sapiens (human)
+kegg.pathway	hsa03018	RNA degradation - Homo sapiens (human)	BFO:0000050	reactome	R-HSA-8953854	Metabolism of RNA
+reactome	R-HSA-430039	mRNA decay by 5' to 3' exoribonuclease	BFO:0000050	kegg.pathway	hsa03018	RNA degradation - Homo sapiens (human)
+reactome	R-HSA-159234	Transport of Mature mRNAs Derived from Intronless Transcripts	BFO:0000050	kegg.pathway	hsa03013	RNA transport - Homo sapiens (human)
+reactome	R-HSA-165054	Rev-mediated nuclear export of HIV RNA	BFO:0000050	kegg.pathway	hsa03013	RNA transport - Homo sapiens (human)
+reactome	R-HSA-159231	Transport of Mature mRNA Derived from an Intronless Transcript	BFO:0000050	kegg.pathway	hsa03013	RNA transport - Homo sapiens (human)
+reactome	R-HSA-159230	Transport of the SLBP Dependant Mature mRNA	BFO:0000050	kegg.pathway	hsa03013	RNA transport - Homo sapiens (human)
+reactome	R-HSA-159227	Transport of the SLBP independent Mature mRNA	BFO:0000050	kegg.pathway	hsa03013	RNA transport - Homo sapiens (human)
+kegg.pathway	hsa04015	Rap1 signaling pathway - Homo sapiens (human)	skos:exactMatch	reactome	R-HSA-392517	Rap1 signalling
+reactome	R-HSA-6802949	Signaling by RAS mutants	BFO:0000050	kegg.pathway	hsa04014	Ras signaling pathway - Homo sapiens (human)
+reactome	R-HSA-8851805	MET activates RAS signaling	BFO:0000050	kegg.pathway	hsa04014	Ras signaling pathway - Homo sapiens (human)
+reactome	R-HSA-442742	CREB phosphorylation through the activation of Ras	BFO:0000050	kegg.pathway	hsa04014	Ras signaling pathway - Homo sapiens (human)
+reactome	R-HSA-5658442	Regulation of RAS by GAPs	BFO:0000050	kegg.pathway	hsa04014	Ras signaling pathway - Homo sapiens (human)
+reactome	R-HSA-442982	Ras activation upon Ca2+ influx through NMDA receptor	BFO:0000050	kegg.pathway	hsa04014	Ras signaling pathway - Homo sapiens (human)
+reactome	R-HSA-1169092	Activation of RAS in B cells	BFO:0000050	kegg.pathway	hsa04014	Ras signaling pathway - Homo sapiens (human)
+reactome	R-HSA-6802953	RAS signaling downstream of NF1 loss-of-function variants	BFO:0000050	kegg.pathway	hsa04014	Ras signaling pathway - Homo sapiens (human)
+kegg.pathway	hsa04923	Regulation of lipolysis in adipocytes - Homo sapiens (human)	BFO:0000050	reactome	R-HSA-556833	Metabolism of lipids
+reactome	R-HSA-444821	Relaxin receptors	BFO:0000050	kegg.pathway	hsa04926	Relaxin signaling pathway - Homo sapiens (human)
+reactome	R-HSA-2022377	Metabolism of Angiotensinogen to Angiotensins	BFO:0000050	kegg.pathway	hsa04614	Renin-angiotensin system - Homo sapiens (human)
+kegg.pathway	hsa00830	Retinol metabolism - Homo sapiens (human)	BFO:0000050	reactome	R-HSA-211916	Vitamins
+kegg.pathway	hsa00830	Retinol metabolism - Homo sapiens (human)	BFO:0000050	reactome	R-HSA-1430728	Metabolism
+kegg.pathway	hsa00740	Riboflavin metabolism - Homo sapiens (human)	skos:exactMatch	reactome	R-HSA-196843	Vitamin B2 (riboflavin) metabolism
+reactome	R-HSA-6790901	rRNA modification in the nucleus and cytosol	BFO:0000050	kegg.pathway	hsa03008	Ribosome biogenesis in eukaryotes - Homo sapiens (human)
+reactome	R-HSA-8868773	rRNA processing in the nucleus and cytosol	BFO:0000050	kegg.pathway	hsa03008	Ribosome biogenesis in eukaryotes - Homo sapiens (human)
+reactome	R-HSA-72312	rRNA processing	BFO:0000050	kegg.pathway	hsa03008	Ribosome biogenesis in eukaryotes - Homo sapiens (human)
+kegg.pathway	hsa03008	Ribosome biogenesis in eukaryotes - Homo sapiens (human)	BFO:0000050	reactome	R-HSA-8953854	Metabolism of RNA
+kegg.pathway	hsa04130	SNARE interactions in vesicular transport - Homo sapiens (human)	BFO:0000050	reactome	R-HSA-5653656	Vesicle-mediated transport
+kegg.pathway	hsa04130	SNARE interactions in vesicular transport - Homo sapiens (human)	BFO:0000050	reactome	R-HSA-199991	Membrane Trafficking
+kegg.pathway	hsa00450	Selenocompound metabolism - Homo sapiens (human)	BFO:0000050	reactome	R-HSA-1430728	Metabolism
+reactome	R-HSA-2408522	Selenoamino acid metabolism	BFO:0000050	kegg.pathway	hsa00450	Selenocompound metabolism - Homo sapiens (human)
+reactome	R-HSA-390666	Serotonin receptors	BFO:0000050	kegg.pathway	hsa04726	Serotonergic synapse - Homo sapiens (human)
+reactome	R-HSA-380615	Serotonin clearance from the synaptic cleft	BFO:0000050	kegg.pathway	hsa04726	Serotonergic synapse - Homo sapiens (human)
+reactome	R-HSA-2892245	POU5F1 (OCT4), SOX2, NANOG repress genes related to differentiation	BFO:0000050	kegg.pathway	hsa04550	Signaling pathways regulating pluripotency of stem cells - Homo sapiens (human)
+reactome	R-HSA-1839120	Signaling by FGFR1 amplification mutants	BFO:0000050	kegg.pathway	hsa04550	Signaling pathways regulating pluripotency of stem cells - Homo sapiens (human)
+reactome	R-HSA-2023837	Signaling by FGFR2 amplification mutants	BFO:0000050	kegg.pathway	hsa04550	Signaling pathways regulating pluripotency of stem cells - Homo sapiens (human)
+kegg.pathway	hsa00600	Sphingolipid metabolism - Homo sapiens (human)	skos:exactMatch	reactome	R-HSA-428157	Sphingolipid metabolism
+kegg.pathway	hsa03040	Spliceosome - Homo sapiens (human)	BFO:0000050	reactome	R-HSA-75067	Processing of Capped Intronless Pre-mRNA
+kegg.pathway	hsa03040	Spliceosome - Homo sapiens (human)	BFO:0000050	reactome	R-HSA-72172	mRNA Splicing
+kegg.pathway	hsa03040	Spliceosome - Homo sapiens (human)	BFO:0000050	reactome	R-HSA-8953854	Metabolism of RNA
+kegg.pathway	hsa03040	Spliceosome - Homo sapiens (human)	BFO:0000050	reactome	R-HSA-72163	mRNA Splicing - Major Pathway
+kegg.pathway	hsa03040	Spliceosome - Homo sapiens (human)	BFO:0000050	reactome	R-HSA-74160	Gene expression (Transcription)
+kegg.pathway	hsa03040	Spliceosome - Homo sapiens (human)	BFO:0000050	reactome	R-HSA-72165	mRNA Splicing - Minor Pathway
+kegg.pathway	hsa03040	Spliceosome - Homo sapiens (human)	BFO:0000050	reactome	R-HSA-72203	Processing of Capped Intron-Containing Pre-mRNA
+kegg.pathway	hsa03040	Spliceosome - Homo sapiens (human)	BFO:0000050	reactome	R-HSA-73856	RNA Polymerase II Transcription Termination
+kegg.pathway	hsa00500	Starch and sucrose metabolism - Homo sapiens (human)	BFO:0000050	reactome	R-HSA-1430728	Metabolism
+kegg.pathway	hsa00500	Starch and sucrose metabolism - Homo sapiens (human)	BFO:0000050	reactome	R-HSA-71387	Metabolism of carbohydrates
+kegg.pathway	hsa00100	Steroid biosynthesis - Homo sapiens (human)	BFO:0000050	reactome	R-HSA-1430728	Metabolism
+kegg.pathway	hsa00100	Steroid biosynthesis - Homo sapiens (human)	BFO:0000050	reactome	R-HSA-8957322	Metabolism of steroids
+kegg.pathway	hsa00140	Steroid hormone biosynthesis - Homo sapiens (human)	BFO:0000050	reactome	R-HSA-196071	Metabolism of steroid hormones
+reactome	R-HSA-193144	Estrogen biosynthesis	BFO:0000050	kegg.pathway	hsa00140	Steroid hormone biosynthesis - Homo sapiens (human)
+reactome	R-HSA-194002	Glucocorticoid biosynthesis	BFO:0000050	kegg.pathway	hsa00140	Steroid hormone biosynthesis - Homo sapiens (human)
+kegg.pathway	hsa00140	Steroid hormone biosynthesis - Homo sapiens (human)	BFO:0000050	reactome	R-HSA-1430728	Metabolism
+reactome	R-HSA-193993	Mineralocorticoid biosynthesis	BFO:0000050	kegg.pathway	hsa00140	Steroid hormone biosynthesis - Homo sapiens (human)
+kegg.pathway	hsa00920	Sulfur metabolism - Homo sapiens (human)	BFO:0000050	reactome	R-HSA-71291	Metabolism of amino acids and derivatives
+kegg.pathway	hsa00920	Sulfur metabolism - Homo sapiens (human)	BFO:0000050	reactome	R-HSA-1614635	Sulfur amino acid metabolism
+kegg.pathway	hsa00920	Sulfur metabolism - Homo sapiens (human)	BFO:0000050	reactome	R-HSA-1430728	Metabolism
+kegg.pathway	hsa04721	Synaptic vesicle cycle - Homo sapiens (human)	BFO:0000050	reactome	R-HSA-5653656	Vesicle-mediated transport
+kegg.pathway	hsa00072	Synthesis and degradation of ketone bodies - Homo sapiens (human)	skos:exactMatch	reactome	R-HSA-74182	Ketone body metabolism
+kegg.pathway	hsa00072	Synthesis and degradation of ketone bodies - Homo sapiens (human)	BFO:0000050	reactome	R-HSA-1430728	Metabolism
+reactome	R-HSA-164939	Nef mediated downregulation of CD28 cell surface expression	BFO:0000050	kegg.pathway	hsa04660	T cell receptor signaling pathway - Homo sapiens (human)
+kegg.pathway	hsa04660	T cell receptor signaling pathway - Homo sapiens (human)	BFO:0000050	reactome	R-HSA-168256	Immune System
+reactome	R-HSA-389359	CD28 dependent Vav1 pathway	BFO:0000050	kegg.pathway	hsa04660	T cell receptor signaling pathway - Homo sapiens (human)
+reactome	R-HSA-389356	CD28 co-stimulation	BFO:0000050	kegg.pathway	hsa04660	T cell receptor signaling pathway - Homo sapiens (human)
+kegg.pathway	hsa04350	TGF-beta signaling pathway - Homo sapiens (human)	skos:exactMatch	reactome	R-HSA-9006936	Signaling by TGF-beta family members
+kegg.pathway	hsa04668	TNF signaling pathway - Homo sapiens (human)	skos:exactMatch	reactome	R-HSA-75893	TNF signaling
+kegg.pathway	hsa00430	Taurine and hypotaurine metabolism - Homo sapiens (human)	BFO:0000050	reactome	R-HSA-1430728	Metabolism
+kegg.pathway	hsa00900	Terpenoid backbone biosynthesis - Homo sapiens (human)	BFO:0000050	reactome	R-HSA-1430728	Metabolism
+kegg.pathway	hsa04658	Th1 and Th2 cell differentiation - Homo sapiens (human)	BFO:0000050	reactome	R-HSA-1280218	Adaptive Immune System
+kegg.pathway	hsa04659	Th17 cell differentiation - Homo sapiens (human)	BFO:0000050	reactome	R-HSA-168256	Immune System
+kegg.pathway	hsa04714	Thermogenesis - Homo sapiens (human)	BFO:0000050	reactome	R-HSA-163210	Formation of ATP by chemiosmotic coupling
+kegg.pathway	hsa04714	Thermogenesis - Homo sapiens (human)	BFO:0000050	reactome	R-HSA-163200	Respiratory electron transport, ATP synthesis by chemiosmotic coupling, and heat production by uncoupling proteins.
+kegg.pathway	hsa04714	Thermogenesis - Homo sapiens (human)	BFO:0000050	reactome	R-HSA-1430728	Metabolism
+kegg.pathway	hsa04714	Thermogenesis - Homo sapiens (human)	BFO:0000050	reactome	R-HSA-611105	Respiratory electron transport
+kegg.pathway	hsa00730	Thiamine metabolism - Homo sapiens (human)	skos:exactMatch	reactome	R-HSA-196819	Vitamin B1 (thiamin) metabolism
+kegg.pathway	hsa00730	Thiamine metabolism - Homo sapiens (human)	BFO:0000050	reactome	R-HSA-1430728	Metabolism
+reactome	R-HSA-350864	Regulation of thyroid hormone activity	BFO:0000050	kegg.pathway	hsa04919	Thyroid hormone signaling pathway - Homo sapiens (human)
+kegg.pathway	hsa04918	Thyroid hormone synthesis - Homo sapiens (human)	skos:exactMatch	reactome	R-HSA-209968	Thyroxine biosynthesis
+kegg.pathway	hsa04530	Tight junction - Homo sapiens (human)	skos:exactMatch	reactome	R-HSA-420029	Tight junction interactions
+reactome	R-HSA-8935964	RUNX1 regulates expression of components of tight junctions	BFO:0000050	kegg.pathway	hsa04530	Tight junction - Homo sapiens (human)
+kegg.pathway	hsa04620	Toll-like receptor signaling pathway - Homo sapiens (human)	skos:exactMatch	reactome	R-HSA-168898	Toll-Like Receptors Cascades
+reactome	R-HSA-166016	Toll Like Receptor 4 (TLR4) Cascade	BFO:0000050	kegg.pathway	hsa04620	Toll-like receptor signaling pathway - Homo sapiens (human)
+reactome	R-HSA-181438	Toll Like Receptor 2 (TLR2) Cascade	BFO:0000050	kegg.pathway	hsa04620	Toll-like receptor signaling pathway - Homo sapiens (human)
+reactome	R-HSA-168188	Toll Like Receptor TLR6:TLR2 Cascade	BFO:0000050	kegg.pathway	hsa04620	Toll-like receptor signaling pathway - Homo sapiens (human)
+reactome	R-HSA-168176	Toll Like Receptor 5 (TLR5) Cascade	BFO:0000050	kegg.pathway	hsa04620	Toll-like receptor signaling pathway - Homo sapiens (human)
+reactome	R-HSA-168142	Toll Like Receptor 10 (TLR10) Cascade	BFO:0000050	kegg.pathway	hsa04620	Toll-like receptor signaling pathway - Homo sapiens (human)
+reactome	R-HSA-168179	Toll Like Receptor TLR1:TLR2 Cascade	BFO:0000050	kegg.pathway	hsa04620	Toll-like receptor signaling pathway - Homo sapiens (human)
+reactome	R-HSA-168138	Toll Like Receptor 9 (TLR9) Cascade	BFO:0000050	kegg.pathway	hsa04620	Toll-like receptor signaling pathway - Homo sapiens (human)
+reactome	R-HSA-168164	Toll Like Receptor 3 (TLR3) Cascade	BFO:0000050	kegg.pathway	hsa04620	Toll-like receptor signaling pathway - Homo sapiens (human)
+reactome	R-HSA-168181	Toll Like Receptor 7/8 (TLR7/8) Cascade	BFO:0000050	kegg.pathway	hsa04620	Toll-like receptor signaling pathway - Homo sapiens (human)
+reactome	R-HSA-71240	Tryptophan catabolism	BFO:0000050	kegg.pathway	hsa00380	Tryptophan metabolism - Homo sapiens (human)
+kegg.pathway	hsa00350	Tyrosine metabolism - Homo sapiens (human)	BFO:0000050	reactome	R-HSA-70614	Amino acid synthesis and interconversion (transamination)
+kegg.pathway	hsa00350	Tyrosine metabolism - Homo sapiens (human)	BFO:0000050	reactome	R-HSA-71291	Metabolism of amino acids and derivatives
+reactome	R-HSA-71182	Phenylalanine and tyrosine catabolism	BFO:0000050	kegg.pathway	hsa00350	Tyrosine metabolism - Homo sapiens (human)
+kegg.pathway	hsa00350	Tyrosine metabolism - Homo sapiens (human)	BFO:0000050	reactome	R-HSA-6788656	Histidine, lysine, phenylalanine, tyrosine, proline and tryptophan catabolism
+kegg.pathway	hsa00350	Tyrosine metabolism - Homo sapiens (human)	BFO:0000050	reactome	R-HSA-1430728	Metabolism
+kegg.pathway	hsa00130	Ubiquinone and other terpenoid-quinone biosynthesis - Homo sapiens (human)	BFO:0000050	reactome	R-HSA-1430728	Metabolism
+kegg.pathway	hsa00130	Ubiquinone and other terpenoid-quinone biosynthesis - Homo sapiens (human)	BFO:0000050	reactome	R-HSA-196854	Metabolism of vitamins and cofactors
+kegg.pathway	hsa00290	Valine, leucine and isoleucine biosynthesis - Homo sapiens (human)	BFO:0000050	reactome	R-HSA-71291	Metabolism of amino acids and derivatives
+kegg.pathway	hsa00290	Valine, leucine and isoleucine biosynthesis - Homo sapiens (human)	BFO:0000050	reactome	R-HSA-1430728	Metabolism
+kegg.pathway	hsa00280	Valine, leucine and isoleucine degradation - Homo sapiens (human)	BFO:0000050	reactome	R-HSA-70895	Branched-chain amino acid catabolism
+kegg.pathway	hsa00280	Valine, leucine and isoleucine degradation - Homo sapiens (human)	BFO:0000050	reactome	R-HSA-1430728	Metabolism
+kegg.pathway	hsa00280	Valine, leucine and isoleucine degradation - Homo sapiens (human)	BFO:0000050	reactome	R-HSA-71291	Metabolism of amino acids and derivatives
+kegg.pathway	hsa04270	Vascular smooth muscle contraction - Homo sapiens (human)	BFO:0000050	reactome	R-HSA-445355	Smooth Muscle Contraction
+kegg.pathway	hsa04270	Vascular smooth muscle contraction - Homo sapiens (human)	BFO:0000050	reactome	R-HSA-397014	Muscle contraction
+kegg.pathway	hsa04962	Vasopressin-regulated water reabsorption - Homo sapiens (human)	skos:exactMatch	reactome	R-HSA-432040	Vasopressin regulates renal water homeostasis via Aquaporins
+kegg.pathway	hsa00750	Vitamin B6 metabolism - Homo sapiens (human)	BFO:0000050	reactome	R-HSA-1430728	Metabolism
+kegg.pathway	hsa00750	Vitamin B6 metabolism - Homo sapiens (human)	BFO:0000050	reactome	R-HSA-196849	Metabolism of water-soluble vitamins and cofactors
+kegg.pathway	hsa00750	Vitamin B6 metabolism - Homo sapiens (human)	BFO:0000050	reactome	R-HSA-196854	Metabolism of vitamins and cofactors
+reactome	R-HSA-964975	Vitamins B6 activation to pyridoxal phosphate	BFO:0000050	kegg.pathway	hsa00750	Vitamin B6 metabolism - Homo sapiens (human)
+kegg.pathway	hsa04977	Vitamin digestion and absorption - Homo sapiens (human)	BFO:0000050	reactome	R-HSA-8963676	Intestinal absorption
+kegg.pathway	hsa04977	Vitamin digestion and absorption - Homo sapiens (human)	BFO:0000050	reactome	R-HSA-8963743	Digestion and absorption
+kegg.pathway	hsa04977	Vitamin digestion and absorption - Homo sapiens (human)	BFO:0000050	reactome	R-HSA-196854	Metabolism of vitamins and cofactors
+kegg.pathway	hsa04310	Wnt signaling pathway - Homo sapiens (human)	skos:exactMatch	reactome	R-HSA-195721	Signaling by WNT
+reactome	R-HSA-8951430	RUNX3 regulates WNT signaling	BFO:0000050	kegg.pathway	hsa04310	Wnt signaling pathway - Homo sapiens (human)
+reactome	R-HSA-201688	WNT mediated activation of DVL	BFO:0000050	kegg.pathway	hsa04310	Wnt signaling pathway - Homo sapiens (human)
+reactome	R-HSA-5340573	WNT ligand secretion is abrogated by the PORCN inhibitor LGK974	BFO:0000050	kegg.pathway	hsa04310	Wnt signaling pathway - Homo sapiens (human)
+kegg.pathway	hsa00592	alpha-Linolenic acid metabolism - Homo sapiens (human)	skos:exactMatch	reactome	R-HSA-2046106	alpha-linolenic acid (ALA) metabolism
+kegg.pathway	hsa00592	alpha-Linolenic acid metabolism - Homo sapiens (human)	BFO:0000050	reactome	R-HSA-556833	Metabolism of lipids
+kegg.pathway	hsa00592	alpha-Linolenic acid metabolism - Homo sapiens (human)	BFO:0000050	reactome	R-HSA-1430728	Metabolism
+kegg.pathway	hsa00410	beta-Alanine metabolism - Homo sapiens (human)	BFO:0000050	reactome	R-HSA-71291	Metabolism of amino acids and derivatives
+kegg.pathway	hsa00410	beta-Alanine metabolism - Homo sapiens (human)	BFO:0000050	reactome	R-HSA-1430728	Metabolism
+reactome	R-HSA-170660	Adenylate cyclase activating pathway	BFO:0000050	kegg.pathway	hsa04024	cAMP signaling pathway - Homo sapiens (human)
+reactome	R-HSA-418457	cGMP effects	BFO:0000050	kegg.pathway	hsa04022	cGMP-PKG signaling pathway - Homo sapiens (human)
+reactome	R-HSA-168315	Inhibition of Host mRNA Processing and RNA Silencing	BFO:0000050	kegg.pathway	hsa03015	mRNA surveillance pathway - Homo sapiens (human)
+reactome	R-HSA-72203	Processing of Capped Intron-Containing Pre-mRNA	BFO:0000050	kegg.pathway	hsa03015	mRNA surveillance pathway - Homo sapiens (human)
+reactome	R-HSA-72172	mRNA Splicing	BFO:0000050	kegg.pathway	hsa03015	mRNA surveillance pathway - Homo sapiens (human)
+reactome	R-HSA-75067	Processing of Capped Intronless Pre-mRNA	BFO:0000050	kegg.pathway	hsa03015	mRNA surveillance pathway - Homo sapiens (human)
+reactome	R-HSA-72187	mRNA 3'-end processing	BFO:0000050	kegg.pathway	hsa03015	mRNA surveillance pathway - Homo sapiens (human)
+reactome	R-HSA-77595	Processing of Intronless Pre-mRNAs	BFO:0000050	kegg.pathway	hsa03015	mRNA surveillance pathway - Homo sapiens (human)
+reactome	R-HSA-72163	mRNA Splicing - Major Pathway	BFO:0000050	kegg.pathway	hsa03015	mRNA surveillance pathway - Homo sapiens (human)
+kegg.pathway	hsa04150	mTOR signaling pathway - Homo sapiens (human)	skos:exactMatch	reactome	R-HSA-165159	mTOR signalling
+reactome	R-HSA-5633008	TP53 Regulates Transcription of Cell Death Genes	BFO:0000050	kegg.pathway	hsa04115	p53 signaling pathway - Homo sapiens (human)
+reactome	R-HSA-6804754	Regulation of TP53 Expression	BFO:0000050	kegg.pathway	hsa04115	p53 signaling pathway - Homo sapiens (human)
+reactome	R-HSA-6791312	TP53 Regulates Transcription of Cell Cycle Genes	BFO:0000050	kegg.pathway	hsa04115	p53 signaling pathway - Homo sapiens (human)
+reactome	R-HSA-6803211	TP53 Regulates Transcription of Death Receptors and Ligands	BFO:0000050	kegg.pathway	hsa04115	p53 signaling pathway - Homo sapiens (human)
+reactome	R-HSA-6803205	TP53 regulates transcription of several additional cell death genes whose specific roles in p53-dependent apoptosis remain uncertain	BFO:0000050	kegg.pathway	hsa04115	p53 signaling pathway - Homo sapiens (human)
+reactome	R-HSA-6803207	TP53 Regulates Transcription of Caspase Activators and Caspases	BFO:0000050	kegg.pathway	hsa04115	p53 signaling pathway - Homo sapiens (human)
+reactome	R-HSA-5628897	TP53 Regulates Metabolic Genes	BFO:0000050	kegg.pathway	hsa04115	p53 signaling pathway - Homo sapiens (human)
+reactome	R-HSA-6804760	Regulation of TP53 Activity through Methylation	BFO:0000050	kegg.pathway	hsa04115	p53 signaling pathway - Homo sapiens (human)
+reactome	R-HSA-6804116	TP53 Regulates Transcription of Genes Involved in G1 Cell Cycle Arrest	BFO:0000050	kegg.pathway	hsa04115	p53 signaling pathway - Homo sapiens (human)
+reactome	R-HSA-6803204	TP53 Regulates Transcription of Genes Involved in Cytochrome C Release	BFO:0000050	kegg.pathway	hsa04115	p53 signaling pathway - Homo sapiens (human)
+reactome	R-HSA-6806003	Regulation of TP53 Expression and Degradation	BFO:0000050	kegg.pathway	hsa04115	p53 signaling pathway - Homo sapiens (human)
+reactome	R-HSA-6804757	Regulation of TP53 Degradation	BFO:0000050	kegg.pathway	hsa04115	p53 signaling pathway - Homo sapiens (human)

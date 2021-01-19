@@ -1,0 +1,19 @@
+Source Resource	Source ID	Source Name	Mapping Type	Target Resource	Target ID	Target Name
+wikipathways	WP428	Wnt signaling pathway	skos:exactMatch	wikipathways	WP363	Wnt signaling pathway
+wikipathways	WP61	Notch Signaling Pathway	skos:exactMatch	wikipathways	WP3845	Canonical  and Non-canonical Notch signaling
+wikipathways	WP106	Alanine and aspartate metabolism	BFO:0000050	wikipathways	WP3925	Amino Acid metabolism
+wikipathways	WP384	Apoptosis Modulation by HSP70	BFO:0000050	wikipathways	WP254	Apoptosis
+wikipathways	WP1772	Apoptosis Modulation and Signaling	BFO:0000050	wikipathways	WP254	Apoptosis
+wikipathways	WP2507	Nanomaterial induced apoptosis	BFO:0000050	wikipathways	WP254	Apoptosis
+wikipathways	WP45	G1 to S cell cycle control	BFO:0000050	wikipathways	WP179	Cell cycle
+wikipathways	WP2453	TCA Cycle and Deficiency of Pyruvate Dehydrogenase complex (PDHc)	BFO:0000050	wikipathways	WP78	TCA Cycle
+wikipathways	WP545	Complement Activation	BFO:0000050	wikipathways	WP558	Complement and coagulation cascades
+wikipathways	WP75	Toll-like Receptor Signaling Pathway	skos:exactMatch	wikipathways	WP3858	Toll-like Receptor Signaling
+wikipathways	WP501	GPCRs, Class C Metabotropic glutamate, pheromone	BFO:0000050	wikipathways	WP117	GPCRs, Other
+wikipathways	WP455	GPCRs, Class A Rhodopsin-like	BFO:0000050	wikipathways	WP117	GPCRs, Other
+wikipathways	WP334	GPCRs, Class B Secretin-like	BFO:0000050	wikipathways	WP117	GPCRs, Other
+wikipathways	WP58	Monoamine GPCRs	BFO:0000050	wikipathways	WP455	GPCRs, Class A Rhodopsin-like
+wikipathways	WP422	MAPK Cascade	BFO:0000050	wikipathways	WP382	MAPK Signaling Pathway
+wikipathways	WP2873	Aryl Hydrocarbon Receptor Pathway	skos:exactMatch	wikipathways	WP2586	Aryl Hydrocarbon Receptor
+kegg.pathway	hsa04210	Apoptosis - Homo sapiens (human)	skos:exactMatch	kegg.pathway	hsa04215	Apoptosis - multiple species - Homo sapiens (human)
+wikipathways	WP47	Hedgehog Signaling Pathway	skos:exactMatch	wikipathways	WP4249	Hedgehog Signaling Pathway
