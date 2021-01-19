@@ -6,7 +6,7 @@ import rdflib
 from rdflib import Namespace
 from rdflib.namespace import RDFS
 
-from ..parser import get_df
+from ..resources import get_df
 
 __all__ = [
     'get_rdf',

@@ -4,7 +4,7 @@
 
 import pybel
 from pybel.dsl import BiologicalProcess
-from ..parser import get_df
+from ..resources import get_df
 
 __all__ = [
     'get_bel',
