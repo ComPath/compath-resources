@@ -39,6 +39,9 @@ Mappings between `PathBank <https://pathbank.org/>`_ and the above-mentioned dat
 A summary is automatically generated nightly with GitHub Actions and deployed to
 https://compath.github.io/compath-resources/.
 
+The mappings are also available as a network through
+[NDEx](https://www.ndexbio.org/viewer/networks/551a8489-5a65-11eb-9e72-0ac135e8bacf).
+
 🙏 Contributing
 ---------------
 While it's possible to improve the files in this repository, they have been integrated into a more
