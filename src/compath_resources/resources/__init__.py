@@ -21,10 +21,11 @@ REACTOME_HIERARCHICAL_MAPPINGS_PATH = RESOURCES / 'reactome_hierarchy.tsv'
 DECOPATH_PATH = RESOURCES / 'decopath.tsv'
 
 
-def get_df(include_reactome_hierarchy: bool = False) -> pd.DataFrame:
+def get_df(include_reactome_hierarchy: bool = False, include_decopath: bool = False) -> pd.DataFrame:
     """Get all dataframes.
 
-    :param include_reactome_hierarchy: include Reactome hiearchy?
+    :param include_reactome_hierarchy: include Reactome hierarchy?
+    :param include_decopath: include decopath?
     :return: dataframe with ComPath dataset
     """
     dfs = [
@@ -35,11 +36,13 @@ def get_df(include_reactome_hierarchy: bool = False) -> pd.DataFrame:
         get_pathbank_reactome_df(),
         get_pathbank_reactome_df(),
         get_special_mappings_df(),
-        get_decopath_df(),
     ]
 
     if include_reactome_hierarchy:
         dfs.append(get_reactome_hierarchy_df())
+
+    if include_decopath:
+        dfs.append(get_decopath_df())
 
     return pd.concat(dfs)
 
