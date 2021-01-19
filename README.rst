@@ -34,17 +34,20 @@ Update: March 2020
 ~~~~~~~~~~~~~~~~~~
 Mappings between `PathBank <https://pathbank.org/>`_ and the above-mentioned databases are now available in ComPath.
 
-Curation Team
-~~~~~~~~~~~~~
-The curation exercise was conducted under inter-curator agreement in a team formed by:
-
-- Carlos Bobis-Álvarez
-- `Josep Marín-Llaó <https://github.com/jmarinllao>`_
-- `Daniel Domingo-Fernández <https://github.com/ddomingof>`_
-- `Yojana Gadiya <https://github.com/YojanaGadiya>`_
+📊 Summary
+----------
+A summary is automatically generated nightly with GitHub Actions and deployed to
+https://compath.github.io/compath-resources/.
 
 🙏 Contributing
---------------
+---------------
+While it's possible to improve the files in this repository, they have been integrated into a more
+general effort for identifying mappings between biological entities,
+`Biomappings <https://github.com/biomappings/biomappings>`_. Please direct contributions to that repository
+following its `curation guidelines <https://github.com/biomappings/biomappings#-contributing>`_.
+
+Curation Guidelines
+~~~~~~~~~~~~~~~~~~~
 We have distinguished between two types of relationships between pathways (mappings): “equivalentTo” and “isPartOf”.
 
 - equivalentTo. An undirected relationship denoting both pathways refer to the same biological process. The
@@ -57,7 +60,7 @@ We have distinguished between two types of relationships between pathways (mappi
 - isPartOf. A directed relationship denoting the hierarchical relationship between the pathway 1 (child) and 2
   (parent). The requirements are:
 
-  - Subset: The subject (pathway 1) is a subset of pathway 2 (e.g., Reactome pathway hierarchy). 
+  - Subset: The subject (pathway 1) is a subset of pathway 2 (e.g., Reactome pathway hierarchy).
   - Similarity: same as above
   - Context: same as above
 
@@ -89,6 +92,21 @@ Download the most recent code from `GitHub <https://github.com/ComPath/compath-r
 
    # get all mappings as an RDFLib graph.
    rdf_graph = compath_resources.get_rdf()
+
+⚖️ License
+----------
+Code is licensed under the MIT License. Curated mappings are licensed under the CC-0 License.
+
+Acknowledgements
+----------------
+Curation Team
+~~~~~~~~~~~~~
+The curation exercise was conducted under inter-curator agreement in a team formed by:
+
+- Carlos Bobis-Álvarez
+- `Josep Marín-Llaó <https://github.com/jmarinllao>`_
+- `Daniel Domingo-Fernández <https://github.com/ddomingof>`_
+- `Yojana Gadiya <https://github.com/YojanaGadiya>`_
 
 .. |python_versions| image:: https://img.shields.io/pypi/pyversions/compath_resources.svg
     :alt: Stable Supported Python Versions
