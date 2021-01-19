@@ -15,44 +15,10 @@ If you use ComPath in your work, please consider citing:
 
 .. [1] Domingo-Fernández, D., *et al.* (2018). `ComPath: An ecosystem for exploring, analyzing, and curating mappings across pathway databases <https://doi.org/10.1038/s41540-018-0078-8>`_. *npj Syst Biol Appl.*, 4(1):43.
 
-Installation
-------------
-Easiest
-~~~~~~~
-Download the latest stable code from `PyPI <https://pypi.python.org/pypi/compath_resources>`_ with:
-
-.. code-block:: python
-
-   python3 -m pip install compath_resources
-
-Get the Latest
-~~~~~~~~~~~~~~~
-Download the most recent code from `GitHub <https://github.com/ComPath/compath-resources>`_ with:
-
-.. code-block:: python
-
-   python3 -m pip install git+https://github.com/ComPath/compath-resources.git@master
-    
-Curation (Pathway Mappings)
-~~~~~~~~~~~~~~~~~~~~~~~~~~~
-The aim of this exercise was to generate mapping files across pathway databases in order to establish relationships
-between similar pathways in three of the major pathway databases:
-
-- `KEGG <http://www.kegg.jp/>`_
-- `Reactome <http://reactome.org/>`_
-- `WikiPathways <https://www.wikipathways.org/index.php/WikiPathways>`_
-
-*We recommend to download the mappings directly from the ComPath website since the pathways in WikiPathways are not
-stable and might have been changed. However, the mapping file distributed by the website contains stable identifiers
-from all resources.*
-
-Update: March 2020
-~~~~~~~~~~~~~~~~~~
-Mappings between `PathBank <https://pathbank.org/>`_ and the above-mentioned databases are now available in ComPath.
-
-Mapping Between Pathway Databases
----------------------------------
-A total of 6 mapping files are stored in this package, one for each pairwise comparison [*]_:
+💾 Data
+-------
+A total of 6 mapping files are stored in this package, one for each pairwise comparison [*]_.
+These data are available under the CC0 1.0 Universal License.
 
 - `KEGG - WikiPathways <https://github.com/ComPath/compath-resources/blob/master/mappings/kegg_wikipathways.csv>`_
 - `KEGG - Reactome <https://github.com/ComPath/compath-resources/blob/master/mappings/kegg_reactome.csv>`_
@@ -64,8 +30,12 @@ A total of 6 mapping files are stored in this package, one for each pairwise com
 .. [*] Pairwise mappings between KEGG, Reactome and WikiPathways were last updated in March of 2019. PathBank mappings
     were last updated in March of 2020.
 
+Update: March 2020
+~~~~~~~~~~~~~~~~~~
+Mappings between `PathBank <https://pathbank.org/>`_ and the above-mentioned databases are now available in ComPath.
+
 Curation Team
--------------
+~~~~~~~~~~~~~
 The curation exercise was conducted under inter-curator agreement in a team formed by:
 
 - Carlos Bobis-Álvarez
@@ -73,8 +43,8 @@ The curation exercise was conducted under inter-curator agreement in a team form
 - `Daniel Domingo-Fernández <https://github.com/ddomingof>`_
 - `Yojana Gadiya <https://github.com/YojanaGadiya>`_
 
-Mapping Types
--------------
+🙏 Contributing
+--------------
 We have distinguished between two types of relationships between pathways (mappings): “equivalentTo” and “isPartOf”.
 
 - equivalentTo. An undirected relationship denoting both pathways refer to the same biological process. The
@@ -90,7 +60,36 @@ We have distinguished between two types of relationships between pathways (mappi
   - Subset: The subject (pathway 1) is a subset of pathway 2 (e.g., Reactome pathway hierarchy). 
   - Similarity: same as above
   - Context: same as above
-  
+
+⬇️ Installation
+---------------
+Download the latest stable code from `PyPI <https://pypi.python.org/pypi/compath_resources>`_ with:
+
+.. code-block:: python
+
+   pip install compath_resources
+
+Download the most recent code from `GitHub <https://github.com/ComPath/compath-resources>`_ with:
+
+.. code-block:: python
+
+   pip install git+https://github.com/ComPath/compath-resources.git
+
+💪 Usage
+--------
+.. code-block:: python
+
+   import compath_resources
+
+   # get all mappings as a pandas dataframe
+   df = compath_resources.get_df()
+
+   # get all mappings as a PyBEL BEL graph
+   bel_graph = compath_resources.get_bel()
+
+   # get all mappings as an RDFLib graph.
+   rdf_graph = compath_resources.get_rdf()
+
 .. |python_versions| image:: https://img.shields.io/pypi/pyversions/compath_resources.svg
     :alt: Stable Supported Python Versions
 .. |pypi_version| image:: https://img.shields.io/pypi/v/compath_resources.svg
