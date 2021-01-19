@@ -30,6 +30,8 @@ def _fix_mapping(mapping: str) -> str:
         return 'skos:exactMatch'
     elif mapping == 'isPartOf':
         return 'BFO:0000050'
+    elif mapping in {'skos:exactMatch', 'BFO:0000050'}:
+        return mapping
     else:
         raise ValueError(f'unknown mapping: {mapping}')
 
@@ -55,6 +57,7 @@ def _import_decopath_df() -> pd.DataFrame:
     for sheet_name in excel_file.sheet_names:
         df = excel_file.parse(sheet_name, usecols=list(range(7)))
         df = df.dropna()
+        _fix_kegg_entries(df)
         dfs.append(df)
     return pd.concat(dfs)
 

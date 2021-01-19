@@ -34,8 +34,8 @@ DATA = [
 class TestIntegrity(unittest.TestCase):
     """Test case for checking data integrity."""
 
-    def test_prefixes(self):
-        """Test correct prefixes."""
+    def test_curies(self):
+        """Test correct prefixes and identifiers."""
         registry = bioregistry.read_bioregistry()
         registry['decopath'] = {}  # TODO decopath needs a real resource and an entry in the bioregistry
 
