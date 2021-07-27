@@ -50,7 +50,18 @@ def get_df(
     if include_decopath:
         dfs.append(get_decopath_df())
 
-    return pd.concat(dfs)
+    df = pd.concat(dfs)
+    df = df.sort_values(['Source Resource', 'Source ID', 'Target Resource', 'Target ID'])
+    df = df.rename(columns={
+        'Source Resource': 'source_prefix',
+        'Source ID': 'source_identifier',
+        'Source Name': 'source_name',
+        'Target Resource': 'target_prefix',
+        'Target ID': 'target_identifier',
+        'Target Name': 'target_name',
+        'Mapping Type': 'relation',
+    })
+    return df
 
 
 def get_decopath_df() -> pd.DataFrame:

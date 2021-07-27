@@ -14,6 +14,8 @@ ROOT = Path(os.path.abspath(os.path.join(HERE, os.pardir, os.pardir)))
 RESOURCES = Path(HERE) / 'resources'
 DOCS_DIRECTORY = ROOT / 'docs'
 IMG_DIRECTORY = DOCS_DIRECTORY / 'img'
+DATA_DIRECTORY = DOCS_DIRECTORY / 'data'
+DATA_DIRECTORY.mkdir(parents=True, exist_ok=True)
 
 _BASE_URL = 'https://raw.githubusercontent.com/ComPath/resources/master/mappings'
 
