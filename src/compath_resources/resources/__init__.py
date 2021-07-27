@@ -61,6 +61,7 @@ def get_df(
         'Target Name': 'target name',
         'Mapping Type': 'relation',
     })
+    df = df.drop_duplicates()
     return df
 
 
