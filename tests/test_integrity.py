@@ -86,6 +86,6 @@ class TestIntegrity(unittest.TestCase):
                 tsv_df = getter()
                 self.assertIsInstance(tsv_df, pd.DataFrame)
                 self.assertTrue(
-                    (xlsx_df.values == tsv_df.values),
+                    (xlsx_df.values == tsv_df.values).all(),
                     msg='\nFiles are out of sync.\nrun `python -m compath_resources.sync`',
                 )
