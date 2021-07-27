@@ -24,7 +24,7 @@ def charts():
     df = get_df(include_reactome_hierarchy=False, include_decopath=True, include_special=True)
     df.to_csv(DATA_DIRECTORY.joinpath('compath.tsv'), sep='\t', index=False)
 
-    prefix_df = pd.concat([df['source_prefix'], df['target_prefix']]).to_frame()
+    prefix_df = pd.concat([df['source prefix'], df['target prefix']]).to_frame()
     prefix_df.columns = ['Prefix']
 
     fig, axes = plt.subplots(1, 2, figsize=(12, 4), sharey=True)

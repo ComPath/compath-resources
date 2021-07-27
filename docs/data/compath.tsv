@@ -1,4 +1,4 @@
-source_prefix	source_identifier	source_name	relation	target_prefix	target_identifier	target_name
+source prefix	source identifier	source name	relation	target prefix	target identifier	target name
 decopath	DC1-1	Amino acid metabolism and derivatives	BFO:0000050	decopath	DC1	Metabolism
 decopath	DC1-1-1	Alanine, aspartate and glutamate metabolism	BFO:0000050	decopath	DC1-1	Amino acid metabolism and derivatives
 decopath	DC1-1-10	Lysine degradation	BFO:0000050	decopath	DC1-1	Amino acid metabolism and derivatives

@@ -53,12 +53,12 @@ def get_df(
     df = pd.concat(dfs)
     df = df.sort_values(['Source Resource', 'Source ID', 'Target Resource', 'Target ID'])
     df = df.rename(columns={
-        'Source Resource': 'source_prefix',
-        'Source ID': 'source_identifier',
-        'Source Name': 'source_name',
-        'Target Resource': 'target_prefix',
-        'Target ID': 'target_identifier',
-        'Target Name': 'target_name',
+        'Source Resource': 'source prefix',
+        'Source ID': 'source identifier',
+        'Source Name': 'source name',
+        'Target Resource': 'target prefix',
+        'Target ID': 'target identifier',
+        'Target Name': 'target name',
         'Mapping Type': 'relation',
     })
     return df
