@@ -7,7 +7,7 @@ from pathlib import Path
 
 import pystow
 
-COMPATH_HOME = pystow.get('compath')
+COMPATH_HOME = pystow.join('compath')
 
 HERE = os.path.abspath(os.path.dirname(__file__))
 ROOT = Path(os.path.abspath(os.path.join(HERE, os.pardir, os.pardir)))

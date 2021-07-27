@@ -5,11 +5,10 @@
 .. seealso:: http://public.ndexbio.org/v2/network/551a8489-5a65-11eb-9e72-0ac135e8bacf
 """
 
+import bioregistry
 import click
 import pystow
 from tqdm import tqdm
-
-from biomappings.utils import MiriamValidator
 
 from compath_resources import get_df
 from compath_resources.utils import get_git_hash
@@ -28,8 +27,6 @@ def ndex(username, password):
         click.secho('Need to `pip install ndex2` before uploading to NDEx', fg='red')
         return
 
-    miriam_validator = MiriamValidator()
-
     cx = NiceCXBuilder()
     cx.set_name('ComPath')
     cx.add_network_attribute('description', 'Manually curated mappings between pathways.')
@@ -42,9 +39,7 @@ def ndex(username, password):
         for prefix in (mapping['Source Resource'], mapping['Target Resource']):
             if prefix in {'decopath', 'pathbank'}:
                 continue
-            if miriam_validator.namespace_embedded(prefix):
-                prefix = prefix.upper()
-            context[prefix] = f'https://identifiers.org/{prefix}:'
+            context[prefix] = bioregistry.get_miriam_url_prefix(prefix)
     cx.set_context(context)
 
     cx.add_network_attribute('version', get_git_hash())
@@ -75,9 +70,9 @@ def ndex(username, password):
     nice_cx = cx.get_nice_cx()
     nice_cx.update_to(
         uuid=COMPATH_NDEX_UUID,
-        server=pystow.get_config('ndex', 'server', 'http://public.ndexbio.org'),
-        username=pystow.get_config('ndex', 'username', username),
-        password=pystow.get_config('ndex', 'password', password),
+        server=pystow.get_config('ndex', 'server', default='http://public.ndexbio.org'),
+        username=pystow.get_config('ndex', 'username', passthrough=username),
+        password=pystow.get_config('ndex', 'password', passthrough=password),
     )
 
 
