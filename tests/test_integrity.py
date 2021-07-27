@@ -36,7 +36,7 @@ class TestIntegrity(unittest.TestCase):
 
     def test_curies(self):
         """Test correct prefixes and identifiers."""
-        registry = bioregistry.read_bioregistry()
+        registry = dict(bioregistry.read_registry())
         registry['decopath'] = {}  # TODO decopath needs a real resource and an entry in the bioregistry
 
         miriam_patterns = {
@@ -86,6 +86,6 @@ class TestIntegrity(unittest.TestCase):
                 tsv_df = getter()
                 self.assertIsInstance(tsv_df, pd.DataFrame)
                 self.assertTrue(
-                    (xlsx_df.values == tsv_df.values).all(),
-                    msg='\nFiles are out of sync.\nrun `python -m compath_resources.sync',
+                    (xlsx_df.values == tsv_df.values),
+                    msg='\nFiles are out of sync.\nrun `python -m compath_resources.sync`',
                 )

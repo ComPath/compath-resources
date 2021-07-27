@@ -912,3 +912,105 @@ reactome	R-HSA-203927	MicroRNA (miRNA) biogenesis	BFO:0000050	decopath	DC8-10	mi
 wikipathways	WP704	Methylation Pathways	skos:exactMatch	reactome	R-HSA-156581	Methylation
 wikipathways	WP704	Methylation Pathways	BFO:0000050	decopath	DC8-11	Methylation
 reactome	R-HSA-156581	Methylation	BFO:0000050	decopath	DC8-11	Methylation
+pathbank	PW000050	Steroid Biosynthesis	skos:exactMatch	kegg.pathway	hsa00140	Steroid hormone biosynthesis - Homo sapiens (human)
+kegg.pathway	hsa00100	Steroid biosynthesis - Homo sapiens (human)	skos:exactMatch	kegg.pathway	hsa00140	Steroid hormone biosynthesis - Homo sapiens (human)
+kegg.pathway	hsa00140	Steroid hormone biosynthesis - Homo sapiens (human)	skos:exactMatch	wikipathways	WP496	Steroid Biosynthesis
+wikipathways	WP496	Steroid Biosynthesis	BFO:0000050	decopath	DC1-3-4-1	Steroid biosynthesis
+kegg.pathway	hsa00100	Steroid biosynthesis - Homo sapiens (human)	BFO:0000050	decopath	DC1-3-4-1	Steroid biosynthesis
+kegg.pathway	hsa00140	Steroid hormone biosynthesis - Homo sapiens (human)	BFO:0000050	decopath	DC1-3-4-1	Steroid biosynthesis
+pathbank	PW000050	Steroid Biosynthesis	BFO:0000050	decopath	DC1-3-4-1	Steroid biosynthesis
+wikipathways	WP75	Toll-like Receptor Signaling Pathway	skos:exactMatch	reactome	R-HSA-168898	Toll-Like Receptors Cascades
+kegg.pathway	hsa04620	Toll-like receptor signaling pathway - Homo sapiens (human)	skos:exactMatch	reactome	R-HSA-168898	Toll-Like Receptors Cascades
+kegg.pathway	hsa04620	Toll-like receptor signaling pathway - Homo sapiens (human)	skos:exactMatch	wikipathways	WP75	Toll-like Receptor Signaling Pathway
+kegg.pathway	hsa04620	Toll-like receptor signaling pathway - Homo sapiens (human)	skos:exactMatch	wikipathways	WP3858	Toll-like Receptor Signaling related to MyD88 (Homo sapiens)
+reactome	R-HSA-168898	Toll-Like Receptors Cascades	BFO:0000050	decopath	DC2-2-2	Toll-like receptor (TLR) signaling pathway
+wikipathways	WP75	Toll-like Receptor Signaling Pathway	BFO:0000050	decopath	DC2-2-2	Toll-like receptor (TLR) signaling pathway
+kegg.pathway	hsa04620	Toll-like receptor signaling pathway - Homo sapiens (human)	BFO:0000050	decopath	DC2-2-2	Toll-like receptor (TLR) signaling pathway
+wikipathways	WP3845	Canonical  and Non-canonical Notch signaling	skos:exactMatch	reactome	R-HSA-157118	Signaling by NOTCH
+wikipathways	WP61	Notch Signaling Pathway	skos:exactMatch	wikipathways	WP3845	Canonical  and Non-canonical Notch signaling
+wikipathways	WP61	Notch Signaling Pathway	skos:exactMatch	reactome	R-HSA-157118	Signaling by NOTCH
+kegg.pathway	hsa04330	Notch signaling pathway - Homo sapiens (human)	skos:exactMatch	reactome	R-HSA-157118	Signaling by NOTCH
+kegg.pathway	hsa04330	Notch signaling pathway - Homo sapiens (human)	skos:exactMatch	wikipathways	WP61	Notch Signaling Pathway
+kegg.pathway	hsa04330	Notch signaling pathway - Homo sapiens (human)	skos:exactMatch	wikipathways	WP3845	Canonical  and Non-canonical Notch signaling
+wikipathways	WP3845	Canonical  and Non-canonical Notch signaling	BFO:0000050	decopath	DC3-1	Signaling by NOTCH 
+wikipathways	WP61	Notch Signaling Pathway	BFO:0000050	decopath	DC3-1	Signaling by NOTCH 
+reactome	R-HSA-157118	Signaling by NOTCH	BFO:0000050	decopath	DC3-1	Signaling by NOTCH 
+kegg.pathway	hsa04330	Notch signaling pathway - Homo sapiens (human)	BFO:0000050	decopath	DC3-1	Signaling by NOTCH 
+wikipathways	WP47	Hedgehog Signaling Pathway	skos:exactMatch	reactome	R-HSA-5358351	Signaling by Hedgehog
+wikipathways	WP47	Hedgehog Signaling Pathway	skos:exactMatch	wikipathways	WP4249	Hedgehog Signaling Pathway
+kegg.pathway	hsa04340	Hedgehog signaling pathway - Homo sapiens (human)	skos:exactMatch	reactome	R-HSA-5358351	Signaling by Hedgehog
+kegg.pathway	hsa04340	Hedgehog signaling pathway - Homo sapiens (human)	skos:exactMatch	wikipathways	WP47	Hedgehog Signaling Pathway
+kegg.pathway	hsa04340	Hedgehog signaling pathway - Homo sapiens (human)	skos:exactMatch	wikipathways	WP4249	Hedgehog Signaling Pathway
+wikipathways	WP4249	Hedgehog Signaling Pathway	skos:exactMatch	reactome	R-HSA-5358351	Signaling by Hedgehog
+reactome	R-HSA-5358351	Signaling by Hedgehog	BFO:0000050	decopath	DC3-2	Signaling by Hedgehog 
+kegg.pathway	hsa04340	Hedgehog signaling pathway - Homo sapiens (human)	BFO:0000050	decopath	DC3-2	Signaling by Hedgehog 
+wikipathways	WP47	Hedgehog Signaling Pathway	BFO:0000050	decopath	DC3-2	Signaling by Hedgehog 
+wikipathways	WP4249	Hedgehog Signaling Pathway	BFO:0000050	decopath	DC3-2	Signaling by Hedgehog 
+kegg.pathway	hsa04390	Hippo signaling pathway - Homo sapiens (human)	skos:exactMatch	reactome	R-HSA-2028269	Signaling by Hippo
+kegg.pathway	hsa04392	Hippo signaling pathway - multiple species - Homo sapiens (human)	skos:exactMatch	reactome	R-HSA-2028269	Signaling by Hippo
+kegg.pathway	hsa04392	Hippo signaling pathway - multiple species - Homo sapiens (human)	skos:exactMatch	kegg.pathway	hsa04390	Hippo signaling pathway - Homo sapiens (human)
+kegg.pathway	hsa04390	Hippo signaling pathway - Homo sapiens (human)	BFO:0000050	decopath	DC3-3	Hippo signaling pathway
+kegg.pathway	hsa04392	Hippo signaling pathway - multiple species - Homo sapiens (human)	BFO:0000050	decopath	DC3-3	Hippo signaling pathway
+reactome	R-HSA-2028269	Signaling by Hippo	BFO:0000050	decopath	DC3-3	Hippo signaling pathway
+pathbank	PW078607	WNT Signaling Pathway	skos:exactMatch	kegg.pathway	hsa04310	Wnt signaling pathway - Homo sapiens (human)
+pathbank	PW078607	WNT Signaling Pathway	skos:exactMatch	wikipathways	WP428	Wnt Signaling Pathway
+pathbank	PW078607	WNT Signaling Pathway	skos:exactMatch	reactome	R-HSA-195721	Signaling by WNT
+pathbank	PW078607	WNT Signaling Pathway	skos:exactMatch	wikipathways	WP363	Wnt signaling pathway
+pathbank	PW078607	WNT Signaling Pathway	skos:exactMatch	wikipathways	WP399	Wnt Signaling Pathway and Pluripotency
+wikipathways	WP428	Wnt Signaling Pathway	skos:exactMatch	kegg.pathway	hsa04310	Wnt signaling pathway - Homo sapiens (human)
+wikipathways	WP428	Wnt Signaling Pathway	skos:exactMatch	reactome	R-HSA-195721	Signaling by WNT
+wikipathways	WP428	Wnt signaling pathway	skos:exactMatch	wikipathways	WP363	Wnt signaling pathway
+kegg.pathway	hsa04310	Wnt signaling pathway - Homo sapiens (human)	skos:exactMatch	reactome	R-HSA-195721	Signaling by WNT
+wikipathways	WP363	Wnt signaling pathway	skos:exactMatch	reactome	R-HSA-195721	Signaling by WNT
+wikipathways	WP363	Wnt signaling pathway	skos:exactMatch	wikipathways	WP399	Wnt Signaling Pathway and Pluripotency
+kegg.pathway	hsa04310	Wnt signaling pathway - Homo sapiens (human)	skos:exactMatch	wikipathways	WP363	Wnt signaling pathway
+kegg.pathway	hsa04310	Wnt signaling pathway - Homo sapiens (human)	skos:exactMatch	wikipathways	WP399	Wnt Signaling Pathway and Pluripotency
+wikipathways	WP428	Wnt Signaling Pathway	skos:exactMatch	wikipathways	WP399	Wnt Signaling Pathway and Pluripotency
+reactome	R-HSA-195721	Signaling by WNT	skos:exactMatch	wikipathways	WP399	Wnt Signaling Pathway and Pluripotency
+reactome	R-HSA-195721	Signaling by WNT	BFO:0000050	decopath	DC3-11	Signaling by WNT 
+wikipathways	WP428	Wnt signaling pathway	BFO:0000050	decopath	DC3-11	Signaling by WNT 
+kegg.pathway	hsa04310	Wnt signaling pathway - Homo sapiens (human)	BFO:0000050	decopath	DC3-11	Signaling by WNT 
+wikipathways	WP363	Wnt signaling pathway	BFO:0000050	decopath	DC3-11	Signaling by WNT 
+wikipathways	WP399	Wnt Signaling Pathway and Pluripotency	BFO:0000050	decopath	DC3-11	Signaling by WNT 
+pathbank	PW078607	WNT Signaling Pathway	BFO:0000050	decopath	DC3-11	Signaling by WNT 
+wikipathways	WP560	TGF-beta Receptor Signaling	skos:exactMatch	reactome	R-HSA-9006936	Signaling by TGF-beta family members
+wikipathways	WP366	TGF-beta Signaling Pathway	skos:exactMatch	reactome	R-HSA-9006936	Signaling by TGF-beta family members
+wikipathways	WP366	TGF-beta Signaling Pathway	skos:exactMatch	wikipathways	WP560	TGF-beta Receptor Signaling
+kegg.pathway	hsa04350	TGF-beta signaling pathway - Homo sapiens (human)	skos:exactMatch	reactome	R-HSA-9006936	Signaling by TGF-beta family members
+kegg.pathway	hsa04350	TGF-beta signaling pathway - Homo sapiens (human)	skos:exactMatch	wikipathways	WP366	TGF-beta Signaling Pathway
+kegg.pathway	hsa04350	TGF-beta signaling pathway - Homo sapiens (human)	skos:exactMatch	wikipathways	WP560	TGF-beta Receptor Signaling
+wikipathways	WP560	TGF-beta Receptor Signaling	BFO:0000050	decopath	DC3-6	TGF-beta signaling pathway 
+wikipathways	WP366	TGF-beta Signaling Pathway	BFO:0000050	decopath	DC3-6	TGF-beta signaling pathway 
+kegg.pathway	hsa04350	TGF-beta signaling pathway - Homo sapiens (human)	BFO:0000050	decopath	DC3-6	TGF-beta signaling pathway 
+reactome	R-HSA-9006936	Signaling by TGF-beta family members	BFO:0000050	decopath	DC3-6	TGF-beta signaling pathway 
+pathbank	PW064763	Ahr Signal Transduction Pathway	skos:exactMatch	wikipathways	WP2586	Aryl Hydrocarbon Receptor
+pathbank	PW064763	Ahr Signal Transduction Pathway	skos:exactMatch	wikipathways	WP2873	Aryl Hydrocarbon Receptor Pathway
+pathbank	PW064763	Ahr Signal Transduction Pathway	skos:exactMatch	reactome	R-HSA-8937144	Aryl hydrocarbon receptor signalling
+wikipathways	WP2586	Aryl Hydrocarbon Receptor	skos:exactMatch	reactome	R-HSA-8937144	Aryl hydrocarbon receptor signalling
+wikipathways	WP2873	Aryl Hydrocarbon Receptor Pathway	skos:exactMatch	reactome	R-HSA-8937144	Aryl hydrocarbon receptor signalling
+wikipathways	WP2873	Aryl Hydrocarbon Receptor Pathway	skos:exactMatch	wikipathways	WP2586	Aryl Hydrocarbon Receptor
+pathbank	PW064763	Ahr Signal Transduction Pathway	BFO:0000050	decopath	DC3-8	Aryl hydrocarbon receptor signaling pathway
+wikipathways	WP2586	Aryl Hydrocarbon Receptor	BFO:0000050	decopath	DC3-8	Aryl hydrocarbon receptor signaling pathway
+wikipathways	WP2873	Aryl Hydrocarbon Receptor Pathway	BFO:0000050	decopath	DC3-8	Aryl hydrocarbon receptor signaling pathway
+reactome	R-HSA-8937144	Aryl hydrocarbon receptor signalling	BFO:0000050	decopath	DC3-8	Aryl hydrocarbon receptor signaling pathway
+kegg.pathway	hsa04010	MAPK signaling pathway - Homo sapiens (human)	skos:exactMatch	reactome	R-HSA-5683057	MAPK family signaling cascades
+kegg.pathway	hsa04010	MAPK signaling pathway - Homo sapiens (human)	skos:exactMatch	wikipathways	WP382	MAPK Signaling Pathway
+wikipathways	WP422	MAPK Cascade	skos:exactMatch	reactome	R-HSA-5683057	MAPK family signaling cascades
+wikipathways	WP422	MAPK Cascade	skos:exactMatch	kegg.pathway	hsa04010	MAPK signaling pathway - Homo sapiens (human)
+wikipathways	WP422	MAPK Cascade	skos:exactMatch	wikipathways	WP382	MAPK Signaling Pathway
+wikipathways	WP422	MAPK Cascade	BFO:0000050	decopath	DC3-9	MAP kinse (MAPK) signaling pathway
+kegg.pathway	hsa04010	MAPK signaling pathway - Homo sapiens (human)	BFO:0000050	decopath	DC3-9	MAP kinse (MAPK) signaling pathway
+wikipathways	WP382	MAPK Signaling Pathway	BFO:0000050	decopath	DC3-9	MAP kinse (MAPK) signaling pathway
+reactome	R-HSA-5683057	MAPK family signaling cascades	BFO:0000050	decopath	DC3-9	MAP kinse (MAPK) signaling pathway
+reactome	R-HSA-169911	Regulation of Apoptosis	BFO:0000050	reactome	R-HSA-109581	Apoptosis
+reactome	R-HSA-109581	Apoptosis	skos:exactMatch	kegg.pathway	hsa04215	Apoptosis - multiple species - Homo sapiens (human)
+wikipathways	WP254	Apoptosis	skos:exactMatch	reactome	R-HSA-109581	Apoptosis
+wikipathways	WP254	Apoptosis	skos:exactMatch	kegg.pathway	hsa04215	Apoptosis - multiple species - Homo sapiens (human)
+kegg.pathway	hsa04210	Apoptosis - Homo sapiens (human)	skos:exactMatch	reactome	R-HSA-109581	Apoptosis
+kegg.pathway	hsa04210	Apoptosis - Homo sapiens (human)	skos:exactMatch	wikipathways	WP254	Apoptosis
+kegg.pathway	hsa04210	Apoptosis - Homo sapiens (human)	skos:exactMatch	kegg.pathway	hsa04215	Apoptosis - multiple species - Homo sapiens (human)
+kegg.pathway	hsa04215	Apoptosis - multiple species - Homo sapiens (human)	BFO:0000050	decopath	DC5-2	Apoptosis pathway
+wikipathways	WP254	Apoptosis	BFO:0000050	decopath	DC5-2	Apoptosis pathway
+reactome	R-HSA-109581	Apoptosis	BFO:0000050	decopath	DC5-2	Apoptosis pathway
+kegg.pathway	hsa04210	Apoptosis - Homo sapiens (human)	BFO:0000050	decopath	DC5-2	Apoptosis pathway
+wikipathways	WP1772	Apoptosis Modulation and Signaling	BFO:0000050	kegg.pathway	hsa04210	Apoptosis - Homo sapiens (human)
